@@ -1,0 +1,17 @@
+# No Takeout dumps in this repo — they live in ~/Downloads/youtube-takeout/
+*.zip
+*.tgz
+*.tar.gz
+Takeout/
+
+# No local cache files
+.cache/
+
+# Common editor / OS detritus
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
