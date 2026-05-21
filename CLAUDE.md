@@ -32,6 +32,7 @@ Regenerated on every ingest run. Lists videos newest-first with title / channel 
 - `routed-to-wealth` / `routed-to-research` / etc. — analogous for other function sets.
 - `archived` — user marked irrelevant; hide from default dashboard list.
 - `rejected` — user actively don't-want; keep the file but exclude from the dashboard entirely.
+- `blocked` — matched a denylist rule (channel / title-keyword / tag) at ingest or write time. File is preserved for reversibility — flip status back to `new` to restore. See `ai-clients/config/youtube-denylist.yaml` (PLAN.md §14.99.W.3).
 
 ## Pipeline reference
 
