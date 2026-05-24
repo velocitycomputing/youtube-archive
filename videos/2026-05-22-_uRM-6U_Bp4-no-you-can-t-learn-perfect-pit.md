@@ -4,12 +4,12 @@ title: "No, You Can't LEARN Perfect Pitch Like Charlie Puth"
 channel: Charles Cornell
 url: "https://www.youtube.com/watch?v=_uRM-6U_Bp4"
 watched_date: 2026-05-22
-watched_at: "2026-05-22T19:41:17Z"
+watched_at: "2026-05-22T12:00:00Z"
 watch_count: 1
 duration_seconds: 783
 source: youtube-history-browser
-history_label: Today
-history_order: 5
+history_label: Friday
+history_order: 41
 watched_at_precision: date-from-history-label
 watched_percent: 45
 estimated_watched_seconds: 352

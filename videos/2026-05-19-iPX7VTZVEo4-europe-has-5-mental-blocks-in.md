@@ -1,6 +1,6 @@
 ---
 video_id: iPX7VTZVEo4
-title: "A Message To Every European Leader: This Is How You Stand Up To Trump"
+title: Europe Has 5 Mental Blocks in Facing Trump - this is how to fix them
 channel: Vlad Vexler
 url: "https://www.youtube.com/watch?v=iPX7VTZVEo4"
 watched_date: 2026-05-19
@@ -8,8 +8,8 @@ watched_at: "2026-05-19T12:00:00Z"
 watch_count: 1
 duration_seconds: 693
 source: youtube-history-browser
-history_label: Yesterday
-history_order: 21
+history_label: Tuesday
+history_order: 103
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 69
