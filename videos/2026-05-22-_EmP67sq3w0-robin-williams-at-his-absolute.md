@@ -4,12 +4,12 @@ title: Robin Williams at His ABSOLUTE Funniest For 10 Minutes Straight!
 channel: Infinite Curiosity
 url: "https://www.youtube.com/watch?v=_EmP67sq3w0"
 watched_date: 2026-05-22
-watched_at: "2026-05-22T19:41:17Z"
+watched_at: "2026-05-22T12:00:00Z"
 watch_count: 1
 duration_seconds: 625
 source: youtube-history-browser
-history_label: Today
-history_order: 7
+history_label: Friday
+history_order: 43
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 625

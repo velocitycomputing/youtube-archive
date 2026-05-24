@@ -4,12 +4,12 @@ title: 7 LEVELS of the PURPLE RAIN Intro!
 channel: The-Art-of-Guitar
 url: "https://www.youtube.com/watch?v=UUI-1u_LyFc"
 watched_date: 2026-05-22
-watched_at: "2026-05-22T19:41:17Z"
+watched_at: "2026-05-22T12:00:00Z"
 watch_count: 1
 duration_seconds: 727
 source: youtube-history-browser
-history_label: Today
-history_order: 10
+history_label: Friday
+history_order: 46
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 73
