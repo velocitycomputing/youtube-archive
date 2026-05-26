@@ -4,12 +4,12 @@ title: "The impossible song we'll remember in 500 years"
 channel: David Hartley
 url: "https://www.youtube.com/watch?v=XLqhOEzpWyo"
 watched_date: 2026-05-24
-watched_at: "2026-05-24T16:00:07Z"
+watched_at: "2026-05-24T12:00:00Z"
 watch_count: 1
 duration_seconds: 1299
 source: youtube-history-browser
-history_label: Today
-history_order: 2
+history_label: Sunday
+history_order: 44
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 130

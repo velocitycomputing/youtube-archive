@@ -4,12 +4,12 @@ title: Homeskoolin’ Volume 631, “How To REALLY Tune A Guitar By Ear” with 
 channel: 501chorusecho
 url: "https://www.youtube.com/watch?v=z_eOvLJfOpM"
 watched_date: 2026-05-24
-watched_at: "2026-05-24T16:00:07Z"
+watched_at: "2026-05-24T12:00:00Z"
 watch_count: 1
 duration_seconds: 1057
 source: youtube-history-browser
-history_label: Today
-history_order: 7
+history_label: Sunday
+history_order: 49
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 106

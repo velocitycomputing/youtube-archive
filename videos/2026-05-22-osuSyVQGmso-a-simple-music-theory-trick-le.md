@@ -1,6 +1,6 @@
 ---
 video_id: osuSyVQGmso
-title: "Let The Chords Chase YOU: SIMPLE Secret For Emotional Solos!"
+title: A SIMPLE Music Theory Trick Lets You Play LESS, Feel MORE!
 channel: Charlie Long
 url: "https://www.youtube.com/watch?v=osuSyVQGmso"
 watched_date: 2026-05-22
@@ -9,7 +9,7 @@ watch_count: 1
 duration_seconds: 947
 source: youtube-history-browser
 history_label: Friday
-history_order: 32
+history_order: 74
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 95
