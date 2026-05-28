@@ -4,12 +4,12 @@ title: "Extended interview: Sting"
 channel: CBS Sunday Morning
 url: "https://www.youtube.com/watch?v=KPvs1-Jlw_g"
 watched_date: 2026-05-26
-watched_at: "2026-05-26T15:00:09Z"
+watched_at: "2026-05-26T12:00:00Z"
 watch_count: 1
 duration_seconds: 1122
 source: youtube-history-browser
-history_label: Today
-history_order: 11
+history_label: Tuesday
+history_order: 57
 watched_at_precision: date-from-history-label
 watched_percent: 39
 estimated_watched_seconds: 438
