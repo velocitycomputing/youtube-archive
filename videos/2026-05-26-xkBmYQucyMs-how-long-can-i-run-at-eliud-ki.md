@@ -4,12 +4,12 @@ title: "How LONG Can I Run At Eliud Kipchoge's Record PACE?"
 channel: Mark Lewis
 url: "https://www.youtube.com/watch?v=xkBmYQucyMs"
 watched_date: 2026-05-26
-watched_at: "2026-05-26T15:00:09Z"
+watched_at: "2026-05-26T12:00:00Z"
 watch_count: 1
 duration_seconds: 662
 source: youtube-history-browser
-history_label: Today
-history_order: 4
+history_label: Tuesday
+history_order: 50
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 662

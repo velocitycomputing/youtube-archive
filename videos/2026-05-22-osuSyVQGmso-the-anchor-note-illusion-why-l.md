@@ -1,6 +1,6 @@
 ---
 video_id: osuSyVQGmso
-title: A SIMPLE Music Theory Trick Lets You Play LESS, Feel MORE!
+title: "The Anchor Note Illusion: Why Less Notes FEELS Like MORE Music!"
 channel: Charlie Long
 url: "https://www.youtube.com/watch?v=osuSyVQGmso"
 watched_date: 2026-05-22
@@ -9,7 +9,7 @@ watch_count: 1
 duration_seconds: 947
 source: youtube-history-browser
 history_label: Friday
-history_order: 74
+history_order: 117
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 95
