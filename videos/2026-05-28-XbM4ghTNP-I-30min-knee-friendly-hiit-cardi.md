@@ -3,16 +3,16 @@ video_id: XbM4ghTNP-I
 title: 30MIN Knee Friendly HIIT Cardio // No Squats, No Lunges, No Jumping
 channel: Heather Robertson
 url: "https://www.youtube.com/watch?v=XbM4ghTNP-I"
-watched_date: 2026-05-27
-watched_at: "2026-05-27T12:00:00Z"
+watched_date: 2026-05-28
+watched_at: "2026-05-28T12:00:00Z"
 watch_count: 1
 duration_seconds: 2175
 source: youtube-history-browser
-history_label: Yesterday
-history_order: 16
+history_label: Thursday
+history_order: 35
 watched_at_precision: date-from-history-label
-watched_percent: 10
-estimated_watched_seconds: 218
+watched_percent: 21
+estimated_watched_seconds: 457
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:cardio", "system:musculoskeletal", "intervention:lifestyle"]
