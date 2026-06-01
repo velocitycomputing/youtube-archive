@@ -1,6 +1,6 @@
 ---
 video_id: F_6go08nHv4
-title: New OPUS ULTRA CODE will BREAK Entire Industries...
+title: Claude Opus 4.8 Is Too Smart… and TOO HONEST
 channel: Wes Roth
 url: "https://www.youtube.com/watch?v=F_6go08nHv4"
 watched_date: 2026-05-28
@@ -9,7 +9,7 @@ watch_count: 1
 duration_seconds: 1020
 source: youtube-history-browser
 history_label: Thursday
-history_order: 37
+history_order: 70
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 102

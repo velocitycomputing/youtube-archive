@@ -4,15 +4,15 @@ title: Can we learn RUSH songs on a blind listen?
 channel: Aurora Music Works
 url: "https://www.youtube.com/watch?v=iTkZvvCJ6WU"
 watched_date: 2026-05-30
-watched_at: "2026-05-30T15:00:07Z"
+watched_at: "2026-05-30T12:00:00Z"
 watch_count: 1
 duration_seconds: 1602
 source: youtube-history-browser
-history_label: Today
-history_order: 1
+history_label: Saturday
+history_order: 34
 watched_at_precision: date-from-history-label
-watched_percent: 46
-estimated_watched_seconds: 737
+watched_percent: 47
+estimated_watched_seconds: 753
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
