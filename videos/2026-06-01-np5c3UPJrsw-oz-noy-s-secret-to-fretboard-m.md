@@ -4,12 +4,12 @@ title: "Oz Noy's Secret to Fretboard Mastery"
 channel: Playback
 url: "https://www.youtube.com/watch?v=np5c3UPJrsw"
 watched_date: 2026-06-01
-watched_at: "2026-06-01T15:00:09Z"
+watched_at: "2026-06-01T12:00:00Z"
 watch_count: 1
 duration_seconds: 3113
 source: youtube-history-browser
-history_label: Today
-history_order: 3
+history_label: Yesterday
+history_order: 34
 watched_at_precision: date-from-history-label
 watched_percent: 15
 estimated_watched_seconds: 467
