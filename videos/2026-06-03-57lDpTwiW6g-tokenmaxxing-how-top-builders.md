@@ -3,16 +3,16 @@ video_id: 57lDpTwiW6g
 title: "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers"
 channel: Y Combinator
 url: "https://www.youtube.com/watch?v=57lDpTwiW6g"
-watched_date: 2026-06-01
-watched_at: "2026-06-01T12:00:00Z"
+watched_date: 2026-06-03
+watched_at: "2026-06-03T12:00:00Z"
 watch_count: 1
 duration_seconds: 2489
 source: youtube-history-browser
 history_label: Yesterday
 history_order: 25
 watched_at_precision: date-from-history-label
-watched_percent: 69
-estimated_watched_seconds: 1717
+watched_percent: 68
+estimated_watched_seconds: 1693
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

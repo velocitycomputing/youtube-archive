@@ -4,12 +4,12 @@ title: The Legendary Michelin Star Steakhouse Loved by Hollywood Celebrities
 channel: Alvin Zhou Films
 url: "https://www.youtube.com/watch?v=CVJz_OMUc40"
 watched_date: 2026-06-02
-watched_at: "2026-06-02T15:00:11Z"
+watched_at: "2026-06-02T12:00:00Z"
 watch_count: 1
 duration_seconds: 1887
 source: youtube-history-browser
-history_label: Today
-history_order: 3
+history_label: Tuesday
+history_order: 37
 watched_at_precision: date-from-history-label
 watched_percent: 88
 estimated_watched_seconds: 1661

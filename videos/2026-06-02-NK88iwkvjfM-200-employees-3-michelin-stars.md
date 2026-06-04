@@ -4,12 +4,12 @@ title: "200 Employees, 3 Michelin Stars: A Day at Eleven Madison Park | On The L
 channel: Bon Appétit
 url: "https://www.youtube.com/watch?v=NK88iwkvjfM"
 watched_date: 2026-06-02
-watched_at: "2026-06-02T15:00:11Z"
+watched_at: "2026-06-02T12:00:00Z"
 watch_count: 1
 duration_seconds: 1227
 source: youtube-history-browser
-history_label: Today
-history_order: 5
+history_label: Tuesday
+history_order: 55
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1227

@@ -4,12 +4,12 @@ title: "I Made Thomas Keller's Signature Dish: Oyster & Pearls"
 channel: ANTI-CHEF
 url: "https://www.youtube.com/watch?v=ekoDEgz7DBA"
 watched_date: 2026-06-02
-watched_at: "2026-06-02T15:00:11Z"
+watched_at: "2026-06-02T12:00:00Z"
 watch_count: 1
 duration_seconds: 1536
 source: youtube-history-browser
-history_label: Today
-history_order: 8
+history_label: Tuesday
+history_order: 58
 watched_at_precision: date-from-history-label
 watched_percent: 39
 estimated_watched_seconds: 599

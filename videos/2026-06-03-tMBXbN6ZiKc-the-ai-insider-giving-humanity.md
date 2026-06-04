@@ -3,8 +3,8 @@ video_id: tMBXbN6ZiKc
 title: "The AI Insider Giving Humanity 50/50 Odds (And What Tips the Scale) | Emad Mostaque"
 channel: André Duqum
 url: "https://www.youtube.com/watch?v=tMBXbN6ZiKc"
-watched_date: 2026-06-01
-watched_at: "2026-06-01T12:00:00Z"
+watched_date: 2026-06-03
+watched_at: "2026-06-03T12:00:00Z"
 watch_count: 1
 duration_seconds: 8803
 source: youtube-history-browser
