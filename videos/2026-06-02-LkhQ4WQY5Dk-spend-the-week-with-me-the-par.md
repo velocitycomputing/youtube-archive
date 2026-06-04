@@ -4,12 +4,12 @@ title: Spend the Week With Me (The Part You Never See)
 channel: ANTI-CHEF
 url: "https://www.youtube.com/watch?v=LkhQ4WQY5Dk"
 watched_date: 2026-06-02
-watched_at: "2026-06-02T15:00:11Z"
+watched_at: "2026-06-02T12:00:00Z"
 watch_count: 1
 duration_seconds: 1063
 source: youtube-history-browser
-history_label: Today
-history_order: 9
+history_label: Tuesday
+history_order: 59
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 106

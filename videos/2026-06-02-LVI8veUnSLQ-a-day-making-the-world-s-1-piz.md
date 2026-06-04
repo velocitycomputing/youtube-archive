@@ -4,12 +4,12 @@ title: "A Day Making The World’s #1 Pizza in NYC | On The Line | Bon Appétit"
 channel: Bon Appétit
 url: "https://www.youtube.com/watch?v=LVI8veUnSLQ"
 watched_date: 2026-06-02
-watched_at: "2026-06-02T15:00:11Z"
+watched_at: "2026-06-02T12:00:00Z"
 watch_count: 1
 duration_seconds: 1141
 source: youtube-history-browser
-history_label: Today
-history_order: 4
+history_label: Tuesday
+history_order: 54
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 114

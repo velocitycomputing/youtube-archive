@@ -3,16 +3,16 @@ video_id: -NaJsJfPD0k
 title: God only knows what key this song is in
 channel: David Bennett Music Theory
 url: "https://www.youtube.com/watch?v=-NaJsJfPD0k"
-watched_date: 2026-05-27
-watched_at: "2026-05-27T12:00:00Z"
+watched_date: 2026-06-02
+watched_at: "2026-06-02T12:00:00Z"
 watch_count: 1
 duration_seconds: 802
 source: youtube-history-browser
-history_label: Wednesday
-history_order: 115
+history_label: Tuesday
+history_order: 34
 watched_at_precision: date-from-history-label
-watched_percent: 100
-estimated_watched_seconds: 802
+watched_percent: 10
+estimated_watched_seconds: 80
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

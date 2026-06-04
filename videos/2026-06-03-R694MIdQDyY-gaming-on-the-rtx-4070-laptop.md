@@ -3,16 +3,16 @@ video_id: R694MIdQDyY
 title: Gaming on the RTX 4070 Laptop GPU - How Good is it? (ft. AtomMan G7 Ti)
 channel: zWORMz Gaming
 url: "https://www.youtube.com/watch?v=R694MIdQDyY"
-watched_date: 2026-05-25
-watched_at: "2026-05-25T12:00:00Z"
+watched_date: 2026-06-03
+watched_at: "2026-06-03T12:00:00Z"
 watch_count: 1
 duration_seconds: 2264
 source: youtube-history-browser
-history_label: May 25
-history_order: 139
+history_label: Yesterday
+history_order: 19
 watched_at_precision: date-from-history-label
-watched_percent: 100
-estimated_watched_seconds: 2264
+watched_percent: 10
+estimated_watched_seconds: 226
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

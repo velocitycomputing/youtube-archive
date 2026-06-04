@@ -3,13 +3,13 @@ video_id: FDkvRl1RlT0
 title: "Anthropic Might Buy Atlassian For $40B. Here's Why It Makes Sense."
 channel: "AI News & Strategy Daily | Nate B Jones"
 url: "https://www.youtube.com/watch?v=FDkvRl1RlT0"
-watched_date: 2026-05-30
-watched_at: "2026-05-30T12:00:00Z"
+watched_date: 2026-06-03
+watched_at: "2026-06-03T12:00:00Z"
 watch_count: 1
 duration_seconds: 1747
 source: youtube-history-browser
-history_label: Saturday
-history_order: 63
+history_label: Yesterday
+history_order: 30
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1747

@@ -3,16 +3,16 @@ video_id: JgnkyUhhyAY
 title: China’s Real-Life T800 AI Robot Enters MASS PRODUCTION… One T800 Every 15 Minutes
 channel: The AI Nexus
 url: "https://www.youtube.com/watch?v=JgnkyUhhyAY"
-watched_date: 2026-05-27
-watched_at: "2026-05-27T12:00:00Z"
+watched_date: 2026-06-02
+watched_at: "2026-06-02T12:00:00Z"
 watch_count: 1
 duration_seconds: 1540
 source: youtube-history-browser
-history_label: Wednesday
-history_order: 132
+history_label: Tuesday
+history_order: 36
 watched_at_precision: date-from-history-label
-watched_percent: 14
-estimated_watched_seconds: 216
+watched_percent: 13
+estimated_watched_seconds: 200
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

@@ -9,7 +9,7 @@ watch_count: 1
 duration_seconds: 751
 source: youtube-history-browser
 history_label: Friday
-history_order: 85
+history_order: 128
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 75

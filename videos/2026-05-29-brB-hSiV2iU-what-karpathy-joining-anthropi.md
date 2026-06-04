@@ -1,6 +1,6 @@
 ---
 video_id: brB-hSiV2iU
-title: The Real Reason Karpathy Joined Anthropic
+title: What Karpathy Joining Anthropic Actually Means For Claude
 channel: "Nate Herk | AI Automation"
 url: "https://www.youtube.com/watch?v=brB-hSiV2iU"
 watched_date: 2026-05-29
@@ -9,7 +9,7 @@ watch_count: 1
 duration_seconds: 984
 source: youtube-history-browser
 history_label: Friday
-history_order: 71
+history_order: 114
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 984

@@ -3,13 +3,13 @@ video_id: np5c3UPJrsw
 title: "Oz Noy's Secret to Fretboard Mastery"
 channel: Playback
 url: "https://www.youtube.com/watch?v=np5c3UPJrsw"
-watched_date: 2026-06-01
-watched_at: "2026-06-01T12:00:00Z"
+watched_date: 2026-06-03
+watched_at: "2026-06-03T12:00:00Z"
 watch_count: 1
 duration_seconds: 3113
 source: youtube-history-browser
 history_label: Yesterday
-history_order: 34
+history_order: 29
 watched_at_precision: date-from-history-label
 watched_percent: 15
 estimated_watched_seconds: 467
