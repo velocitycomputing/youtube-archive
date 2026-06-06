@@ -4,12 +4,12 @@ title: Ditch the scales & try these triad-based soloing tricks
 channel: Anyone Can Play Guitar
 url: "https://www.youtube.com/watch?v=VyuJKrL9U5g"
 watched_date: 2026-06-04
-watched_at: "2026-06-04T15:00:05Z"
+watched_at: "2026-06-04T12:00:00Z"
 watch_count: 1
 duration_seconds: 1087
 source: youtube-history-browser
-history_label: Today
-history_order: 3
+history_label: Thursday
+history_order: 30
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 109

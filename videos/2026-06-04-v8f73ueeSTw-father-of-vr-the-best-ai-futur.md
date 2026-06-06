@@ -4,12 +4,12 @@ title: "Father of VR: The best AI future nobody is talking about | Jaron Lanier"
 channel: Existential Hope
 url: "https://www.youtube.com/watch?v=v8f73ueeSTw"
 watched_date: 2026-06-04
-watched_at: "2026-06-04T15:00:05Z"
+watched_at: "2026-06-04T12:00:00Z"
 watch_count: 1
 duration_seconds: 3057
 source: youtube-history-browser
-history_label: Today
-history_order: 1
+history_label: Thursday
+history_order: 28
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 3057
