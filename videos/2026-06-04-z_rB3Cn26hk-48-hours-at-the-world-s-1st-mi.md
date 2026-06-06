@@ -4,12 +4,12 @@ title: "48 Hours at the World's 1st Michelin-Star BBQ Joint"
 channel: "Ant's BBQ Story"
 url: "https://www.youtube.com/watch?v=z_rB3Cn26hk"
 watched_date: 2026-06-04
-watched_at: "2026-06-04T15:00:05Z"
+watched_at: "2026-06-04T12:00:00Z"
 watch_count: 1
 duration_seconds: 1562
 source: youtube-history-browser
-history_label: Today
-history_order: 4
+history_label: Thursday
+history_order: 31
 watched_at_precision: date-from-history-label
 watched_percent: 75
 estimated_watched_seconds: 1172

@@ -4,12 +4,12 @@ title: "What It Takes to Run a 3-Star Michelin Restaurant | SingleThread"
 channel: S3
 url: "https://www.youtube.com/watch?v=NPbcruGhklc"
 watched_date: 2026-06-04
-watched_at: "2026-06-04T15:00:05Z"
+watched_at: "2026-06-04T12:00:00Z"
 watch_count: 1
 duration_seconds: 993
 source: youtube-history-browser
-history_label: Today
-history_order: 10
+history_label: Thursday
+history_order: 37
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 993

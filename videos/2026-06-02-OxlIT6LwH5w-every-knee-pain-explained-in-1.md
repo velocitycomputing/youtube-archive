@@ -9,10 +9,10 @@ watch_count: 1
 duration_seconds: 670
 source: youtube-history-browser
 history_label: Tuesday
-history_order: 45
+history_order: 72
 watched_at_precision: date-from-history-label
-watched_percent: 10
-estimated_watched_seconds: 67
+watched_percent: 100
+estimated_watched_seconds: 670
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:musculoskeletal", "intervention:lifestyle", "intervention:procedure", "goal:symptom-relief", primary-source-video]
