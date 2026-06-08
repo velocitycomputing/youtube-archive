@@ -3,16 +3,16 @@ video_id: n1rWsCgBGko
 title: "Review of The USA's MOST FAMOUS Fine Dining Restaurant"
 channel: Alexander The Guest
 url: "https://www.youtube.com/watch?v=n1rWsCgBGko"
-watched_date: 2026-06-01
-watched_at: "2026-06-01T12:00:00Z"
+watched_date: 2026-06-07
+watched_at: "2026-06-07T12:00:00Z"
 watch_count: 1
 duration_seconds: 998
 source: youtube-history-browser
-history_label: Monday
-history_order: 88
+history_label: Yesterday
+history_order: 7
 watched_at_precision: date-from-history-label
-watched_percent: 100
-estimated_watched_seconds: 998
+watched_percent: 10
+estimated_watched_seconds: 100
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
