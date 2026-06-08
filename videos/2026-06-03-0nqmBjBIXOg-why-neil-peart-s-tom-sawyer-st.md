@@ -1,6 +1,6 @@
 ---
 video_id: 0nqmBjBIXOg
-title: "The Genius Of RUSH's \"Tom Sawyer\" (Neil Peart)"
+title: Why Neil Peart’s “Tom Sawyer” Still Breaks Drummers’ Brains
 channel: Drumeo
 url: "https://www.youtube.com/watch?v=0nqmBjBIXOg"
 watched_date: 2026-06-03
@@ -9,7 +9,7 @@ watch_count: 1
 duration_seconds: 1531
 source: youtube-history-browser
 history_label: Wednesday
-history_order: 48
+history_order: 102
 watched_at_precision: date-from-history-label
 watched_percent: 85
 estimated_watched_seconds: 1301
