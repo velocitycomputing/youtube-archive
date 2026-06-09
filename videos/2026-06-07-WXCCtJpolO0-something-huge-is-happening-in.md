@@ -1,6 +1,6 @@
 ---
 video_id: WXCCtJpolO0
-title: "Something Big is Happening to Crimea | Senator Mark Kelly"
+title: "Something HUGE is Happening in Crimea | Senator Mark Kelly"
 channel: "Pyotr Kurzin | Geopolitics"
 url: "https://www.youtube.com/watch?v=WXCCtJpolO0"
 watched_date: 2026-06-07
@@ -8,8 +8,8 @@ watched_at: "2026-06-07T12:00:00Z"
 watch_count: 1
 duration_seconds: 1731
 source: youtube-history-browser
-history_label: Yesterday
-history_order: 12
+history_label: Sunday
+history_order: 23
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 173

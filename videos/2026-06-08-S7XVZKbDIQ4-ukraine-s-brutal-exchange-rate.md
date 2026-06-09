@@ -4,12 +4,12 @@ title: "Ukraine’s Brutal Exchange Rate: $882 Per Soldier"
 channel: Preston Stewart
 url: "https://www.youtube.com/watch?v=S7XVZKbDIQ4"
 watched_date: 2026-06-08
-watched_at: "2026-06-08T15:00:06Z"
+watched_at: "2026-06-08T12:00:00Z"
 watch_count: 1
 duration_seconds: 920
 source: youtube-history-browser
-history_label: Today
-history_order: 5
+history_label: Yesterday
+history_order: 16
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 92

@@ -8,8 +8,8 @@ watched_at: "2026-06-07T12:00:00Z"
 watch_count: 1
 duration_seconds: 638
 source: youtube-history-browser
-history_label: Yesterday
-history_order: 13
+history_label: Sunday
+history_order: 24
 watched_at_precision: date-from-history-label
 watched_percent: 26
 estimated_watched_seconds: 166

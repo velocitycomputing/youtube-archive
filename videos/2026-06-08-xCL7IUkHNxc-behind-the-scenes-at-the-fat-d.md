@@ -4,12 +4,12 @@ title: "Behind the Scenes at The Fat Duck | The Restaurant That Broke All Rules"
 channel: The Staff Canteen
 url: "https://www.youtube.com/watch?v=xCL7IUkHNxc"
 watched_date: 2026-06-08
-watched_at: "2026-06-08T15:00:06Z"
+watched_at: "2026-06-08T12:00:00Z"
 watch_count: 1
 duration_seconds: 1077
 source: youtube-history-browser
-history_label: Today
-history_order: 4
+history_label: Yesterday
+history_order: 15
 watched_at_precision: date-from-history-label
 watched_percent: 58
 estimated_watched_seconds: 625
