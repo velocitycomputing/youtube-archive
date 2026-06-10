@@ -4,12 +4,13 @@ title: "The 80% Shift: Is AI Code Rewriting the Future of Human Labor?"
 channel: Deep Cuts and Deep Thinking
 url: "https://www.youtube.com/watch?v=B09ksHYguig"
 watched_date: 2026-06-09
-watched_at: "2026-06-09T15:00:07Z"
+watched_at: "2026-06-09T12:00:00Z"
 watch_count: 1
 duration_seconds: 1025
 source: youtube-history-browser
-history_label: Today
-history_order: 5
+added_date: 
+history_label: Yesterday
+history_order: 24
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 102

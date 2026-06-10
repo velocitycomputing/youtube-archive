@@ -4,12 +4,13 @@ title: "Behind The Scenes: Bob Dylan - The 30th Anniversary Concert Celebration"
 channel: Ansel
 url: "https://www.youtube.com/watch?v=hdbvCsJ-DYg"
 watched_date: 2026-06-09
-watched_at: "2026-06-09T15:00:07Z"
+watched_at: "2026-06-09T12:00:00Z"
 watch_count: 1
 duration_seconds: 2346
 source: youtube-history-browser
-history_label: Today
-history_order: 4
+added_date: 
+history_label: Yesterday
+history_order: 23
 watched_at_precision: date-from-history-label
 watched_percent: 27
 estimated_watched_seconds: 633

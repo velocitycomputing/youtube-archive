@@ -4,12 +4,13 @@ title: My Picks and My Picking + Machine Head Tour!!!
 channel: Ben Eller
 url: "https://www.youtube.com/watch?v=3XfzTErKxGM"
 watched_date: 2026-06-09
-watched_at: "2026-06-09T15:00:07Z"
+watched_at: "2026-06-09T12:00:00Z"
 watch_count: 1
 duration_seconds: 1376
 source: youtube-history-browser
-history_label: Today
-history_order: 2
+added_date: 
+history_label: Yesterday
+history_order: 21
 watched_at_precision: date-from-history-label
 watched_percent: 23
 estimated_watched_seconds: 316
