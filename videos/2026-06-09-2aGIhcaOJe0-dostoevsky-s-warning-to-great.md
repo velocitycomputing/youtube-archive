@@ -4,12 +4,13 @@ title: "Dostoevsky’s Warning to Great Thinkers | Crime and Punishment"
 channel: Unsolicited advice
 url: "https://www.youtube.com/watch?v=2aGIhcaOJe0"
 watched_date: 2026-06-09
-watched_at: "2026-06-09T15:00:07Z"
+watched_at: "2026-06-09T12:00:00Z"
 watch_count: 1
 duration_seconds: 2772
 source: youtube-history-browser
-history_label: Today
-history_order: 3
+added_date: 
+history_label: Yesterday
+history_order: 22
 watched_at_precision: date-from-history-label
 watched_percent: 11
 estimated_watched_seconds: 305

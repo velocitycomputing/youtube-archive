@@ -1,6 +1,6 @@
 ---
 video_id: ia3Ks_BkjUA
-title: Trump Just Threw a Tantrum on NBC
+title: Trump Completely Loses It During Bizarre NBC Interview
 channel: The Bulwark
 url: "https://www.youtube.com/watch?v=ia3Ks_BkjUA"
 watched_date: 2026-06-07
@@ -8,8 +8,9 @@ watched_at: "2026-06-07T12:00:00Z"
 watch_count: 1
 duration_seconds: 1717
 source: youtube-history-browser
+added_date: 
 history_label: Sunday
-history_order: 21
+history_order: 40
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 172

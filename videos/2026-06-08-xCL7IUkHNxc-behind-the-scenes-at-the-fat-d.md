@@ -8,11 +8,12 @@ watched_at: "2026-06-08T12:00:00Z"
 watch_count: 1
 duration_seconds: 1077
 source: youtube-history-browser
-history_label: Yesterday
-history_order: 15
+added_date: 
+history_label: Monday
+history_order: 34
 watched_at_precision: date-from-history-label
-watched_percent: 58
-estimated_watched_seconds: 625
+watched_percent: 72
+estimated_watched_seconds: 775
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
