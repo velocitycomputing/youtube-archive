@@ -3,14 +3,14 @@ video_id: vKPbL3_xEAw
 title: "A Day at NYC’s Most Exciting French Restaurant | On The Line | Bon Appétit"
 channel: Bon Appétit
 url: "https://www.youtube.com/watch?v=vKPbL3_xEAw"
-watched_date: 2026-06-06
-watched_at: "2026-06-06T12:00:00Z"
+watched_date: 2026-06-10
+watched_at: "2026-06-10T12:00:00Z"
 watch_count: 1
 duration_seconds: 1038
 source: youtube-history-browser
 added_date: 
-history_label: Saturday
-history_order: 84
+history_label: Wednesday
+history_order: 30
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1038

@@ -3,17 +3,17 @@ video_id: 9QAOSaU_RJU
 title: "Putin's Davos begins with apocalyptic scenes"
 channel: Vlad Vexler Chat
 url: "https://www.youtube.com/watch?v=9QAOSaU_RJU"
-watched_date: 2026-06-03
-watched_at: "2026-06-03T12:00:00Z"
+watched_date: 2026-06-10
+watched_at: "2026-06-10T12:00:00Z"
 watch_count: 1
 duration_seconds: 707
 source: youtube-history-browser
 added_date: 
-history_label: Jun 3
-history_order: 139
+history_label: Wednesday
+history_order: 22
 watched_at_precision: date-from-history-label
-watched_percent: 25
-estimated_watched_seconds: 177
+watched_percent: 100
+estimated_watched_seconds: 707
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, primary-source-video]

@@ -1,6 +1,6 @@
 ---
 video_id: rquG00jj-0k
-title: When Magnus Carlsen Proves the French Defense Is Actually Terrifying
+title: Magnus Carlsen Plays SUBLIME French Defense to CRUSH Top GMs
 channel: Chess Press
 url: "https://www.youtube.com/watch?v=rquG00jj-0k"
 watched_date: 2026-06-07
@@ -10,7 +10,7 @@ duration_seconds: 1743
 source: youtube-history-browser
 added_date: 
 history_label: Sunday
-history_order: 46
+history_order: 78
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 174

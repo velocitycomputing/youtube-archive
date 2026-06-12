@@ -4,13 +4,13 @@ title: "The AI Framework Era Is Over: Why Context Is the Moat | Jerry Liu"
 channel: The Chain of Thought Podcast
 url: "https://www.youtube.com/watch?v=PJ-3hXAUotI"
 watched_date: 2026-06-10
-watched_at: "2026-06-10T15:00:12Z"
+watched_at: "2026-06-10T12:00:00Z"
 watch_count: 1
 duration_seconds: 3161
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 5
+history_label: Wednesday
+history_order: 39
 watched_at_precision: date-from-history-label
 watched_percent: 37
 estimated_watched_seconds: 1170
