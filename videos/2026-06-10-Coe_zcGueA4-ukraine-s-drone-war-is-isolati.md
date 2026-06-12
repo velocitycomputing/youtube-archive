@@ -4,13 +4,13 @@ title: "Ukraine's drone war is isolating Crimea"
 channel: Anders Puck Nielsen
 url: "https://www.youtube.com/watch?v=Coe_zcGueA4"
 watched_date: 2026-06-10
-watched_at: "2026-06-10T15:00:12Z"
+watched_at: "2026-06-10T12:00:00Z"
 watch_count: 1
 duration_seconds: 641
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 2
+history_label: Wednesday
+history_order: 36
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 641

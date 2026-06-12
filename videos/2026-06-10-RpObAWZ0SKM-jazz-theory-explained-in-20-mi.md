@@ -3,16 +3,17 @@ video_id: RpObAWZ0SKM
 title: Jazz Theory Explained in 20 Minutes
 channel: "Jazz Tutorial | Julian Bradley"
 url: "https://www.youtube.com/watch?v=RpObAWZ0SKM"
-watched_date: 2026-05-26
-watched_at: "2026-05-26T12:00:00Z"
+watched_date: 2026-06-10
+watched_at: "2026-06-10T12:00:00Z"
 watch_count: 1
 duration_seconds: 1188
 source: youtube-history-browser
-history_label: May 26
-history_order: 151
+added_date: 
+history_label: Wednesday
+history_order: 27
 watched_at_precision: date-from-history-label
-watched_percent: 100
-estimated_watched_seconds: 1188
+watched_percent: 10
+estimated_watched_seconds: 119
 summary_model: claude-haiku-4-5
 tagging_model: failed
 proposed_tags: []

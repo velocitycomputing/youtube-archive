@@ -4,13 +4,13 @@ title: The Situation in Crimea is Spiraling Out of Control
 channel: Paul Warburg
 url: "https://www.youtube.com/watch?v=SofikHvGMYs"
 watched_date: 2026-06-10
-watched_at: "2026-06-10T15:00:12Z"
+watched_at: "2026-06-10T12:00:00Z"
 watch_count: 1
 duration_seconds: 1027
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 6
+history_label: Wednesday
+history_order: 40
 watched_at_precision: date-from-history-label
 watched_percent: 55
 estimated_watched_seconds: 565

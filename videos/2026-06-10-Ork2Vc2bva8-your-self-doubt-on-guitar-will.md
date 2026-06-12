@@ -3,17 +3,17 @@ video_id: Ork2Vc2bva8
 title: Your Self-Doubt on Guitar WILL VANISH by doing THIS!
 channel: Daniel Seriff
 url: "https://www.youtube.com/watch?v=Ork2Vc2bva8"
-watched_date: 2026-06-07
-watched_at: "2026-06-07T12:00:00Z"
+watched_date: 2026-06-10
+watched_at: "2026-06-10T12:00:00Z"
 watch_count: 1
 duration_seconds: 1088
 source: youtube-history-browser
 added_date: 
-history_label: Sunday
-history_order: 55
+history_label: Wednesday
+history_order: 20
 watched_at_precision: date-from-history-label
-watched_percent: 100
-estimated_watched_seconds: 1088
+watched_percent: 10
+estimated_watched_seconds: 109
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

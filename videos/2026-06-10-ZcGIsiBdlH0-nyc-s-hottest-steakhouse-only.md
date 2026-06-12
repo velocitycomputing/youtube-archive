@@ -3,17 +3,17 @@ video_id: ZcGIsiBdlH0
 title: "NYC's Hottest Steakhouse Only Has 10 Tables | On The Line | Bon Appétit"
 channel: Bon Appétit
 url: "https://www.youtube.com/watch?v=ZcGIsiBdlH0"
-watched_date: 2026-06-06
-watched_at: "2026-06-06T12:00:00Z"
+watched_date: 2026-06-10
+watched_at: "2026-06-10T12:00:00Z"
 watch_count: 1
 duration_seconds: 1233
 source: youtube-history-browser
 added_date: 
-history_label: Saturday
-history_order: 83
+history_label: Wednesday
+history_order: 24
 watched_at_precision: date-from-history-label
-watched_percent: 51
-estimated_watched_seconds: 629
+watched_percent: 50
+estimated_watched_seconds: 616
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

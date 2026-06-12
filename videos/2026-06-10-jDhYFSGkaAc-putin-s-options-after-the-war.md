@@ -4,16 +4,16 @@ title: "Putin's options after the war has stalled"
 channel: Anders Puck Nielsen
 url: "https://www.youtube.com/watch?v=jDhYFSGkaAc"
 watched_date: 2026-06-10
-watched_at: "2026-06-10T15:00:12Z"
+watched_at: "2026-06-10T12:00:00Z"
 watch_count: 1
 duration_seconds: 1081
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 1
+history_label: Wednesday
+history_order: 35
 watched_at_precision: date-from-history-label
-watched_percent: 10
-estimated_watched_seconds: 108
+watched_percent: 100
+estimated_watched_seconds: 1081
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, primary-source-video]

@@ -3,17 +3,17 @@ video_id: OxlIT6LwH5w
 title: Every Knee Pain EXPLAINED in 11 Minutes... & Their Fixes!
 channel: Body Fix Exercises—for over 50s
 url: "https://www.youtube.com/watch?v=OxlIT6LwH5w"
-watched_date: 2026-06-02
-watched_at: "2026-06-02T12:00:00Z"
+watched_date: 2026-06-10
+watched_at: "2026-06-10T12:00:00Z"
 watch_count: 1
 duration_seconds: 670
 source: youtube-history-browser
 added_date: 
-history_label: Jun 2
-history_order: 157
+history_label: Wednesday
+history_order: 23
 watched_at_precision: date-from-history-label
-watched_percent: 100
-estimated_watched_seconds: 670
+watched_percent: 10
+estimated_watched_seconds: 67
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:musculoskeletal", "intervention:lifestyle", "intervention:procedure", "goal:symptom-relief", primary-source-video]
