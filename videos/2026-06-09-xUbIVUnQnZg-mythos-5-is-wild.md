@@ -1,6 +1,6 @@
 ---
 video_id: xUbIVUnQnZg
-title: Mythos 5 new ability is AGI...
+title: Mythos 5 is WILD...
 channel: Wes Roth
 url: "https://www.youtube.com/watch?v=xUbIVUnQnZg"
 watched_date: 2026-06-09
@@ -10,7 +10,7 @@ duration_seconds: 1100
 source: youtube-history-browser
 added_date: 
 history_label: Tuesday
-history_order: 50
+history_order: 69
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 110

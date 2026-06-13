@@ -4,13 +4,13 @@ title: I FINALLY Play the YAMAHA REVSTAR...It Was Surprising!!
 channel: Darrell Braun Guitar
 url: "https://www.youtube.com/watch?v=fufQNQOPpLE"
 watched_date: 2026-06-12
-watched_at: "2026-06-12T15:00:10Z"
+watched_at: "2026-06-12T12:00:00Z"
 watch_count: 1
 duration_seconds: 988
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 3
+history_label: Yesterday
+history_order: 22
 watched_at_precision: date-from-history-label
 watched_percent: 63
 estimated_watched_seconds: 622

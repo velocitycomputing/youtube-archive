@@ -4,13 +4,13 @@ title: Bobby Fischer Explains How He Sees 20 Moves in Advance
 channel: The Dick Cavett Show
 url: "https://www.youtube.com/watch?v=0Nvp0BYsYso"
 watched_date: 2026-06-12
-watched_at: "2026-06-12T15:00:10Z"
+watched_at: "2026-06-12T12:00:00Z"
 watch_count: 1
 duration_seconds: 689
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 2
+history_label: Yesterday
+history_order: 21
 watched_at_precision: date-from-history-label
 watched_percent: 81
 estimated_watched_seconds: 558
