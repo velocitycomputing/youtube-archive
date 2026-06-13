@@ -9,8 +9,8 @@ watch_count: 1
 duration_seconds: 987
 source: youtube-history-browser
 added_date: 
-history_label: Saturday
-history_order: 112
+history_label: Jun 6
+history_order: 131
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 987
