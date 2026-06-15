@@ -1,6 +1,6 @@
 ---
 video_id: 4JpwNnw0-jI
-title: This “Karpathy System” could 50x your AI Workflows (86,000 GitHub Stars!)
+title: This “Karpathy System” could 701x your AI Workflows (86,000 GitHub Stars!)
 channel: Dream Labs AI
 url: "https://www.youtube.com/watch?v=4JpwNnw0-jI"
 watched_date: 2026-06-10
@@ -10,7 +10,7 @@ duration_seconds: 1299
 source: youtube-history-browser
 added_date: 
 history_label: Wednesday
-history_order: 36
+history_order: 65
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 130

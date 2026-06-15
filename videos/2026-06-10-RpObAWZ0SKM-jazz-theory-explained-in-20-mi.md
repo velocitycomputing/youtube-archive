@@ -10,10 +10,10 @@ duration_seconds: 1188
 source: youtube-history-browser
 added_date: 
 history_label: Wednesday
-history_order: 46
+history_order: 75
 watched_at_precision: date-from-history-label
-watched_percent: 10
-estimated_watched_seconds: 119
+watched_percent: 100
+estimated_watched_seconds: 1188
 summary_model: claude-haiku-4-5
 tagging_model: failed
 proposed_tags: []
