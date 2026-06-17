@@ -4,13 +4,13 @@ title: What a Small Town in Japan is Like
 channel: "Life Where I'm From"
 url: "https://www.youtube.com/watch?v=IiU3Nk16BLQ"
 watched_date: 2026-06-15
-watched_at: "2026-06-15T15:00:09Z"
+watched_at: "2026-06-15T12:00:00Z"
 watch_count: 1
 duration_seconds: 2737
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 1
+history_label: Monday
+history_order: 24
 watched_at_precision: date-from-history-label
 watched_percent: 11
 estimated_watched_seconds: 301
