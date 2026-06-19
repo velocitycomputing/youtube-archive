@@ -3,17 +3,17 @@ video_id: VbOALuHrK_M
 title: "Dry Humor Has Never Been This Funny | Kellen Erskine FULL SPECIAL"
 channel: Dry Bar Comedy
 url: "https://www.youtube.com/watch?v=VbOALuHrK_M"
-watched_date: 2026-06-03
-watched_at: "2026-06-03T12:00:00Z"
+watched_date: 2026-06-17
+watched_at: "2026-06-17T12:00:00Z"
 watch_count: 1
 duration_seconds: 2353
 source: youtube-history-browser
 added_date: 
-history_label: Jun 3
-history_order: 162
+history_label: Wednesday
+history_order: 43
 watched_at_precision: date-from-history-label
-watched_percent: 52
-estimated_watched_seconds: 1224
+watched_percent: 51
+estimated_watched_seconds: 1200
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

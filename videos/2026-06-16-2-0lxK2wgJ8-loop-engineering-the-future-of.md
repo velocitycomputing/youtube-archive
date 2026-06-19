@@ -1,6 +1,6 @@
 ---
 video_id: 2-0lxK2wgJ8
-title: How the Top 1% Actually Run Claude Code Now
+title: "Loop Engineering: The Future of AI Coding?"
 channel: Ray Amjad
 url: "https://www.youtube.com/watch?v=2-0lxK2wgJ8"
 watched_date: 2026-06-16
@@ -9,8 +9,8 @@ watch_count: 1
 duration_seconds: 964
 source: youtube-history-browser
 added_date: 
-history_label: Yesterday
-history_order: 7
+history_label: Tuesday
+history_order: 50
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 96

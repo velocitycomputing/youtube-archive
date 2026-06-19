@@ -1,6 +1,6 @@
 ---
 video_id: _v7RYy3yi0Q
-title: Russia is Absolutely PANICKING About Armenia’s Election Right Now
+title: "There's BAD News for Russia in Armenia Right Now"
 channel: Paul Warburg
 url: "https://www.youtube.com/watch?v=_v7RYy3yi0Q"
 watched_date: 2026-06-16
@@ -9,8 +9,8 @@ watch_count: 1
 duration_seconds: 1268
 source: youtube-history-browser
 added_date: 
-history_label: Yesterday
-history_order: 8
+history_label: Tuesday
+history_order: 51
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1268
