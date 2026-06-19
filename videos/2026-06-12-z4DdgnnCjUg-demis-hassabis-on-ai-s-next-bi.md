@@ -1,6 +1,6 @@
 ---
 video_id: z4DdgnnCjUg
-title: "Demis Hassabis' Vision For the Future!"
+title: "Demis Hassabis on AI's Next Big Breakthrough, 2050 and More!"
 channel: NothingButTech
 url: "https://www.youtube.com/watch?v=z4DdgnnCjUg"
 watched_date: 2026-06-12
@@ -9,8 +9,8 @@ watch_count: 1
 duration_seconds: 1375
 source: youtube-history-browser
 added_date: 
-history_label: Friday
-history_order: 75
+history_label: Jun 12
+history_order: 118
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1375
