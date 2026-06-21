@@ -4,16 +4,16 @@ title: Frank Dikötter and the True History of Communist China
 channel: Hoover Institution
 url: "https://www.youtube.com/watch?v=57TTRylUQaU"
 watched_date: 2026-06-19
-watched_at: "2026-06-19T15:00:09Z"
+watched_at: "2026-06-19T12:00:00Z"
 watch_count: 1
 duration_seconds: 4387
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 8
+history_label: Friday
+history_order: 28
 watched_at_precision: date-from-history-label
-watched_percent: 100
-estimated_watched_seconds: 4387
+watched_percent: 10
+estimated_watched_seconds: 439
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, primary-source-video, china-decline]
