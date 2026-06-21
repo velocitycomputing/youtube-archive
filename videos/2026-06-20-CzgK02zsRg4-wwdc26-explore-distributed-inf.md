@@ -3,14 +3,14 @@ video_id: CzgK02zsRg4
 title: "WWDC26: Explore distributed inference and training with MLX | Apple"
 channel: Apple Developer
 url: "https://www.youtube.com/watch?v=CzgK02zsRg4"
-watched_date: 2026-06-10
-watched_at: "2026-06-10T12:00:00Z"
+watched_date: 2026-06-20
+watched_at: "2026-06-20T12:00:00Z"
 watch_count: 1
 duration_seconds: 1326
 source: youtube-history-browser
 added_date: 
-history_label: Jun 10
-history_order: 145
+history_label: Yesterday
+history_order: 16
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 133

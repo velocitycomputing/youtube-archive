@@ -3,17 +3,17 @@ video_id: jQ2ft0RKhsY
 title: How to Get Started with OpenHands (CLI, Cloud & SDK Explained)
 channel: OpenHands
 url: "https://www.youtube.com/watch?v=jQ2ft0RKhsY"
-watched_date: 2026-06-13
-watched_at: "2026-06-13T12:00:00Z"
+watched_date: 2026-06-20
+watched_at: "2026-06-20T12:00:00Z"
 watch_count: 1
 duration_seconds: 1429
 source: youtube-history-browser
 added_date: 
-history_label: Saturday
-history_order: 90
+history_label: Yesterday
+history_order: 17
 watched_at_precision: date-from-history-label
-watched_percent: 39
-estimated_watched_seconds: 557
+watched_percent: 36
+estimated_watched_seconds: 514
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

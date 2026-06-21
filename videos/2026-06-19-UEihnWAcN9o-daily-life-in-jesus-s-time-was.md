@@ -4,13 +4,13 @@ title: "Daily Life In Jesus's Time Was Weirder Than You Think"
 channel: Nils Glenn
 url: "https://www.youtube.com/watch?v=UEihnWAcN9o"
 watched_date: 2026-06-19
-watched_at: "2026-06-19T15:00:09Z"
+watched_at: "2026-06-19T12:00:00Z"
 watch_count: 1
 duration_seconds: 1835
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 9
+history_label: Friday
+history_order: 39
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 184
