@@ -1,6 +1,6 @@
 ---
 video_id: 9PUaEj0pMYE
-title: "Your AI Skills Are Trapped | Here's How to Own Them"
+title: The Skill vs Prompt Problem Everyone Gets Wrong
 channel: "AI News & Strategy Daily | Nate B Jones"
 url: "https://www.youtube.com/watch?v=9PUaEj0pMYE"
 watched_date: 2026-06-19
@@ -10,7 +10,7 @@ duration_seconds: 1065
 source: youtube-history-browser
 added_date: 
 history_label: Friday
-history_order: 24
+history_order: 29
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1065

@@ -4,13 +4,13 @@ title: "Widow's Bay Is Borderline Perfect"
 channel: Love of Storytelling
 url: "https://www.youtube.com/watch?v=KjzdI-tFSeI"
 watched_date: 2026-06-21
-watched_at: "2026-06-21T15:00:09Z"
+watched_at: "2026-06-21T12:00:00Z"
 watch_count: 1
 duration_seconds: 1167
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 7
+history_label: Yesterday
+history_order: 12
 watched_at_precision: date-from-history-label
 watched_percent: 77
 estimated_watched_seconds: 899

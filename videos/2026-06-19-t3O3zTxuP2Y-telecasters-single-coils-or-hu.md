@@ -1,6 +1,6 @@
 ---
 video_id: t3O3zTxuP2Y
-title: I thought Humbucker Telecasters were not for me (I was wrong)
+title: "Telecasters: Single Coils Or Humbuckers?"
 channel: Joey Jones
 url: "https://www.youtube.com/watch?v=t3O3zTxuP2Y"
 watched_date: 2026-06-19
@@ -10,7 +10,7 @@ duration_seconds: 722
 source: youtube-history-browser
 added_date: 
 history_label: Friday
-history_order: 29
+history_order: 34
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 722

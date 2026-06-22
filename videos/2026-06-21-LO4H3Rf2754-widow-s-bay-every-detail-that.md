@@ -4,13 +4,13 @@ title: "Widow's Bay EVERY Detail That You MISSED - Episode 1-9"
 channel: Duriboh
 url: "https://www.youtube.com/watch?v=LO4H3Rf2754"
 watched_date: 2026-06-21
-watched_at: "2026-06-21T15:00:09Z"
+watched_at: "2026-06-21T12:00:00Z"
 watch_count: 1
 duration_seconds: 983
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 12
+history_label: Yesterday
+history_order: 17
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 983
