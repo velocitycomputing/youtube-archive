@@ -4,13 +4,13 @@ title: THIS Will Change How You Look at Scales, Notes, EVERYTHING
 channel: Ben Eller
 url: "https://www.youtube.com/watch?v=XzkoX_Scj4U"
 watched_date: 2026-06-21
-watched_at: "2026-06-21T15:00:09Z"
+watched_at: "2026-06-21T12:00:00Z"
 watch_count: 1
 duration_seconds: 1098
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 14
+history_label: Yesterday
+history_order: 19
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 110

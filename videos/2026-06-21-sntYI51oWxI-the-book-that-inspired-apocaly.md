@@ -4,13 +4,13 @@ title: The Book That Inspired Apocalypse Now
 channel: The Rest Is History
 url: "https://www.youtube.com/watch?v=sntYI51oWxI"
 watched_date: 2026-06-21
-watched_at: "2026-06-21T15:00:09Z"
+watched_at: "2026-06-21T12:00:00Z"
 watch_count: 1
 duration_seconds: 4127
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 8
+history_label: Yesterday
+history_order: 13
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 413

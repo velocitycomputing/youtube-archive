@@ -4,13 +4,13 @@ title: We Are Buying Regular Acoustics Like Chumps
 channel: Phillip McKnight
 url: "https://www.youtube.com/watch?v=knlFUbrfJuc"
 watched_date: 2026-06-21
-watched_at: "2026-06-21T15:00:09Z"
+watched_at: "2026-06-21T12:00:00Z"
 watch_count: 1
 duration_seconds: 762
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 3
+history_label: Yesterday
+history_order: 8
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 76
