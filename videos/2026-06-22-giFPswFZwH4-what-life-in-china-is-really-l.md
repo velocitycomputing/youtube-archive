@@ -3,17 +3,17 @@ video_id: giFPswFZwH4
 title: What Life in China is REALLY Like for Single Women (Utopia or Exhausting Grind?)
 channel: Mia chen
 url: "https://www.youtube.com/watch?v=giFPswFZwH4"
-watched_date: 2026-06-07
-watched_at: "2026-06-07T12:00:00Z"
+watched_date: 2026-06-22
+watched_at: "2026-06-22T12:00:00Z"
 watch_count: 1
 duration_seconds: 697
 source: youtube-history-browser
 added_date: 
-history_label: Jun 7
-history_order: 153
+history_label: Yesterday
+history_order: 11
 watched_at_precision: date-from-history-label
-watched_percent: 100
-estimated_watched_seconds: 697
+watched_percent: 49
+estimated_watched_seconds: 342
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video, "intervention:lifestyle", "system:cognitive"]
