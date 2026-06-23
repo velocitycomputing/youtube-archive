@@ -1,6 +1,6 @@
 ---
 video_id: _v7RYy3yi0Q
-title: "There's BAD News for Russia in Armenia Right Now"
+title: "Putin's Response to Armenia's Election Was Absolutely INSANE"
 channel: Paul Warburg
 url: "https://www.youtube.com/watch?v=_v7RYy3yi0Q"
 watched_date: 2026-06-16
@@ -9,8 +9,8 @@ watch_count: 1
 duration_seconds: 1268
 source: youtube-history-browser
 added_date: 
-history_label: Tuesday
-history_order: 86
+history_label: Jun 16
+history_order: 107
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1268
