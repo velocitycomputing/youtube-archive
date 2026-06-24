@@ -4,13 +4,13 @@ title: Why This City is a Disaster Waiting to Happen
 channel: Obscura Trails
 url: "https://www.youtube.com/watch?v=_1XvwSB2EcY"
 watched_date: 2026-06-23
-watched_at: "2026-06-23T15:00:09Z"
+watched_at: "2026-06-23T12:00:00Z"
 watch_count: 1
 duration_seconds: 1806
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 9
+history_label: Yesterday
+history_order: 22
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 181

@@ -4,13 +4,13 @@ title: "The Finale Twist Changes EVERYTHING | Widow's Bay (Season 1) Review"
 channel: Atomic Cult Media
 url: "https://www.youtube.com/watch?v=p1YZpekpBQE"
 watched_date: 2026-06-23
-watched_at: "2026-06-23T15:00:09Z"
+watched_at: "2026-06-23T12:00:00Z"
 watch_count: 1
 duration_seconds: 753
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 1
+history_label: Yesterday
+history_order: 14
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 753
