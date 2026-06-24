@@ -1,7 +1,7 @@
 ---
 video_id: nQwJVHCtDDY
 title: Matt Pocock’s Agentic Engineering Workflow (just copy him)
-channel: David Ondrej
+channel: David Ondrej and Matt Pocock
 url: "https://www.youtube.com/watch?v=nQwJVHCtDDY"
 watched_date: 2026-06-18
 watched_at: "2026-06-18T12:00:00Z"
@@ -10,7 +10,7 @@ duration_seconds: 3744
 source: youtube-history-browser
 added_date: 
 history_label: Thursday
-history_order: 71
+history_order: 84
 watched_at_precision: date-from-history-label
 watched_percent: 27
 estimated_watched_seconds: 1011

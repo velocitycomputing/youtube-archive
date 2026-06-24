@@ -4,13 +4,13 @@ title: How Curtis Stone Runs One of the Best Steakhouses in the World — Mise E
 channel: Eater
 url: "https://www.youtube.com/watch?v=BNy7B2oIvDw"
 watched_date: 2026-06-23
-watched_at: "2026-06-23T15:00:09Z"
+watched_at: "2026-06-23T12:00:00Z"
 watch_count: 1
 duration_seconds: 1364
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 2
+history_label: Yesterday
+history_order: 15
 watched_at_precision: date-from-history-label
 watched_percent: 60
 estimated_watched_seconds: 818
