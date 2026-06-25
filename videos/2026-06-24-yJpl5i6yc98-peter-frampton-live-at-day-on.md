@@ -4,13 +4,13 @@ title: Peter Frampton - Live at Day On The Green 1977 (Full Concert)
 channel: The Mosh Pit
 url: "https://www.youtube.com/watch?v=yJpl5i6yc98"
 watched_date: 2026-06-24
-watched_at: "2026-06-24T15:00:07Z"
+watched_at: "2026-06-24T12:00:00Z"
 watch_count: 1
 duration_seconds: 2450
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 4
+history_label: Yesterday
+history_order: 21
 watched_at_precision: date-from-history-label
 watched_percent: 38
 estimated_watched_seconds: 931
