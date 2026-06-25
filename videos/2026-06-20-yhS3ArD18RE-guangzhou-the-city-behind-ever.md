@@ -1,6 +1,6 @@
 ---
 video_id: yhS3ArD18RE
-title: "GUANGZHOU: China’s Megacity of 19 Million People!"
+title: "GUANGZHOU: The City Behind EVERYTHING You Buy"
 channel: CoolVision
 url: "https://www.youtube.com/watch?v=yhS3ArD18RE"
 watched_date: 2026-06-20
@@ -10,7 +10,7 @@ duration_seconds: 1691
 source: youtube-history-browser
 added_date: 
 history_label: Saturday
-history_order: 62
+history_order: 78
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 169

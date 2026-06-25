@@ -4,13 +4,13 @@ title: "A \"Completely Normal\" Night in China: 0 Conversations"
 channel: Mia chen
 url: "https://www.youtube.com/watch?v=nRW_wh5mIek"
 watched_date: 2026-06-24
-watched_at: "2026-06-24T15:00:07Z"
+watched_at: "2026-06-24T12:00:00Z"
 watch_count: 1
 duration_seconds: 774
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 5
+history_label: Yesterday
+history_order: 22
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 774
