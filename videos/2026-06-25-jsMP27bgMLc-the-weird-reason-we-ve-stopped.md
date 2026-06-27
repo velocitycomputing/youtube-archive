@@ -4,13 +4,13 @@ title: "The weird reason we've stopped talking about the climate crisis"
 channel: Vlad Vexler Chat
 url: "https://www.youtube.com/watch?v=jsMP27bgMLc"
 watched_date: 2026-06-25
-watched_at: "2026-06-25T15:00:04Z"
+watched_at: "2026-06-25T12:00:00Z"
 watch_count: 1
 duration_seconds: 1315
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 2
+history_label: Thursday
+history_order: 16
 watched_at_precision: date-from-history-label
 watched_percent: 22
 estimated_watched_seconds: 289

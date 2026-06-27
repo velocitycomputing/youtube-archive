@@ -4,13 +4,13 @@ title: A BUDDHIST MONK’S HONEST ADVICE ON LETTING GO & INNER PEACE
 channel: The Modern Buddhism Podcast
 url: "https://www.youtube.com/watch?v=8lro6X0_miE"
 watched_date: 2026-06-25
-watched_at: "2026-06-25T15:00:04Z"
+watched_at: "2026-06-25T12:00:00Z"
 watch_count: 1
 duration_seconds: 2282
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 3
+history_label: Thursday
+history_order: 17
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 228
