@@ -3,14 +3,14 @@ video_id: lJcyDOjFLwQ
 title: "Why Vegas Doesn't Care If You Visit Anymore"
 channel: More Perfect Union
 url: "https://www.youtube.com/watch?v=lJcyDOjFLwQ"
-watched_date: 2026-06-23
-watched_at: "2026-06-23T12:00:00Z"
+watched_date: 2026-06-28
+watched_at: "2026-06-28T15:00:05Z"
 watch_count: 1
 duration_seconds: 883
 source: youtube-history-browser
 added_date: 
-history_label: Tuesday
-history_order: 40
+history_label: Today
+history_order: 12
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 883

@@ -10,7 +10,7 @@ duration_seconds: 1679
 source: youtube-history-browser
 added_date: 
 history_label: Thursday
-history_order: 8
+history_order: 38
 watched_at_precision: date-from-history-label
 watched_percent: 13
 estimated_watched_seconds: 218
