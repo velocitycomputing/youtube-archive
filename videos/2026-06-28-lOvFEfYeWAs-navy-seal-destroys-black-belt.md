@@ -4,13 +4,13 @@ title: Navy SEAL Destroys Black Belt In SECONDS
 channel: Jesse Enkamp
 url: "https://www.youtube.com/watch?v=lOvFEfYeWAs"
 watched_date: 2026-06-28
-watched_at: "2026-06-28T15:00:05Z"
+watched_at: "2026-06-28T12:00:00Z"
 watch_count: 1
 duration_seconds: 1531
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 14
+history_label: Yesterday
+history_order: 21
 watched_at_precision: date-from-history-label
 watched_percent: 31
 estimated_watched_seconds: 475

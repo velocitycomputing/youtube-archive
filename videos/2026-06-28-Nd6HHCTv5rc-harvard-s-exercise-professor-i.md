@@ -4,13 +4,13 @@ title: "Harvard's Exercise Professor: If You Exercise Like This, You're Destroyi
 channel: Daniel Dushy
 url: "https://www.youtube.com/watch?v=Nd6HHCTv5rc"
 watched_date: 2026-06-28
-watched_at: "2026-06-28T15:00:05Z"
+watched_at: "2026-06-28T12:00:00Z"
 watch_count: 1
 duration_seconds: 5551
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 2
+history_label: Yesterday
+history_order: 9
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 555

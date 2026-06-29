@@ -4,13 +4,13 @@ title: Why Parisians Are Rude to You (and the One Word That Fixes It)
 channel: Les Frenchies
 url: "https://www.youtube.com/watch?v=tHMrz1Re9Yc"
 watched_date: 2026-06-28
-watched_at: "2026-06-28T15:00:05Z"
+watched_at: "2026-06-28T12:00:00Z"
 watch_count: 1
 duration_seconds: 868
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 16
+history_label: Yesterday
+history_order: 23
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 868
