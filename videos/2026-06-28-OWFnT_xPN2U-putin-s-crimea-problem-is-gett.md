@@ -4,13 +4,13 @@ title: "Putin's Crimea problem is getting worse"
 channel: Vlad Vexler Chat
 url: "https://www.youtube.com/watch?v=OWFnT_xPN2U"
 watched_date: 2026-06-28
-watched_at: "2026-06-28T15:00:05Z"
+watched_at: "2026-06-28T12:00:00Z"
 watch_count: 1
 duration_seconds: 1056
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 3
+history_label: Yesterday
+history_order: 10
 watched_at_precision: date-from-history-label
 watched_percent: 41
 estimated_watched_seconds: 433
