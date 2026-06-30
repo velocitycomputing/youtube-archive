@@ -3,14 +3,14 @@ video_id: Zp8lr6IzUnQ
 title: "GLM 5.2 Is Free And Beats Claude On Most Work. So Why Can't Companies Switch?"
 channel: "AI News & Strategy Daily | Nate B Jones"
 url: "https://www.youtube.com/watch?v=Zp8lr6IzUnQ"
-watched_date: 2026-06-28
-watched_at: "2026-06-28T12:00:00Z"
+watched_date: 2026-06-29
+watched_at: "2026-06-29T12:00:00Z"
 watch_count: 1
 duration_seconds: 1055
 source: youtube-history-browser
 added_date: 
 history_label: Yesterday
-history_order: 7
+history_order: 15
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 106

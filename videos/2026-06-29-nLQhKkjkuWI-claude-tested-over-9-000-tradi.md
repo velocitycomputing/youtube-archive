@@ -4,13 +4,13 @@ title: "Claude Tested Over 9,000 Trading Strategies (Here's What Works)"
 channel: AI Pathways
 url: "https://www.youtube.com/watch?v=nLQhKkjkuWI"
 watched_date: 2026-06-29
-watched_at: "2026-06-29T15:00:09Z"
+watched_at: "2026-06-29T12:00:00Z"
 watch_count: 1
 duration_seconds: 1194
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 3
+history_label: Yesterday
+history_order: 18
 watched_at_precision: date-from-history-label
 watched_percent: 13
 estimated_watched_seconds: 155
