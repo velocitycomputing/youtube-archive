@@ -4,13 +4,13 @@ title: "Update from Ukraine | Amazing! The Biggest Russian Oil and Fuel Storage 
 channel: Denys Davydov
 url: "https://www.youtube.com/watch?v=ly5vkNtv-d4"
 watched_date: 2026-06-29
-watched_at: "2026-06-29T15:00:09Z"
+watched_at: "2026-06-29T12:00:00Z"
 watch_count: 1
 duration_seconds: 1257
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 4
+history_label: Yesterday
+history_order: 19
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 126

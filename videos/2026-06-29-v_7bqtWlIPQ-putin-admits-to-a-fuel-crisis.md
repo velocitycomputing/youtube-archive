@@ -4,13 +4,13 @@ title: "Putin admits to a fuel crisis that could endanger Russia's defenses | DW
 channel: DW News
 url: "https://www.youtube.com/watch?v=v_7bqtWlIPQ"
 watched_date: 2026-06-29
-watched_at: "2026-06-29T15:00:09Z"
+watched_at: "2026-06-29T12:00:00Z"
 watch_count: 1
 duration_seconds: 684
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 2
+history_label: Yesterday
+history_order: 17
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 68
