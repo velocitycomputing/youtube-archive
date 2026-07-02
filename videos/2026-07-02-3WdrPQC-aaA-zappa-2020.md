@@ -3,14 +3,14 @@ video_id: 3WdrPQC-aaA
 title: ZAPPA (2020)
 channel: natasha
 url: "https://www.youtube.com/watch?v=3WdrPQC-aaA"
-watched_date: 2026-06-28
-watched_at: "2026-06-28T12:00:00Z"
+watched_date: 2026-07-02
+watched_at: "2026-07-02T15:00:07Z"
 watch_count: 1
 duration_seconds: 7283
 source: youtube-history-browser
 added_date: 
-history_label: Sunday
-history_order: 32
+history_label: Today
+history_order: 6
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 728

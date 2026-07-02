@@ -4,13 +4,13 @@ title: Russia Isn’t Collapsing… It’s Turning Into Something WORSE
 channel: Caleb McMurtrey
 url: "https://www.youtube.com/watch?v=nrmnOVjP-2A"
 watched_date: 2026-06-30
-watched_at: "2026-06-30T15:00:03Z"
+watched_at: "2026-06-30T12:00:00Z"
 watch_count: 1
 duration_seconds: 3437
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 2
+history_label: Tuesday
+history_order: 25
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 344
