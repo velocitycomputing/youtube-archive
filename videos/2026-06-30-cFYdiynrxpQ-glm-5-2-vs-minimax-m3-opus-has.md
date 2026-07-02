@@ -4,13 +4,13 @@ title: "GLM-5.2 vs MiniMax-M3: Opus Has REAL COMPETITION (Model Stacking)"
 channel: IndyDevDan
 url: "https://www.youtube.com/watch?v=cFYdiynrxpQ"
 watched_date: 2026-06-30
-watched_at: "2026-06-30T15:00:03Z"
+watched_at: "2026-06-30T12:00:00Z"
 watch_count: 1
 duration_seconds: 1579
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 1
+history_label: Tuesday
+history_order: 24
 watched_at_precision: date-from-history-label
 watched_percent: 75
 estimated_watched_seconds: 1184

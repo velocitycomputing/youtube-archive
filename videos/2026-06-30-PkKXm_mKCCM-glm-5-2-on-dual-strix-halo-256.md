@@ -4,13 +4,13 @@ title: "GLM 5.2 on Dual Strix Halo (256GB): Worth it?"
 channel: Donato Capitella
 url: "https://www.youtube.com/watch?v=PkKXm_mKCCM"
 watched_date: 2026-06-30
-watched_at: "2026-06-30T15:00:03Z"
+watched_at: "2026-06-30T12:00:00Z"
 watch_count: 1
 duration_seconds: 1108
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 3
+history_label: Tuesday
+history_order: 26
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 111

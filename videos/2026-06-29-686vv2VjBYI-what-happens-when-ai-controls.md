@@ -1,7 +1,7 @@
 ---
 video_id: 686vv2VjBYI
 title: What Happens When AI Controls The World? w/ Emad Mostaque
-channel: Milk Road AI
+channel: Milk Road AI and Milk Road
 url: "https://www.youtube.com/watch?v=686vv2VjBYI"
 watched_date: 2026-06-29
 watched_at: "2026-06-29T12:00:00Z"
@@ -9,8 +9,8 @@ watch_count: 1
 duration_seconds: 2399
 source: youtube-history-browser
 added_date: 
-history_label: Yesterday
-history_order: 7
+history_label: Monday
+history_order: 30
 watched_at_precision: date-from-history-label
 watched_percent: 54
 estimated_watched_seconds: 1295

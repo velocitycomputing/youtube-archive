@@ -1,7 +1,7 @@
 ---
 video_id: 4SevY7Xa5MM
 title: One Battle of Hormuz After Another, with Sal Mercogliano
-channel: School of War Podcast
+channel: "School of War Podcast and What's Going on With Shipping?"
 url: "https://www.youtube.com/watch?v=4SevY7Xa5MM"
 watched_date: 2026-06-29
 watched_at: "2026-06-29T12:00:00Z"
@@ -9,8 +9,8 @@ watch_count: 1
 duration_seconds: 2379
 source: youtube-history-browser
 added_date: 
-history_label: Yesterday
-history_order: 11
+history_label: Monday
+history_order: 34
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 238
