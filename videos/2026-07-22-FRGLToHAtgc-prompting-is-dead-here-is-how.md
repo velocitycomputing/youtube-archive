@@ -1,6 +1,6 @@
 ---
 video_id: FRGLToHAtgc
-title: STOP prompting Claude Code. Use loops instead
+title: Prompting is dead. Here is how you create loops
 channel: Alex Finn
 url: "https://www.youtube.com/watch?v=FRGLToHAtgc"
 watched_date: 2026-07-22
@@ -9,8 +9,8 @@ watch_count: 1
 duration_seconds: 1090
 source: youtube-history-browser
 added_date: 
-history_label: Yesterday
-history_order: 3
+history_label: Jul 22
+history_order: 113
 watched_at_precision: date-from-history-label
 watched_percent: 20
 estimated_watched_seconds: 218

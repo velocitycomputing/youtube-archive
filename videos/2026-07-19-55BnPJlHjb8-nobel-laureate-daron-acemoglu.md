@@ -1,6 +1,6 @@
 ---
 video_id: 55BnPJlHjb8
-title: The Economic Impact of AI with Nobel Laureate Daron Acemoglu
+title: "Nobel Laureate Daron Acemoglu: How AI Will Affect the Economy"
 channel: Jon Hernandez AI
 url: "https://www.youtube.com/watch?v=55BnPJlHjb8"
 watched_date: 2026-07-19
@@ -9,8 +9,8 @@ watch_count: 1
 duration_seconds: 3435
 source: youtube-history-browser
 added_date: 
-history_label: Sunday
-history_order: 33
+history_label: Jul 19
+history_order: 142
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 344
