@@ -1,6 +1,6 @@
 ---
 video_id: _TmEGFtV_p0
-title: "Trump is gearing up for the ‘worst two years of his life’ | John Bolton"
+title: "This is the moment Trump realises he ‘hasn’t the slightest idea what he’s doing’ | John Bolton"
 channel: The Trump Report
 url: "https://www.youtube.com/watch?v=_TmEGFtV_p0"
 watched_date: 2026-07-21
@@ -9,8 +9,8 @@ watch_count: 1
 duration_seconds: 1394
 source: youtube-history-browser
 added_date: 
-history_label: Tuesday
-history_order: 10
+history_label: Jul 21
+history_order: 120
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 139

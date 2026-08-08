@@ -3,17 +3,17 @@ video_id: nu4p3l6LuyI
 title: "Making the Perfect Brisket | BBQ with Franklin | Full Episode"
 channel: PBS Food
 url: "https://www.youtube.com/watch?v=nu4p3l6LuyI"
-watched_date: 2026-07-21
-watched_at: "2026-07-21T12:00:00Z"
+watched_date: 2026-07-23
+watched_at: "2026-07-23T12:00:00Z"
 watch_count: 1
 duration_seconds: 1410
 source: youtube-history-browser
 added_date: 
-history_label: Tuesday
-history_order: 15
+history_label: Jul 23
+history_order: 110
 watched_at_precision: date-from-history-label
-watched_percent: 100
-estimated_watched_seconds: 1410
+watched_percent: 10
+estimated_watched_seconds: 141
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
