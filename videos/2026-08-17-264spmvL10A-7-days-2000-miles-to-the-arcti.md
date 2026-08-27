@@ -4,13 +4,13 @@ title: "7 Days/2000 Miles to the Arctic Ocean in an Old Ford Truck | -75F Blizza
 channel: Truck House Life
 url: "https://www.youtube.com/watch?v=264spmvL10A"
 watched_date: 2026-08-17
-watched_at: "2026-08-17T15:00:03Z"
+watched_at: "2026-08-17T12:00:00Z"
 watch_count: 1
 duration_seconds: 5992
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 2
+history_label: Aug 17
+history_order: 44
 watched_at_precision: date-from-history-label
 watched_percent: 63
 estimated_watched_seconds: 3775
