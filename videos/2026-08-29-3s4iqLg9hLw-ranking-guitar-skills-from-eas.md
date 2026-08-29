@@ -4,7 +4,7 @@ title: Ranking Guitar Skills From Easiest To Hardest Tier List
 channel: "Brandon D'Eon"
 url: "https://www.youtube.com/watch?v=3s4iqLg9hLw"
 watched_date: 2026-08-29
-watched_at: "2026-08-29T17:53:24Z"
+watched_at: "2026-08-29T18:03:21Z"
 watch_count: 1
 duration_seconds: 944
 source: youtube-history-browser

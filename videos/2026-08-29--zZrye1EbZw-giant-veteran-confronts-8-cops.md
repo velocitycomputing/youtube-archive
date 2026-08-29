@@ -4,7 +4,7 @@ title: Giant Veteran Confronts 8 Cops Head To Head
 channel: Sergeant Curtis
 url: "https://www.youtube.com/watch?v=-zZrye1EbZw"
 watched_date: 2026-08-29
-watched_at: "2026-08-29T17:53:24Z"
+watched_at: "2026-08-29T18:03:21Z"
 watch_count: 1
 duration_seconds: 2984
 source: youtube-history-browser

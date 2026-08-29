@@ -4,7 +4,7 @@ title: "Confronting Brandon D'Eon"
 channel: KDH
 url: "https://www.youtube.com/watch?v=vzOxurOLK94"
 watched_date: 2026-08-29
-watched_at: "2026-08-29T17:53:24Z"
+watched_at: "2026-08-29T18:03:21Z"
 watch_count: 1
 duration_seconds: 2597
 source: youtube-history-browser

@@ -4,7 +4,7 @@ title: Guitar Scales Explained So They ACTUALLY Make Sense!
 channel: Guitar Mastery Method
 url: "https://www.youtube.com/watch?v=lA5vuIfD8zU"
 watched_date: 2026-08-29
-watched_at: "2026-08-29T17:53:24Z"
+watched_at: "2026-08-29T18:03:21Z"
 watch_count: 1
 duration_seconds: 913
 source: youtube-history-browser
