@@ -4,7 +4,7 @@ title: "21 Minutes of Nate Bargatze | Netflix Is A Joke"
 channel: Netflix Is A Joke
 url: "https://www.youtube.com/watch?v=pGUhBzSgOxw"
 watched_date: 2026-08-29
-watched_at: "2026-08-29T17:53:24Z"
+watched_at: "2026-08-29T18:03:21Z"
 watch_count: 1
 duration_seconds: 1307
 source: youtube-history-browser

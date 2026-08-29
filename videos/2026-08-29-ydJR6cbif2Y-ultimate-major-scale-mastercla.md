@@ -4,7 +4,7 @@ title: Ultimate Major Scale Masterclass For Guitarists
 channel: "Brandon D'Eon"
 url: "https://www.youtube.com/watch?v=ydJR6cbif2Y"
 watched_date: 2026-08-29
-watched_at: "2026-08-29T17:53:24Z"
+watched_at: "2026-08-29T18:03:21Z"
 watch_count: 1
 duration_seconds: 3661
 source: youtube-history-browser
