@@ -4,13 +4,13 @@ title: Why is there SO MUCH conflicting guitar advice?
 channel: "Brandon D'Eon"
 url: "https://www.youtube.com/watch?v=_8B8wWdVtfc"
 watched_date: 2026-08-29
-watched_at: "2026-08-29T18:03:21Z"
+watched_at: "2026-08-29T12:00:00Z"
 watch_count: 1
 duration_seconds: 1071
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 7
+history_label: Saturday
+history_order: 9
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1071
