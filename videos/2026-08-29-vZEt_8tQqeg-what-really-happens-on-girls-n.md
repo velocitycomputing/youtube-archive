@@ -1,4 +1,5 @@
 ---
+record_id: "youtube:vZEt_8tQqeg"
 video_id: vZEt_8tQqeg
 title: "What Really Happens on Girls’ Night | Iliza Shlesinger"
 channel: Spotlight by Laugh Society
@@ -14,6 +15,14 @@ history_order: 35
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1553
+transcript_status: fetched
+transcript_content_hash: a3033fc810044c5ef64d17db4dd47547454d0bea3e3ec5caa5b1bad9c547b75d
+analysis_mode: health
+summary_source: local
+model_source: local
+summary_status: ready
+item_status: ready
+wealth_eligible: false
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

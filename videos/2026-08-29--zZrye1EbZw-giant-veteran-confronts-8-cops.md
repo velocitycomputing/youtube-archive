@@ -1,4 +1,5 @@
 ---
+record_id: "youtube:-zZrye1EbZw"
 video_id: -zZrye1EbZw
 title: Giant Veteran Confronts 8 Cops Head To Head
 channel: Sergeant Curtis
@@ -14,6 +15,14 @@ history_order: 41
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 298
+transcript_status: fetched
+transcript_content_hash: 0426f11f75e56c14149591f49cb6664405eb164b7cefed07afbad3770b52038a
+analysis_mode: health
+summary_source: local
+model_source: local
+summary_status: ready
+item_status: ready
+wealth_eligible: false
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video]

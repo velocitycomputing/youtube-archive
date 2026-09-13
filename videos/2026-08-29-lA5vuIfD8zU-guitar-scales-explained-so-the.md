@@ -1,4 +1,5 @@
 ---
+record_id: "youtube:lA5vuIfD8zU"
 video_id: lA5vuIfD8zU
 title: Guitar Scales Explained So They ACTUALLY Make Sense!
 channel: Guitar Mastery Method
@@ -14,6 +15,14 @@ history_order: 46
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 913
+transcript_status: fetched
+transcript_content_hash: 963b4caf29ee7cc9a0f23dcb06ae299385d222c9e879c5c3949c9a4820ae51af
+analysis_mode: health
+summary_source: local
+model_source: local
+summary_status: ready
+item_status: ready
+wealth_eligible: false
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

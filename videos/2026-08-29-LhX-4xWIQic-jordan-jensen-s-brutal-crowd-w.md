@@ -1,4 +1,5 @@
 ---
+record_id: "youtube:LhX-4xWIQic"
 video_id: LhX-4xWIQic
 title: "Jordan Jensen's Brutal Crowd Work Comedy Destroys The Crowd #228"
 channel: Crowd Crushers TV
@@ -14,6 +15,14 @@ history_order: 42
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 96
+transcript_status: fetched
+transcript_content_hash: 528de06d2af7453d703b8e8d2808817099c6669187fbcef887334a27b20ca8a2
+analysis_mode: health
+summary_source: local
+model_source: local
+summary_status: ready
+item_status: ready
+wealth_eligible: false
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

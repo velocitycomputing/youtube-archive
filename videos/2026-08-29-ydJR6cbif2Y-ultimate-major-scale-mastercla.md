@@ -1,4 +1,5 @@
 ---
+record_id: "youtube:ydJR6cbif2Y"
 video_id: ydJR6cbif2Y
 title: Ultimate Major Scale Masterclass For Guitarists
 channel: "Brandon D'Eon"
@@ -14,6 +15,14 @@ history_order: 45
 watched_at_precision: date-from-history-label
 watched_percent: 39
 estimated_watched_seconds: 1428
+transcript_status: fetched
+transcript_content_hash: edbb21e7219ecfc1038309df200a5d75d30f1a9d5bdf56009dac13334cbf09e9
+analysis_mode: health
+summary_source: local
+model_source: local
+summary_status: ready
+item_status: ready
+wealth_eligible: false
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
