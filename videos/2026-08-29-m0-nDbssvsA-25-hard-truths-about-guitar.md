@@ -1,4 +1,5 @@
 ---
+record_id: "youtube:m0-nDbssvsA"
 video_id: m0-nDbssvsA
 title: 25 Hard Truths About Guitar
 channel: "Brandon D'Eon"
@@ -14,6 +15,14 @@ history_order: 40
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 885
+transcript_status: fetched
+transcript_content_hash: f860a2d5b4593b760c9bb100f16aa9e19a8d7147df70bddc68c123de2b117191
+analysis_mode: health
+summary_source: local
+model_source: local
+summary_status: ready
+item_status: ready
+wealth_eligible: false
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

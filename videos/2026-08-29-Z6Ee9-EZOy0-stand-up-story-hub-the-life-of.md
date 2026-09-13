@@ -1,4 +1,5 @@
 ---
+record_id: "youtube:Z6Ee9-EZOy0"
 video_id: Z6Ee9-EZOy0
 title: "Stand-Up Story Hub:The Life of a Divorced Man Funniest New Joke | Nate Bargatze (Stand Up Comedy)"
 channel: Faizex Senpai
@@ -14,6 +15,14 @@ history_order: 36
 watched_at_precision: date-from-history-label
 watched_percent: 52
 estimated_watched_seconds: 460
+transcript_status: fetched
+transcript_content_hash: 4e6f83c9cb52cf34a5b296f4cc3cae67b411f10f78e0b277bf4d36c786666515
+analysis_mode: health
+summary_source: local
+model_source: local
+summary_status: ready
+item_status: ready
+wealth_eligible: false
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

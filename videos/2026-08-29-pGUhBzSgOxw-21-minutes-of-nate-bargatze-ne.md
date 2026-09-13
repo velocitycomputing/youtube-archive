@@ -1,4 +1,5 @@
 ---
+record_id: "youtube:pGUhBzSgOxw"
 video_id: pGUhBzSgOxw
 title: "21 Minutes of Nate Bargatze | Netflix Is A Joke"
 channel: Netflix Is A Joke
@@ -14,6 +15,14 @@ history_order: 37
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 131
+transcript_status: fetched
+transcript_content_hash: 28a9a9787efb316689feb742acc9548c2bd0e7ab7398aa58b2347bf387c28a93
+analysis_mode: health
+summary_source: local
+model_source: local
+summary_status: ready
+item_status: ready
+wealth_eligible: false
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

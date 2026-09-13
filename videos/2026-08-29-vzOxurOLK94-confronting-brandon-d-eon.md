@@ -1,4 +1,5 @@
 ---
+record_id: "youtube:vzOxurOLK94"
 video_id: vzOxurOLK94
 title: "Confronting Brandon D'Eon"
 channel: KDH
@@ -14,6 +15,14 @@ history_order: 38
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 260
+transcript_status: fetched
+transcript_content_hash: e1c97372e5dc7198acb094625432ed18c01f181de34c5ad987d701d6fedbc824
+analysis_mode: health
+summary_source: local
+model_source: local
+summary_status: ready
+item_status: ready
+wealth_eligible: false
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []

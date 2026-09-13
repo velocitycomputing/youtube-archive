@@ -1,4 +1,5 @@
 ---
+record_id: "youtube:_8B8wWdVtfc"
 video_id: _8B8wWdVtfc
 title: Why is there SO MUCH conflicting guitar advice?
 channel: "Brandon D'Eon"
@@ -14,6 +15,14 @@ history_order: 39
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1071
+transcript_status: fetched
+transcript_content_hash: 61d975748f1b8eb6c52211cbcd8b111e47a09f694e31e1c09ad984c552f20aa4
+analysis_mode: health
+summary_source: local
+model_source: local
+summary_status: ready
+item_status: ready
+wealth_eligible: false
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: []
