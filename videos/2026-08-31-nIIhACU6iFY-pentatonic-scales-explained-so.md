@@ -1,21 +1,30 @@
 ---
+record_id: "youtube:nIIhACU6iFY"
 video_id: nIIhACU6iFY
 title: Pentatonic Scales Explained so they ACTUALLY Make Sense!
 channel: Guitar Mastery Method
 url: "https://www.youtube.com/watch?v=nIIhACU6iFY"
-watched_date: 2026-06-18
-watched_at: "2026-06-18T12:00:00Z"
+watched_date: 2026-08-31
+watched_at: "2026-08-31T12:00:00Z"
 watch_count: 1
 duration_seconds: 650
 source: youtube-history-browser
 added_date: 
-history_label: Jun 18
-history_order: 159
+history_label: Aug 31
+history_order: 28
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 650
-summary_model: claude-haiku-4-5
-tagging_model: claude-haiku-4-5
+transcript_status: fetched
+transcript_content_hash: 8b8e7349780c293f122f112cbf7285d0263c86f6b5c9376ea22e80452d456b24
+analysis_mode: health
+summary_source: hosted
+model_source: hosted
+summary_status: ready
+item_status: ready
+wealth_eligible: false
+summary_model: sonnet
+tagging_model: sonnet
 proposed_tags: []
 proposed_entities: []
 status: new
@@ -24,9 +33,9 @@ routed_to: null
 
 ## Summary
 
-The pentatonic scale consists of just five notes (demonstrated with A minor: A, C, D, E, G), but guitarists often memorize multiple patterns and shapes that all represent the same five notes in different positions. The CAGED system (C, A, G, E, D patterns) maps these across the fretboard—a structure analogous to typing the same word in different fonts. The A minor pentatonic and C major pentatonic are relative keys sharing identical notes; the tonal center (minor's somber sound vs. major's brightness) shifts only based on the accompanying chord. The instructor demonstrates this by soloing over a C-to-A-minor chord progression, showing how intentional melodic phrasing and pattern transitions create music, whereas mechanically walking up and down scales is just exercise.
+The video argues that the pentatonic scale is just five notes, and that the many box patterns guitarists memorize are the same notes shown in different places. Using A minor (A, C, D, E, G) as the example, the instructor shows how the CAGED system lays those notes out in five movable patterns. They are named for the C, A, G, E and D chord shapes and repeat in a new octave after the 12th fret. He says A minor and its relative major, C major, share these notes, so the same patterns cover both keys. The tonal center decides whether the sound is bright and major or somber and minor. He plays over a looping C to A minor chord progression to show that the same notes sound different depending on the chord underneath. He then covers moving between patterns, as opposed to running a pattern up and down mechanically. You pick a note that sits in both patterns, look at where you want to land, and then slide or jump there. Adjacent patterns overlap, and he cites John Mayer's "pentatonic equator," a single fret that connects the A and G patterns across all six strings. He ends by pitching a free follow-up lesson on soloing in any key.
 
-Stop memorizing CAGED patterns as separate entities—they're five gateways to the same five notes. Practice transitioning between patterns by visualizing where you want to land before moving, using shared notes as bridges. Break each six-string pattern into two-string chunks to develop musical phrasing and short riffs instead of mechanical finger drills. Play these five notes over chord progressions repeatedly to internalize how the scale's emotional character shifts with harmony. Master this framework, and it applies instantly to any key anywhere on the neck—transforming the fretboard from a puzzle into an intuitive space for soloing.
+For practice, learn the five A minor pentatonic notes (A, C, D, E, G) first, then learn the five CAGED patterns as the same notes in different positions. Order them C, A, G, E, D, and continue into the next octave from the 12th fret. Break each large six-string pattern into two-string chunks and build short musical phrases from each chunk, so you don't just run the whole box up and down. Practice over a simple C to A minor backing loop. Start phrases on root notes and listen to how the notes sound different over each chord. Practice linking patterns by finding a shared note, looking at your landing spot before you move, and sliding or jumping into the next pattern. Include skips, such as C to D or a big jump back down. Remember the single-fret connection between the A and G patterns. Once this feels comfortable, try moving the same five-note idea to other keys. The video points to a free lesson on that, but it's a promotional pitch, so you can do it on your own by transposing the pattern.
 
 ## Transcript
 
