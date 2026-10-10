@@ -4,13 +4,13 @@ title: A 97-Year-Old Philosopher Faces His Own Death
 channel: The Atlantic
 url: "https://www.youtube.com/watch?v=qX6NztnPU-4"
 watched_date: 2026-07-08
-watched_at: "2026-07-08T22:23:09Z"
+watched_at: "2026-07-08T12:00:00Z"
 watch_count: 1
 duration_seconds: 1092
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 10
+history_label: Jul 8
+history_order: 855
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1092

@@ -4,13 +4,13 @@ title: "Why Mister Rogers Still Matters Today | Full Documentary"
 channel: PBS Documentaries and PBS
 url: "https://www.youtube.com/watch?v=YM3Bhi70kQE"
 watched_date: 2026-07-08
-watched_at: "2026-07-08T22:23:09Z"
+watched_at: "2026-07-08T12:00:00Z"
 watch_count: 1
 duration_seconds: 3470
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 11
+history_label: Jul 8
+history_order: 856
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 3470

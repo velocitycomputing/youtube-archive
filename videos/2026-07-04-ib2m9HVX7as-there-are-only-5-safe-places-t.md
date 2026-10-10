@@ -9,10 +9,10 @@ watch_count: 1
 duration_seconds: 1571
 source: youtube-history-browser
 added_date: 
-history_label: Saturday
-history_order: 58
+history_label: Jul 4
+history_order: 899
 watched_at_precision: date-from-history-label
-watched_percent: 22
+watched_percent: 10
 estimated_watched_seconds: 346
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5

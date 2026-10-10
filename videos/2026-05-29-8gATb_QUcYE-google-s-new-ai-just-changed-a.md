@@ -9,9 +9,9 @@ watch_count: 1
 duration_seconds: 1924
 source: youtube-history-browser
 history_label: May 29
-history_order: 143
+history_order: 1420
 watched_at_precision: date-from-history-label
-watched_percent: 100
+watched_percent: 10
 estimated_watched_seconds: 1924
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5

@@ -4,13 +4,13 @@ title: We just figured out how AI actually works (J-Space)
 channel: Matthew Berman
 url: "https://www.youtube.com/watch?v=bjHuGNo3spk"
 watched_date: 2026-07-08
-watched_at: "2026-07-08T22:23:09Z"
+watched_at: "2026-07-08T12:00:00Z"
 watch_count: 1
 duration_seconds: 1534
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 5
+history_label: Jul 8
+history_order: 852
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 153
