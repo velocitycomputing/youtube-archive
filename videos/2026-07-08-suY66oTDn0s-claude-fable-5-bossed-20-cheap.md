@@ -4,15 +4,15 @@ title: Claude Fable 5 Bossed 20 Cheap AI Agents. The Whole Site Cost $8.
 channel: "AI News & Strategy Daily | Nate B Jones"
 url: "https://www.youtube.com/watch?v=suY66oTDn0s"
 watched_date: 2026-07-08
-watched_at: "2026-07-08T22:23:09Z"
+watched_at: "2026-07-08T12:00:00Z"
 watch_count: 1
 duration_seconds: 1157
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 1
+history_label: Jul 8
+history_order: 847
 watched_at_precision: date-from-history-label
-watched_percent: 100
+watched_percent: 10
 estimated_watched_seconds: 1157
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5

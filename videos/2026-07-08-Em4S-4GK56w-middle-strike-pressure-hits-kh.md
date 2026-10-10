@@ -4,13 +4,13 @@ title: Middle Strike Pressure Hits Kherson
 channel: Preston Stewart
 url: "https://www.youtube.com/watch?v=Em4S-4GK56w"
 watched_date: 2026-07-08
-watched_at: "2026-07-08T22:23:09Z"
+watched_at: "2026-07-08T12:00:00Z"
 watch_count: 1
 duration_seconds: 1886
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 2
+history_label: Jul 8
+history_order: 849
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 189

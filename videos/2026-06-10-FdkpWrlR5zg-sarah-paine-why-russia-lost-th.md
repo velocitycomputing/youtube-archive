@@ -10,9 +10,9 @@ duration_seconds: 6895
 source: youtube-history-browser
 added_date: 
 history_label: Jun 10
-history_order: 146
+history_order: 1208
 watched_at_precision: date-from-history-label
-watched_percent: 100
+watched_percent: 10
 estimated_watched_seconds: 6895
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5

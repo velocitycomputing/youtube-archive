@@ -4,13 +4,13 @@ title: "5 Open Source Repos That Fix 95% of Claude Code's Problems"
 channel: Chase AI
 url: "https://www.youtube.com/watch?v=IRPEfl2BD_c"
 watched_date: 2026-07-08
-watched_at: "2026-07-08T22:23:09Z"
+watched_at: "2026-07-08T12:00:00Z"
 watch_count: 1
 duration_seconds: 724
 source: youtube-history-browser
 added_date: 
-history_label: Today
-history_order: 3
+history_label: Jul 8
+history_order: 850
 watched_at_precision: date-from-history-label
 watched_percent: 63
 estimated_watched_seconds: 456
