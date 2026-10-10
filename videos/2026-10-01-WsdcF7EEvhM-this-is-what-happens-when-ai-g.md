@@ -1,7 +1,7 @@
 ---
 record_id: "youtube:WsdcF7EEvhM"
 video_id: WsdcF7EEvhM
-title: AI is So Good They’ll Pay You to Get Out of the Way
+title: THIS is What Happens When AI Gets Smarter Than Humans
 channel: Tom Bilyeu
 url: "https://www.youtube.com/watch?v=WsdcF7EEvhM"
 watched_date: "2026-10-01"
