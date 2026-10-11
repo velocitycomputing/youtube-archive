@@ -12,7 +12,7 @@ added_date:
 history_label: Sunday
 history_order: 37
 watched_at_precision: date-from-history-label
-watched_percent: 10
+watched_percent: 42
 estimated_watched_seconds: 77
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
