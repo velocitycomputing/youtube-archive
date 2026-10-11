@@ -12,7 +12,7 @@ added_date:
 history_label: Jul 9
 history_order: 844
 watched_at_precision: date-from-history-label
-watched_percent: 10
+watched_percent: 50
 estimated_watched_seconds: 454
 summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
