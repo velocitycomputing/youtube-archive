@@ -5,7 +5,7 @@ title: GM GM GM GM GM GM GM GM GM GM GM GM GM GM GM GM GM
 channel: GothamChess
 url: "https://www.youtube.com/watch?v=QjpeTWcyz7Y"
 watched_date: "2026-10-10"
-watched_at: "2026-10-10T12:00:00Z"
+watched_at: "2026-10-10T23:59:30Z"
 watch_count: 1
 duration_seconds: 2264
 source: youtube-history-browser

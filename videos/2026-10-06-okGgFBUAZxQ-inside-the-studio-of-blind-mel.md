@@ -5,7 +5,7 @@ title: Inside the Studio of Blind Melon’s Guitarist
 channel: Agartha Studio Tours
 url: "https://www.youtube.com/watch?v=okGgFBUAZxQ"
 watched_date: "2026-10-06"
-watched_at: "2026-10-06T12:00:00Z"
+watched_at: "2026-10-06T23:58:40Z"
 watch_count: 1
 duration_seconds: 1463
 source: youtube-history-browser

@@ -5,7 +5,7 @@ title: "Absolute Cinema! Magnus Carlsen FACES Fabiano Caruana | FIDE Chess World
 channel: Smothered Mate
 url: "https://www.youtube.com/watch?v=MEX31ydQyAQ"
 watched_date: "2026-10-05"
-watched_at: "2026-10-05T12:00:00Z"
+watched_at: "2026-10-05T23:58:26Z"
 watch_count: 1
 duration_seconds: 1022
 source: youtube-history-browser

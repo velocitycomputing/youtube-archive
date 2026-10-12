@@ -5,13 +5,13 @@ title: My Gibson Les Paul NEVER Sounded So Good Thanks to the 80% Rule
 channel: John Nathan Cordy
 url: "https://www.youtube.com/watch?v=atjDPTq5Ads"
 watched_date: "2026-09-25"
-watched_at: "2026-09-25T12:00:00Z"
+watched_at: "2026-09-25T23:56:51Z"
 watch_count: 1
 duration_seconds: 697
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 25
-history_order: 191
+history_order: 189
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

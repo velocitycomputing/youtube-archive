@@ -5,7 +5,7 @@ title: This Chess Match Made Me Stop.
 channel: Gotham Games
 url: "https://www.youtube.com/watch?v=uAE5cK8k1qo"
 watched_date: "2026-09-28"
-watched_at: "2026-09-28T12:00:00Z"
+watched_at: "2026-09-28T23:57:05Z"
 watch_count: 1
 duration_seconds: 1502
 source: youtube-history-browser

@@ -5,7 +5,7 @@ title: "Buccaneers-Cowboys REACTION: Dak Prescott’s problem + Bears | Colin Co
 channel: The Herd with Colin Cowherd
 url: "https://www.youtube.com/watch?v=F7br9amp778"
 watched_date: "2026-10-10"
-watched_at: "2026-10-10T12:00:00Z"
+watched_at: "2026-10-10T23:59:19Z"
 watch_count: 1
 duration_seconds: 1771
 source: youtube-history-browser

@@ -5,7 +5,7 @@ title: The Rarest Guitars & Amps I’ve Ever Seen (Zurich Guitar Shop Tour)
 channel: Rick Beato 2
 url: "https://www.youtube.com/watch?v=LupRA2njoV0"
 watched_date: "2026-10-11"
-watched_at: "2026-10-11T12:00:00Z"
+watched_at: "2026-10-11T23:59:34Z"
 watch_count: 1
 duration_seconds: 733
 source: youtube-history-browser

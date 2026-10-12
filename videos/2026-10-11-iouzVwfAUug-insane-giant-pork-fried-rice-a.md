@@ -5,7 +5,7 @@ title: Insane Giant Pork & Fried Rice at a Nagoya Chinese Diner Run by a Husband
 channel: Japanese Food Noodles
 url: "https://www.youtube.com/watch?v=iouzVwfAUug"
 watched_date: "2026-10-11"
-watched_at: "2026-10-11T12:00:00Z"
+watched_at: "2026-10-11T23:59:33Z"
 watch_count: 1
 duration_seconds: 1824
 source: youtube-history-browser

@@ -5,7 +5,7 @@ title: "Steely Dan's Early Years: Rare Archive Photos | GRAMMY Museum Panel"
 channel: Cimcie Shares All
 url: "https://www.youtube.com/watch?v=UHIrNemiUH4"
 watched_date: "2026-10-06"
-watched_at: "2026-10-06T12:00:00Z"
+watched_at: "2026-10-06T23:58:39Z"
 watch_count: 1
 duration_seconds: 5575
 source: youtube-history-browser

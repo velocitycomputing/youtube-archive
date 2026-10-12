@@ -5,13 +5,13 @@ title: Body Scan Meditation - Jon Kabat-Zinn
 channel: Mindfulness 360
 url: "https://www.youtube.com/watch?v=_DTmGtznab4"
 watched_date: "2026-09-24"
-watched_at: "2026-09-24T12:00:00Z"
+watched_at: "2026-09-24T23:56:47Z"
 watch_count: 1
 duration_seconds: 1743
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 24
-history_order: 196
+history_order: 193
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

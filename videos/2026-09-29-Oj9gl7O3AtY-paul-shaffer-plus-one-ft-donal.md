@@ -5,7 +5,7 @@ title: Paul Shaffer Plus One ft. Donald Fagen
 channel: The Dan Vault
 url: "https://www.youtube.com/watch?v=Oj9gl7O3AtY"
 watched_date: "2026-09-29"
-watched_at: "2026-09-29T12:00:00Z"
+watched_at: "2026-09-29T23:57:26Z"
 watch_count: 1
 duration_seconds: 1284
 source: youtube-history-browser

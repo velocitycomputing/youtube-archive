@@ -5,7 +5,7 @@ title: Preparing for Another Winter Off-Grid in Newfoundland
 channel: Skote Outdoors
 url: "https://www.youtube.com/watch?v=2u5Zvxemacc"
 watched_date: "2026-09-28"
-watched_at: "2026-09-28T12:00:00Z"
+watched_at: "2026-09-28T23:57:06Z"
 watch_count: 1
 duration_seconds: 1922
 source: youtube-history-browser

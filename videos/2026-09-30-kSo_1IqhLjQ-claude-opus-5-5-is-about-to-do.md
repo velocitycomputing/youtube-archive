@@ -5,7 +5,7 @@ title: Claude Opus 5.5 Is About to DOMINATE Kalshi & Polymarket
 channel: All About AI
 url: "https://www.youtube.com/watch?v=kSo_1IqhLjQ"
 watched_date: "2026-09-30"
-watched_at: "2026-09-30T12:00:00Z"
+watched_at: "2026-09-30T23:57:35Z"
 watch_count: 1
 duration_seconds: 953
 source: youtube-history-browser

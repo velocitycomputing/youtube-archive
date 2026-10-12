@@ -5,7 +5,7 @@ title: A Once in a Lifetime Opportunity is Coming for AMD
 channel: David Carbutt
 url: "https://www.youtube.com/watch?v=A5Q1pTGQE0M"
 watched_date: "2026-10-05"
-watched_at: "2026-10-05T12:00:00Z"
+watched_at: "2026-10-05T23:58:27Z"
 watch_count: 1
 duration_seconds: 868
 source: youtube-history-browser

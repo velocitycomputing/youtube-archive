@@ -5,13 +5,13 @@ title: "Peter Thiel: The AI Crisis, Europe’s Decline & the Battle for America"
 channel: MDMEETS - Essential Talks with Mathias Döpfner
 url: "https://www.youtube.com/watch?v=B7yl7fEHeKM"
 watched_date: "2026-09-28"
-watched_at: "2026-09-28T12:00:00Z"
+watched_at: "2026-09-28T23:57:07Z"
 watch_count: 1
 duration_seconds: 3930
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 28
-history_order: 151
+history_order: 173
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 3930

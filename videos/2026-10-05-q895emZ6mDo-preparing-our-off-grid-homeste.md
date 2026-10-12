@@ -5,7 +5,7 @@ title: Preparing Our Off-Grid Homestead for Its Biggest Winter Yet
 channel: Skote Outdoors
 url: "https://www.youtube.com/watch?v=q895emZ6mDo"
 watched_date: "2026-10-05"
-watched_at: "2026-10-05T12:00:00Z"
+watched_at: "2026-10-05T23:58:21Z"
 watch_count: 1
 duration_seconds: 2254
 source: youtube-history-browser

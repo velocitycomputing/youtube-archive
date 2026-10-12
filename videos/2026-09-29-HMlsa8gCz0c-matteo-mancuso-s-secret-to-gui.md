@@ -5,7 +5,7 @@ title: "Matteo Mancuso's Secret to Guitar GREATNESS"
 channel: Music is Win
 url: "https://www.youtube.com/watch?v=HMlsa8gCz0c"
 watched_date: "2026-09-29"
-watched_at: "2026-09-29T12:00:00Z"
+watched_at: "2026-09-29T23:57:20Z"
 watch_count: 1
 duration_seconds: 3418
 source: youtube-history-browser

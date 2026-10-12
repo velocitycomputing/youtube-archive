@@ -5,13 +5,13 @@ title: "VOX AC MINI | Full Tone & Controls Deep Dive"
 channel: VOX Amps
 url: "https://www.youtube.com/watch?v=CXE0V8iSwLY"
 watched_date: "2026-09-23"
-watched_at: "2026-09-23T12:00:00Z"
+watched_at: "2026-09-23T23:56:43Z"
 watch_count: 1
 duration_seconds: 735
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 23
-history_order: 200
+history_order: 197
 watched_at_precision: date-from-history-label
 watched_percent: 19
 estimated_watched_seconds: null

@@ -5,7 +5,7 @@ title: "Palmer Luckey: Autonomous Weapons Are Ancient and Why Anduril Won't Buil
 channel: Peter H. Diamandis
 url: "https://www.youtube.com/watch?v=wRY9XCrT0eg"
 watched_date: "2026-09-29"
-watched_at: "2026-09-29T12:00:00Z"
+watched_at: "2026-09-29T23:57:15Z"
 watch_count: 1
 duration_seconds: 2188
 source: youtube-history-browser

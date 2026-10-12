@@ -5,7 +5,7 @@ title: "The Best Amp I've Ever Played - INCREDIBLE CLEANS at Low Volumes - Fende
 channel: John Nathan Cordy
 url: "https://www.youtube.com/watch?v=jebfh_ZQDgQ"
 watched_date: "2026-10-09"
-watched_at: "2026-10-09T12:00:00Z"
+watched_at: "2026-10-09T23:59:03Z"
 watch_count: 1
 duration_seconds: 864
 source: youtube-history-browser

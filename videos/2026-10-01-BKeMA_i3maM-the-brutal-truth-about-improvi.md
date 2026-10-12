@@ -5,7 +5,7 @@ title: "The BRUTAL TRUTH About Improvising Melodic Guitar Solos - Tips, Strategy
 channel: John Nathan Cordy
 url: "https://www.youtube.com/watch?v=BKeMA_i3maM"
 watched_date: "2026-10-01"
-watched_at: "2026-10-01T12:00:00Z"
+watched_at: "2026-10-01T23:57:58Z"
 watch_count: 1
 duration_seconds: 1680
 source: youtube-history-browser

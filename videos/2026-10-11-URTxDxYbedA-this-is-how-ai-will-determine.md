@@ -5,7 +5,7 @@ title: "THIS is How AI Will Determine If You’re Rich or Poor in 5 Years | Simo
 channel: Tom Bilyeu
 url: "https://www.youtube.com/watch?v=URTxDxYbedA"
 watched_date: "2026-10-11"
-watched_at: "2026-10-11T12:00:00Z"
+watched_at: "2026-10-11T23:59:43Z"
 watch_count: 1
 duration_seconds: 6487
 source: youtube-history-browser

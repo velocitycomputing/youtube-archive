@@ -5,13 +5,13 @@ title: How to Fix Sleep Apnea Without CPAP (Do These 3 Things Tonight)
 channel: Ben Azadi
 url: "https://www.youtube.com/watch?v=nLmFsg8z6qE"
 watched_date: "2026-10-04"
-watched_at: "2026-10-04T12:00:00Z"
+watched_at: "2026-10-04T23:58:17Z"
 watch_count: 1
 duration_seconds: 827
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 4
-history_order: 102
+history_order: 103
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

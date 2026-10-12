@@ -5,7 +5,7 @@ title: We Moved to Uruguay - Here’s What Happened 🇺🇾
 channel: Just Booked It
 url: "https://www.youtube.com/watch?v=vCd8KX79zcY"
 watched_date: "2026-09-27"
-watched_at: "2026-09-27T12:00:00Z"
+watched_at: "2026-09-27T23:57:02Z"
 watch_count: 1
 duration_seconds: 873
 source: youtube-history-browser

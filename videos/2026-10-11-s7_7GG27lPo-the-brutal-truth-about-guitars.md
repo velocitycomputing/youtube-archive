@@ -5,7 +5,7 @@ title: The BRUTAL TRUTH About GUITARS FOR DENTISTS and PRO Guitarists
 channel: John Nathan Cordy
 url: "https://www.youtube.com/watch?v=s7_7GG27lPo"
 watched_date: "2026-10-11"
-watched_at: "2026-10-11T12:00:00Z"
+watched_at: "2026-10-11T23:59:42Z"
 watch_count: 1
 duration_seconds: 874
 source: youtube-history-browser

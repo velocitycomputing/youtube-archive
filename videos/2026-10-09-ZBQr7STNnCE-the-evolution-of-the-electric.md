@@ -5,7 +5,7 @@ title: The EVOLUTION of the Electric Guitar Solo (in 15 Players)
 channel: Paul Davids
 url: "https://www.youtube.com/watch?v=ZBQr7STNnCE"
 watched_date: "2026-10-09"
-watched_at: "2026-10-09T12:00:00Z"
+watched_at: "2026-10-09T23:59:10Z"
 watch_count: 1
 duration_seconds: 1675
 source: youtube-history-browser

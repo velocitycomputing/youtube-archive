@@ -5,7 +5,7 @@ title: We need to talk about Hikaru Nakamura.
 channel: GothamChess
 url: "https://www.youtube.com/watch?v=wDzvPA3Uc0g"
 watched_date: "2026-10-06"
-watched_at: "2026-10-06T12:00:00Z"
+watched_at: "2026-10-06T23:58:36Z"
 watch_count: 1
 duration_seconds: 1359
 source: youtube-history-browser

@@ -5,7 +5,7 @@ title: Actor Kirk Cameron Responds After Fury, Firestorm Over ‘Hell’ Comment
 channel: CBN News
 url: "https://www.youtube.com/watch?v=Ldfu_wBJVCw"
 watched_date: "2026-10-07"
-watched_at: "2026-10-07T12:00:00Z"
+watched_at: "2026-10-07T23:58:51Z"
 watch_count: 1
 duration_seconds: 900
 source: youtube-history-browser

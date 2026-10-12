@@ -5,7 +5,7 @@ title: "My Dad Died by Suicide. He Left Me With 694 Video Diaries to Explain Why
 channel: New York Times Opinion
 url: "https://www.youtube.com/watch?v=Kimur4jkJT8"
 watched_date: "2026-10-08"
-watched_at: "2026-10-08T12:00:00Z"
+watched_at: "2026-10-08T23:58:59Z"
 watch_count: 1
 duration_seconds: 865
 source: youtube-history-browser

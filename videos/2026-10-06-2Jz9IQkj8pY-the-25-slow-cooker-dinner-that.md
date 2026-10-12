@@ -5,7 +5,7 @@ title: The $25 Slow Cooker Dinner That Blew Me Away
 channel: SAM THE COOKING GUY
 url: "https://www.youtube.com/watch?v=2Jz9IQkj8pY"
 watched_date: "2026-10-06"
-watched_at: "2026-10-06T12:00:00Z"
+watched_at: "2026-10-06T23:58:38Z"
 watch_count: 1
 duration_seconds: 834
 source: youtube-history-browser
