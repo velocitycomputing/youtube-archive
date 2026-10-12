@@ -5,13 +5,13 @@ title: The First 48 Hours of an AI Civil War - A Realistic Scenario
 channel: "Species | Documenting AGI"
 url: "https://www.youtube.com/watch?v=gwfCWDO4LbM"
 watched_date: "2026-09-27"
-watched_at: "2026-09-27T12:00:00Z"
+watched_at: "2026-09-27T23:57:00Z"
 watch_count: 1
 duration_seconds: 2115
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 27
-history_order: 158
+history_order: 180
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

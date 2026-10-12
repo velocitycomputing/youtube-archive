@@ -5,7 +5,7 @@ title: "Kind of Blue Isn't Perfect. It's Better"
 channel: "You'll Hear It"
 url: "https://www.youtube.com/watch?v=GQo-B5z8NPM"
 watched_date: "2026-10-04"
-watched_at: "2026-10-04T12:00:00Z"
+watched_at: "2026-10-04T23:58:14Z"
 watch_count: 1
 duration_seconds: 5164
 source: youtube-history-browser

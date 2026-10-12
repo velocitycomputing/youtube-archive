@@ -5,13 +5,13 @@ title: "M5 Ultra vs 2 DGX Sparks… The Number You're Not Looking At"
 channel: Alex Ziskind
 url: "https://www.youtube.com/watch?v=_yrw6c5gw3E"
 watched_date: "2026-10-04"
-watched_at: "2026-10-04T12:00:00Z"
+watched_at: "2026-10-04T23:58:09Z"
 watch_count: 1
 duration_seconds: 1238
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 4
-history_order: 110
+history_order: 111
 watched_at_precision: date-from-history-label
 watched_percent: 61
 estimated_watched_seconds: null

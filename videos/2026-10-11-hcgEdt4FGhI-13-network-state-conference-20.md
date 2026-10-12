@@ -5,7 +5,7 @@ title: 13 - Network State Conference 2026 - Vitalik and Balaji on AI, Cryptograp
 channel: Network State Podcast
 url: "https://www.youtube.com/watch?v=hcgEdt4FGhI"
 watched_date: "2026-10-11"
-watched_at: "2026-10-11T12:00:00Z"
+watched_at: "2026-10-11T23:59:40Z"
 watch_count: 1
 duration_seconds: 2149
 source: youtube-history-browser

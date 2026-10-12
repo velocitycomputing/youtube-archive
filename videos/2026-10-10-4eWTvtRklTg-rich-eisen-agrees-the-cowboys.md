@@ -5,7 +5,7 @@ title: "Rich Eisen Agrees: The Cowboys’ TNF Loss at Home to the 0-4 Buccaneers
 channel: The Rich Eisen Show
 url: "https://www.youtube.com/watch?v=4eWTvtRklTg"
 watched_date: "2026-10-10"
-watched_at: "2026-10-10T12:00:00Z"
+watched_at: "2026-10-10T23:59:15Z"
 watch_count: 1
 duration_seconds: 1128
 source: youtube-history-browser

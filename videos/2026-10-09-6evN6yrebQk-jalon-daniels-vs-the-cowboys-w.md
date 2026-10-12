@@ -5,7 +5,7 @@ title: Jalon Daniels vs the Cowboys Week 5, 2026 Analysis
 channel: The QB School
 url: "https://www.youtube.com/watch?v=6evN6yrebQk"
 watched_date: "2026-10-09"
-watched_at: "2026-10-09T12:00:00Z"
+watched_at: "2026-10-09T23:59:11Z"
 watch_count: 1
 duration_seconds: 1960
 source: youtube-history-browser

@@ -5,7 +5,7 @@ title: If You Can Play THIS, You’re Not a Beginner Anymore
 channel: Andrew Clarke
 url: "https://www.youtube.com/watch?v=u6MWn_zqXzI"
 watched_date: "2026-10-09"
-watched_at: "2026-10-09T12:00:00Z"
+watched_at: "2026-10-09T23:59:06Z"
 watch_count: 1
 duration_seconds: 907
 source: youtube-history-browser

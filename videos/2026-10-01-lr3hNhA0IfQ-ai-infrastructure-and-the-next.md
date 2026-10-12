@@ -5,7 +5,7 @@ title: AI, Infrastructure, and the Next Investment Cycle
 channel: a16z
 url: "https://www.youtube.com/watch?v=lr3hNhA0IfQ"
 watched_date: "2026-10-01"
-watched_at: "2026-10-01T12:00:00Z"
+watched_at: "2026-10-01T23:57:47Z"
 watch_count: 1
 duration_seconds: 3141
 source: youtube-history-browser

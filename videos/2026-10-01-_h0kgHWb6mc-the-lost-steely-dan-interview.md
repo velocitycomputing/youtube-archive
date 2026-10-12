@@ -5,7 +5,7 @@ title: The LOST Steely Dan Interview Feat. Jay Graydon & Dean Parks
 channel: Rick Beato
 url: "https://www.youtube.com/watch?v=_h0kgHWb6mc"
 watched_date: "2026-10-01"
-watched_at: "2026-10-01T12:00:00Z"
+watched_at: "2026-10-01T23:57:48Z"
 watch_count: 1
 duration_seconds: 3532
 source: youtube-history-browser

@@ -5,7 +5,7 @@ title: China Just Made Its Biggest Gold Move In 3 Years — We Had To React
 channel: Tom Bilyeu
 url: "https://www.youtube.com/watch?v=CNg5U-ijEZA"
 watched_date: "2026-10-05"
-watched_at: "2026-10-05T12:00:00Z"
+watched_at: "2026-10-05T23:58:33Z"
 watch_count: 1
 duration_seconds: 2364
 source: youtube-history-browser

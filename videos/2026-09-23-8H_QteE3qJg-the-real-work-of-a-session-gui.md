@@ -5,13 +5,13 @@ title: "The Real Work of a Session Guitarist (It's Not Chops)"
 channel: "Shane Theriot's Guitar Channel"
 url: "https://www.youtube.com/watch?v=8H_QteE3qJg"
 watched_date: "2026-09-23"
-watched_at: "2026-09-23T12:00:00Z"
+watched_at: "2026-09-23T23:56:45Z"
 watch_count: 1
 duration_seconds: 712
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 23
-history_order: 198
+history_order: 195
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

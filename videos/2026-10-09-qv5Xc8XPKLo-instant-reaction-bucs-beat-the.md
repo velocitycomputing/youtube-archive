@@ -5,7 +5,7 @@ title: "INSTANT REACTION: BUCS BEAT THE COWBOYS!!"
 channel: Buccaneers Observer
 url: "https://www.youtube.com/watch?v=qv5Xc8XPKLo"
 watched_date: "2026-10-09"
-watched_at: "2026-10-09T12:00:00Z"
+watched_at: "2026-10-09T23:59:07Z"
 watch_count: 1
 duration_seconds: 716
 source: youtube-history-browser

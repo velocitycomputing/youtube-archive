@@ -5,7 +5,7 @@ title: "IS NAM A2 a GAME CHANGER? SPOILER ALERT: NOPE"
 channel: VaiSatchAtrucci
 url: "https://www.youtube.com/watch?v=EIGRj9SwC8M"
 watched_date: "2026-10-06"
-watched_at: "2026-10-06T12:00:00Z"
+watched_at: "2026-10-06T23:58:45Z"
 watch_count: 1
 duration_seconds: 1616
 source: youtube-history-browser

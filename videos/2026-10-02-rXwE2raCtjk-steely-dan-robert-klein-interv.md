@@ -5,7 +5,7 @@ title: Steely Dan - Robert Klein Interview - December 15th, 1980 (FULL)
 channel: Skeevy Daniel
 url: "https://www.youtube.com/watch?v=rXwE2raCtjk"
 watched_date: "2026-10-02"
-watched_at: "2026-10-02T12:00:00Z"
+watched_at: "2026-10-02T23:58:01Z"
 watch_count: 1
 duration_seconds: 3567
 source: youtube-history-browser

@@ -5,7 +5,7 @@ title: Why Would Eric Clapton Play This?
 channel: Mike Cole
 url: "https://www.youtube.com/watch?v=UK8dGhdqO4o"
 watched_date: "2026-10-06"
-watched_at: "2026-10-06T12:00:00Z"
+watched_at: "2026-10-06T23:58:37Z"
 watch_count: 1
 duration_seconds: 911
 source: youtube-history-browser

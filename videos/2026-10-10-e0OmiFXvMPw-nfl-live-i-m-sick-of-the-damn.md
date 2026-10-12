@@ -5,7 +5,7 @@ title: "NFL LIVE | \"I'M SICK OF THE DAMN COWBOYS!\" - Dan O RIPS Dallas after s
 channel: Cara Lanelle
 url: "https://www.youtube.com/watch?v=e0OmiFXvMPw"
 watched_date: "2026-10-10"
-watched_at: "2026-10-10T12:00:00Z"
+watched_at: "2026-10-10T23:59:29Z"
 watch_count: 1
 duration_seconds: 734
 source: youtube-history-browser

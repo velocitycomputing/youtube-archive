@@ -5,13 +5,13 @@ title: Claude Opus 5.5 Just Dropped. Here’s What It’s Actually Good For.
 channel: Mansel Scheffel
 url: "https://www.youtube.com/watch?v=-BUj7rAyw-Y"
 watched_date: "2026-09-23"
-watched_at: "2026-09-23T12:00:00Z"
+watched_at: "2026-09-23T23:56:42Z"
 watch_count: 1
 duration_seconds: 677
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 23
-history_order: 176
+history_order: 198
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

@@ -5,7 +5,7 @@ title: HIKARU HITS 3500 ELO. HIGHEST ELO OF ALL TIME.
 channel: GothamChess
 url: "https://www.youtube.com/watch?v=0kjmdJ6W56Q"
 watched_date: "2026-10-09"
-watched_at: "2026-10-09T12:00:00Z"
+watched_at: "2026-10-09T23:59:05Z"
 watch_count: 1
 duration_seconds: 1585
 source: youtube-history-browser

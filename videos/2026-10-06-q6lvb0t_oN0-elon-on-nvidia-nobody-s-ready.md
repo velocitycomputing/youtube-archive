@@ -5,7 +5,7 @@ title: "Elon on NVIDIA: Nobody's Ready For What Jensen's Building"
 channel: David Carbutt
 url: "https://www.youtube.com/watch?v=q6lvb0t_oN0"
 watched_date: "2026-10-06"
-watched_at: "2026-10-06T12:00:00Z"
+watched_at: "2026-10-06T23:58:41Z"
 watch_count: 1
 duration_seconds: 2217
 source: youtube-history-browser

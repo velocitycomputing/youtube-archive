@@ -5,7 +5,7 @@ title: "Gothamchess vs #1"
 channel: Gotham Games
 url: "https://www.youtube.com/watch?v=n4ZK45AtvUA"
 watched_date: "2026-09-27"
-watched_at: "2026-09-27T12:00:00Z"
+watched_at: "2026-09-27T23:56:57Z"
 watch_count: 1
 duration_seconds: 1725
 source: youtube-history-browser

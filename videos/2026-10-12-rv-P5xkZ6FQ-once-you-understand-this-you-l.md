@@ -5,7 +5,7 @@ title: "Once You Understand This, You'll Stop Claiming at 62"
 channel: Nick Davis, CFP®
 url: "https://www.youtube.com/watch?v=rv-P5xkZ6FQ"
 watched_date: "2026-10-12"
-watched_at: "2026-10-12T10:08:45Z"
+watched_at: "2026-10-12T23:59:46Z"
 watch_count: 1
 duration_seconds: 1193
 source: youtube-history-browser

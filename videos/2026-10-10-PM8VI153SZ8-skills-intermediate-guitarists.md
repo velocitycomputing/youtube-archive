@@ -5,7 +5,7 @@ title: Skills Intermediate Guitarists Should Have
 channel: "Brandon D'Eon"
 url: "https://www.youtube.com/watch?v=PM8VI153SZ8"
 watched_date: "2026-10-10"
-watched_at: "2026-10-10T12:00:00Z"
+watched_at: "2026-10-10T23:59:25Z"
 watch_count: 1
 duration_seconds: 783
 source: youtube-history-browser

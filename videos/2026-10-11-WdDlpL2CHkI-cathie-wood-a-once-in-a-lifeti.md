@@ -5,7 +5,7 @@ title: "Cathie Wood: A Once in a Lifetime Opportunity is Coming"
 channel: David Carbutt
 url: "https://www.youtube.com/watch?v=WdDlpL2CHkI"
 watched_date: "2026-10-11"
-watched_at: "2026-10-11T12:00:00Z"
+watched_at: "2026-10-11T23:59:39Z"
 watch_count: 1
 duration_seconds: 2262
 source: youtube-history-browser
