@@ -27,8 +27,8 @@ summary_model: claude-haiku-4-5
 tagging_model: skipped
 proposed_tags: []
 proposed_entities: []
-status: new
-routed_to: null
+status: routed-to-ournation
+routed_to: ournation.us.news#75
 ---
 
 ## Summary
