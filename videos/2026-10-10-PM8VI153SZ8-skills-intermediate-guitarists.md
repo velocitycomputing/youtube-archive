@@ -4,16 +4,16 @@ video_id: PM8VI153SZ8
 title: Skills Intermediate Guitarists Should Have
 channel: "Brandon D'Eon"
 url: "https://www.youtube.com/watch?v=PM8VI153SZ8"
-watched_date: 2026-08-31
-watched_at: "2026-08-31T12:00:00Z"
+watched_date: "2026-10-10"
+watched_at: "2026-10-10T12:00:00Z"
 watch_count: 1
 duration_seconds: 783
 source: youtube-history-browser
 added_date: 
-history_label: Aug 31
-history_order: 26
+history_label: Saturday
+history_order: 35
 watched_at_precision: date-from-history-label
-watched_percent: 100
+watched_percent: 10
 estimated_watched_seconds: 783
 transcript_status: fetched
 transcript_content_hash: 7ce9b3fa2819ecf10a448628871e4528fc2b8d1638d0d031eca099b9a829ea64
