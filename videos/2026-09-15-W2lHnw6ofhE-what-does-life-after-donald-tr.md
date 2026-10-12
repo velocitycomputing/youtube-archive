@@ -18,12 +18,12 @@ estimated_watched_seconds: 477
 transcript_status: fetched
 transcript_content_hash: 0f8e98bca9c233c2d11d05ee26d3f12858723a386ba96a3780a5a3d0aab50ca3
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Zeihan argues that Trump will never voluntarily leave office and has no viable successor because he's systematically purged the Republican Party of everyone except absolute loyalists—eliminating national security, business, fiscal, and law-and-order conservatives. The GOP now exists solely to serve Trump's ego; it generates no independent policy, trains no candidates, and demands 100% compliance on every issue or faces Trump's primary challenges. Without institutional depth, Trump's dominance in primaries won't translate to general election viability for any successor, making the Republican Party "absolutely unelectable" when he eventually departs.
+Peter Zeihan, speaking from the Sierra National Forest, answers what happens if Donald Trump leaves office, arguing he will not relinquish power voluntarily and that succession is unlikely because Vice President J.D. Vance lacks an independent base and Trump would have to actively campaign for a successor. He claims Trump has hollowed out the Republican Party by purging law-and-order, business, national-security, and fiscal factions, leaving a loyalty-only MAGA machine that dominates primaries but may be unelectable in general elections, citing Trump’s campaigns against Mitt Romney, Nancy Mace, John Cornyn, and Josh Hawley. Zeihan compares this to Xi Jinping’s China, where he says purges exceeded 100,000 officials and Xi has produced roughly 300,000 words of ideological writing, and to Putin’s Russia, where he says the ruling elite has shrunk to fewer than 120 people with an inner circle of five, only two competent, and where Yevgeny Prigozhin’s Wagner march from Rostov-on-Don toward Moscow exposed state hollowness.
 
-Zeihan compares Trump's purge strategy to Xi Jinping's and Putin's hollow personality cults, noting that when such systems lose their leader, change is "catastrophic" because no institutions remain to manage succession. For voters, this signals that a Trump-endorsed successor will struggle in a general election, and significant political disruption is inevitable when Trump's term ends—either through succession chaos or institutional collapse. The takeaway: expect instability and unpredictable outcomes once Trump is no longer in power.
+Actionable takeaways: treat the video as a political-institutional risk thesis rather than a prediction; track whether Trump endorses a successor, whether that successor can survive a general election, and whether Republican candidates can attract non-MAGA voters. Useful research leads include comparing Trump-era GOP candidate recruitment and policy production with Xi-era CCP purges and Putin-era siloviki/organized-crime networks, and checking primary results, endorsements, and congressional retirements for signs of institutional decay. Follow-up questions: Does Vance, Rubio, or another Trump ally have independent appeal? Can Democrats field a viable alternative? What would happen to U.S. foreign and domestic policy if a personalist leader left abruptly? If the user wants health implications, the transcript offers none directly, though political instability can be a stressor; decisions would center on information hygiene, diversifying sources, and monitoring credible election and governance indicators rather than reacting to single predictions.
 
 ## Transcript
 

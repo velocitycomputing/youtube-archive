@@ -18,12 +18,12 @@ estimated_watched_seconds: 387
 transcript_status: fetched
 transcript_content_hash: 6c3a503f80e858feac67e08df037282f18028f57afab93e4d7df5db2d09a3cb1
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The U.S. Marine Corps developed the Archer, a low-cost first-person view attack drone, from concept to deployment in roughly one year (January–April 2026). The drone costs $2,000, has a 20 km range, and can be armed with modular warheads for $3,000 more. The innovation lies in the warhead design: it combines C4 plastic explosive and blasting caps—already in military inventory—with swappable disc warheads (anti-personnel or anti-armor), eliminating the need for new Department of Defense identification codes and lengthy weapons certification. A four-person team (two payload specialists, one pilot, one leader) operates the system, which uses daytime-optimized analog cameras and controls resistant to jamming. The Marines are still determining optimal employment levels and haven't committed to dedicated pilot job codes, but the system delivers brigade-level precision strike capability to company and platoon-level units.
+A U.S. Marine Corps demonstration at Camp Lejeune centered on a low-cost Archer one-way attack drone, described as NDAA-compliant, costing about $2,000 with a $3,000 weapon package and a 20 km range, giving company, platoon, or squad units precision fires once associated with brigade-level assets. The claimed development path moved from concept in January 2025 to a fieldable weapon in months by using existing C4, DODIC M023, and standard blasting caps, DODIC M130, with interchangeable anti-personnel or EFP anti-armor discs that avoid a new DODIC because they contain no energetics. The discussion also covered Ukraine-derived FPV drone lessons, the Army’s M7/6.8 mm ammunition tradeoff, analog controls for jam resistance, daytime-only camera limits, one-way launch with self-destruct, a four-person team requiring eight error-free rehearsals, five-line fire-support requests through an FSCC, deconfliction treated like an F-18, and a possible shift of Marine Air-Ground Task Force thinking to the company level; named entities include the Secretary of War, Colonel Scott Cuomo, Chief Warrant Officer 5 Steven Persall, Gunnery Sergeant Matt Laundrigan, 2nd Marine Division, and a Ground News sponsor segment about bias, ownership, factuality ratings, and blind-spot reporting.
 
-The actionable lesson is the Marines' mindset shift: accepting an 80% solution deployed today over waiting years for a perfect 5% improvement. This approach compresses capability delivery dramatically by leveraging existing inventory, NDAA-compliant off-the-shelf components, and modular design. For any organization facing similar pressure—whether defense, tech, or operations—the playbook is clear: remove perfection as a requirement, reuse existing infrastructure where possible, enable rapid cross-functional iteration (Weapons Training Battalion, 2nd Marine Division), and tolerate known trade-offs (daytime-only cameras, one-way deployment) in exchange for immediate operational value.
+Actionable follow-up: verify the drone’s official designation, manufacturer, NDAA compliance, unit cost, range, payload, night capability, and whether it is fielded or experimental; research how the C4/blasting-cap workaround complies with munition safety, DODIC, and explosive-handling rules; examine doctrinal questions about squad/platoon/company employment, pilot MOS, training standards, and fire-support deconfliction; compare analog versus digital links for jamming, latency, and reliability; and assess whether the “80% solution now” procurement model is a repeatable acquisition lesson or a short-term workaround. For a general user, the main implications are not health-related but safety, policy, and information-literacy: treat battlefield claims as needing independent verification, ask follow-up questions about civilian harm, export controls, and escalation risk, and use primary sources such as USMC releases, NDAA compliance lists, and defense-procurement records before drawing conclusions.
 
 ## Transcript
 

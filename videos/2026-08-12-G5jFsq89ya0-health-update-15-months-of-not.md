@@ -18,12 +18,12 @@ estimated_watched_seconds: 65
 transcript_status: fetched
 transcript_content_hash: e2232efc3eaa62a6b0854c21b9320dee5bdb5cc30fb08460c39ec97b31ab2bbe
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["intervention:lifestyle", "goal:symptom-relief", primary-source-video, "system:musculoskeletal"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-After 15 months unable to walk due to microvascular damage from long COVID (compounding a 25-year battle with ME), the speaker shares a framework for emotional survival during severe chronic illness. They describe the intensity of ME and long COVID as comparable to terminal illness in terms of suffering, then outline five core practices: recognizing complete rest as hard work, not passivity; gently addressing the internal "tyrannical voice" that insists "this shouldn't be this way" rather than forcefully silencing it; maintaining authenticity by showing up as yourself even in awful moments; asking "what can I do?" to identify small actions or appreciations (memories, sunshine, a loved one's smile); and cultivating kindness toward others as a way to accept illness rather than escape it.
+A speaker with myalgic encephalomyelitis for nearly 25 years and long COVID for 15 months described being unable to stand since April 24, mostly bed-bound, and using a wheelchair only briefly. They said specialists told them they have microvascular damage and clots in the lungs, summarized as “microvascularly screwed,” with little current treatment option. The talk framed ME and long COVID as violent, severe illnesses whose worst cases can resemble terminal illness in suffering, noted a claimed 5% recovery rate, and shifted to a written reflection on happiness while severely ill, citing Marion Milner’s 1930s book A Life of One’s Own and themes of acceptance, authenticity, surviving as achievement, and not letting the “shouldn’t be this way” voice become tyrannical.
 
-**For you:** If facing severe health setbacks or major life obstacles, practice accepting rather than fighting resistance by asking gentle questions ("what am I running from?") instead of internally demanding things be different. Identify tiny, specific things you can appreciate or do that align with your actual capacity—water, a partial smile, a memory—approached with wonder rather than pressure. Shift focus outward to kindness toward others and their struggles, which paradoxically deepens acceptance of your own constraints rather than distracting from them. The goal is not happiness despite suffering, but authenticity within it.
+For the user, the actionable takeaways are to treat profound rest as medically meaningful for ME/CFS or long-COVID-like illness, not laziness, and to ask clinicians about evaluation for microvascular injury, pulmonary clots, autonomic or vascular dysfunction, and possible therapies or trials rather than accepting “nothing can be done” without a second opinion. Practical self-management leads include pacing, minimizing sensory load, tracking good and bad days, and using low-demand mental practices: gentle acceptance, questioning avoidance, noticing small sensory joys such as water, sunlight, novels, or loved ones, and cultivating kind thoughts outward. Follow-up questions: What tests identify microvascular damage or lung clots? Are there evidence-based treatments, anticoagulation, anti-inflammatory approaches, or rehab strategies? Is the 5% recovery figure accurate for my subtype? Would a clinician experienced in chronic illness help with acceptance without denial?
 
 ## Transcript
 

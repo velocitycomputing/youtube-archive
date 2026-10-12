@@ -18,12 +18,12 @@ estimated_watched_seconds: 340
 transcript_status: fetched
 transcript_content_hash: b645291e0b4957ce33c990ee66a1c98e3d5e7ce97e6dd758a6b910ea67192948
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Swan detailed how VP JD Vance privately opposed the Iran war in Situation Room meetings but publicly defends it—a pattern corroborated by reporting from The Atlantic, Wall Street Journal, and Washington Post. More critically, he exposed that the war has severely depleted U.S. weapons stockpiles, particularly long-range missiles and air defenses, with the military burning months' worth of supply in days of fighting; this depletion is being publicly downplayed despite alarm within the military and national security community. He also described an internal Pentagon power struggle where Pete Hegseth defeated rival Secretary Driscoll, and revealed the administration conducted an unprecedented mass polygraph campaign targeting 50+ joint staff members to find leakers—a tool of intimidation rather than actual leak prevention.
+Jonathan Swan told Tim Miller on Bulwark Daily that his New York Times reporting, with Maggie Haberman and the book Regime Change, showed JD Vance was the only senior official who argued against the Iran war in Situation Room and Oval Office meetings, including when Netanyahu pitched Trump, while Vance publicly endorsed the war and Trump had not given him a 2028 endorsement; Swan said the private opposition was corroborated by The Atlantic, The Wall Street Journal and The Washington Post, and he rejected the idea that the story was a Vance leak because it damaged him with Trump. He also reported that the Iran war worsened U.S. munitions shortages, especially long-range missiles and air defenses, by drawing on EUCOM and INDOPACOM stocks for CENTCOM, leaving low Patriot, Tomahawk and ATACMS/precision-strike inventories despite defense-industry production claims; NBC and an inspector general report reportedly confirmed aspects of that reporting. Swan described mass polygraph testing of about 50 Joint Staff and other Pentagon officials as unprecedented and likely intimidation rather than effective leak detection, and discussed Pete Hegseth’s survival in a fight with Driscoll, Hegseth’s alliance with Stephen Miller, Cash Patel’s survival, Trump’s appetite for loyalists who will carry out lethal operations without legal pushback, and public opposition to the war tied to gas prices and costs. The interview also included Quint clothing and One Skin/OS-01 hair-serum ads, with claims of 43% greater hair thickness, 40% greater density and 75% visible new growth after three months.
 
-The actionable insight: the Trump administration is deliberately hiding the severity of both the weapons crisis and the war's strategic failure from the public. With gas prices linked to the conflict, no military path to victory, the public opposed to continued fighting, and internal power politics driving decisions rather than military judgment, the war is headed for a collision between political reality and strategic necessity over the next two years. The polygraph crackdowns signal the administration knows the situation is unsustainable and is resorting to fear tactics instead of addressing root problems.
+For the user, the actionable leads are to cross-check the Vance/Iran-war narrative against the original NYT extract and the Atlantic, WSJ and Washington Post reports, focusing on whether sources describe actual meetings versus anonymous spin, and to track whether Trump’s withheld endorsement changes Vance’s public posture. On national security, follow up on inspector-general and congressional reporting on munitions stockpiles, Patriot interceptor production, Tomahawk/ATACMS/PrSM inventories, EUCOM/INDOPACOM drawdowns, CENTCOM consumption, and defense-contractor delivery versus announced capacity; also watch Hegseth, Driscoll’s departure, Patel, Stephen Miller, and any use of the Defense Department for immigration enforcement or lethal counter-narcotics operations. For the health/consumer claims, treat the One Skin/OS-01 and skincare ads as unverified marketing until the cited clinical studies are reviewed for sample size, controls, duration, funding and peer review, and consult a dermatologist before using hair-loss or longevity products, especially if hair loss is sudden, patchy, painful or accompanied by medical symptoms.
 
 ## Transcript
 

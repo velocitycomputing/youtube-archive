@@ -18,12 +18,12 @@ estimated_watched_seconds: 134
 transcript_status: fetched
 transcript_content_hash: cf4c75ed7f39f8888048a9a6fc05d893c1fba72f913c18b8f1df8efb89d85e7d
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:renal", "system:metabolic", "goal:risk-reduction", "intervention:lifestyle"]
 proposed_entities: []
@@ -34,11 +34,9 @@ routed_to: null
 
 ## Summary
 
-**What was discussed:**
-Diabetes is the leading cause of kidney disease globally, but the damage begins during prediabetes and insulin resistance—years before a diabetes diagnosis. When blood sugar is chronically elevated, three mechanisms progressively destroy kidney function: glomerular hyperfiltration forces the kidneys to filter under excessive pressure; glycation damages the filtration barrier, allowing protein to leak into urine; and microvascular injury compromises blood supply to kidney tissue. Despite these risks, most people never monitor their kidney health. The critical metric is eGFR (estimated glomerular filtration rate, measured via blood test; normal >90, moderate disease <60), but the trend matters far more than any single reading—a stable 75 is very different from a 90 that dropped to 75. An ACR test (albumin-to-creatinine ratio) detects protein leakage even earlier. Most kidney damage happens silently, and by the time symptoms appear, significant function may already be lost.
+Dr. Alex argues that the most dangerous common threat to kidneys is chronic blood-sugar dysregulation from prediabetes, insulin resistance, and type 2 diabetes, which he says is the leading cause of chronic kidney disease and dialysis, citing about 40% of UK dialysis patients due to diabetic kidney disease and a higher US figure. He explains diabetic nephropathy through glomerular hyperfiltration, glycation of filtration-barrier proteins, albumin/protein leakage, and microvascular injury, and emphasizes that damage can begin before formal diagnosis. Key monitoring concepts include eGFR from creatinine (normal >90, 60–89 mildly reduced, <60 moderate CKD, <15 kidney failure), urine ACR for albumin leakage, and HbA1c thresholds (UK: <42 normal, 42–47 prediabetes, ≥48 diabetes; US: <5.7%, 5.7–6.4%, ≥6.5%), with the UKPDS trial cited as evidence that intensive glucose control reduces microvascular complications; he also claims about 40% of people in the UK and US are prediabetic or type 2 diabetic, often undiagnosed.
 
-**What's actionable:**
-Get your eGFR and ACR tested now; if you've had a blood test in the past year, eGFR is likely already on it—find that number and write it down. Request repeat testing at least yearly (preferably every 3 months short-term) to track the trend over time. Also check your HbA1c (which reflects average blood sugar over 3 months): normal is <42 mmol/mol in the UK or <5.7% in the US. Don't wait for kidney disease to be formally named before acting—declining eGFR is a signal to make changes immediately. Reduce ultra-processed foods and replace with whole ingredients, and walk for 15–30 minutes after meals. These two habits alone significantly lower blood sugar and insulin levels. Take ownership: you don't need a doctor's permission to request your own test results and check them every few months.
+Actionable steps: find your latest eGFR and ask for a urine ACR and HbA1c if not recently checked, then track trends rather than single values, ideally every 3 months short-term or at least annually, especially if you are over 40, carry abdominal weight, are inactive, eat ultra-processed foods, or have diabetes/hypertension/family history. If eGFR is falling even above 60, or ACR/HbA1c are abnormal, discuss causes and treatment with a GP/primary care clinician, including blood pressure, glucose control, and medication options; you can request these tests through NHS or a US PCP, or privately. Concrete lifestyle moves are reducing ultra-processed food, eating whole single-ingredient foods with fiber/protein/fats, and walking 15–30 minutes after meals, while avoiding reliance on supplements or symptom-based reassurance because kidney decline can be silent until advanced.
 
 ## Transcript
 

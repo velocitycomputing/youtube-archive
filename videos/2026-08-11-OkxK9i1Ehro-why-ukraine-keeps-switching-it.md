@@ -18,12 +18,12 @@ estimated_watched_seconds: 817
 transcript_status: fetched
 transcript_content_hash: 32fe4019d93d970f73b17d0d5f624867c6ff277c7a5bda56bd00be11bbe6f696
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video, geopolitics]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-**What was discussed:** Dara Massicot explains Ukraine's drone strategy, which appears scattered but is actually organized across three operational echelons: front-line strikes (0-30km), middle strikes (new capability, 30-200km into Russian-occupied territory), and deep strikes inside Russia. Multiple Ukrainian actors coordinate these—intelligence agencies, brigades, and specialty drone teams—creating perceived chaos that masks real planning. Russia's priority remains Donetsk, where it pursues a grinding positional war of constant infiltration by small teams supported by increasing drone coverage. Russian casualties are staggering (30,000+ per month for minor territory gains) but sustained by a checked-out domestic population, Kremlin propaganda about proximity to victory, and Gerasimov's doctrine of relentless pressure. Ukraine's expanding drone capability is now effective at degrading Russian logistics and movement but faces emerging threats from jet-powered Shaheds and surging Russian drone production.
+Dara Massicot, a senior fellow at the Carnegie Endowment for International Peace, argued after a front-line trip that Ukraine’s shifting drone targets—refineries, trucks, Sea of Azov and Black Sea shipping, Crimea infrastructure, and occupied-territory logistics—look chaotic but reflect layered strike systems: front strike about 20–30 km from the line of contact, middle strike up to roughly 200 km, and deep strike inside Russia. She named multiple Ukrainian actors, including HUR, SBU, corps and brigade-level drone units, and specialty teams such as K2/code 92 and Major’s group, saying they operate with assignments and areas of responsibility to create multiple dilemmas for Russia. She said Russia’s main priority is the Kramatorsk-Sloviansk fortress-city area, with pushes near Dobropillya, Lyman, Druzhkivka, and Kostiantynivka, using infantry infiltration, glide bombs, drones, Shaheds, and Tornado-S, especially during the foliage season from May to early October. Key claims included that Russian losses in July were about 30,000 killed or seriously wounded for roughly 100 square kilometers gained, that Kyiv is facing more ballistic and hypersonic attacks because Patriot interceptors are scarce, with 20–30 ballistic missiles sometimes unengaged, and that Odessa ports are being hit in response to Ukrainian sea strikes. She also highlighted emerging problems: jet-powered Shaheds, Russia’s drone production surge, vehicle-mounted electronic warfare, failed but instructive Russian combined-arms armored attacks, false Russian reporting, and the need for Ukraine to consider offensive strikes on missile production, transport, and launchers because defensive interceptor supplies are constrained.
 
-**What's actionable:** Ukraine's critical shortage of Patriot interceptors (global stockpiles depleted through 2030+) means defensive solutions alone won't work—the strategic pivot is to offensive strikes targeting Russian ballistic missile launchers and production facilities. For external observers, the key insight is that this war will remain a grinding slog through at least late 2026, intensifying through autumn foliage season (October) before winter consolidation. The precedent of failed Russian advances for four years suggests "just a little more time" is a persistent miscalculation; Ukraine needs precision deep-strike capabilities (possibly Starlink integration) and allies must accept that preventing Russian ballistic strikes on cities requires offensive solutions, not defensive abundance.
+Actionable takeaways are to treat Ukrainian target rotation as a signal of distributed drone coordination, not random opportunism, and to track named entities and target sets—HUR, SBU, corps-level drone allocation, K2/code 92, Major’s group, Odessa ports, Crimea logistics, Sea of Azov shipping, and Donetsk-sector Russian advances. Useful research leads include Ukrainian middle-strike command structures, Patriot interceptor stockpiles, jet-powered Shahed countermeasures, offensive counter-battery and missile-launch suppression, Starlink or other precision links for deep strikes, Russian vehicle-mounted EW, and whether small armored attacks scale into larger combined-arms operations. Follow-up questions should ask whether target shifts are sustained campaigns or PR-driven highlight reels, whether Ukraine is moving from defending cities to degrading Russian launch capacity, whether Russian false reporting is shaping Kremlin expectations, and whether seasonal foliage before early October produces a sharper Donetsk offensive. For health or personal-use implications, the transcript offers no medical guidance, but the practical safety angle is to limit exposure to graphic drone footage, verify casualty and territorial claims against multiple OSINT sources, and seek mental-health support if conflict coverage causes distress.
 
 ## Transcript
 

@@ -18,12 +18,12 @@ estimated_watched_seconds: 422
 transcript_status: fetched
 transcript_content_hash: 2c862c7dd3caa82e000d072b96a8f6ca387ab206979adfcf2e4a5e91d8feed91
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:cardio", "system:metabolic", "system:cognitive", "system:renal", "goal:risk-reduction", "goal:longevity", "intervention:lifestyle", primary-source-video]
 proposed_entities: []
@@ -34,13 +34,9 @@ routed_to: null
 
 ## Summary
 
-**What Was Discussed**
+Seth, an ER doctor and former special ops operator, describes recurring, largely preventable ER presentations: alcohol and drug illness/injury including alcohol poisoning, withdrawal seizures, liver failure, esophageal variceal bleeding, accidents, domestic violence, drunk-driving injuries, overdoses from opioids/meth/fentanyl/cocaine, psychosis, cardiac events, IV-drug infections, and endocarditis requiring weeks of IV antibiotics and often open-heart surgery; type 2 diabetes complications such as diabetic ketoacidosis, severe hypoglycemia, nonhealing foot/leg infections, neuropathy-related falls, kidney failure needing dialysis, and retinal blindness; heart attacks and heart failure driven by processed food, chronic inflammation, unmanaged hypertension, smoking, inactivity, and visceral fat; strokes caused by clots or bleeds, with uncontrolled hypertension as the biggest modifiable risk factor; COPD/emphysema/chronic bronchitis mostly from smoking; and mental health issues appearing as panic-attack chest pain, stress-driven hypertensive crises, and widespread antidepressant/anti-anxiety medication use. He claims heart disease is the number one killer in America, that many type 2 diabetes cases are reversible early with diet/lifestyle, that COPD is progressive and irreversible, and that addiction is a physiological hijacking of reward circuitry rather than simple character weakness, while emphasizing harm to families and young patients.
 
-Seth, an ER doctor, reveals the six most preventable patient presentations he encounters every shift: alcohol and drug-related emergencies (withdrawal seizures, liver failure, overdoses, endocarditis from IV use); type 2 diabetes complications (ketoacidosis, infections leading to amputation, kidney failure, blindness); heart attacks and heart failure from decades of processed food, hypertension, smoking, and sedentary living; strokes driven primarily by uncontrolled blood pressure; COPD from smoking (irreversible and progressive); and untreated mental health conditions manifesting as physical symptoms and chronic stress. He emphasizes that these conditions are not sudden—they're the final chapter of decisions made 10-30 years earlier—and the human cost extends beyond individual patients to devastated family members and young people whose bodies prematurely fail.
-
-**What's Actionable**
-
-Stop waiting. Right now, choose: processed foods or real food, sedentary or movement, alcohol abuse or moderation, unmanaged stress or active stress management, and untreated anxiety/depression or proactive mental health care. Get your blood pressure checked and managed. If you smoke, the irreversible damage starts immediately. These choices compound daily, but so do their opposites—every meal, every walk, every night of sleep, and every moment of stress you process is writing the story of whether you end up in the ER in 10-20 years. Your health decisions ripple outward to the people who love you; make them differently.
+For the user, the actionable core is to treat blood pressure, blood sugar, weight, smoking, alcohol, movement, sleep, stress, and mental health as early preventive priorities rather than waiting for symptoms: get regular checks of blood pressure, fasting glucose or A1c, lipids, kidney function, and medication side effects; ask about prediabetes/diabetes reversal, hypertension targets, and cardiovascular risk if there is family history or excess visceral fat; avoid or minimize alcohol and recreational drugs, seek early addiction treatment before dependence escalates, and use smoking cessation support if tobacco is involved; adopt evidence-backed habits such as whole-food eating, regular aerobic and resistance exercise, adequate sleep, stress reduction, and social connection, using them alongside—not instead of—prescribed mental-health medications when needed; monitor diabetic foot wounds and circulation, and seek emergency care immediately for chest pain, sudden weakness/speech trouble, severe breathing difficulty, altered mental status, or suspected overdose. Useful follow-up questions include: What are my current BP, A1c, LDL, and waist circumference? What is my 10-year cardiovascular risk? Are my symptoms stress-related, medication-related, or cardiac/neurologic? What safe alcohol limit, exercise plan, dietary pattern, and mental-health support fit my history?
 
 ## Transcript
 

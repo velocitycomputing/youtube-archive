@@ -18,12 +18,12 @@ estimated_watched_seconds: 188
 transcript_status: fetched
 transcript_content_hash: c917e97ee6b6634ccef1a9556467cfc7fd8eff8a94d703252a8d06d1b87c8d0c
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video, "system:cognitive", "system:metabolic", "intervention:lifestyle", "condition:cognitive-symptoms", "goal:symptom-relief"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Dr. Alex George shares his two-year sobriety journey after quitting alcohol on December 4, 2022, when he realized he was 21 stone overweight, deeply depressed, and completely lost. He traces his drinking to 2018 after Love Island fame (using alcohol to manage social anxiety), then intensifying after his brother's suicide four years earlier, during which he combined overworking with heavy drinking as coping mechanisms. He details unexpected early sobriety challenges: his sleep worsened for eight weeks before improving as his brain adapted to the absence of alcohol; the emotional void that emerged when grief and loneliness resurfaced; and the social realization that people don't care whether he drinks. Over two years, he lost seven stone, gained consistent energy for exercise, experienced more emotional stability and mental clarity, saved hundreds of pounds monthly, and rebuilt his life around meaningful activities like his Stomp Cast podcast, gym, and social connections.
+Dr Alex George describes becoming two years alcohol-free after a turning point on 4 December 2022, when he felt physically unwell, emotionally numb, and at risk of dying young; he was then about 21 stone at 6'3", depressed, overweight, and using alcohol to cope with anxiety, social pressure after Love Island, overwork, government campaigns, and grief after his 19-year-old brother died by suicide. He says he was not addicted but struggled with alcohol, had recently been diagnosed with ADHD, and found that alcohol worsened impulsivity and emotional suppression. Key claims include that quitting initially made sleep worse for about eight weeks before improving, that alcohol can damage brain cells and the brain needs time to form new pathways, and that sobriety led to major physical, mental, emotional, social, and financial changes: about seven stone lost, more energy, better discipline, steadier mood, clearer memory, richer emotional experience, reduced spending on alcohol/taxis/takeaways, and better productivity. He also discusses socializing sober, the “void” left by alcohol, filling it with walking, exercise, Barry’s, running, guitar, piano, and friendships, and references neuroscientist Nicole Vinola and his Stomp Cast podcast.
 
-To apply this: if considering sobriety, don't restrict your life—actively enrich it with new hobbies, classes, or social activities to fill the void alcohol created. Expect to confront underlying emotions rather than numb them, which requires patience and processing (he emphasizes this takes years, not months). In early sobriety, test your comfort with social situations; go briefly to events, observe what you actually enjoy, and realize your absence from drinking won't be judged. Focus on sustainable changes like daily walks or exercise that provide both mood boosts and social connection. Understand that healing from years of drinking behavior requires time proportional to how long you drank—set realistic expectations and build gradually rather than attempting everything at once.
+For the user, the actionable takeaways are to treat alcohol reduction as a health experiment with concrete tracking: baseline weight, sleep quality, mood, anxiety, spending, productivity, and social triggers, then reassess after 8–12 weeks because sleep and mood may worsen before improving. If someone drinks heavily or daily, they should not abruptly quit without medical advice because withdrawal can be dangerous; safer steps include discussing a plan with a clinician, setting a clear start date, choosing whether to avoid or briefly test alcohol-free social settings, and replacing drinking time with enriching activities rather than simply restricting life. Research leads include alcohol’s effects on sleep architecture, neuroadaptation, ADHD and impulsivity, grief and emotional avoidance, exercise as mood regulation, and the financial cost of drinking beyond the drink itself. Decisions to consider: whether alcohol is masking ADHD symptoms, anxiety, loneliness, or grief; whether to try a defined alcohol-free period; whether to seek therapy for grief or ADHD; and whether to build a support system, morning walks, exercise classes, and sober social habits before relying on willpower alone.
 
 ## Transcript
 

@@ -18,12 +18,12 @@ estimated_watched_seconds: 123
 transcript_status: fetched
 transcript_content_hash: ae2c3bfb67418e5ca738b9b4314f0abc515029f2ebf92f5f7483f33afd6b3ce6
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:cardio", "intervention:medication", "intervention:lifestyle", "goal:longevity", "goal:risk-reduction"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-A 48-year-old celebrity fitness trainer and bodybuilder in Mexico named Anar died suddenly of a heart attack at the gym. While the creator noted that Anar was genuinely a positive influence—sharing health tips, form corrections, and recipes rather than promoting extreme physiques—his exceptional musculature almost certainly required anabolic steroid use. The video explains the specific mechanisms by which long-term steroid use damages the heart: steroids cause severe lipid profile deterioration (elevated LDL and apolipoprotein B, dropped HDL), trigger true arterial disease and atherosclerosis buildup in coronary arteries, thicken the blood leading to clotting risks, and activate androgen receptors on heart tissue causing unhealthy enlargement. The danger isn't immediate—steroids lay groundwork for cardiac failure years or decades later.
+A 48-year-old Mexican bodybuilder and celebrity trainer, identified in the transcript as Anar, died suddenly at a gym in Mexico City on September 4; the speaker says he was a father of three, had planned to see the Miami Dolphins and visit New York, and was considered a positive fitness influence, while also noting a similar gym incident involving Cali Muscle. The transcript uses his death to discuss anabolic steroids/gear, citing the Harlem study’s reported short-term androgen exposure effects: LDL up ~45 mg/L, apoB up 18.2 mg/dL, HDL down 40 mg/dL, blood pressure up ~10 points, and hematocrit up ~3%. It also cites a controlled study of 86 long-term AAS users versus 54 non-users aged 34–54 showing greater coronary plaque, systolic/diastolic myocardial dysfunction, and atherosclerosis, plus mechanisms including thickened blood, clotting/vasospasm, and androgen-receptor-mediated cardiac hypertrophy.
 
-For anyone considering steroids, the actionable prevention strategy is aggressive medical monitoring: get yearly organ imaging (echocardiograms and calcium scores), blood work every 10–12 weeks tracking apolipoprotein B and inflammatory markers (not just standard cholesterol), and monitor trends over time rather than relying on "in-range" snapshots. Additionally, regularly check blood pressure and resting heart rate, address sleep apnea, do consistent cardio, and consider prophylactic medications like ezetimibe (for cholesterol), telmisartan (for blood pressure), and PCSK9 inhibitors if lipid profiles worsen—but only under professional medical supervision. The core lesson: proactive monitoring and intervention prevent catastrophic outcomes.
+The actionable takeaway is that AAS use should be treated as a chronic cardiometabolic risk requiring preventive monitoring rather than waiting for symptoms: avoid or stop gear if possible, and if using, get annual echocardiogram, coronary calcium score, and organ imaging; get labs every 10–12 weeks tracking apoB, apoA, Lp(a), hs-CRP, GGT, CMP, CBC, hematocrit, blood pressure, resting heart rate, and sleep apnea; interpret trends rather than single in-range snapshots; prioritize cardio, sleep, and BP control; and discuss physician-supervised prophylactic options mentioned in the transcript such as ezetimibe, telmisartan, low-dose nebivolol, PCSK9 inhibitors, and SGLT2 inhibitors like empagliflozin, while asking follow-up questions about personal plaque burden, lipid trends, hematocrit, and whether imaging or medication is warranted.
 
 ## Transcript
 

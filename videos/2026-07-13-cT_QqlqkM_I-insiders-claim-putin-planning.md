@@ -18,12 +18,12 @@ estimated_watched_seconds: 1271
 transcript_status: fetched
 transcript_content_hash: 220cc5d40e5e636f914527b293b651001158454031686c87f8d3530488e4594f
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, primary-source-video]
 proposed_entities: []
@@ -34,11 +34,9 @@ routed_to: null
 
 ## Summary
 
-**What was discussed:**
-Multiple Kremlin sources told Reuters that Putin is planning a major escalation and has rejected ceasefire proposals, insisting on seizing the remainder of the Donbas. The speaker analyzes casualty data showing Russia is suffering nearly 40,000 monthly killed-in-action and wounded, far exceeding recruitment capacity of 30,000-32,000 monthly, which would require roughly a million total casualties to capture the Donbas at the current burn rate. This indicates Putin is receiving false information about military feasibility. Economic pressure (historically high bond yields, collapsed crude prices) leaves escalation as Putin's only viable option short of surrender, as it would justify full mobilization of Russian men and further militarization of the economy. The speaker warns Putin may attempt armed provocations in Poland or the Baltics to create pretext for declaring war on NATO and forcing mobilization, while US signals of NATO skepticism (Trump's Greenland demands, criticism of NATO spending, signaling non-involvement) are encouraging Putin to believe escalation might succeed.
+Kremlin sources cited by Reuters claim Putin is “digging in” on seizing the rest of Donbas, rejecting ceasefire-compromise advice, and that a source close to him sees a “high probability” of escalation; the host ties this to Ukrainian strikes on Russian refineries, shipping, and vessels causing fuel shortages and depressed Urals crude, plus elevated Russian bond yields. He uses DeepState maps and casualty figures to argue the remaining Donbas objective is militarily difficult: Luhansk is nearly occupied, but the deepest remaining Donetsk advance is about 55 km, while four years of war produced roughly 52 km of advance in occupied Donbas, implying an unsustainable casualty burden. Key data cited include Russian monthly casualties rising from about 4,000 early in the war to about 32,000 in January, 26,000 in February, 32,000–34,000 later, and nearly 40,000 in the latest month, versus peak recruitment of about 30,000–32,000 per month. The transcript also discusses possible Russian provocations in Poland or the Baltics, full mobilization as a way to unlock manpower and further militarize Russia’s economy, NATO’s perceived weakness, Trump/Fox News claims about NATO failing “secret tests,” Greenland, Iran, 2% and 5% GDP defense spending, Estonia’s small military, and a sponsor segment for Strike Gum.
 
-**What's actionable:**
-Monitor for Russian provocations targeting NATO airspace or territory (Poland, Baltics) as false-flag triggers for escalation. Prepare for potential NATO military responses to such provocations, as escalation could push Putin toward direct NATO conflict if he believes US support for NATO is unreliable. Track Russian mobilization announcements and economic indicators (bond yields, recruitment capacity) as warning signs of imminent escalation. If you're in Eastern Europe or NATO countries bordering Russia, heightened situational awareness of military activity is warranted given the elevated escalation risk.
+For the user, treat this as a high-stakes geopolitical signal rather than a confirmed plan: verify the Reuters report and source anonymity, compare DeepState/OSINT casualty and map estimates, check Russian bond yields and Urals crude prices, and distinguish deterrence messaging from actual mobilization or NATO policy. Watch for concrete indicators: Russian force buildup near Poland/Baltics, airspace violations, mobilization decrees, changes in recruitment bonuses, NATO Article 4/5 consultations, U.S. troop posture, and whether Trump statements become official policy. For personal health, limit doomscrolling if it raises anxiety, use reliable sources, and if the sponsor matters, compare Strike Gum’s caffeine and zero-sugar claims with your own caffeine tolerance, dental health, sleep sensitivity, and any medical conditions before replacing energy drinks. Follow-up questions include whether escalation is mainly intended to justify mobilization, whether NATO would respond to limited provocations, and whether U.S. policy is actually retreating from NATO commitments or merely using coercive rhetoric.
 
 ## Transcript
 

@@ -18,12 +18,12 @@ estimated_watched_seconds: 817
 transcript_status: fetched
 transcript_content_hash: edd743032d0a55dd4d756924fe6f7a4d6ff5af32f739871cbaf8cec74a3992f5
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-In June 2026, Ukraine eliminated or seriously wounded 28,000 Russian soldiers—exceeding total U.S. casualties from 20 years in Afghanistan—through coordinated drone strikes and deep logistics strikes hitting refineries, supply routes, and front-line positions. Ukraine's top drone unit (SBU Alpha) inflicted 5,500 casualties in a single month, compared to 809 by Russia's top unit (Rubicon). Russia gained only 112 square kilometers of territory in June, the slowest monthly pace since June 2024, meaning each square kilometer cost 250 Russian soldiers. Russian officials have begun publicly calling the conflict a "war" rather than a "special military operation," and milbloggers report mobilization preparation is underway for late September/October, suggesting Russia may announce general conscription.
+Ukraine’s June battlefield and deep-strike campaign was framed around claims by Ukrainian Defense Minister Fedorov that forces hit more than 200,000 targets, nearly doubled strikes beyond 50 km, intercepted 49,575 drones, and killed or seriously wounded almost 28,000 Russian soldiers—video-verified casualties compared to roughly 24,000–25,000 U.S. casualties in Afghanistan over 20 years. The transcript contrasted this with Russia’s Rubicon drone unit reporting 109,000 missions and 807 Ukrainian soldiers eliminated, plus disputed equipment claims, and with SBU Alpha claiming 5,500 Russian soldiers killed or seriously wounded and destroying 78 artillery systems, 34 radar/EW systems, 33 armored vehicles including 7 tanks, 16 MLRS, and 14 air-defense systems. It also cited Deep State and Russian milblogger Creamy Caprice on June territorial gains of 84 and 112 sq km respectively, yielding an implied cost of about 250 Russian casualties per square kilometer, while Russian milblogger Officer at the Front and Kremlin spokesperson Dmitry Peskov’s “war” language fueled speculation about mobilization.
 
-Monitor Russian mobilization announcements and logistical degradation over the coming months: as Ukraine's strike campaign compounds supply shortages reaching the front lines, expect Russian advance rates to decline further despite numerical reinforcements. The fundraiser for Ukrainian military trucks stands at 94,000 of 97,000 euros (nearly complete), with the 20th vehicle delivered to the 225th Assault Regiment; track whether the September-October follow-up campaign achieves its goal to fully equip additional units.
+Actionable follow-up is to treat the 28,000 figure as a Ukrainian video-verified killed-or-seriously-wounded claim, not total casualties, and cross-check it against Ukrainian General Staff updates, Russian milbloggers, Oryx, BBC Mediazona/Novaya Gazeta, Deep State maps, and independent OSINT before drawing conclusions. Key research leads are whether Russia is preparing mobilization by tracking martial-law language, recruitment contracts, military-district announcements, and refineries/logistics strikes; whether drone attrition is slowing advances by comparing monthly territory gains, assault counts, and supply disruption; and whether equipment claims from Rubicon and Alpha are overstated. If the user wants to respond personally, verify any fundraiser or charity before donating, prioritize medical, demining, or humanitarian organizations if concerned about civilian harm, and monitor personal mental health when consuming graphic war content by limiting exposure and seeking support if anxiety, intrusive images, or distress appear.
 
 ## Transcript
 

@@ -18,12 +18,12 @@ estimated_watched_seconds: 72
 transcript_status: fetched
 transcript_content_hash: 535febdd1a9bb023ea55506e371486496f83144c32d89952e9608aca61d94638
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:renal", "condition:bph", "intervention:lifestyle", primary-source-video]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Pelvic health physical therapist Becca Ironside explains benign prostate hyperplasia (BPH), a condition where the prostate gland enlarges and compresses the urethra, restricting urine flow. Symptoms include difficulty initiating urination, constant urgency to pee, and frequent nighttime awakening (sometimes producing only a few drops despite intense urgency). The enlarged tissue sends false signals to the brain. Medical treatment typically starts with medications like Flomax to relax the urethra, with modern surgical options available. Untreated BPH can escalate to a medical emergency—complete inability to urinate requiring ER intervention.
+Becca Ironside, a pelvic health physical therapist, explains that benign prostatic hyperplasia (BPH) is prostate enlargement that can compress the urethra, using a banyan-tree tunnel analogy to describe restricted urine flow. She describes symptoms such as difficulty starting urination, urgency, and waking multiple times at night, emphasizing that urgency may not match actual bladder volume and can produce only a few drops. She recommends urological evaluation for changes in urination frequency or nighttime waking, notes alpha-blockers such as Flomax as first-line medication to relax the prostate/urethral opening, and mentions modern prostate procedures as alternatives to older, less-effective treatments. She warns that complete inability to urinate is an emergency, and she links chronic straining, high abdominal pressure, and poor pelvic-floor relaxation to pelvic tension, urinary hesitation, and possible hernias.
 
-To manage BPH, see a urologist if you experience changes in urination patterns. Adopt these lifestyle techniques: avoid Kegel exercises (which increase pelvic floor tension); reduce abdominal pressure by relaxing your belly rather than holding it in; use "log rolling" to get out of bed (roll to your side, sit up with neutral spine) to minimize pressure spikes; sit to urinate with legs apart and breathe deeply rather than straining; wait 30 seconds after standing if taking Flomax to avoid dizziness. Crucially, recognize that nighttime urgency is often a false signal—don't assume a full bladder. Instead, gradually extend the time between bathroom trips (every 2 hours → 2.5 → 3 hours) to retrain your body and recover full sleep cycles.
+For the user, the actionable steps are to see a urologist if nighttime urination, urgency, weak stream, or hesitancy are worsening; ask about medication side effects such as dizziness or low blood pressure with Flomax; avoid routine Kegels if pelvic-floor tension is suspected; get out of bed by log-rolling and sit for 30 seconds before standing to reduce fainting risk; sit to urinate with legs apart, rock gently, and use diaphragmatic belly breathing instead of bearing down; if only a few drops come out, stop and walk away; and practice bladder retraining by gradually extending nighttime void intervals from every 2 hours to 2.5 and then 3 hours, recognizing false urgency from prostate irritation rather than a full bladder. Follow-up questions should include whether symptoms suggest BPH, infection, overactive bladder, sleep apnea, or medication effects; whether pelvic-floor physical therapy is appropriate; and whether urodynamics, prostate imaging, PSA testing, or minimally invasive procedures are needed.
 
 ## Transcript
 

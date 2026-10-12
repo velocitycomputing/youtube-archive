@@ -18,12 +18,12 @@ estimated_watched_seconds: 2482
 transcript_status: fetched
 transcript_content_hash: 165d83e443106ce2c583a5af045303ebd032875b38a87ba66a233ae3ee7b4b20
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:cognitive", "condition:cognitive-symptoms"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Clive Wearing suffered catastrophic brain damage in 1985 when the herpes simplex virus crossed his blood-brain barrier and caused encephalitis, destroying his memory centers. He now lives with a 7-second memory span and cannot retain new information—he doesn't recognize his wife Deborah on each visit, cannot read books, and experiences every moment as if waking for the first time. Despite this, his procedural memory remained intact, allowing him to still play music and conduct. The documentary follows his life over 20 years: his wife's devotion to placing him in specialized care, their monthly visits despite living 85 miles apart, the emotional toll on his adult children who lost their father, and his surprising ability to maintain personality traits and engage socially despite having no continuous memory of events.
+Clive Wearing, a former renowned conductor and early-music producer for Radio 3, is presented as one of the world’s most extreme amnesia cases after a 1985 herpes simplex virus infection crossed the blood-brain barrier, caused encephalitis, destroyed parts of his brain, and left him with only a claimed 7-second conscious memory; the transcript follows his life at age 67 in a supervised brain-injury unit, his wife Deborah’s 85-mile-away home in Reading, their monthly visits, his preserved musical/procedural abilities despite not recognizing that he has just played music, his auditory hallucinations, his inability to recognize people, places, dates, or his own recent actions, and his repeated description of consciousness as “like death,” while also covering Deborah’s caregiving burden, divorce, return to the UK, work with Headway, renewed marriage vows, and family pain from son Edmund and sister Adele, including key details such as his 102–104°F fever, disappearance from home, cab ride to West Hampstead police station, tracing by a Barclay card, treatment at St. Mary’s Hospital, 1992 move to a specialist unit, and rare “one in a million” risk of herpes encephalitis entering the brain.
 
-For viewers, this case illustrates both the fragility of human cognition and the resilience of love and routine. If you or someone you know experiences sudden fever, severe headaches, and confusion, seek emergency medical attention immediately—early treatment of encephalitis can prevent permanent damage. More broadly, the story reveals how quality of life depends less on memory than on present relationships and engagement; even without remembering anything, Clive finds meaning in his wife's presence and moments of connection. For those supporting someone with memory loss or cognitive decline, the documentary models how constancy and patient interaction—rather than recalling the past—can sustain both care and dignity.
+For the user, the actionable health implication is that sudden fever plus rapidly worsening confusion, memory loss, personality change, inability to recognize family, wandering, or neurological signs such as a “floppy” limb should be treated as a medical emergency, with follow-up questions for clinicians including whether encephalitis is possible, whether herpes simplex encephalitis has been ruled out, and whether urgent tests such as brain imaging, lumbar puncture/HSV PCR, and antiviral treatment are needed; research leads include herpes simplex encephalitis, limbic-system damage, anterograde and retrograde amnesia, procedural memory, brain-injury rehabilitation, and caregiver support through organizations like Headway, while practical decisions to consider are arranging specialist brain-injury care, legal/financial planning, emergency protocols for wandering, communication strategies that avoid overwhelming the patient, and family support for spouses and adult children who may avoid visits because the experience is emotionally devastating.
 
 ## Transcript
 

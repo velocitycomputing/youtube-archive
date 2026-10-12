@@ -18,12 +18,12 @@ estimated_watched_seconds: 110
 transcript_status: fetched
 transcript_content_hash: e4a37fc90dcbaf4e3e7b0b4b775a672a1302e3e81ad9c7d25284146bc4e4664c
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Ukraine's overnight strikes hit Wildberries logistics facilities across Russia (St. Petersburg, Tver, Crimea), creating apocalyptic scenes, yet Putin and the Kremlin have remained publicly silent. The analyst explores Putin's mindset: he views these attacks as Ukrainian attempts to destabilize Russia politically during a constrained window—before the September election, when he cannot mobilize troops without triggering domestic unrest. Putin deliberately downplays the destruction because he believes acknowledging the crisis plays into Ukraine's destabilization strategy. Meanwhile, within the regime, factions openly debate ending the war (Kiriyenko's office, economic block), but this isn't regime collapse; it's "vertically sanctioned" debate—Putin positioning himself as referee between competing perspectives, a control mechanism he values. Putin remains psychologically calm, having faith in General Gerasimov's slow-attrition strategy and believing long-term ideological currents (Ukrainian political crisis, NATO's "unnatural" Eastern European presence) will vindicate him eventually.
+Ukrainian strikes on Wildberries facilities in Shushary near St Petersburg, Tver Tsentr, and Crimea, plus other impacts across Russia, frame the video’s claim that the Kremlin and Putin are publicly silent because they view the attacks as Ukraine trying to exploit a politically constrained period before a September election and before a possible October mobilization window. The speaker argues Putin sees mobilization as too destabilizing now, believes overreacting would amplify Ukraine’s goal of economic and political destabilization, and remains calm because he expects long-term Ukrainian/Western political collapse, has faith in Gerasimov to deliver slow front-line progress, and views the situation as “fairly well with some glitches.” The transcript also says apparent regime debate—associated with Kiriyenko’s office and economic officials—is not implosion but permitted venting, as Putin historically acts as referee among factions, with Prigozhin’s mutiny and conflicts with Shoigu/Gerasimov as a cautionary example; it predicts demotivation and low-level sabotage among lower-level officials, a largely depoliticized Russian population, small pro- and anti-war minorities (the “twin 20%” maybe closer to 10%), and only a minor rally-around-the-flag effect.
 
-For observers, the actionable takeaway is that Putin's silence reflects calculated strategy, not panic or weakness—watch for a potential mobilization push after the September election and a winter campaign targeting Ukrainian energy infrastructure. The regime's internal debates signal no imminent fracture; Putin will eventually arbitrate factions toward a chosen direction. Russian public opinion remains largely depoliticized, with only small minorities (roughly 10–15% pro-war, slightly fewer anti-war) holding firm convictions; even the destruction on Russian soil will likely produce only a minor "rally around the flag" effect, leaving Putin's decision-making unconstrained by domestic pressure.
+For the user, the actionable takeaways are to treat the video as an interpretive geopolitical hypothesis rather than verified reporting: cross-check the Wildberries/St Petersburg/Tver/Crimea strike claims with open-source imagery, Ukrainian/Russian official statements, and independent conflict trackers; research the claimed September election constraint, October mobilization timing, fuel/logistics disruption, and the roles of Kiriyenko, Gerasimov, Shoigu, Prigozhin, and Mark Galeotti’s analysis; and monitor whether Putin’s silence persists, whether permitted elite debate expands, and whether attacks on energy/logistics infrastructure produce measurable political or economic pressure. Follow-up questions should ask what evidence distinguishes sanctioned debate from real factional conflict, how much Wildberries facilities matter to Russia’s war economy, whether mobilization is logistically feasible after elections, and whether population attitudes are shifting beyond a minor rally effect; there are no direct health implications, but if the user is tracking this for work or personal awareness, limit exposure to graphic strike footage and use primary sources to reduce uncertainty and stress.
 
 ## Transcript
 

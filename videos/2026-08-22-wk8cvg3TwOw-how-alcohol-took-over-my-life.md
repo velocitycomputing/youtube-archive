@@ -18,12 +18,12 @@ estimated_watched_seconds: 590
 transcript_status: fetched
 transcript_content_hash: 01deeb221f90523e6cc01d4a2c55eadf065e831d31e9cc51ffc745a74bda5746
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video, "system:cognitive", "system:gi", "condition:cognitive-symptoms", "intervention:lifestyle", "goal:symptom-relief", "goal:risk-reduction"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Multiple speakers share deeply personal accounts of alcohol addiction spanning decades, from their first drinks in childhood through progressive dependence that consumed their careers, families, and health. Common themes include: early normalization of drinking (as young as age 12-15) within family and cultural contexts; using alcohol to self-medicate for bullying, depression, anxiety, and trauma; peak consumption of ~1,000 units weekly (far exceeding the 14-unit guideline); cascading consequences including job loss, prison time, homelessness, Social Services involvement, and near-fatal health crises (liver failure, kidney failure, suicide attempts); and multiple failed rehabilitation attempts before sustained recovery.
+Multiple first-person accounts describe alcohol dependence developing from early exposure—some first drank at 12, 15, or 16—and being reinforced by family, Irish pub culture, Fleet Street/Reuters journalism, BBC broadcasting, modeling, football at Nottingham Forest/England, acting on Shameless, and New York nightlife, where drinking was framed as confidence, fun, or a badge of honor. Speakers claim they hid bottles, drank before work or broadcasts, used alcohol to cope with bullying, anxiety, depression, low self-esteem, trauma, and loneliness, then escalated to daily heavy use, blackouts, morning drinking, withdrawal shakes, hallucinations, A&E visits, DUI at five and a half times over the limit, prison, domestic violence, child removal by Social Services, bankruptcy, homelessness, suicide attempts, and medical warnings including “liver the size of Scotland,” high blood pressure, swollen feet, kidney/liver failure, and possible death within two years. Key figures include 14 units/week recommended versus about 1,000 units/week for one speaker, a bottle of wine nightly, 30 bottles stashed in a wardrobe, a fridge stocked with Krug and Cristal but no milk, a 32,000-pound whiplash settlement spent on alcohol, rehab at 39 after 20+ years of heavy drinking, and being the youngest rehab patient by about 25 years.
 
-If you're struggling with alcohol: recognize the warning signs (daily drinking, hiding consumption, physical withdrawal symptoms, deteriorating work/family/legal situations) and seek medical intervention immediately—don't wait for rock bottom. Detoxification requires medical supervision due to dangerous withdrawal effects. Effective recovery typically requires multiple treatment attempts and sustained support from rehab programs, counseling, and support networks. Address underlying mental health issues (depression, anxiety, trauma) alongside addiction treatment. Recovery is achievable even after severe addiction, but it demands commitment to both stopping the substance and facing the deeper issues alcohol was masking.
+Actionable takeaways: treat daily drinking, morning drinking, inability to stop after one drink, hiding bottles, blackouts, withdrawal shakes, hallucinations, or drinking despite liver/kidney, mental-health, relationship, legal, or child-safety consequences as urgent signs to seek medical and addiction support rather than willpower alone; compare current intake with the UK 14-unit weekly guideline and ask a GP for liver/kidney tests, blood pressure checks, AUDIT/CAGE screening, and referral to addiction medicine or dual-diagnosis services if anxiety/depression/trauma coexist. Research leads include evidence-based treatments such as motivational interviewing, CBT, peer recovery groups, residential rehab, and medications like naltrexone, acamprosate, or disulfiram, plus pregnancy-specific advice and domestic-violence/child-protection pathways; follow-up questions should cover whether withdrawal could be dangerous, what safe detox options exist, how to disclose drinking to a doctor, what support exists for families, and what immediate steps are needed if suicidal thoughts, hallucinations, seizures, severe abdominal swelling, jaundice, or violence are present.
 
 ## Transcript
 

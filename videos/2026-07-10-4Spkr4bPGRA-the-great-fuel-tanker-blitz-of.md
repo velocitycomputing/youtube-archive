@@ -18,12 +18,12 @@ estimated_watched_seconds: 368
 transcript_status: fetched
 transcript_content_hash: 5b7e563703df8d7d888f1b36045b8483b2a884ff61a04199502159fb99f22678
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Ukraine conducted a sustained four-day drone strike campaign (July 6-9, 2026) against Russian fuel tankers in the Sea of Azov, hitting 35 vessels total—primarily undefended "Shadow Fleet" tankers attempting to resupply Crimea. The strikes were devastating because ships were clustered in columns with no air defense, and the campaign has created a critical fuel shortage in Crimea with prices reaching approximately $15 per gallon equivalent. Russian military analysts acknowledge the Black Sea Fleet cannot protect these ships without being destroyed themselves, and the tankers lack basic countermeasures like machine guns.
+Ukrainian drone operators reportedly hit 35 Russian vessels in the Sea of Azov over four days beginning July 6, including 19 shadow-fleet tankers, cargo ships and a ferry, with daily claims of 2, 8, 9 and 12 tankers struck, while also reporting strikes on the Kerch oil depot, refineries, oil depots and electrical substations. The transcript frames this as part of a broader Ukrainian campaign against Crimea’s fuel supply, noting Crimea’s shortage, a reported $15-per-gallon price paid by a Crimean garbage-truck company, and the Crimean governor’s warning that some days there will be no freely sold fuel as government, military and emergency services get priority. Named Russian voices include Military Informant, Two Majors, Rybar, Maxim Kalashnikov and Maxim Klimets, who criticize the Black Sea Fleet’s inability to protect convoys, compare the Sea of Azov to a Ukrainian-controlled Strait of Hormuz, and warn of a “fuel tsunami” affecting refineries, depots, pipeline pumping stations and Crimea; the narrator also mentions being at the NATO summit and interviewing President Zelenskyy, while cautioning that the 35-ship figure is not independently verified and the ships may be damaged rather than sunk.
 
-For you: This marks the first time Russian civilians across occupied territories and Russia proper are experiencing direct war consequences in an unsustainable way—fuel shortages cascading into electricity blackouts, water pump failures, and empty gas stations. Monitor whether sustained shortages trigger meaningful domestic political pressure or civil unrest in Russia, and watch for deterioration in Russian military logistics and mobilization capacity as fuel rationing spreads. This represents a potential inflection point in the war's sustainability for Russia.
+Actionable follow-ups are to verify the strike claims with independent OSINT ship-tracking, satellite imagery and Ukrainian Unmanned Systems Forces releases, then track whether Russia adds escorts, electronic warfare, dispersal or port changes, and whether fuel rationing spreads from Crimea into occupied Zaporizhzhia, Kherson and frontline logistics. For research or decision-making, monitor Russian fuel prices, blackout reports, water-pumping failures, refinery/pipeline strike patterns, and Black Sea Fleet losses, because these can indicate whether the campaign is degrading military resupply or creating civilian pressure. If the user is personally exposed to similar disruptions, concrete health and resilience steps include preparing for heating/electricity outages, safe water and refrigeration, medication storage, and emergency transport, while asking follow-up questions about casualty numbers, sunk versus damaged vessels, insurance/shipping rerouting, and whether energy shortages trigger protests or policy changes.
 
 ## Transcript
 

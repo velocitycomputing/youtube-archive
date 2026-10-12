@@ -18,12 +18,12 @@ estimated_watched_seconds: 95
 transcript_status: fetched
 transcript_content_hash: d49bdac3bcff9780084b489d2e621845ec234cedbd77a8d2a672c980b757e381
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:musculoskeletal", "intervention:lifestyle"]
 proposed_entities: []
@@ -34,11 +34,9 @@ routed_to: null
 
 ## Summary
 
-# Summary
+Peter Attia and Andy Galpin discuss isometric training—force production without movement—in rehab, hypertrophy, and strength. Attia notes isometrics were his first permitted work after shoulder labral repair and asks whether they can match isotonic hypertrophy and how to choose joint angle. Galpin argues hypertrophy is stimulus-driven and relatively forgiving: sufficient overload via more volume, reps, load, or range can drive growth, and isometrics can activate similar mechanisms. He emphasizes muscle length and joint anatomy: muscles often respond strongly when trained at long stretch, but multi-joint muscles require correct positioning—gastrocnemius needs extended knee and ankle while soleus is ankle-only; seated calf raises bias soleus, standing calf raises involve gastrocnemius; overhead triceps extension may produce greater mass than pushdowns because it stretches the long head across the shoulder; biceps can be trained with less shoulder aggravation in preacher curls versus incline curls. They cover practical setups: barbell under safety pins for squat/RDL isometrics, force plates to measure force, bands/chains to match strength curves (with up to ~40% lower load at the deadlift bottom), holds from 3 seconds to 5 minutes, and a 2-minute thigh-parallel squat test where failure is form breakdown.
 
-Peter Attia and Andy Galpin discuss how isometric exercises—muscle contractions without movement—can generate the same hypertrophy and strength gains as regular dynamic exercises, provided sufficient overload occurs. The conversation covers how to position the body for isometrics (generally toward the stretched end of range, though this varies by muscle and goal), why multi-joint muscles require specific joint positioning, and the practical advantages of isometrics: fewer moving parts mean less risk of form breakdown and the ability to train weak points in the strength curve. Examples include isometric holds in squat racks with safety pins (squat, bench, RDL, split squat), planks, and wall sits, with duration ranging from 3–5 seconds to 5 minutes depending on the adaptation sought.
-
-For practical application, use isometrics for shoulder or joint recovery by positioning yourself pain-free and under control; train weak ranges by doing heavy-load isometrics at the most challenging part of your lift after using bands/chains for stronger ranges; and set up isometric holds using a squat rack with safety pins at your desired height, then push or pull against the immovable bar while maintaining strict form. A key benchmark: a 2-minute hold in a 90-degree squat indicates solid lower-body strength. Always stop when your form breaks position, not when you simply feel tired, to avoid compensation patterns.
+For the user, isometrics are a concrete option when movement is painful, technique is unreliable, or the goal is safe high-force exposure: use a fixed bar/rack, pull/push maximally without motion, and stop when posture collapses rather than when fatigue peaks. For hypertrophy, mix joint angles and prioritize positions where the target muscle feels stretched, but tailor to the joint: overhead for long-head triceps, extended-knee calf work for gastrocnemius, seated for soleus, and shoulder-friendly biceps angles if shoulder pain is present. For rehab or low training age, start with short maximal or near-maximal holds (3–5 seconds) and progress to longer endurance/neurological holds (30 seconds to 2–5 minutes) only if form remains solid; a 2-minute 90-degree squat hold can be a low-risk strength/position test. Follow-up questions/research leads: compare isometric vs isotonic hypertrophy at matched overload, study length-specific adaptations across muscles, examine axial loading for bone density, and ask a clinician which joint angle is safest after shoulder/elbow/low-back issues.
 
 ## Transcript
 

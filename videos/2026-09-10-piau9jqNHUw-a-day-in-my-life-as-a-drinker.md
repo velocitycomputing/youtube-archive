@@ -18,12 +18,12 @@ estimated_watched_seconds: 295
 transcript_status: fetched
 transcript_content_hash: a29fadeaf50621d63c62db8cad89851651ff314692ff177d86b1d1df9ad8f1f2
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:gi", "system:metabolic", "intervention:lifestyle", primary-source-video]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The speaker recounts his daily routine as an active alcoholic struggling with liver disease: waking at 5 AM to immediate vomiting, drinking vodka on an empty stomach, experiencing severe anxiety while driving to work already intoxicated, maintaining a chef's job while secretly consuming beer from a cooler and Fireball shooters from the freezer, then drinking heavily on his commute home and all evening until blackout. On days off, he began drinking before sunrise and drank continuously, passing out and waking mid-day only to drink again. This cycle repeated for over a decade, compounded by physical deterioration—constant vomiting that damaged his voice and teeth, severe gastrointestinal issues requiring repeated bathroom trips, undiagnosed diabetes, and chronic pain masked by daily ibuprofen use.
+A self-described alcoholic and chef, speaking on June 19, 2024, described a repetitive daily routine of heavy alcohol use while working in a private club/bed-and-breakfast kitchen, claiming he drank every day, hid bottles, and believed he was alone until hearing from viewers. He detailed waking at 5 a.m., vomiting, taking ibuprofen/Advil, having prolonged diarrhea, drinking before work, driving 25–30 minutes on back roads because he feared DUI and panic attacks, arriving buzzed by 8:30 a.m., using a car cooler of beer and Fireball shooters, sneaking mini bottles into a walk-in freezer, drinking during breaks and after work, blacking out nightly, and consuming at least a liter and often up to a half-gallon of vodka daily, with days off spent drinking until passing out. He also described chronic pain, neuropathy, undiagnosed diabetes, indigestion, raspy voice from vomiting, dental problems, smoking, anxiety, and the belief that alcohol worsened rather than relieved his anxiety, ending with his claim that he quit after becoming sick and underwent medical detox.
 
-For anyone caught in similar patterns: recognize you are not alone, and there is a viable path to recovery. The critical actionable step is consulting a doctor before attempting to quit—abrupt cessation carries serious medical risks, and medical detox, which helped the speaker, may be necessary. Do not attempt to quit alone; your doctor can determine safe withdrawal management and support. The speaker's recovery required professional intervention, but he emphasizes that life after quitting, even with ongoing health complications from liver disease, is infinitely better than the enslaved existence of active addiction.
+Anyone with this pattern should treat it as a serious health and safety issue: heavy daily alcohol use plus morning vomiting, blackouts, and driving after drinking requires urgent medical evaluation, and stopping abruptly can be dangerous, so a clinician should supervise withdrawal and possible medical detox. Concrete follow-ups include asking about liver disease/cirrhosis, hepatitis screening, liver enzymes, ultrasound/FibroScan, pancreatitis, gastritis/GERD, malnutrition, diabetes and neuropathy testing, dental and voice/esophageal damage, and safe cessation plans including medications for alcohol use disorder, counseling, support groups, and emergency care for withdrawal symptoms such as severe tremor, confusion, hallucinations, seizures, chest pain, or uncontrolled vomiting. Practical decisions include not driving after drinking, arranging rides, removing alcohol from the home, telling a trusted person, tracking drinks and symptoms, and asking a doctor specifically about NSAID/ibuprofen risks with alcohol and possible liver disease.
 
 ## Transcript
 

@@ -18,12 +18,12 @@ estimated_watched_seconds: 661
 transcript_status: fetched
 transcript_content_hash: 9a0789793f634ae88955db2224bcedc0c4440a03c23b579df0cb717f820a7bdd
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["intervention:lifestyle"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The speaker describes a six-month intensive meditation teacher training (2003-2004) where daily practice of 10-16 hours led to sustained access to *samadhi*—a state of consciousness where awareness remains unshakeable regardless of external or mental disturbances. Key experiences included: witnessing consciousness that persisted even when intentionally perturbed, a dissolution of perceived boundaries with others, access to a still and pristine awareness underlying all activity, lucid dreams appearing consistently after three months (some wasted on erotic activity, others revealing archetypal encounters like meeting his "conscience" figure Virgil, who healed a lifelong gag reflex in a dream), and ultimately the paradoxical experience of being completely awake and aware during sleep while the mind continued its own low-level activity.
+A speaker recounts a 2003–2004 meditation teacher training/work exchange involving 18 months of work and five months of intensive meditation, 10–12 hours daily and sometimes 16, claiming that sustained practice made samadhi—defined via Patanjali as consciousness with movement stilled—persist through waking life, stress, and distraction. He describes “witnessing consciousness” as a stable background, compares it to T.S. Eliot’s “still point” and being at the bottom of Lake Geneva, and reports that around three to four months in he had frequent lucid dreams, including a passive dream guided by “Virgil,” a Jiminy Cricket/Dante-like figure, who led him through a “boiler room of the psyche” and removed a fear and a severe gag reflex. He also reports experiencing oneness with life, being aware during sleep, and interpreting sleep through Patanjali as “the thought of nothing,” while framing the nervous system as a bicycle with gears that society trains only waking, dreaming, and sleeping, not subtler states.
 
-The actionable principle is "persistent awareness"—maintaining a witnessing consciousness across waking, dreaming, and sleeping states—achieved not through forced concentration but through deep nervous-system relaxation. The speaker uses the metaphor of a nervous system as a bicycle with multiple gears: most people only access waking, dreaming, and sleeping gears by default, but subtler gears already exist. Rather than strain through techniques like "walking, walking, drying, drying," the practical path is to progressively relax and allow consciousness to become subtle enough to merge with these deeper gears. This awareness is not something to construct—it's already present and available: "it's just always hanging right here, right now. All we have to do is just meet it."
+For the user, the practical takeaways are to treat intensive meditation as a high-dose intervention: if considering retreats or long daily sits, build duration gradually, prioritize sleep, and monitor for destabilizing effects such as depersonalization, insomnia, intrusive dreams, or unresolved trauma, ideally with a qualified teacher or clinician. The transcript suggests concrete research leads: Patanjali’s Yoga Sutras on samadhi and sleep, lucid dreaming techniques, “witnessing” or metacognitive awareness practices, and somatic/psychological approaches to gag reflex and fear; it also raises follow-up questions about whether relaxation-based awareness is safer or more effective than effortful concentration, how to distinguish beneficial persistent awareness from dissociation, and whether dream work can produce lasting behavioral change, as in the speaker’s gag-reflex story.
 
 ## Transcript
 

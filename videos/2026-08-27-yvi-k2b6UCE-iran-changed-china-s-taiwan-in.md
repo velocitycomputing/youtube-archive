@@ -18,12 +18,12 @@ estimated_watched_seconds: 690
 transcript_status: fetched
 transcript_content_hash: 1f93f64d6cffdcabe05d8841117418f712bcf7438f35f058a78e17068ea682a2
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, china-decline, us-decline, opposing-pair-china-declining, primary-source-video]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-**What was discussed:** Ryan McBeth revises his earlier prediction of a Chinese invasion of Taiwan by 2027, arguing it's now less likely due to five factors revealed or reinforced by Iran's conflict. These include: intact U.S. anti-ship missile stockpiles (critical for Taiwan's defense despite media focus on depleted air-defense systems), China's loss of TikTok as a propaganda tool, China's observation of JADO (Joint All-Domain Operations) doctrine in Iran—a complex, multi-domain military strategy China now fears it cannot counter effectively, an oil supply shock forcing China to rebuild reserves before any invasion, and recent evidence that major powers (Russia, Israel, U.S.) struggle in sustained conflicts, undermining Chinese confidence. McBeth concludes the invasion timeline has pushed back several years, possibly beyond 2028, though Xi Jinping's age (73) and desire for legacy create pressure against waiting.
+Ryan McBeth revises his earlier prediction that China would invade Taiwan by 2027, arguing the Iran conflict makes invasion less likely for five reasons: U.S. anti-ship missile and torpedo stockpiles remain largely intact, with only one torpedo reportedly used against Iran; China’s loss of TikTok under American control weakens its propaganda and influence operations; China observed U.S. joint all-domain operations in Iran, including rapid air dominance and multi-domain strikes under “Operation Desert Fury,” and may need time to counter that doctrine; China’s oil shock, export ban, and coal reliance show a Taiwan invasion could be constrained by loss of imported oil, requiring reserve rebuilding; and recent failures or stalemates by Russia, Israel, and the U.S. may make Beijing cautious, especially given China’s lack of war since 1979 and Xi Jinping’s age. He also claims U.S. Patriot/THAAD shortages are less decisive than the vulnerability of Osan, Kunsan, Kadena, Futenma, and Andersen AFB, which he says could be destroyed within 30 minutes, and mentions agile combat employment, Tomahawk shortages, Anduril Barracuda, SpektreWorks Lucas, and a Bunker Branding ad.
 
-**What's actionable:** Recognize that Taiwan's defensive position is stronger than headlines suggest—focus attention on often-overlooked anti-ship capabilities rather than assuming all weapon stocks are depleted. Monitor Chinese oil reserve rebuilding and military doctrine adaptation as key early-warning indicators of invasion timeline shifts. Understand that U.S. political isolation or a shift toward non-interventionism in the 2028 elections could accelerate Chinese timelines, making near-term domestic political outcomes consequential for Taiwan's security. Finally, note that China faces a structural tension: civilizational patience favors waiting, but Xi's personal timeline (age 73) may push toward action—watch for internal Chinese leadership or succession signals as indicators of actual intent.
+For the user, no direct health implications are present; the actionable value is as a research and risk-assessment lead: verify current U.S. anti-ship missile, torpedo, Tomahawk, Patriot/THAAD, and agile-basing posture; check whether TikTok is actually under American control and how that affects influence operations; track China’s oil reserves, coal use, export bans, and chokepoint exposure; monitor PLA doctrine responses to JADO, drone swarms, cyber, and space operations; and compare open-source estimates of U.S. munitions replenishment and Chinese amphibious sealift. Decisions to consider: discount sensational claims that one Iran war alone triggers or prevents a Taiwan invasion, and ask follow-up questions about evidence for base destruction timelines, TikTok’s legal/control status, whether anti-ship stocks are truly unaffected, China’s oil-import dependency, and whether Xi’s age or 2028 U.S. election changes are being used as speculative political assumptions rather than measurable indicators.
 
 ## Transcript
 

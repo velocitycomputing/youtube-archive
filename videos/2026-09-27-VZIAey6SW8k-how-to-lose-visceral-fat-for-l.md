@@ -18,12 +18,12 @@ estimated_watched_seconds: 166
 transcript_status: fetched
 transcript_content_hash: c480fbb96e34a813626051e9bd655924861a41b3c37994e5b1191e5792010ea2
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:metabolic", "goal:longevity", "goal:risk-reduction", "intervention:lifestyle"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The video explains that visceral fat—deep abdominal fat surrounding organs—is a major mortality risk factor distinct from visible subcutaneous fat. Unlike regular weight loss advice, visceral fat accumulation is driven by hormonal factors, particularly insulin levels, not just calorie intake. The speaker presents nine evidence-based strategies: (1) lower insulin by eliminating liquid sugars and ultra-processed foods while increasing protein and fiber, (2) resistance train 3–4 times weekly with compound movements to build glucose-clearing muscle, (3) maintain high protein intake during fat loss to prevent muscle wasting, (4) perform zone-two cardio (conversational pace) 2–3 times weekly to rebuild mitochondrial function, (5) prioritize 7–8 hours of consistent sleep in a cool room, (6) reduce alcohol consumption, (7) manage chronic stress through daily walking and media reduction, (8) accumulate 8–12,000 daily steps and walk after meals to reduce blood sugar spikes, and (9) track waist circumference (target waist-to-height ratio below 0.5) and blood markers like fasting insulin, triglycerides, and ALT instead of relying on body weight.
+A large analysis of about 2 million people is cited to claim each 4-inch increase in waist size raises early-death risk by 8% in men and 12% in women, and the transcript argues visceral fat is causally linked to mortality, not merely correlated. It distinguishes subcutaneous fat from visceral fat, introduces TOFI, and explains visceral fat drains via the portal vein into the liver, promoting liver fat, triglycerides, blood pressure, insulin resistance, cytokines, inflammation, heart disease, cognitive decline, and cancer risk. Named evidence includes the Framingham Heart Study, UK Biobank, PREDIMED, DIRECT, Cushing’s syndrome, HOMA-IR, VO2 max, NEAT, and grip strength/muscle strength as mortality predictors; key thresholds include waist-to-height ratio below 0.5, protein 1.6–2.2 g/kg, fiber 30–40 g/day, PREDIMED’s ~30% cardiovascular-event reduction, and NEAT variation up to 2,000 calories/day.
 
-Immediately actionable steps: cut liquid sugars and ultra-processed foods this week; start 3 resistance training sessions with squats, deadlifts, or rows; add one zone-two cardio session (fast walk, bike, or treadmill at conversational pace); protect 7–8 hours of sleep with a fixed wake time and 18°C bedroom; if you drink regularly, consider eliminating or significantly reducing alcohol; aim for 8–12,000 daily steps and walk 10 minutes after meals; schedule a private blood test for fasting insulin, triglycerides, ALT, and HOMA-IR (far more informative than BMI) and measure your waist circumference with a tape measure at the same spot daily.
+Actionable takeaways are to prioritize metabolic restoration over scale weight: cut liquid sugars and ultra-processed foods, raise protein and fiber, do 3–4 weekly resistance sessions with compound lifts and progressive overload, protect muscle during deficits, add 2–3 weekly 30–45 minute zone-2 cardio sessions, keep 7–8 hours of sleep with fixed wake/sleep times, a bedroom around 18°C, and a 90-minute pre-bed stimulation boundary, reduce regular alcohol, manage chronic stress with walking, breath work, and work detachment, increase NEAT to 8–12k steps plus post-meal walks and hourly movement breaks, and track waist circumference at waist-to-height <0.5 rather than BMI; ask a clinician for fasting insulin, triglycerides, ALT, and HOMA-IR, or private metabolic testing if unavailable, and consider follow-up questions about medication, GLP-1 muscle loss, alcohol limits, and whether waist/blood markers improve over 3–6 months.
 
 ## Transcript
 

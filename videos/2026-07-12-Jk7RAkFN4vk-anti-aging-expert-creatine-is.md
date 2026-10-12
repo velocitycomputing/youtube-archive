@@ -18,12 +18,12 @@ estimated_watched_seconds: 2856
 transcript_status: fetched
 transcript_content_hash: 2b611a7d69f37d0b718b7514131456041b77a9c0d195a286938b765b52bd92f0
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["intervention:supplement", "system:musculoskeletal", primary-source-video, "goal:longevity"]
 proposed_entities: [ent-intervention-creatine]
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Dr. Darren Candow, a creatine researcher who has published over 120 papers on the supplement, discussed creatine's role in cellular energy production and debunked five major myths: that it damages kidneys (false—elevated creatinine on blood tests is a false positive), causes water retention (only with improper loading phase; water then enters muscles and supports growth), is only for men (females respond robustly), causes hair loss (no evidence when dosed properly), and causes muscle cramps (actually prevents them through hydration). The research shows creatine monohydrate is most effective and studied, with consistent benefits across all ages for muscle strength, performance, endurance, and functional ability (like standing from a chair) when combined with weight training.
+Dr. Darren Candow, a creatine researcher with over 120 creatine papers and 30–40 lab studies, discussed creatine monohydrate as a widely studied supplement for muscle, brain, aging, rehabilitation, and body composition, claiming it is generally safe and potentially useful for cancer, Alzheimer’s, pregnancy, bone health, and fat loss, though some areas are early-stage. He explained that creatine supports ATP energy, is made endogenously at about 1–3 g/day mainly in the liver and brain and stored 95% in muscle, and that vegans/vegetarians may respond strongly because dietary creatine comes from animal flesh. He addressed myths: creatine does not damage kidneys but can raise creatinine and lower estimated eGFR as a false positive; loading with 20–30 g/day for 5–7 days can cause transient water retention/GI issues while 3–5 g/day maintenance is typical; women respond robustly; hair-loss claims stem from an old rugby study showing DHT increase within normal range without measured hair loss; cramps are not supported and creatine may aid hydration. He cited data such as about 0.86 kg lean mass gain over 6 weeks, about 1.2 kg lean mass with training, 5 g/day effective across ages, possibly 7–8 g/day or more for older adults, at least 1 g/day for children, and muscle creatine levels falling after about a month while brain levels may take 5 weeks–3 months. He recommended creatine monohydrate, ideally CreaPure and NSF/third-party tested, and mentioned Dr. Stacey Ellery’s early pregnancy/breast milk/fetus trials.
 
-To implement: take 5g daily of creatine monohydrate (labeled CreaPure and NSF-certified) without a loading phase—skip the 20-30g/day startup. Take it consistently every day, either as one dose or microdosed throughout the day (morning, evening, during workout) to avoid dizziness or jitteriness from methyl group displacement. Mix it into water, coffee, yogurt, or juice; expect ~0.86kg lean mass gain over 6 weeks and roughly 4 weeks for muscle levels to return to baseline after stopping. If over 50, consider 7-8g daily; consult your doctor if you have pre-existing kidney or medical conditions, and inform them you're taking it so elevated creatinine on blood work isn't misinterpreted as kidney damage.
+Actionable takeaways: for a healthy adult considering creatine, creatine monohydrate at 3–5 g daily is the simplest starting point, with optional loading only if rapid saturation is desired and tolerated; splitting the dose into 1–3 g portions or adding it to a workout water bottle may reduce dizziness, jitteriness, GI upset, or perceived water retention, especially if taken with food/hydration. Vegans/vegetarians, older adults, people doing resistance training, and those in metabolically stressed states such as sleep deprivation or intense cognitive load may be especially relevant candidates, but older adults may need closer to 7–8 g/day and children were suggested to get at least 1 g/day for bone/muscle optimization. Tell a clinician you use creatine before interpreting creatinine/eGFR, and consult a doctor if you have kidney disease, are pregnant/breastfeeding, have medical conditions, or take medications; ask follow-up questions about personalized dosing, kidney/liver labs, pregnancy safety, interactions, and whether brain-related benefits justify higher doses. Choose third-party tested products (NSF/CreaPure) to reduce contamination risk, and treat claims about cancer, Alzheimer’s, and pregnancy as research leads rather than established treatments.
 
 ## Transcript
 

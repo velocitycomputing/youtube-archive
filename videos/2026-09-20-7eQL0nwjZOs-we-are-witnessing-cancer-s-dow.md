@@ -18,12 +18,12 @@ estimated_watched_seconds: 74
 transcript_status: fetched
 transcript_content_hash: a558a8b318333da77268b7f33b3c5322c31bb1fde64b4df289952339f76887f7
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [research/*.md, primary-source-video, "intervention:medication", "intervention:procedure", "goal:risk-reduction", "goal:longevity"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The video explains how cancer research is experiencing a genuine turning point after decades of false starts. It begins with the 2012 discovery that 89% of landmark cancer papers couldn't be replicated—a reproducibility crisis that revealed cancer research's shaky foundation. The speaker then traces three major breakthroughs: (1) tipaxanib, a drug that targets the previously "undruggable" Ras protein by using an innovative approach with cyclophilin A, which nearly doubled survival time for advanced pancreatic cancer patients (6.7 to 13.2 months) and won FDA approval in just 35 days; (2) a fast-track regulatory framework that's already sent the drug to over 2,000 patients via expanded access programs while trials continue; and (3) AI-powered personalized cancer vaccines, exemplified by Moderna's phase-three breakthrough with melanoma patients, which use machine learning to identify patient-specific tumor mutations the immune system can target.
+A 2012 Begley and Ellis analysis found that only 6 of 53 landmark cancer papers could be reproduced (11%), and a later independent replication of 23 cancer-biology papers found the median effect size was 85% smaller, framing skepticism that petri-dish results translate to longer survival. The transcript then argues recent progress is different: a 1982 bladder-tumor discovery identified a single DNA typo activating Ras, a family driving about 90% of pancreatic cancers and nearly 20% of all cancers, long considered undruggable because Ras lacks a conventional drug pocket. In 2013 Jonathan Ostrem and UCSF colleagues found a hidden pocket for mutant G12C, but the new FDA-approved RAS-targeting drug (transcript names it tipaxanib/direct son rasin) uses cyclophilin A to bind active Ras and block several common RAS variants, including pancreatic-relevant ones. In a 500-patient, six-country trial of previously treated metastatic pancreatic cancer, median survival was 13.2 months with tipaxanib versus 6.7 months with standard chemotherapy; the FDA reportedly accepted the application July 22 and approved it August 26 in 35 days, after expanded access had supplied it to more than 2,000 patients across nearly 50 states. The transcript also links this to AI-enabled personalized cancer vaccines: Bessie Dashiell’s 1890 sarcoma led surgeon William Coley to pursue infection-based therapy after finding Fred Stein alive and treating Zola, later formalized as Coley’s toxin; 1976 BCG bladder-cancer treatment; and a Moderna/Merck phase 3 trial of 1,137 surgically removed melanoma patients showing improved recurrence-free survival, with Moderna’s stock rising 177% in one day; nine trials are underway across melanoma, lung, kidney, and bladder cancers, including bladder combinations with BCG, while AlphaFold and faster regulatory pathways are presented as accelerating translation.
 
-Actionable takeaway: If you or a family member faces a Ras-driven cancer (pancreatic, colorectal, or lung), ask oncologists explicitly about Ras-targeting drugs and clinical trials—these are approved and available now, not theoretical. More broadly, personalized cancer vaccines are in active trials for melanoma, lung, kidney, and bladder cancers; if you have these diagnoses, inquire whether you qualify for these trials. The convergence of better drug targeting, AI-matched personalization, and accelerated FDA processes means cancer treatments are reaching patients faster than in the past—stay informed about your specific cancer type's emerging options.
+For someone facing cancer—especially pancreatic, colorectal, lung, melanoma, kidney, or bladder cancer—the practical next step is to ask whether comprehensive tumor and blood sequencing has been done to identify RAS mutations, neoantigens, and trial eligibility, because RAS alterations are common and the transcript suggests targeted RAS drugs, expanded access, and personalized vaccines may be relevant. Concrete questions for an oncologist include: Which RAS gene and mutation do I have; is a RAS(ON)/RAS-targeted therapy or clinical trial appropriate; what is the current FDA label, eligibility criteria, side-effect profile, and access pathway; can this be combined with chemotherapy, immunotherapy, or a neoantigen vaccine; and are there academic-center trials for my cancer type? Patients should verify the drug’s approved indication and trial status rather than assuming it works for all RAS mutations, ask about referral to a center running Moderna/Merck or other personalized-vaccine trials, weigh the reported survival benefit—observed in heavily pretreated metastatic pancreatic cancer—against toxicity, access limits, and the fact that it is not a cure, and consider follow-up on young-onset cancer trends, especially colorectal cancer, if they have symptoms or family history.
 
 ## Transcript
 

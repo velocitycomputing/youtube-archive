@@ -18,12 +18,12 @@ estimated_watched_seconds: 223
 transcript_status: fetched
 transcript_content_hash: f9aecebe8ff9912dd386b0b028f6b471473be0367c884baca573f48e8f333edd
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video, "intervention:lifestyle", "goal:symptom-relief"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Tristan from the CPAP Store reviewed the Transcend Micro travel CPAP against the ResMed Air Mini, finding them comparable in size and portability. The Transcend comes with a universal tube compatible with any mask out of the box, while the Air Mini requires purchasing separate setup packs or adapters for different masks. The Air Mini is slightly quieter (breathing-like sound) compared to the Transcend's vacuum-like noise. Both are lightweight and can slide on nightstands, though the Air Mini offers mounting options. The Transcend's app displays more detailed pressure and usage data, while the Air Mini keeps it simpler; however, the Transcend requires a Windows PC (not Mac or phone) to adjust clinical settings until FDA approval is pending. Overall cost is $200–$250 cheaper for the Transcend.
+Tristan from the CPAP Store reviewed the Transcend Micro CPAP, comparing it directly with the ResMed AirMini as travel CPAP options. He discussed size and shape, noting the Transcend Micro is marketed as the world’s smallest CPAP and is roughly baseball-sized, while the AirMini is longer and flatter; for packing, he considered them effectively equivalent. Key claims included that the Transcend Micro includes a tube, power supply, and muffler in the box and works with standard masks such as the Nova Micro and ResMed N30i without extra setup packs, whereas the AirMini often requires setup packs or adapters for non-ResMed masks. He compared humidification: Transcend uses an HME-style “Air Mist” system, while ResMed uses the waterless HumidX system. He also discussed noise, saying both travel machines are louder than home CPAPs, with the AirMini a few decibels quieter but with a more breathing-like sound, while the Transcend Micro has a steadier fan/vacuum-like sound. App and data were compared: Transcend’s app shows more detailed data, but clinical settings currently require a Windows PC and software with the password “Juniper,” while ResMed allows clinical changes through its app; Transcend representatives suggested phone-based clinical settings may come after FDA classification, possibly around six months. Cost data included that the Transcend Micro package is roughly $200–$250 cheaper overall than the AirMini package, but frequent users may find ResMed’s HumidX cheaper long-term because it lasts about 30 days versus HME filters lasting about 7 days; HME three-packs were cited around $30, HumidX three-packs around $50.
 
-**For your decision:** Choose the Transcend Micro if you travel occasionally, want an affordable option, and already have a home CPAP mask compatible with it—the upfront savings offset occasional use. Choose the Air Mini if you're a frequent traveler willing to pay more for a quieter machine, better build quality, and the ability to adjust clinical settings directly on your phone. If you use Windows and don't mind downloading software, the Transcend is viable; if you use only a Mac, the Transcend becomes problematic until phone app support arrives. Factor in humidification costs: the Air Mini's 30-day Humidex packs are cheaper long-term for frequent use, while Transcend's 7-day HME packs are cheaper for sporadic trips.
+Actionable takeaways: choose the Transcend Micro if the priority is lower upfront cost, simple out-of-box use with an existing home mask, infrequent travel use, and acceptance of a slightly louder, less stable machine; choose the AirMini if the priority is slightly quieter operation, better build quality, mounting options, app-based clinical setting changes, and frequent travel use where HumidX replacement costs may be lower. Before buying, confirm mask compatibility, whether an adapter is needed, and total humidification costs based on how often the machine will be used. For the Transcend Micro, verify access to a Windows PC for clinical settings unless the vendor can set the prescribed pressure, and ask about the current status of FDA-approved app-based clinical controls. Health-wise, both are travel CPAPs and may feel noisier or less comfortable than a home machine, so set realistic expectations to avoid sleep disruption. Follow-up questions to ask a seller or clinician include: “Can you set this to my prescribed pressure before shipping?”, “Which humidification option is cheaper for my travel frequency?”, “Will my current mask work without extra parts?”, “How loud is it in dB compared with my home CPAP?”, and “What is the replacement cost and lifespan for HME or HumidX filters?”
 
 ## Transcript
 

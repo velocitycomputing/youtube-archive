@@ -18,12 +18,12 @@ estimated_watched_seconds: 303
 transcript_status: fetched
 transcript_content_hash: 4b0545c655a797dd1698ea59299ed1188d2e2fd42fe74f4a07bcac5b36e5a071
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:musculoskeletal", "goal:symptom-relief", "intervention:procedure"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-A patient with severe neck curvature resulting from 8 months of sleeping upright in a car while homeless received chiropractic treatment from Dr. Tubio. The patient's condition—unchanged for 4 years despite seeing other doctors—showed X-ray evidence of spinal fusion beginning in the neck, mid-thoracic region (T4-T8), and lower spine, along with scoliosis. Through a series of adjustments using drop-table techniques, breathing work, and precise manipulations, the chiropractor worked to unwind the twisted spine and restore lost mobility. The patient experienced significant emotional relief during the session, expressing hope for the first time in years after feeling dismissed by conventional medicine.
+In Dr Tubio’s chiropractic session, a former RN patient describes four years of severe neck flexion/rotation after sleeping upright in a car for 8–10 months while homeless, with constant muscle firing, headaches, numbness, inability to look up or turn, and prior short-lived relief from another chiropractor’s traction/activator. Dr Tubio and staff (Sophia, Denny/Steven, Luke) examine range of motion, leg lifts, and X-rays, claiming C1-C2 restriction, severe thoracic flexion, scoliosis, and progressive fusions from T4-T8 and lower spine/facet joints; he performs drops, extension, towel-assisted neck work, and thoracic adjustments, saying the body needs extension, speed during openings, and that trauma/emotional holding may contribute to subluxations.
 
-To address this condition, the patient must prioritize consistency with ongoing chiropractic care—the chiropractor emphasized this is critical to prevent permanent spinal fusion. Find and commit to a chiropractor regularly (the patient previously received temporary relief from one an hour away); even 30 minutes of improvement per visit is valuable for body movement. Actively work on neck extension and mobility exercises to fight the fusion process. Additionally, address the underlying trauma (homelessness, loss of home in fires) as part of healing, since emotional and mental factors directly contribute to physical restrictions. Begin follow-up treatment soon while momentum and hope are present.
+Actionable: treat this as a complex cervical/thoracic spine problem needing medical evaluation beyond chiropractic—ask a physician for neurologic exam, cervical/thoracic MRI or CT, and assessment for cervical dystonia/torticollis, facet arthropathy, instability, radiculopathy/myelopathy, inflammatory fusion (ankylosing spondylitis/DISH), and medication side effects; get PT with gentle mobility, scapular/neck stabilizers, sleep positioning, and pain management, and consider botulinum toxin if dystonia is diagnosed. If continuing chiropractic, use a licensed provider, avoid high-velocity neck manipulation until imaging rules out instability/fusion risk, track duration/quality of relief, and seek urgent care for weakness, numbness, bowel/bladder changes, severe headache, or worsening gait; also pursue trauma-informed mental health support and practical follow-up questions about diagnosis, safe exercises, red flags, and whether prior relief was due to temporary muscle relaxation rather than correction.
 
 ## Transcript
 

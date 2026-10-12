@@ -18,12 +18,12 @@ estimated_watched_seconds: 145
 transcript_status: fetched
 transcript_content_hash: 34cec094305bc2f251f00e308db152255ec368764a7e859b88196a71be07264c
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The video analyzes Kaliningrad, Russia's exclave 500-600 km from the mainland, isolated among Baltic and European nations. As the Baltic states disconnect Kaliningrad from Moscow's power grid, the Kremlin fears this will accelerate an independence movement. Historically, the Soviet Union expelled German residents and replaced them with ethnic Russians, but Kaliningrad has culturally drifted toward Europe over decades. Since Russia's Ukraine invasion, troops and advanced weapons have been withdrawn from Kaliningrad to the front, while its strategic importance has collapsed—Finland and Sweden joining NATO eliminated Russia's ability to threaten the Baltic states through the "Suwalki Gap." Independence movements already emerged in the 2010s when residents protested heavy taxation without representation; the speaker argues that with fewer troops, economic desperation on mainland Russia, and growing cultural distance, conditions now favor a resurgent independence movement that Moscow cannot easily suppress.
+Kaliningrad’s imminent disconnection from Moscow’s power grid, as described by Paul Warberg, frames the Russian exclave as increasingly distant—geographically about 500–600 km from mainland Russia and culturally drifting toward Europe—because Russia’s war in Ukraine has made Baltic states and Europe reduce transit and economic ties. The transcript claims Lithuania and Latvia are disconnecting Kaliningrad from Moscow’s power grid, not to cut its electricity but to end grid advantages in generation and demand planning, while Russia has responded with disinformation and cyberattacks. It recounts Soviet-era population replacement of Germans with ethnic Russians, failed attempts to attach Kaliningrad to Lithuania or give it to West Germany, and Kaliningrad’s military value as a Baltic Fleet port and nuclear-missile base. It also cites 2010s protests of more than 10,000 people over taxes and neglect, compares the rhetoric to American “taxation without representation,” and argues that moving troops and air defenses to Ukraine and the Finnish border, plus Finland and Sweden joining NATO, has reduced Kaliningrad’s strategic value and made secession pressure more plausible.
 
-Watch Kaliningrad's energy and political developments closely as a proxy for Russian stability. The video demonstrates that attempting to control territory through military force and suppression often backfires—the more force Russia applies, the more likely independence movements become. If you're tracking Russian geopolitics, NATO expansion, or economic fragmentation in authoritarian states, monitor whether the 2010s-style protests resurge as military presence continues to diminish, which could signal accelerating centrifugal forces within Russia's own borders.
+For the user, the actionable takeaway is to treat Kaliningrad as a geopolitical risk indicator rather than a health issue: monitor Baltic grid synchronization, Russian military withdrawals from Kaliningrad, NATO posture around the Suwałki corridor, and any revival of local protest or secession rhetoric. Research leads include the legal status of Kaliningrad under Russian federal law, EU/Baltic sanctions and transit rules, the history of Soviet population transfers, and the military implications of the Suwałki gap after NATO enlargement. Decisions or follow-up questions should focus on whether Russia’s mainland power base forces further resource extraction from Kaliningrad, whether economic strain increases local grievances, and whether any neighboring state or international actor would recognize or support an independent Kaliningrad; also verify the transcript’s claims with current news, official grid-disconnection statements, and satellite or OSINT evidence of force movements.
 
 ## Transcript
 

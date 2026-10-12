@@ -18,12 +18,12 @@ estimated_watched_seconds: 156
 transcript_status: fetched
 transcript_content_hash: 47f16c3fb30cf4cde52167290a98458e6de4fcc134e28901c848cb992227178b
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["intervention:lifestyle"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The speaker argues that training simplicity—focusing on one major compound lift per day across a 6-day split (bench press, barbell rows, back squats, overhead press, pull-ups, deadlifts/Romanian deadlifts)—is superior to high-variety routines. His core thesis is that lifting is motor learning and skill development, not just sets and reps. By concentrating effort on fewer exercises, you spend enough focused repetition to truly master them, whereas spreading yourself across 10-15 exercises means you become good at none of them. He compares it to learning a musical instrument: you wouldn't expect mastery by practicing piano 10 minutes, then guitar, then drums. He also includes optional "fitness dailies"—small daily maintenance work—to keep progress consistent without overwhelming the central lift.
+A Silver Fitness creator argues that the best training program is the one you sustain, and that simplicity can outperform maximal variety by concentrating time on a small set of high-impact compound lifts. The proposed weekly split is Monday bench press, Tuesday barbell rows, Wednesday barbell back squats, Thursday overhead press, Friday pull-ups, and Saturday deadlifts plus Romanian deadlifts, with optional extras like dips, curls, hanging, calves, or lateral raises only if desired. The central claims are that each lift is a motor skill requiring years of focused practice, that spreading attention across many exercises reduces skill acquisition and recovery quality, and that training a different main lift daily can make lifting more sustainable than cramming many exercises into fewer sessions. The speaker cites about five years of training this way and says progress came more from concentration than effort.
 
-To apply this: restructure your routine around 1-2 primary compound lifts per day spaced throughout the week, giving each movement a full week to recover before repeating it. Treat these exercises as skills requiring years of mastery, not fixed techniques you already know. Add optional 5-10 minute "fitness dailies" daily to build consistency without decision fatigue. This concentrates your mental and physical energy where it has the biggest return, removes the paralysis of choosing what to do, and makes the gym sustainable because the daily commitment is simple and routine.
+For the user, the actionable takeaway is to test a simplified, skill-focused routine: pick one primary compound movement per training day, make it the guaranteed work, and keep accessory work optional and low-volume. Add a small daily “fitness daily” habit of 5–10 minutes to maintain consistency and address weak points, then track whether performance, joint comfort, sleep, and motivation improve over 4–8 weeks. If the user has injuries, hypertension, cardiovascular risk, or limited recovery, they should scale load/frequency and consider professional guidance before adopting daily lifting. Follow-up questions: how many sets and reps per main lift, how to progress load, whether one lift per day provides enough volume for their goals, and whether their current routine is failing because of exercise selection or because it is too mentally and physically fragmented.
 
 ## Transcript
 

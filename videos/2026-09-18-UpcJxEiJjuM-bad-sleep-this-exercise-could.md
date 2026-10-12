@@ -18,12 +18,12 @@ estimated_watched_seconds: 940
 transcript_status: fetched
 transcript_content_hash: a585ac12c75cbe67f2c74bd205156ce8deaa8ccc5f71bc519f10c2c7b03b16a5
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:metabolic", "system:cardio", "intervention:lifestyle", "goal:longevity", "goal:risk-reduction"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Poor sleep disrupts your metabolism by triggering a low-level fight-or-flight response that keeps stress hormones elevated, causing your liver to release extra glucose into your bloodstream while your cells become resistant to insulin. This buildup of blood sugar damages blood vessel linings and is particularly dangerous for night shift workers, who have a 30% higher risk of developing type 2 diabetes. However, research shows that high-intensity interval training (HIIT) significantly blunts this metabolic damage: hard exercise allows muscles to pull glucose directly from the blood without requiring functional insulin, bypassing the resistance caused by sleep deprivation, and the protective effect lasts 1–2 days after each session while also building VO2 max, a strong predictor of longevity.
+Dr. Alex, an emergency medicine doctor who worked permanent NHS-style night shifts, argues that poor sleep causes hidden metabolic harm by triggering insulin resistance, raising blood sugar, increasing cortisol and adrenaline, promoting inflammation, and pushing hunger hormones toward sugar- and fat-craving behavior. He cites a 2017 study of 11 healthy young men in which a 24-hour sleepless night sharply worsened glucose, insulin, and blood-fat responses, but two weeks of high-intensity interval training—six short hard sessions—significantly blunted that damage; he also mentions a study of 19 men where sprint intervals softened insulin-sensitivity loss after one restricted-sleep night, and a 2022 review concluding that exercise, especially high-intensity exercise, may protect glucose tolerance during bad sleep. He further references a 2024 review of 10 studies finding night-shift workers had about a 30% higher risk of type 2 diabetes than daytime workers, with rotating shifts carrying even higher risk, and identifies shift workers, new parents, carers, and people with insomnia as especially affected.
 
-If you're a shift worker, new parent, or chronically sleep-deprived, start doing 2–3 HIIT sessions per week for 10–20 minutes each: alternate 30 seconds of near-maximal effort (sprinting, hard cycling, or running stairs at 90–100% intensity) with 1–2 minutes of easy recovery, repeated 6–8 times. You can fit these into any schedule—before a shift, during a baby's nap, or after the school run—and even brief sessions provide significant protection against the blood-sugar damage from poor sleep. Build up gradually if you're older or new to exercise, and get medical clearance if you have any health conditions, but recognize that while exercise is damage control rather than a cure, it's the most practical tool available when you cannot immediately fix your sleep schedule.
+The actionable takeaway is that people who cannot fix their sleep—such as nurses, doctors, police officers, factory workers, new parents, and carers—can use short high-intensity interval training as damage control for blood sugar. A practical protocol is 15–20 minutes, two or three times weekly, using 30 seconds of near-maximal effort on a bike, rower, hill sprint, stairs, or fast running followed by 1–2 minutes of easy recovery, repeated 6–8 times, aiming for heavy panting at roughly 90–100% effort; beginners or older adults can substitute one-minute fast walking with two-minute rests. The mechanism is that hard muscle contractions pull glucose from the blood without needing insulin and leave muscles more insulin-sensitive for a day or two, while also improving VO2 max. Older adults, people with heart problems, medical conditions, or exercise inexperience should build up gradually and get medical clearance, and HIIT should complement—not replace—sleep recovery, dark cool bedrooms, reduced late caffeine/alcohol/screens, and consistent sleep schedules when possible.
 
 ## Transcript
 

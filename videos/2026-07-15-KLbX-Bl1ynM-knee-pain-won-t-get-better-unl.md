@@ -18,12 +18,12 @@ estimated_watched_seconds: 85
 transcript_status: fetched
 transcript_content_hash: 779acd62e5aedc2620283518850aa317f5f7f3495a86ab4ad2a77d03644a5878
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:musculoskeletal", "intervention:lifestyle", "goal:symptom-relief"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Will Harlow, a physiotherapist specializing in over-50s patients, explains that weak glutes are the primary obstacle preventing knee pain from improving. Weak hip muscles cause the pelvis to drop and the thigh bone to roll inward during walking, creating misalignment that produces excessive shearing forces and pressure on the inner and outer knee structures. He demonstrates five glute-strengthening exercises: (1) resistance band separation while lying down, (2) bridge lifts with band resistance, (3) clamshells with strict form (small movement, staying forward to isolate glutes), (4) side-lying leg lifts with straight legs leading with the heel, and (5) standing leg lifts using a wall for balance.
+Will Harlow, a physiotherapist at HT Physio and Farnam, argues that many persistent knee-pain cases—whether from injury, arthritis, meniscus tears, or degenerative changes—are mechanical and worsened by excess stress and strain, with weak glutes as a primary driver. He claims weak hip abductors and extensors allow the pelvis to drop and the thigh to roll inward during walking, creating knee valgus, shear forces, medial knee pressure, and lateral pinching, so the knee may not improve unless glute control is restored. He presents five glute-strengthening exercises: supine banded hip abduction, banded glute bridge, side-lying clam, side-lying straight-leg hip abduction, and standing hip abduction, with form cues such as pelvic stability, heel-leading abduction, a slight backward leg path, and avoiding trunk rolling; he recommends starting with 10 repetitions at least three times daily and mentions his book Thriving Beyond 50.
 
-Start with whichever exercise feels most comfortable—the lying band separation is best for painful knees or low strength. Perform 10 repetitions at least three times daily, progressing to harder variations once the easier version becomes easy. For practical daily activation, do standing leg lifts (holding a wall) before walking, climbing stairs, or running; this primes the glutes to prevent compensation patterns. If knee pain persists despite other treatment, weak glutes are the likely culprit—systematically strengthening them using these exercises should resolve the pain.
+For the user, the actionable takeaway is to test whether glute weakness or poor hip control contributes to knee pain and, if safe, begin a graded glute program: start with low-load supine banded abduction or clam if weight-bearing is painful, progress to bridges and standing abduction, and perform activation before walking, stairs, or running. Track symptoms during and after exercises, keep movements small and controlled, and stop if knee pain sharply increases, swelling occurs, or pain persists beyond a few weeks; seek a physiotherapist or doctor assessment for red flags, persistent mechanical symptoms, or suspected meniscal/arthritic pain. Useful follow-ups include asking a clinician about hip abductor strength, pelvic drop, knee valgus, load management, and whether glute strengthening is appropriate for the specific diagnosis.
 
 ## Transcript
 

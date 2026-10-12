@@ -18,12 +18,12 @@ estimated_watched_seconds: 263
 transcript_status: fetched
 transcript_content_hash: 48d98c1aa221a1a8bd4770a02941580acb4195b04d4411f9a3d19ea4d3aefa9a
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-A recovering alcoholic describes his years as a "high-functioning" alcoholic while living in Shanghai at age 32, working as a luxury brand manager. He details his daily routine: buying vodka at 6:45 AM before the gym, drinking in the locker room, sipping throughout his office day via bathroom breaks, and consuming whiskey on long walks home while his girlfriend waited in their apartment, now emotionally distant. He employed deliberate strategies to hide his drinking—consuming hot sauce at lunch to mask his flushed, sweaty appearance, cultivating an aloof "artistic" persona to keep people at arm's length, and rationalizing that since he never missed work, was never arrested, and maintained his job, he couldn't be an alcoholic. He traces how he systematically used alcohol as a "lubricant" to transition between every state of his day—waking, exercising, working, going home, sleeping—until his relationship ended and his drinking accelerated into severe relapse.
+A Bat Country monologue traces the speaker’s progression from teenage drinking in the UK, student drinking in Brighton, a fired job in France, a two-year “tea totalism” period at 23–25, “gray-zone” heavy social drinking, “functioning” or “high-functioning” alcoholism, and later end-stage binge alcoholism, claiming most problem drinkers remain in the gray zone rather than drinking a liter and a half of vodka in bed. He describes being 32, living in Shanghai for 3–4 years, working as global brand manager for a luxury sex-toy company known for a $15,000 vibrator, arriving drunk via the Trans-Siberian train, and maintaining a daily routine of waking at 6:30, buying a half-liter or 35-centiliter vodka from a 24-hour shop, drinking in gym changing rooms, at his desk, at lunch, and then buying 30-centiliter Johnny Walker Red Label on the way home, using hot sauce, a “creative/aloof” persona, social events, Formula 1, burlesque, abandoned-mall parties, and a Vans launch at “the mansion” to conceal intoxication. He links the pattern to emotional dysregulation, relationship distance with his girlfriend, enabling colleagues, mild withdrawal, irritability, a punch-up, a six-week “burnout” sabbatical, and self-deceptions such as “I never missed work,” “I wasn’t arrested,” and “my relationship was fine,” while noting his later timeline of about 20 years of alcoholism, 18 months of worst binge relapses, and about 2 years sober.
 
-The actionable lesson: recognize "gray-zone" drinking—heavy consumption that doesn't feel like it's catching up with you yet—as the stage where intervention is still possible. Pay attention to relationships deteriorating without obvious conflict, the need to hide or rationalize drinking, emotional distance disguised as independence, and the creeping use of alcohol to manage transitions between daily activities. Unlike the visible end-stage alcoholism that came later, high-functioning alcoholism is precisely when external honesty from others matters most; the speaker's colleagues either enabled or stayed silent, allowing the illness to progress unchallenged for years.
+Actionable takeaways include treating daily drinking, morning drinking, hidden drinking, using alcohol to transition between states, and concealment tactics as possible alcohol-use-disorder warning signs even when job performance, fitness, social life, or absence of arrest look intact; concrete next steps include tracking every drink for 1–2 weeks, noting triggers such as waking, gym-to-work, lunch, commute, loneliness, and relationship silence, calculating standard drinks per week, and asking a clinician for an AUD screening, liver/thyroid/mental-health labs, and a plan for reduction or abstinence with medical supervision if withdrawal symptoms such as shaking, sweats, anxiety, insomnia, or seizures are possible. Research leads include “gray-zone drinking,” functional alcoholism, alcohol use disorder, emotional regulation, alcohol and depression/anxiety, motivational interviewing, CBT, SMART Recovery, AA, and medications such as naltrexone, acamprosate, or disulfiram where appropriate; decisions to consider are whether to disclose to a trusted person, remove alcohol from daily routes, replace the commute/gym/lunch rituals, evaluate whether work or social circles are enabling, and seek urgent help if suicidal thoughts, severe withdrawal, blackouts, or inability to stop occur.
 
 ## Transcript
 

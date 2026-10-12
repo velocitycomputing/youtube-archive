@@ -18,12 +18,12 @@ estimated_watched_seconds: 98
 transcript_status: fetched
 transcript_content_hash: de2d00cd6bb7beb4342613b2a383306829314d912bec435e9eed02f41aa24405
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:metabolic", "intervention:lifestyle", "goal:risk-reduction"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The video argues that losing visceral fat requires fixing insulin resistance and inflammation, not counting calories or willpower. It presents five metabolic habits in sequence: (1) eliminate snacking and eat three meals daily to lower insulin between meals; (2) stop eating three hours before bed and compress meals into an eight-hour daily window to improve insulin sensitivity; (3) build muscle through strength training 2–3 times weekly with 30g protein per meal, plus 10–20-minute walks after meals to improve glucose clearance; (4) perform one 24-hour water fast weekly to trigger autophagy and growth hormone surges; and (5) achieve metabolic flexibility to burn both sugar and fat efficiently. The core claim is that visceral fat creates inflammatory signals that drive more insulin resistance in a vicious cycle, so the solution is changing metabolic signals rather than fighting willpower.
+The speaker, Ben, argues that stubborn belly/visceral fat is driven less by calories, age, genetics, or a “slow metabolism” than by insulin resistance, inflammation, and lost muscle, describing visceral fat as metabolically active tissue that releases inflammatory signals such as TNF-alpha and interleukin-6. He presents five habits in order: stop snacking, claiming Americans eat 17–23 times per day and citing Harvard’s projection that about 50% of the U.S. population will be obese by 2030; compress eating into a daytime window with no food at least 3 hours before bed, citing a 2018 Pennington Biomedical study in Cell Metabolism where early time-restricted eating improved insulin sensitivity, blood pressure, and oxidative stress in men with prediabetes; build muscle and walk 10–20 minutes after meals, claiming 75–80% of post-meal glucose is cleared by muscle and citing University of Otago research that post-meal walking lowers blood sugar more than random walking; do a weekly 24-hour water fast, claiming autophagy increases around 17 hours and human growth hormone rises 2,000% in men and 1,300% in women at 24 hours; and become metabolically flexible, with the key fat-burning window described as the 3–4 hours of delta sleep after falling asleep. He also promotes MyoScience micronized creatine using German Creapure, magnesium, and his book Keto Flex Revised at ketoflexbook.com, claiming his community has reported over 1 million pounds of fat loss.
 
-To implement this: eat three meals daily with no snacking, finish eating at least three hours before bed, do 2–3 strength-training sessions weekly while consuming 30g protein at each meal, walk 10–20 minutes after your largest meal (ideally dinner), and fast for 24 hours once weekly (dinner-to-dinner, lunch-to-lunch, or breakfast-to-breakfast). If you struggle with fasting initially, expect it to become easier once the first three habits stabilize your blood sugar. Track energy levels, digestion quality, and hunger signals over the first two weeks to confirm metabolic shifts before adding the weekly fast.
+Actionable steps are to reduce grazing to three meals with no snacks, keep the last bite at least 3 hours before bed, and consider an 8-hour daytime eating window; add resistance training 2–3 times per week and aim for at least 30 g of protein per meal; take a 10–20 minute walk right after the largest meal, especially dinner; and, if medically appropriate, try one 24-hour water fast per week using water, plain coffee/tea, and unflavored electrolytes. Health cautions include avoiding or getting clinician guidance before fasting if there is a history of eating disorders, diabetes, pregnancy, medication use, hypoglycemia risk, or other medical conditions. Useful research leads to verify are the Pennington Biomedical Cell Metabolism 2018 early time-restricted eating study, University of Otago post-meal walking research, and evidence on creatine and magnesium for muscle, recovery, sleep, and glucose control. Decisions to consider are whether to use creatine/magnesium, how to adjust food timing around medications or work schedules, whether weekly fasting is safe, and which labs to track, such as fasting glucose, fasting insulin, HbA1c, lipids, and liver enzymes.
 
 ## Transcript
 

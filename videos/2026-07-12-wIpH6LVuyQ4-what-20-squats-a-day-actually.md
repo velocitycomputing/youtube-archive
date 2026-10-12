@@ -18,12 +18,12 @@ estimated_watched_seconds: 942
 transcript_status: fetched
 transcript_content_hash: 393c9614465f4483fab7f0bd54fdecb94de4c90357e81d52e7f9c51af9d8ce13
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:musculoskeletal", "system:cardio", "system:metabolic", "system:cognitive", "intervention:lifestyle", "goal:longevity", "goal:risk-reduction"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The video explains nine benefits of doing 20 daily bodyweight squats: muscle building (preventing age-related sarcopenia), enhanced brain function (BDNF release improving neuroplasticity and dementia resistance), improved cardiovascular health (strengthening the heart and activating the "second heart" in leg muscles), blood sugar control (muscles pull glucose without insulin), increased bone density (signaling osteoblasts to maintain skeleton strength), better balance (training muscles needed to catch yourself when stumbling), healthier knees (pumping nutrients to cartilage and strengthening supporting muscles), improved mobility (counteracting hip and ankle tightness from prolonged sitting), and systemic inflammation reduction (myokines released by contracting muscle). The video also introduces the Sitting Rising Test—a simple floor mobility assessment where you lower yourself to sitting and stand back up with minimal hand support (scoring up to 10 points)—noting that a 12-year study of 4,000+ people showed those scoring 10 had ~4% mortality versus 40% for those scoring 4 or below.
+Dr. Ling Yit Kim presents 20 bodyweight squats a day as a minimal daily stimulus with nine claimed benefits: activating mTOR in the large leg and glute muscles to counter sarcopenia, including the cited 3–5% muscle loss per decade after age 30 and the claim that low muscle mass at 65 more than doubles fracture risk from falls; raising mood-related messengers and BDNF to support neuroplasticity; giving the heart a brief demand workout while using leg muscles as a “second heart” to help venous return; lowering post-meal glucose because muscle contraction brings GLUT4 transporters to cells without insulin; stimulating osteoblasts and bone density, citing the Lift More trial in postmenopausal women with osteoporosis where supervised heavy squats and deadlifts improved spine and hip density with one minor lower-back spasm among about 100 participants; improving balance and fall recovery, noting falls are the leading cause of injury-related death in adults over 65 and about one in four adults falls yearly; supporting knee cartilage nutrition and joint stability if done pain-free; preserving hip and ankle mobility; and releasing myokines that may reduce chronic low-grade inflammation. The transcript also introduces the sitting-rising test associated with Brazilian physician Claudio Araujo, scored from 10 points with deductions for hands, knees, or wobbling, and cites an observational study of over 4,000 adults aged mid-40s to mid-70s followed for over 12 years where a perfect score was associated with about 4% mortality versus over 40% for scores of 4 or below.
 
-Start doing 20 squats daily in whatever location is convenient—they take roughly two minutes and require no equipment or gym membership. Time your squats strategically after meals to blunt glucose spikes. If you're new to squats or have joint issues, consult a physical therapist first to ensure proper form and safe progression. Take the Sitting Rising Test now as your baseline, then use daily squats to improve that score; results come from consistent two-minute daily efforts rather than occasional intense workouts. Never push through pain, and progressively increase your range of motion and volume over time.
+Actionable steps are to test the sitting-rising score, then try 20 pain-free squats daily, ideally after meals to blunt glucose spikes, using a chair, wall, or limited range if needed while prioritizing form over depth or speed. If the user has knee, hip, back, or joint issues, is new to exercise, is older, frail, or has fall risk, the safest decision is to consult a clinician or physical therapist before starting, especially to rule out pain triggers and build progressive range and volume. For bone-density goals, bodyweight squats are a starting signal, but research such as Lift More suggests supervised progressive resistance training may be needed for stronger skeletal adaptation, so the user could ask a professional about adding load safely. Useful follow-up questions are: What is my current sitting-rising score? Can I rise from the floor without hands or knees? Should I start with assisted squats? Is post-meal squatting appropriate for my medications or conditions? What load, frequency, or physical-therapy progression is suitable for my age and joint health?
 
 ## Transcript
 

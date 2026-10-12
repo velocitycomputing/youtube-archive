@@ -18,12 +18,12 @@ estimated_watched_seconds: 418
 transcript_status: fetched
 transcript_content_hash: 171beb3d4e4a644e0aa825df72762d1b9e4179eae443f2e3389eec0cadaa9ef3
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, primary-source-video]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The video examines how Russia's multi-year information operation cultivating support for Putin among the American right has suddenly collapsed. Putin was successfully marketed as a conservative Christian defender of Western values against liberal degeneracy, with Tucker Carlson's 2024 Moscow grocery store visit epitomizing this narrative. However, three factors destroyed this messaging: North Korea deploying tens of thousands of troops (contradicting the "Western civilization defender" framing), Russia's deepening alliance with Iran (fundamentally incompatible with Christian conservative values), and Putin's heavy-handed negotiating tactics that disrespected Trump and made him look weak—unforgivable to the MAGA base. Simultaneously, Russia's economy has deteriorated visibly: fuel rationing across 17 regions, food prices up 18%, budget deficit blown past annual targets in 5 months, and gold reserves 71% liquidated. The grocery store propaganda cannot be remade.
+Tucker Carlson’s 2024 Moscow supermarket visit and his later description of Putin as a “thug” anchor a claim that Russia’s long-running information operation targeting the American right—via RT America, Sputnik, influencers, and figures like Carlson and Laura Loomer/Luma—is collapsing. The transcript argues Putin was marketed to MAGA, evangelical, and America First audiences as a conservative Christian defender against liberal NATO, but that narrative cracked when North Korean troops appeared in Kursk and widened when Russia deepened ties with Iran, an Islamic Republic ideologically hostile to American evangelicals. It further claims Putin damaged the narrative by making Trump look weak in negotiations, while Russia’s domestic situation undermines the “functioning society” image: fuel rationing in 17 oblasts, food prices up 18%, 0.4% growth, a budget deficit exceeding its annual target in five months, and estimates that 71% of gold reserves were liquidated, with central bank warnings of lasting deterioration.
 
-For the user: The narrative collapse is irreversible because Russia has exhausted the financial resources and credible messaging needed to sustain it. Trump-aligned influencers are quietly pivoting away from pro-Putin positions, and Ukraine support is rapidly becoming politically safer for Republicans rather than toxic. If Trump continues shifting toward Ukraine, his base will follow, closing the space for capitulation positions and fundamentally undermining Putin's theory of victory (which relied on fracturing Western political will). Monitor Trump's rhetoric—his stance will determine whether this shift locks in or reverses, but the underlying structural collapse of Russian influence capacity makes a full restoration extremely unlikely.
+Actionable takeaways are political and informational rather than health-related: treat the shift in MAGA rhetoric as a signal to monitor Trump’s stance, congressional aid votes, and right-wing influencers’ framing of Ukraine, because those could affect U.S. support for Ukraine and Europe. Verify the transcript’s specific claims—especially North Korean troop deployments, Russia-Iran military cooperation, Trump-Putin negotiation dynamics, and the Russian economic figures—against primary sources and independent reporting. Useful follow-up questions: whether Trump’s team is moving from skepticism of Ukraine aid to conditional support, whether MAGA politicians are changing positions on capitulation settlements, whether Russia’s economic stress is translating into visible shortages or fiscal instability, and whether the Russia-China-Iran-North Korea alignment remains a pragmatic convenience rather than an ideological bloc.
 
 ## Transcript
 

@@ -18,12 +18,12 @@ estimated_watched_seconds: 500
 transcript_status: fetched
 transcript_content_hash: a9bf437b044e8bed3ca79a01e4efb552088f87901bbfb7d520fbe31fb16c941c
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:cardio", "system:cognitive", "system:metabolic", "system:musculoskeletal", "goal:longevity", "goal:risk-reduction", "intervention:lifestyle"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Dr. Alex outlines seven signs of healthy aging in 60-year-olds: normal albumin/protein levels (indicating good nutrition and muscle), consistent daily movement beyond formal exercise, a normal heart ultrasound, healthy HBA1C blood sugar levels, good cardiovascular fitness (VO2 max), sharp conversational memory and mental multitasking ability, and regularly cooking whole meals from colorful plants and whole ingredients. He emphasizes these signs are interconnected and reflect decades of stable blood pressure, blood sugar control, and low inflammation.
+Dr. Alex, founder of the Long Game Movement, names his wife Steph, his son George, and sponsor Brilliant while outlining seven signs a 60-year-old may be ageing well: normal albumin on liver function tests, with UK normal roughly 35–50 g/L and US 3.5–5 g/dL, as a marker of nutrition, muscle and low inflammation; staying active through NEAT, including about 5,000 steps/day; a normal echocardiogram showing heart squeeze, relaxation and valve function, though it does not assess coronary arteries; a healthy HbA1c, with UK normal under 42 mmol/mol and US under 6%, where lower normal is better; higher VO2 max, citing a Cleveland Clinic study of more than 120,000 treadmill-tested people where fitness differences in mortality were as large as or larger than smoking or diabetes; conversational memory and dual-task ability, such as walking while counting backwards; and cooking mostly from scratch with colorful plants, citing ultra-processed diets causing about 500 extra calories/day and the US diabetes prevention trial showing 58% risk reduction from lifestyle changes versus 31% with metformin.
 
-Prioritize diet above all else—cook from whole ingredients, aim for 40-50g of fiber daily, and eat abundant colorful plants and healthy fats instead of ultra-processed foods. Maintain movement throughout your day (target 5,000 steps), combine it with resistance training and adequate protein intake, keep your brain active through social engagement and learning, monitor blood pressure and blood sugar via HBA1C testing, and build cardiovascular fitness through regular brisk walking. None of these changes is too late to start, and together they protect every organ system simultaneously.
+Actionable: ask a clinician for routine bloods including albumin/LFTs, HbA1c, blood pressure, and possibly B12/thyroid/mood review; if albumin is low, investigate acute illness, liver or kidney causes before increasing protein, and get advice before high protein if kidney disease exists. For most people, spread protein across meals from eggs, fish, Greek yogurt, pulses, nuts and seeds, and pair it with resistance training. Increase NEAT: 5,000 steps/day, stand regularly, do chair stands, and take short post-meal walks. Track fitness via watch-based VO2 max trend or the ability to climb two flights of stairs while talking; seek medical review for breathlessness, chest pain, swollen ankles or a new murmur, and consider a private echocardiogram only as an adjunct, not a substitute for symptom assessment. Protect brain health by staying social, learning new things, sleeping well, checking hearing, and treating low mood, thyroid problems or low B12; if memory changes affect daily life, see a doctor. Diet: prioritize whole-food cooking, colorful plants, fiber around 40–50 g/day, and less ultra-processed food; follow-up questions include: what are my albumin, HbA1c and VO2 max, do I need an echo, how much protein is safe for me, and what is my blood-pressure plan?
 
 ## Transcript
 

@@ -18,12 +18,12 @@ estimated_watched_seconds: 383
 transcript_status: fetched
 transcript_content_hash: f5b124eabeadeb80cc0b41b057f4f154a1f20b6a4bef86074683b0fdb079d0b6
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["intervention:lifestyle", "system:musculoskeletal", "system:cardio"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-This transcript presents a 60-minute full-body workout combining strength and cardio training, designed to be completed at home using light, medium, and heavy dumbbells. The session is part of Heather Robertson's 12-week power program, which includes multiple functional strength training and endurance-based workouts accessible through her web app.
+Heather Robertson presents a 60-minute at-home full-body strength and cardio workout, described as one of the most popular sessions from her 12-week power program. The workout uses light, medium, and heavy dumbbells and is framed as a “head to toe sweat fest” combining functional strength training and endurance work. Robertson promotes her web app and website, heatherrobertson.com, offering a free 7-day trial and noting that the app allows users to adjust their weekly schedule to support consistency.
 
-To get started, you can visit heatherrobertson.com and claim a free 7-day trial of the program. During the trial, you'll have access to adjust the workout schedule week-by-week, helping you maintain consistency. This particular 60-minute session is one of the most popular workouts in the full 12-week program.
+Actionable takeaways: if you want a home-based strength-and-cardio session, this workout suggests having three dumbbell weights available and following the full 60-minute routine. If you are considering Robertson’s program, use the 7-day trial to assess whether the workout style, schedule flexibility, and app features fit your goals. For health safety, consider your current fitness level, joint health, and any medical conditions before doing a 60-minute dumbbell session, and look up proper form for each exercise since the transcript does not list the specific movements. Follow-up questions to consider: What dumbbell weights are appropriate for me? Does this program include modifications for beginners or injuries? How many days per week should this be done?
 
 ## Transcript
 

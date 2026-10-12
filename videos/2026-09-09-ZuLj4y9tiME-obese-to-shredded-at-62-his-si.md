@@ -18,12 +18,12 @@ estimated_watched_seconds: 130
 transcript_status: fetched
 transcript_content_hash: ea75fa0a2ca6765e9208f717f559daae710cf1111eaca3939439729dd55513ce
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:metabolic", "system:musculoskeletal", "intervention:supplement", "intervention:lifestyle", "goal:longevity", "goal:risk-reduction"]
 proposed_entities: [ent-intervention-creatine]
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-TJ Cattell, 62, lost 120 pounds over eight years by starting the gym at age 54 after his doctor warned him about medication. His routine is rigid: wake at 4:15 AM without an alarm, weigh himself, then hit the gym by 5 AM for 90 minutes of lifting (push/pull/legs split on an 8-day cycle with a rest day built in) followed by 30–60 minutes on the elliptical. His diet is meticulously tracked and measured—post-workout cottage cheese with carrots, Greek yogurt with blueberries, grilled chicken with asparagus and salad for dinner, and one 8-oz chocolate milk daily as his treat. He takes vitamins, fish oil, magnesium (all doctor-recommended), and creatine. His motivation was being present for his kids, and the Fitbit was the tool that unlocked everything by showing him the calorie math. He stresses that previous attempts failed because he didn't exercise or sustain change; this time stuck because he combined consistency with precision tracking.
+TJ Cattell, a 62-year-old from North Carolina interviewed by Sierra, says he lost 120 lb after starting regular gym training at 54 and has maintained the change for eight years. He attributes his transformation to waking at 4:15 a.m., training at 5:00 a.m. on an eight-day push/pull/legs/rest cycle repeated twice, doing 90 minutes of lifting plus 30–60 minutes of elliptical, and measuring/prepping food down to grams, including 40 g nuts, cottage cheese with carrots, Greek yogurt with blueberries, grilled chicken, asparagus, salad, and 8 oz chocolate milk at dinner. He says he gained about a pound a month for ten years while working nights as an insurance adjuster and eating to stay awake, reached nearly 300 lb by 45, was warned at 54 that he might need cholesterol medication, used a Fitbit and calorie tracking to dial in intake, and had previously lost 100 lb twice in work contests but regained it because he did not exercise or build sustainable habits. He reports taking vitamins, fish oil, magnesium, and creatine on doctor/friend advice, denies TRT, says pull-ups took about 1.5 years, credits his kids and breaking generational obesity, says all three sisters also got healthy, and the video includes a Pulsetto ad claiming vagus-nerve stimulation can reduce stress and improve sleep in about 4 minutes, with 400,000 users and a 30-day guarantee.
 
-To replicate this: identify a non-aesthetic reason (family, quality of life) and commit to an early, non-negotiable gym time. Prep and measure all meals in advance—use containers, a scale, and an app to track every gram. Pick three meals, repeat them endlessly, vary spices for interest. Expect two to three months with no visible change, and years to fully transform. Once you build the habit, motivation becomes irrelevant; you simply execute. Accept that loose skin may remain but focus on health over looks. TJ's core message: small, consistent steps over long periods compound into a new person, and it's never too late to start.
+If the user wants to apply this, treat it as a long-term behavior-change plan rather than a quick fix: get medical clearance and baseline labs such as weight, blood pressure, lipids, glucose/A1c, liver/kidney function, and joint status, then build a repeatable routine with resistance training 3–4 days/week, progressive overload, adequate protein/fiber, calorie awareness, and food prep/portioning to control stress eating. Use a tracker, scale, or app to establish maintenance calories and a modest deficit, prioritize sleep and rest days, and add low-impact cardio if tolerated. Consider creatine, fish oil, and magnesium only after checking contraindications, medications, kidney status, and goals; do not assume TRT is needed. Follow-up questions: What is the user’s current weight, labs, medications, injuries, and schedule? What calorie/protein target and beginner-safe split fit them? How will they handle plateaus, stress eating, and body-image concerns such as loose skin? Should they work with a registered dietitian, trainer, or physician, and what measurable 12-week and 12-month milestones will they track?
 
 ## Transcript
 

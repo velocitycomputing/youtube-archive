@@ -18,12 +18,12 @@ estimated_watched_seconds: 284
 transcript_status: fetched
 transcript_content_hash: db4ef1d951bd0cd13075085cc5277b338d0aea854fdb31bbea2e28f7e2ffb0e9
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:cardio", "system:metabolic", "system:immune", "system:thyroid", "goal:risk-reduction", "intervention:lifestyle", primary-source-video]
 proposed_entities: [ent-lab-marker-psa]
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The video discusses how Function tests measure over 160 lab biomarkers organized into functional systems—cardiovascular health (ApoB, Lp(a), LDL particle types, hs-CRP), nutrient status (Vitamin D, iron panels, B12 utilization, omega ratios), hormonal balance (detailed panels for estrogen, testosterone, thyroid hormones, and pituitary function), stress markers (cortisol and DHEAS), pancreatic enzymes, autoimmune antibodies (ANA, rheumatoid factor), immune cell counts, heavy metal exposure (mercury and lead), and metabolic health (insulin, leptin, uric acid)—revealing that standard checkups miss critical patterns. The core argument: chronic diseases are largely preventable if caught early through complete system mapping, not isolated snapshot numbers like standard cholesterol or TSH-only thyroid testing.
+Function’s pitch, featuring Pranitha, framed chronic disease as largely lifestyle- and environment-driven, preventable, and often reversible, and positioned Function’s more than 160 lab tests as a “symphony” view of health versus routine checkups. It emphasized cardiovascular risk beyond standard lipids—ApoB, Lp(a), LDL particle number, LDL peak size, LDL pattern, HDL large particles, non-HDL cholesterol, total cholesterol/HDL ratio, and hs-CRP—claiming two people with similar LDL can have very different heart-attack risk. It also covered micronutrient and metabolic markers such as vitamin D, calcium, zinc, ferritin, iron saturation, iron-binding capacity, homocysteine, methylmalonic acid, and omega-3/omega-6 ratio; sex hormones for women and men including estradiol, total/free testosterone, FSH, LH, prolactin, SHBG, DHEA-S, and AMH; thyroid testing with TSH, free T4, free T3, TPO antibodies, and thyroglobulin antibodies; stress markers cortisol and DHEA-S; pancreatic enzymes amylase and lipase; autoimmune screens ANA, ANA titer/pattern, and rheumatoid factor; immune-cell differentials; heavy metals mercury and lead; and liver/metabolic markers including glucose, A1c, insulin, leptin, uric acid, ALT, AST, and ALP. Key claims and data included cardiovascular disease as the leading killer, 93% of Americans having some metabolic dysfunction, lifetime cancer risk of about 40% for women and 39% for men, Hashimoto’s affecting roughly 1 in 6 women, more than 15 million Americans living with autoimmune disease, nearly 1 in 3 adults having liver disease, and 7 or more sugary drinks per week linked to a 53% higher risk of metabolic-associated fatty liver disease.
 
-Actionable steps: (1) Request comprehensive functional testing beyond routine physicals, especially insulin and hemoglobin A1c for metabolism, free T3 for thyroid conversion, ApoB/Lp(a) for cardiovascular risk, and iron panels for women; (2) women should demand hormone testing (FSH, LH, estradiol, SHBG, AMH) rather than accepting dismissal as "stress"; (3) men should get testosterone (total and free), DHEAS, and early PSA screening; (4) test mercury and lead if you eat high-mercury fish or live in pre-1978 housing; (5) check liver markers (ALT, AST) if consuming excess sugar; (6) use test results to guide lifestyle changes (diet, sleep, movement) to reverse metabolic dysfunction before it becomes irreversible disease.
+Actionable: if considering Function or a similar panel, prioritize tests with clear clinical meaning and review them with a clinician: ApoB and Lp(a) for cardiovascular risk, especially with family history or “normal” LDL; hs-CRP and advanced lipid subfractions if risk is uncertain; fasting insulin plus A1c/glucose for early insulin resistance; ferritin and iron saturation if fatigue, hair loss, poor exercise tolerance, or heavy periods; homocysteine and methylmalonic acid if B-vitamin deficiency is suspected; omega-3/omega-6 ratio to guide diet; thyroid testing including free T3 and TPO/TgAb if fatigue, weight change, cold intolerance, hair loss, or brain fog; cortisol and DHEA-S if chronic stress or burnout is suspected; amylase and lipase if abdominal pain or GLP-1 use raises concern; ANA/RF only if symptoms suggest autoimmunity; heavy-metal testing if high-mercury fish intake or pre-1978 housing/lead exposure is relevant; and liver enzymes plus metabolic markers if sugary drinks, obesity, or fatty-liver risk are present. Treat abnormal results as prompts for confirmation and context, not self-diagnosis: repeat questionable labs, discuss PSA/free PSA with a doctor before acting, ask whether elevated markers need imaging or specialist referral, and use results to target sleep, nutrition, movement, alcohol/sugar reduction, safer fish choices, and lead remediation.
 
 ## Transcript
 

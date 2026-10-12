@@ -18,12 +18,12 @@ estimated_watched_seconds: 83
 transcript_status: fetched
 transcript_content_hash: 4c7c534bb50130cf0b2d8a532d49cfe772efa9326ddb512e0044506fb89f0e96
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["intervention:lifestyle", "intervention:supplement", "goal:symptom-relief", "system:metabolic"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The video explains that sleep apnea results from three "squeezes" collapsing your airway: loss of muscle tone inside the throat, external pressure from neck fat and fluid accumulation, and reduced nerve function that normally holds the airway open. Research shows non-CPAP solutions work—didgeridoo players dropped their sleep apnea events by 36%, and throat exercises reduced events from 22 to 14 per hour. The speaker addresses three immediate interventions (throat exercises, sleeping position changes, avoiding alcohol) plus long-term solutions (weight loss through lower insulin and inflammation via protein/fat-focused meals, no snacking, magnesium and vitamin D).
+Ben discusses sleep apnea as a problem of airway collapse caused by three “midnight squeezes”: loss of muscle tone inside the throat, external pressure from neck fat and fluid shifting from the legs when lying flat, and reduced nerve activity from alcohol or sedation. He cites a didgeridoo study in 25 people with moderate sleep apnea—25 minutes a day, six times a week for four months—that reportedly reduced apnea events, daytime exhaustion, and partner sleep complaints; a São Paulo, Brazil randomized sham-controlled trial in 31 people with moderate sleep apnea in which throat exercises over three months reduced apnea events from about 22 to 14 per hour, reduced neck size, snoring, and daytime sleepiness; and Wisconsin research following 690 adults showing a 10% weight loss predicted about a 20% drop in apnea events, while a 10% weight gain raised the odds of moderate-to-severe sleep apnea sixfold. He also states global estimates of about 936 million adults aged 30–69 with mild-to-severe sleep apnea and 425 million with severe sleep apnea, claims positional sleep apnea affects one-third to two-thirds of sleep-lab patients, and promotes MyoScience magnesium—250 mg elemental magnesium from malate, bisglycinate, and taurate—plus vitamin D3/K2, while describing a client who lost over 80 pounds in seven months and reportedly stopped using CPAP under doctor supervision.
 
-Tonight: do seven minutes of throat exercises—reverse tongue sweep along roof of mouth (20 reps), locked swallow without cheek or lip movement (10 reps), and finger resistance against cheek (10 reps each side). Sleep on your side instead of your back, raise your bed's head 6–7 inches, and drain leg fluid with a 15-minute post-dinner walk or 10 minutes of legs-up-wall position. Avoid all food and alcohol at least three hours before bed. Long-term, eat three meals daily focused on protein and fat (steak, eggs, chicken, fatty fish, vegetables), eliminate snacking, keep inflammation and insulin low, and consider magnesium and vitamin D supplements. Consult your doctor before stopping CPAP if you use one.
+Actionable takeaways: do not stop CPAP because of a video; if you snore, gasp, or wake exhausted, get a sleep study and ask whether your apnea is positional, mild/moderate/severe, and whether CPAP changes are safe. Tonight, try the claimed 7-minute throat routine: reverse sweep 20 times, locked swallow 10 times, and finger push 10 times per side for five rounds; sleep on your side, possibly using a tennis-ball shirt; raise the head of the bed 6–7 inches rather than stacking pillows; and drain leg fluid with a 15-minute walk or 10 minutes with feet up a wall. Avoid alcohol and heavy late meals for at least 3 hours before bed. Consider magnesium and vitamin D only as adjuncts—not replacements for CPAP or medical care—and ask a clinician about testing magnesium/vitamin D status, safe weight-loss targets, and whether a metabolic plan (three protein/fat-focused meals, no snacking, no alcohol, exercise) is appropriate for you.
 
 ## Transcript
 
