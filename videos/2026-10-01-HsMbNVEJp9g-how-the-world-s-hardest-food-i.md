@@ -27,7 +27,7 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-status: new
+status: rejected
 routed_to: null
 ---
 
