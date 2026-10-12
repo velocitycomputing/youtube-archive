@@ -4,14 +4,14 @@ video_id: eYhqBVXOVz0
 title: The Real Reason SpaceX Chose Louisiana
 channel: The Space Race
 url: "https://www.youtube.com/watch?v=eYhqBVXOVz0"
-watched_date: "2026-09-20"
-watched_at: "2026-09-20T12:00:00Z"
+watched_date: "2026-09-19"
+watched_at: "2026-09-19T12:00:00Z"
 watch_count: 1
 duration_seconds: 872
 source: youtube-history-browser
 added_date: ""
-history_label: Sep 20
-history_order: 234
+history_label: Sep 19
+history_order: 189
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

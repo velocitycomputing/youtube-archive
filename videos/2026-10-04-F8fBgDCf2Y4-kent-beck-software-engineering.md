@@ -11,7 +11,7 @@ duration_seconds: 3113
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 4
-history_order: 110
+history_order: 109
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null
