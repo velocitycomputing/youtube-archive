@@ -5,7 +5,7 @@ title: "I've Spent Thousands on Amps - This is EMBARASSING To Admit"
 channel: John Nathan Cordy
 url: "https://www.youtube.com/watch?v=xgrOX1GyjF4"
 watched_date: "2026-09-29"
-watched_at: "2026-09-29T12:00:00Z"
+watched_at: "2026-09-29T23:57:16Z"
 watch_count: 1
 duration_seconds: 1240
 source: youtube-history-browser

@@ -5,7 +5,7 @@ title: Gothamchess Learns by Beating GMs.
 channel: Gotham Games
 url: "https://www.youtube.com/watch?v=dLLUPIdywQM"
 watched_date: "2026-10-04"
-watched_at: "2026-10-04T12:00:00Z"
+watched_at: "2026-10-04T23:58:16Z"
 watch_count: 1
 duration_seconds: 1703
 source: youtube-history-browser

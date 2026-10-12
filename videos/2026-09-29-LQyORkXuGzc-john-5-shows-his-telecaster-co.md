@@ -5,7 +5,7 @@ title: "John 5 Shows His Telecaster Collection & Talks Its Versatility | Tele 75
 channel: Fender
 url: "https://www.youtube.com/watch?v=LQyORkXuGzc"
 watched_date: "2026-09-29"
-watched_at: "2026-09-29T12:00:00Z"
+watched_at: "2026-09-29T23:57:32Z"
 watch_count: 1
 duration_seconds: 945
 source: youtube-history-browser

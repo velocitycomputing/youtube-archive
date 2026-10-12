@@ -5,13 +5,13 @@ title: I Interviewed the CEO of Fender
 channel: Mary Spender
 url: "https://www.youtube.com/watch?v=08rIi400KXo"
 watched_date: "2026-09-22"
-watched_at: "2026-09-22T12:00:00Z"
+watched_at: "2026-09-22T23:56:41Z"
 watch_count: 1
 duration_seconds: 5716
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 22
-history_order: 177
+history_order: 199
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

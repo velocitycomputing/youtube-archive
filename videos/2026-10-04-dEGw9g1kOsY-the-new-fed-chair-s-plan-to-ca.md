@@ -5,13 +5,13 @@ title: "The New Fed Chair's Plan to Cancel America's $40T Debt Crisis"
 channel: SelfAdvisers
 url: "https://www.youtube.com/watch?v=dEGw9g1kOsY"
 watched_date: "2026-10-04"
-watched_at: "2026-10-04T12:00:00Z"
+watched_at: "2026-10-04T23:58:19Z"
 watch_count: 1
 duration_seconds: 754
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 4
-history_order: 100
+history_order: 101
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

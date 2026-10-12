@@ -5,7 +5,7 @@ title: The Sheryl Crow Interview
 channel: Rick Beato
 url: "https://www.youtube.com/watch?v=-7ik1NeS4lc"
 watched_date: "2026-09-27"
-watched_at: "2026-09-27T12:00:00Z"
+watched_at: "2026-09-27T23:56:58Z"
 watch_count: 1
 duration_seconds: 3523
 source: youtube-history-browser

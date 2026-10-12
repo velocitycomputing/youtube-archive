@@ -5,7 +5,7 @@ title: "What Jazz Pianists Understand About 'In Rainbows' That Others Miss"
 channel: "You'll Hear It"
 url: "https://www.youtube.com/watch?v=0Io3iLHFbl8"
 watched_date: "2026-10-07"
-watched_at: "2026-10-07T12:00:00Z"
+watched_at: "2026-10-07T23:58:54Z"
 watch_count: 1
 duration_seconds: 3481
 source: youtube-history-browser

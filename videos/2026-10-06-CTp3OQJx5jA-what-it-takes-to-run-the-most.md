@@ -5,7 +5,7 @@ title: What it Takes to Run The Most Remote 2-Michelin Restaurant in The World
 channel: S3
 url: "https://www.youtube.com/watch?v=CTp3OQJx5jA"
 watched_date: "2026-10-06"
-watched_at: "2026-10-06T12:00:00Z"
+watched_at: "2026-10-06T23:58:46Z"
 watch_count: 1
 duration_seconds: 750
 source: youtube-history-browser

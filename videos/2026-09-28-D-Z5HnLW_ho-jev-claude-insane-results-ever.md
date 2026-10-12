@@ -5,13 +5,13 @@ title: Jev + Claude = INSANE Results (Every Concept Explained)
 channel: Simon Scrapes
 url: "https://www.youtube.com/watch?v=D-Z5HnLW_ho"
 watched_date: "2026-09-28"
-watched_at: "2026-09-28T12:00:00Z"
+watched_at: "2026-09-28T23:57:08Z"
 watch_count: 1
 duration_seconds: 2242
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 28
-history_order: 150
+history_order: 172
 watched_at_precision: date-from-history-label
 watched_percent: 42
 estimated_watched_seconds: null

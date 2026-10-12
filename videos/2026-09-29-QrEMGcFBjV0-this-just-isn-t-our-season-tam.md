@@ -5,7 +5,7 @@ title: "THIS JUST ISN'T OUR SEASON | Tampa Bay Buccaneers Fan Reaction to losing
 channel: Jackson Krueger Sports
 url: "https://www.youtube.com/watch?v=QrEMGcFBjV0"
 watched_date: "2026-09-29"
-watched_at: "2026-09-29T12:00:00Z"
+watched_at: "2026-09-29T23:57:28Z"
 watch_count: 1
 duration_seconds: 824
 source: youtube-history-browser

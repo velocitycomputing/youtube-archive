@@ -5,13 +5,13 @@ title: Vikings vs. Buccaneers Preview + Predictions
 channel: Check The Mic with Steve Palazzolo & Sam Monson
 url: "https://www.youtube.com/watch?v=uHGMdZ5zgPY"
 watched_date: "2026-09-24"
-watched_at: "2026-09-24T12:00:00Z"
+watched_at: "2026-09-24T23:56:48Z"
 watch_count: 1
 duration_seconds: 710
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 24
-history_order: 195
+history_order: 192
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

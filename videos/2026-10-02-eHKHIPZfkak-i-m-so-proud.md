@@ -5,7 +5,7 @@ title: "I'm so proud."
 channel: Gotham Games
 url: "https://www.youtube.com/watch?v=eHKHIPZfkak"
 watched_date: "2026-10-02"
-watched_at: "2026-10-02T12:00:00Z"
+watched_at: "2026-10-02T23:58:03Z"
 watch_count: 1
 duration_seconds: 628
 source: youtube-history-browser

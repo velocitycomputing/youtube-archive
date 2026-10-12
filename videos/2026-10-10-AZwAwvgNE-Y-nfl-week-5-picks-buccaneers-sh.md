@@ -5,7 +5,7 @@ title: "NFL Week 5 Picks; Buccaneers shock Cowboys | Chris Simms Unbuttoned (FUL
 channel: NFL on NBC
 url: "https://www.youtube.com/watch?v=AZwAwvgNE-Y"
 watched_date: "2026-10-10"
-watched_at: "2026-10-10T12:00:00Z"
+watched_at: "2026-10-10T23:59:18Z"
 watch_count: 1
 duration_seconds: 5269
 source: youtube-history-browser

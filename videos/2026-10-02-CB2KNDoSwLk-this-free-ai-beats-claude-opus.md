@@ -5,13 +5,13 @@ title: This Free AI Beats Claude Opus — and Runs on Your Own GPU (Qwen3.8-27B)
 channel: The Solo Engineer
 url: "https://www.youtube.com/watch?v=CB2KNDoSwLk"
 watched_date: "2026-10-02"
-watched_at: "2026-10-02T12:00:00Z"
+watched_at: "2026-10-02T23:58:05Z"
 watch_count: 1
 duration_seconds: 627
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 2
-history_order: 114
+history_order: 115
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

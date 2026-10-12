@@ -5,7 +5,7 @@ title: Bosch Dishwasher E25 Error Code and How to Clean Filter for Maximum Effic
 channel: Lurgs How To Guides
 url: "https://www.youtube.com/watch?v=JAYli3EIcvI"
 watched_date: "2026-10-04"
-watched_at: "2026-10-04T12:00:00Z"
+watched_at: "2026-10-04T23:58:18Z"
 watch_count: 1
 duration_seconds: 618
 source: youtube-history-browser

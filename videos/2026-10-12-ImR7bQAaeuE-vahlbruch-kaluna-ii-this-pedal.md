@@ -5,7 +5,7 @@ title: Vahlbruch Kaluna II – THIS PEDAL SOUNDS LIKE A TUBE AMP?!
 channel: Fabian Ratsak - Guitar Tone and Gear
 url: "https://www.youtube.com/watch?v=ImR7bQAaeuE"
 watched_date: "2026-10-12"
-watched_at: "2026-10-12T10:08:45Z"
+watched_at: "2026-10-12T23:59:56Z"
 watch_count: 1
 duration_seconds: 811
 source: youtube-history-browser

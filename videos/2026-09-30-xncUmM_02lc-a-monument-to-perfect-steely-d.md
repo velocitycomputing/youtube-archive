@@ -5,7 +5,7 @@ title: "A Monument to Perfect | Steely Dan's Gaucho"
 channel: "You'll Hear It"
 url: "https://www.youtube.com/watch?v=xncUmM_02lc"
 watched_date: "2026-09-30"
-watched_at: "2026-09-30T12:00:00Z"
+watched_at: "2026-09-30T23:57:42Z"
 watch_count: 1
 duration_seconds: 5107
 source: youtube-history-browser

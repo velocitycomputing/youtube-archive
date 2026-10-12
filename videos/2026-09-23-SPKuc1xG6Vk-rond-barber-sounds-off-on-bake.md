@@ -5,13 +5,13 @@ title: Rondé Barber Sounds Off on Baker Mayfield, Todd Bowles & the 0-2 Bucs
 channel: The Rondé Barber Show
 url: "https://www.youtube.com/watch?v=SPKuc1xG6Vk"
 watched_date: "2026-09-23"
-watched_at: "2026-09-23T12:00:00Z"
+watched_at: "2026-09-23T23:56:44Z"
 watch_count: 1
 duration_seconds: 3610
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 23
-history_order: 199
+history_order: 196
 watched_at_precision: date-from-history-label
 watched_percent: 49
 estimated_watched_seconds: null

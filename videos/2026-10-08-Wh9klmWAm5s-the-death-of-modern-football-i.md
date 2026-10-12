@@ -5,7 +5,7 @@ title: The death of modern football is occurring...
 channel: Michael MacKelvie
 url: "https://www.youtube.com/watch?v=Wh9klmWAm5s"
 watched_date: "2026-10-08"
-watched_at: "2026-10-08T12:00:00Z"
+watched_at: "2026-10-08T23:59:00Z"
 watch_count: 1
 duration_seconds: 1253
 source: youtube-history-browser

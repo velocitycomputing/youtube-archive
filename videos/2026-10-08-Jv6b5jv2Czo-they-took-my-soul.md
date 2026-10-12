@@ -5,7 +5,7 @@ title: They took my soul.
 channel: Gotham Games
 url: "https://www.youtube.com/watch?v=Jv6b5jv2Czo"
 watched_date: "2026-10-08"
-watched_at: "2026-10-08T12:00:00Z"
+watched_at: "2026-10-08T23:59:01Z"
 watch_count: 1
 duration_seconds: 1636
 source: youtube-history-browser
