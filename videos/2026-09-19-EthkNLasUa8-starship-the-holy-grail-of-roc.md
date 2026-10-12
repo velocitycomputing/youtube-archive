@@ -4,14 +4,14 @@ video_id: EthkNLasUa8
 title: Starship - The Holy Grail of Rocketry
 channel: SpaceX
 url: "https://www.youtube.com/watch?v=EthkNLasUa8"
-watched_date: "2026-09-20"
-watched_at: "2026-09-20T12:00:00Z"
+watched_date: "2026-09-19"
+watched_at: "2026-09-19T12:00:00Z"
 watch_count: 1
 duration_seconds: 1710
 source: youtube-history-browser
 added_date: ""
-history_label: Sep 20
-history_order: 235
+history_label: Sep 19
+history_order: 192
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
