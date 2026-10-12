@@ -18,12 +18,12 @@ estimated_watched_seconds: 969
 transcript_status: fetched
 transcript_content_hash: 0d0af7a56f5381411a72e3ebac527042fca2a1434f80da23038761e1292f8b2f
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:musculoskeletal", "intervention:lifestyle", "goal:longevity", "goal:risk-reduction", "goal:symptom-relief"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The video presents five leg exercises (plus a bonus tibialis raise) designed for men over 50 to rebuild strength without squats. The core argument: standard squats overload quads while leaving hamstrings, glutes, and stabilizers underdeveloped—creating imbalances that erode strength, balance, and function. The five main movements are lateral step-ups (training sideways stability), Bulgarian split squats (single-leg loading), feet-elevated glute bridges (activating dormant glutes), deficit calf raises (full-range ankle strength), and farmer's carries (grip and full-body stability). Each exercise includes a detailed three-week progression with specific rep ranges, form cues emphasizing tempo control, and equipment alternatives (dumbbells, backpacks, household items).
+The transcript promotes a 3-week, no-squat leg routine for adults over 50, claiming standard squats overwork the quads while hamstrings, adductors, and glutes remain underactive, causing strength, balance, and power loss, and that five movements can restore up to 80% of lost leg strength. It discusses lateral step-ups for gluteus medius/maximus and hip stability, Bulgarian split squats for unilateral quad/glute/hamstring strength, feet-elevated glute bridges for glute activation and lower-back relief, deficit calf raises for calf range and fall resilience, farmer’s carries for grip/core/full-body strength, and a bonus tibialis raise for shin/toe-lift strength. Key data includes 3-second eccentrics, 1–2 second pauses/squeezes, week-by-week rep/load progressions such as 8–12 reps per leg, 12–20 calf reps, 20–60 second carries, and claims that grip strength predicts longevity/independence and weak tibialis contributes to toe-dragging falls.
 
-To get results, perform the five exercises three times weekly following the provided week-by-week progressions—starting light, nailing form with slow eccentrics (especially the 3-second lowering phases), and increasing load or rep range each week. The actionable payoff: improved balance and fall prevention, stronger grip (a proven longevity predictor), better posture, restored glute function that eliminates lower-back pain, and real-world functional strength for carrying groceries, luggage, and daily independence.
+Actionable: if over 50, deconditioned, or fall-prone, consider a cautious 3-week trial after checking with a clinician if there is knee/hip/back pain, dizziness, neuropathy, uncontrolled blood pressure, recent fall, or cardiac risk. Start with low steps, fingertip support, bodyweight, and strict tempo; progress height, reps, then load only when control is stable; use household weights if needed. Health implications include possible improvements in single-leg strength, hip stability, calf/Achilles tolerance, grip, posture, and fall prevention, but stop for sharp knee/Achilles pain, back arching, hamstring cramps, balance loss, or chest symptoms. Research leads: eccentric training, unilateral lower-body training, glute activation, calf/tibialis anterior strengthening, grip strength as a mortality marker, and fall-risk assessment. Follow-up questions: What is baseline single-leg strength and balance? Are there arthritis, foot-drop, neuropathy, or medication-related dizziness issues? What step height, load, and progression are safe? Should a physical therapist screen gait, knee tracking, and fall risk before adding loaded carries?
 
 ## Transcript
 

@@ -18,12 +18,12 @@ estimated_watched_seconds: 78
 transcript_status: fetched
 transcript_content_hash: f8d6184b0778353b57bdf9311b6f2757aea3de35d1ae52813080d4af27f180ce
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Ukraine's shift from "special military operation" to "war" reflects Putin's hardening maximalism, driven by Western support. The speaker argues that while Russia faces compounding crises—Crimea losses, economic strain, domestic discontent—these pressures won't collapse the regime alone; they require simultaneous political opposition and alternative leadership to trigger real instability. Putin operates from two fixed commitments: preserve the status quo (maintain pressure on Ukraine while gambling on Western political fracture) and escalate rather than concede if forced to act. The Kremlin lacks sophisticated decision-making capacity to evaluate strategic options well, making unpredictable moves likely.
+Peskov’s statement that Russia’s “special military operation” has become a “war” was framed as less radical than media coverage suggests, because Putin himself had earlier begun using the word “war,” while Kremlin messaging now attributes the shift to sustained Western support for Ukraine and to Ukraine’s operations on Russian soil forcing a more maximalist Russian posture. The discussion covered Putin’s regime vulnerabilities—crisis in Crimea, internet censorship, fuel shortages, worsening economic trends, and apolitical discontent/fatigue—arguing these are compounding rather than triggering factors unless combined with elite cracks, bottom-up mobilization, and a credible alternative leader. It also assessed Putin’s likely behavior: risk-averse, status-quo-preserving, but more likely to escalate than concede if forced, with options including military/political mobilization, low-threshold Article 5 challenges in the Baltics, hybrid attacks in NATO countries such as Poland, or pressure on Lukashenko/Belarus; the speaker also claimed authoritarian regimes often have weak state capacity, especially domestically. Finally, the speaker proposed a “malign advisor” scenario: Putin should have accepted a Trump-brokered deal for partial reintegration with the West, while bluffing on nuclear threats, using smaller escalations, and preparing future foreign adventures; the video also noted the speaker’s recent marriage and health concerns.
 
-For policymakers: compounding crises are not regime-ending triggers—don't assume Putin will collapse under pressure. Expect him to escalate militarily or politically rather than negotiate seriously. Any negotiated settlement through Trump may be tactical cover while Putin repositions for future aggression elsewhere, not a genuine shift away from conflict. Prepare for the possibility that halting Ukraine becomes a staging point for new crises—the Baltics, hybrid attacks, or escalation outside the region—once Putin extracts initial reintegration benefits.
+Actionable follow-up: treat Peskov’s wording as a signal of Kremlin framing and possible policy hardening, not proof of imminent collapse; monitor concrete triggers such as elite splits, visible protest mobilization, credible opposition leadership, and whether Crimea/Censorship/fuel/economic grievances become politicized. For research, track Russian inflation, fuel prices, ruble, budget revenue, censorship enforcement, Crimea unrest, NATO eastern-flank incidents, and Trump-related diplomacy; distinguish A-level escalations (Baltics/Poland) from B-level escalations (new Ukraine tactics, hybrid attacks, nuclear signaling). Decisions for a user: avoid overreacting to single rhetorical changes, update risk assessments only if compounding factors coincide with triggering events, and prepare questions such as: Which Russian indicators show politicized discontent? What would constitute a low-threshold Article 5 test? Is the speaker’s health/marriage note relevant to channel continuity or just personal context?
 
 ## Transcript
 

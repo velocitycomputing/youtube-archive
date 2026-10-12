@@ -18,12 +18,12 @@ estimated_watched_seconds: 2080
 transcript_status: fetched
 transcript_content_hash: 58a8ca0a657fa3c0abe62fa5d7243567631f8358825566f2f2ae3152b198d775
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:gi", primary-source-video, "intervention:procedure", "goal:risk-reduction"]
 proposed_entities: [ent-condition-neuropathy]
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Louis Theroux documented severe alcohol addiction at King's College Hospital in South London, following patients through detoxification and recovery. He met Peter, who relapsed to 1.5 liters of vodka daily after his father's death; Orally, a 44-year-old drinking 5-7 cans of strong cider daily with astronomical liver enzyme levels (GMA GT ~3,000); Joe, who drank himself into neurological damage and hospitalization but achieved sobriety; and Stuart, an antiques dealer with cirrhosis who accumulated 10 liters of abdominal fluid and received a prognosis that 76% of patients with his liver score don't survive three months. The film reveals how grief, rejection, stress, and emotional triggers drive repeated cycles of binge drinking and medical crises.
+At King's College Hospital in South London, Louis Theroux examined extreme alcohol addiction through patients and families: Peter Swainpole, who drank 1.5 litres of vodka in 24 hours after his father's death and was supported by girlfriend Mariana; Orally Fonjo, drinking 5–7 cans of 8.4% cider daily, with a history starting in early teens, five detox attempts, a brief 3-week alcohol-free period, bleeding, and later GGT around 3,000, an enlarged spleen and swollen pancreas; Joe Walker, who escalated to two bottles of vodka daily, had 4.5 years prior abstinence, showed ataxia and withdrawal, and had no hospital visitors; and Stuart Dugen, an antiques dealer with alcoholic cirrhosis, 10 litres of ascitic fluid, and a MELD score of 22, for which Dr. Debbie Shorcross said 76% of people with that score would not last three months. The transcript also featured clinical nurse specialist Ian Webzel, alcohol liaison nurse specialist Kathy Smith Barker, liver specialist Professor John O'Grady, and Mariana's and Deborah's accounts of caregiving, relapse triggers such as grief, rejection, breakup, housing stress, and the claim that repeated detox-relapse cycles eventually narrow life to alcohol and can become medically unsustainable.
 
-If you recognize these patterns in yourself or someone close—daily heavy drinking, relapse after detox, family stress as a trigger, or physical symptoms like tremors, bleeding, or fluid retention—seek immediate medical evaluation. Hospital-supervised detoxification is essential because withdrawal can cause seizures or death. Request liver function tests (GMA GT, AST, ALT) to assess organ damage; early cirrhosis may be reversible with abstinence, but advanced disease cannot be undone. Build a support network: people with family involvement and professional help have better recovery odds than those isolated. Finally, recognize that cycling between relapse and detox is unsustainable—each cycle causes irreversible liver damage, so sustained abstinence, not repeated attempts, is the only viable path.
+For the user, the actionable health implication is that severe or daily alcohol use should not be stopped abruptly without medical assessment because withdrawal can cause seizures and death, and supervised detox often takes about a week; anyone with heavy drinking, morning shakes, inability to stop, blackouts, falls, confusion, vomiting blood, swollen abdomen, jaundice, or known liver disease should seek urgent medical care and ask for liver-function tests, GGT, MELD scoring, varices screening, addiction-liaison referral, and a relapse-prevention plan. Useful follow-up questions include: what is my current drinking quantity and pattern, what triggers relapse, do I need inpatient detox, are there medications or therapies for alcohol use disorder, how can partners set boundaries without abandoning the person, and what support exists for grief, trauma, or isolation; research leads include alcohol use disorder, cirrhosis, ascites, variceal bleeding, alcohol withdrawal, liver transplant criteria, and addiction treatment models such as AA, CBT, motivational interviewing, and specialist alcohol clinics.
 
 ## Transcript
 

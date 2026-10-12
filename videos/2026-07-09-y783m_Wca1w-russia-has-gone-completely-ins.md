@@ -18,12 +18,12 @@ estimated_watched_seconds: 158
 transcript_status: fetched
 transcript_content_hash: 09609f524e2da0dc2a94c67364ee2f887e7c979d58e76f53c2b2e28b51f65739
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Russia faces an accelerating fuel crisis stemming from Ukraine's destruction of refineries—the Omsk refinery, Russia's largest, has lost 80% capacity with no repair timeline, while the Moscow refinery won't be operational until 2027. Fuel lines stretch for kilometers with people waiting 18+ hours; prices hit $14/gallon in Crimea (devastating given average Russian wages are one-third of U.S. levels). The shortage has triggered rapid social collapse: gas stations are being torched, fuel trucks intercepted, tire-slashing and violence erupt in fuel lines, and entrepreneurial Russians now jerry-rig vehicles to siphon and resell fuel. The crisis mirrors early 1917 Russia, with informal social norms breaking down as citizens prioritize survival over law. Russia's traditional recovery levers—importing from Belarus and Kazakhstan—are already exhausted, and Chinese imports can only provide partial, expensive relief given infrastructure gaps.
+The transcript claims Russia is experiencing a small-scale rebellion driven by a severe fuel shortage, with multi-kilometer gas lines visible from satellite imagery, waits of 18+ hours or days, Crimea gasoline at about $14/gallon amid a blockade, and mainland prices around $11–$12/gallon, while average Russian incomes are far lower than U.S. incomes. It describes civilians torching gas stations, stopping fuel trucks, fighting in lines, slashing tires, and creating black-market resale schemes, including siphoning fuel and modifying cars to carry extra gasoline, and frames this as breakdown of informal social norms and a repeat of pre-revolutionary dynamics. It names Vladimir Putin, Ukraine, Crimea, Moscow, Omsk, Belarus, Kazakhstan, China, Reuters, and Augusta Precious Metals, and cites claims that Ukrainian strikes have damaged refineries, including Moscow refinery repair until 2027 and Omsk losing 80% capacity, that Belarus/Kazakhstan can only add a day or two of supply, that China refined-product imports lack infrastructure, and that authorities have lowered fuel standards, damaging engines, while the channel promotes gold IRAs as a hedge against U.S. debt and inflation.
 
-If you follow geopolitics or energy markets, this matters: winter will worsen the crisis (harvest failures, heating fuel shortages), likely triggering larger-scale unrest and potentially forcing Putin toward more destabilizing decisions. Watch for cascading shortages in food variety, further inflation, and whether the Kremlin attempts major escalation to distract from internal collapse. For the channel's argument: subscribe to track how this unfolds, as the societal breakdown accelerates beyond the current month-one stage.
+For the user, the actionable takeaways are to treat the video as a geopolitical/economic signal rather than verified news: check Reuters, IEA/OECD, Ukrainian General Staff, Russian independent outlets, and satellite/refinery trackers before accepting claims about refinery downtime, fuel prices, or unrest. If the user tracks Russia/Ukraine risk, follow-up questions should focus on refinery outage durations, winter fuel-grade readiness, harvest fuel needs, food and consumer-goods shortages, inflation, ruble pressure, China/Belarus/Kazakhstan fuel flows, and whether protests shift from local elites to Putin. If the user has travel, business, logistics, or family exposure in Russia, consider fuel availability, low-quality fuel engine damage, supply shortages, and civil-unrest safety planning; if personally exposed to Russia/Ukraine-related news or travel, also plan for stress management and avoid fuel queues/protests. If the user is reacting to the sponsor’s macroeconomic warning, do not buy a gold IRA based on the video alone; compare fees, custodians, tax treatment, liquidity, portfolio allocation, and alternatives, and ask whether physical gold fits long-term goals rather than fear-based decisions.
 
 ## Transcript
 

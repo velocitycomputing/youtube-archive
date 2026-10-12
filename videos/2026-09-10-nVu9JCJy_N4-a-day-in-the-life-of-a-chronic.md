@@ -18,12 +18,12 @@ estimated_watched_seconds: 2565
 transcript_status: fetched
 transcript_content_hash: 5171eea66f4d514ab7ce8bd3dfc1d9b13797260178f8352f561cc5764e64ee80
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:cognitive", "system:metabolic", "goal:longevity", "goal:risk-reduction", primary-source-video, "intervention:lifestyle"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The speaker describes a 24-hour period during late-stage chronic alcoholism when living in Berlin at age 37, detailing the mechanics of dependency: waking at 6 a.m. in withdrawal while already drunk, immediately needing vodka kept bedside, physical deterioration including tremors and sweating despite cold water, purchasing two liters daily at a 24-hour shop while ashamed of appearing in public, and cycling through brief windows of false clarity (around 10 a.m. when considering quitting), crushing depression when reality sets in, blackout periods, compulsive consumption of emotional YouTube content and repetitive videos to manage anxiety, and evening withdrawal symptoms despite continuous drinking. The entire day is structured around acquiring and consuming alcohol—the sole ambition after five years of heavy drinking and a brain injury that worsened both the addiction and withdrawal symptoms.
+A 37-year-old Berlin resident, now two years sober after five years of severe alcoholism, described a 24-hour binge day during a roughly two-week late-stage alcohol binge on his Bat Country channel, waking at 6 a.m. in withdrawal, drinking cheap vodka from bed—Grants, Popov, Rakam Maninov, Chaikovsky, or Żubrówka—vomiting vodka, urinating in bed, wearing the same clothes for two weeks, avoiding showers because he was too unsteady, and buying two liter bottles from a 24-hour garage or Späti. He claimed a minor traumatic brain injury accelerated his drinking and worsened withdrawal and delirium tremens, noted unequal pupils/anisocoria that worsened with drinking, ate almost nothing except Haribo and sweets, watched sad dog-reunion videos to feel emotion, then YouTube, TikTok, and repeated World War II or retro-gaming videos, experienced brief lucid windows followed by shame, depression, blackouts, paranoia, social avoidance, fear of encountering his landlord, possible loss of his girlfriend and job, and shame buying alcohol during rush hour, while saying his tolerance was so high that reducing intake could still cause severe withdrawal.
 
-For someone currently drinking at this level: this is a documented path to organ failure and death—the speaker survived but explicitly states it "nearly killed" them, requiring immediate intervention (medical detox, rehab, or emergency care, not willpower alone). For someone in early recovery or contemplating sobriety: the speaker models that escape is possible (now two years completely sober after five years of struggling), and they deliberately revisit this account when tempted by a nearby 24-hour store to remember the cost. For loved ones: recognize that shame, job loss, relationship dissolution, and failed promises are symptoms of the disease, not character—this requires professional treatment, not judgment.
+Actionable: treat this pattern as a medical risk, not a willpower issue; if the user or someone they know is drinking daily at this level, do not abruptly stop without medical supervision because seizures, delirium tremens, dehydration, malnutrition, and thiamine deficiency/Wernicke-Korsakoff can occur. Seek urgent care for confusion, hallucinations, severe tremors, fever, vomiting blood, fainting, or inability to keep fluids down; otherwise arrange a GP/addiction-medicine evaluation for supervised detox, bloodwork, liver/pancreas tests, mental-health assessment, and medications such as naltrexone, acamprosate, or nalmefene if appropriate. Practical steps: remove alcohol from home, avoid 24-hour shops or Spätis, set a sober-support plan, ask about thiamine/B vitamins and nutrition, track withdrawal symptoms, and explore TBI, anxiety, depression, and trauma treatment; research leads include alcohol withdrawal management, delirium tremens, anisocoria, TBI and substance use, repetitive media consumption as anxiety, and evidence-based alcohol use disorder treatments.
 
 ## Transcript
 

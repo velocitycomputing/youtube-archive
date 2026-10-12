@@ -18,12 +18,12 @@ estimated_watched_seconds: 423
 transcript_status: fetched
 transcript_content_hash: 335f7fdab4f98a47593a0f66d591b0160cee5daf8966eabdaa94d4b6be896cf1
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, primary-source-video]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Ukrainian drones struck 27-28 Russian vessels in the Sea of Azov in a single operation, including 21 oil tankers, in what may be the largest shipping destruction in modern history—comparable only to naval battles from nearly 200 years ago. The attack was verified using NASA satellite imagery showing multiple fires in open water. The operation reveals critical Russian vulnerabilities: no air defense assets protecting the area, no AWACS early-warning aircraft, no fighter patrols, and no naval escorts for merchant ships. Ukraine demonstrated it can repeatedly target shipping, not just execute one-off attacks.
+Ryan McBeth, reporting from RIMPAC in Hawaii, claimed Ukrainian drones struck 27 or 28 Russian vessels in the Sea of Azov, including 21 oil tankers, in a single operation, with footage showing repeated strikes and apparent battle-damage-assessment waves. He compared the scale to Japan losing 26 warships at the Battle of Leyte Gulf and said a larger single-night fleet loss would require going back to the 1827 Battle of Navarino, while using NASA FIRMS satellite imagery to confirm multiple fires, including two still burning. The claims imply Ukraine achieved temporary air superiority over the area, exposed Russian gaps in sea escorts, AWACS, and fighter patrols near Crimea and the Kerch Strait, and could interdict Russian merchant shipping, including oil and grain, possibly prompting closure of the Kerch Strait and higher insurance and operational risk for vessels transiting the Black Sea and Sea of Azov.
 
-The attack has immediate strategic consequences: Russia closed the Kerch Strait to transit, vessel insurance for Black Sea shipping became prohibitively expensive or unavailable, and ship captains will refuse contracts on uninsured vessels. This directly degrades Russia's ability to export oil and grain—critical sources of foreign currency. The operation shows inexpensive drone swarms can achieve devastating economic and military effect against a numerically larger opponent, suggesting Russia's logistics and trade networks remain vulnerable to continued interdiction.
+Actionable steps: verify the strike count and damage through independent OSINT—NASA FIRMS hotspots, satellite imagery, AIS/ship-tracking, port records, and multiple news sources—before treating “27 or 28 struck” as confirmed. For shipping, energy, or sanctions analysis, track whether the Kerch Strait remains closed, whether insurers raise premiums or cancel coverage, whether Russia reroutes exports through other corridors, and whether Ukraine repeats the tactic against tankers, grain ships, or tugs. If oil-tanker damage is confirmed, monitor official spill, air-quality, and seafood-safety advisories near affected ports; for personal health, avoid fumes, contaminated water, and untested seafood until authorities clear the area. Follow-up questions should target exact ship names, sunk versus damaged status, cargo, insurance status, Russian air-defense response, and whether the operation was aimed at sanctioned oil, general logistics, or coercing maritime risk.
 
 ## Transcript
 

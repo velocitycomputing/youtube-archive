@@ -18,12 +18,12 @@ estimated_watched_seconds: 1338
 transcript_status: fetched
 transcript_content_hash: 289b4ae5997d623157e947ac94bd26d763d6f44b2b84ff88a842e1d48ca080d6
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:musculoskeletal", "intervention:lifestyle", "goal:longevity"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-After 60, your body responds to stairs and flat walking completely differently because they train fundamentally different systems. Walking on flat ground is extremely efficient—your body simply falls forward and catches itself using momentum, placing minimal structural load on leg muscles. Stairs demand something flat surfaces never require: generating vertical force from a standstill against gravity, which activates entirely different muscle fibers and triggers your thighs to burn. The speaker explains that descending stairs (not ascending) is hardest on knees because it demands controlled deceleration while supporting full body weight, something flat walking never demands. Knee cartilage survives by absorbing and releasing lubricating fluid through deep compression—flat walking only bends the knee 20°, but stairs and lowering into a chair bend it past 90°, feeding tissue deep in the joint. Additionally, flat surfaces narrow your nervous system's sensory pathways, making your balance system less adaptable to unexpected terrain, while your bones receive no signal to reinforce themselves, your deep calf muscle stays inactive, and your Achilles tendon stiffens from operating in only a shallow range of motion.
+After 60, flat walking and stair climbing are presented as mechanically different: flat walking is described as efficient forward momentum with light leg load, while stairs require vertical force from a dead stop, eccentric braking during descent, and deep knee flexion under body weight. The transcript claims that unused vertical-lifting and braking fibers fade with disuse, that descending stairs stresses the legs more than ascending, and that knee cartilage—avascular and fed by pressure changes—needs deep loaded bending, often past 90°, rather than the shallow roughly 20° bend of flat walking. It also links stair-like movement to balance and proprioception, saying flat predictable surfaces narrow the nervous system’s ability to correct unexpected wobbles; it names the deep calf/soleus as especially active when the knee is bent, claims it can pull glucose directly from the bloodstream, and connects stair loading to bone-building stress and loaded Achilles stretching. Key data points include 2 miles of flat walking versus one flight of stairs, an 8-inch step height, 3–4 second controlled chair lowering, 60-second stair bursts, and a suggested 2-minute routine with 30-second step-ups, 30-second chair lowers, and 10–15 second single-leg stands.
 
-To counteract this, perform a simple 2-minute routine once or twice daily: step-ups (30 seconds, pressing up slowly and lowering with control), controlled chair descents (30 seconds of slowly bending to touch the seat then pressing back up—the slow descent is critical), and single-leg standing near a counter (10–15 seconds per side, allowing tiny wobbles and corrections). The goal is not fatigue but exposure—reminding your body it still needs vertical force, braking ability, and balance challenges. Most people notice better confidence on stairs within a week and reduced hesitation on uneven ground within weeks, because your nervous system becomes more practiced at small corrections rather than strength suddenly increasing. These are not exercises but mechanical conversations with your biology.
+For the user, the actionable takeaway is to add short, low-fatigue “vertical loading” and balance exposures 1–2 times daily if medically safe: controlled step-ups, slow chair touch-and-rise with a 3–4 second lowering, single-leg stands near a counter, and possibly heel drops from a stair edge for Achilles mobility. Keep walking for cardiovascular and mental benefits, but do not treat it as sufficient for strength, cartilage nourishment, braking control, or fall-prevention reflexes; progress slowly by reducing hand support, extending single-leg time, and practicing uneven-ground confidence only when safe. Follow-up questions for a physical therapist or physician include: safe knee-bending depth, pain thresholds, whether stair/chair work is appropriate with cardiovascular disease, arthritis, neuropathy, dizziness, or fall history, and how to progress without overloading tendons or joints. Research leads worth exploring include eccentric leg strength, proprioceptive/balance training, soleus contraction and glucose uptake, bone adaptation to mechanical load, and tendon collagen remodeling through loaded stretching.
 
 ## Transcript
 

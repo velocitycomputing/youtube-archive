@@ -18,12 +18,12 @@ estimated_watched_seconds: 80
 transcript_status: fetched
 transcript_content_hash: 1159666aafbf7f6ea52f9ee6a281196f5b7e095ee84a953aa19fc181ff7f743b
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Estonia's spy chief discusses Russia's long-term strategy to destroy European security architecture and how internal pressure is mounting within Russia due to lack of battlefield success, mounting economic problems, and declining public morale. He assesses that Putin likely doesn't receive accurate assessments and prefers good news, that Russia would escalate demands even if Ukraine ceded territory, and that Russia sees the US as a strategic enemy regardless of current diplomatic overtures. He also details ongoing Russian sabotage campaigns across Europe targeting Ukrainian logistics and political will, notes that Russia currently lacks forces to attack NATO but is planning military expansion, and argues that NATO has so far successfully deterred provocations through consistent responses.
+Estonia’s spy chief assessed that mounting internal pressure in Russia stems from lack of battlefield success, economic and financial problems despite high oil prices, and internet restrictions, while dismissing certainty about a coup; he argued time is not on Putin’s side if the West sustains sanctions, Ukraine support, and long-range strikes on Russian oil infrastructure. He said Putin may receive distorted assessments, that ceding Donbas would likely not end the war because Russia would make new demands, and that Russia’s broader aim is to destroy the European security architecture, with the US still viewed as the main adversary despite overtures to Trump-era Washington. He also said Russia currently lacks forces near Estonia for a conventional attack, Ukraine consumes most Russian military capability, but planned military reforms aim to expand forces on NATO’s eastern flank; he warned against complacency, cited active Russian sabotage campaigns across Europe targeting logistics and political will, and said airspace/border provocations must be answered even if not always intentional.
 
-For Europe and NATO, the actionable takeaway is urgent: stop assuming there's time to prepare. Maintain sanctions, continue military support to Ukraine, and accelerate European rearmament now rather than waiting—Russia is counting on NATO complacency and will exploit any perceived division or hesitation. Don't negotiate from a position of territorial concessions, as Russia will simply generate new demands; instead, demonstrate unified deterrence through visible defense investment and immediate response to any provocations, whether intentional or not, to prevent them from becoming normalized tests of NATO resolve.
+Actionable takeaways: treat claims of imminent Russian collapse or coup as uncertain and monitor indicators such as battlefield gains, fiscal/oil revenue stress, elite cohesion, censorship, and public mood; track whether Western policy maintains sanctions, military aid, and long-range strike support, since the interview frames those as the main levers. For research or decisions, follow up on Estonia/NATO force posture, Russian military-reform timelines, Baltic air-policing incidents, and European logistics-sabotage cases; ask whether ceasefire scenarios would freeze or restart conflict, what verification/guarantees would be needed, and how Europe can counter hybrid operations without amplifying narratives that Russia is no threat. No direct health implications appear; the practical implication is geopolitical risk assessment and information hygiene around intelligence leaks and Russian influence operations.
 
 ## Transcript
 

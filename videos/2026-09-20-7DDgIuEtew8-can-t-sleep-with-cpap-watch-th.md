@@ -18,12 +18,12 @@ estimated_watched_seconds: 76
 transcript_status: fetched
 transcript_content_hash: 486ee01609b540e1655455becb1db187c3b546b93e17780e519c493e3db50974
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:cardio", "goal:symptom-relief", "intervention:procedure", "intervention:lifestyle", primary-source-video]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The video explains how CPAP devices work and why many users struggle with them. CPAP pumps air through the nose to keep airways open during sleep, preventing obstructive sleep apnea—which causes heart attacks, strokes, and reduced life expectancy. The main problem: forced air causes turbinates (structures inside the nose) to swell, leading to nasal congestion, increased pressure, air leaks, and waking sensations of suffocation. Surgeon Vic Veer discusses how to address this through examination of the nose (for deviated septum, polyps, or adenoids), using nasal sprays, examining the throat while asleep to identify structural collapse (tongue, tonsils, or lateral walls), and surgical interventions like tonsil removal when needed.
+Vic Veer, head of the sleep surgery department at the Royal National ENT Hospital in central London, discusses why CPAP is difficult for many people with obstructive sleep apnea and how ENT/surgical evaluation can improve CPAP tolerance. He claims that consistent CPAP use for about 7–7.5 hours nightly can bring sleep-apnea-related risks such as heart attacks, strokes, and reduced life expectancy back toward normal. He explains that CPAP can cause nasal blockage because forced air overwhelms the turbinates, which swell to warm and humidify air; the CPAP may then sense resistance and raise pressure, creating a cycle of congestion, leaks, eye irritation, awakenings, and adrenaline surges. He covers checking the septum, adenoids, polyps, and turbinates; using nasal sprays correctly and weeks in advance; adjusting humidifier and warming settings; and recognizing tongue-based collapse, which often requires higher pressure and is harder to treat with CPAP alone. He also mentions side sleeping, positional devices, mandibular advancement devices, tongue-retaining devices, InApp-style suction devices, chin straps with nasal pillows, and removing large tonsils before CPAP under national guidelines he references to lower required pressure; throat or tongue surgery is described as a last resort. He also claims sleep apnea can promote weight gain and make weight loss harder, and that successful CPAP use plus weight loss may allow reassessment after about nine months.
 
-To improve CPAP tolerance: start a nasal spray weeks before using CPAP; sleep on your side if possible; use a mandibular advancement device (gum shield that pulls the jaw forward) for tongue-based collapse; use a chin strap to keep your mouth closed during nasal CPAP so air reaches your lungs; have large tonsils removed before starting; and carefully adjust humidifier and warmer settings. The key is persisting with at least 7–7.5 hours of nightly CPAP use, which improves daytime energy, reduces hormones that prevent weight loss, and may eventually eliminate the need for CPAP altogether as underlying anatomical issues resolve.
+For the user, the actionable takeaway is to treat CPAP intolerance as a diagnosable mechanical problem rather than a personal failure: track whether awakenings involve nasal blockage, mask leaks, pressure increases, mouth breathing, or eye irritation, and bring that pattern to a sleep or ENT clinician. Ask for a nose and throat evaluation for septal deviation, adenoids, polyps, turbinate swelling, and large tonsils; trial correct nasal-spray technique and adequate humidification/temperature settings; consider side-sleeping or positional therapy if tongue collapse is suspected; and discuss mandibular advancement, tongue-retaining, or InApp-style devices if appropriate. If using nasal pillows, a chin strap may help keep the mouth closed so air reaches the lungs instead of leaking out. If tonsils are large, ask whether tonsillectomy before CPAP could reduce pressure and improve comfort. Follow-up questions to consider: Is my obstruction mainly nasal, tongue-based, tonsillar, or lateral-wall? Are my CPAP pressure, humidity, mask fit, and device type optimized? Could a dental device or positional therapy lower my CPAP pressure? Should I be evaluated for turbinate reduction or tonsil removal? What is my target nightly use, and how might weight loss change my need for CPAP at a later sleep-lab review?
 
 ## Transcript
 

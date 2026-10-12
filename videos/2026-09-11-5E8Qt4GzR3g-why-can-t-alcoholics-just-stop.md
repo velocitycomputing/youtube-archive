@@ -18,12 +18,12 @@ estimated_watched_seconds: 1287
 transcript_status: fetched
 transcript_content_hash: 02b109f73a52dc44b42439ce764328737bc126f0f7ad18ec5ace82fcc2b8db3b
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:cognitive", "intervention:lifestyle", "condition:cognitive-symptoms", "intervention:medication", "goal:symptom-relief"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-A recovering alcoholic explains that alcoholism is difficult to quit because alcohol is both addictive and psychoactive—it chemically compels users while simultaneously making them unaware they're being compelled. The addiction involves physical dependence (the brain adapts to alcohol as a depressant; withdrawal is medically dangerous) and psychological dependence (alcohol becomes a coping mechanism for underlying mental health issues like depression, anxiety, or PTSD). The speaker emphasizes that alcoholics often lie, rationalize their drinking despite consequences, and become manipulative, but this isn't personal cruelty—it's part of how the disease hijacks the mind, making alcohol feel like medicine for deeper problems rather than the source of harm.
+A recovering alcoholic explains why alcoholics cannot simply stop drinking by framing alcohol as an addictive psychoactive substance: addiction compels use against one’s interests, while psychoactivity impairs judgment so the person does not recognize the compulsion. The speaker claims chronic drinking creates both physical dependence—through central nervous system adaptation to alcohol’s depressant effects—and psychological dependence, with “hair of the dog” morning drinking as a warning sign. He describes tolerance, acute withdrawal as potentially dangerous, and delirium tremens as terrifying, plus co-occurring mental health issues such as major depressive disorder, PTSD, generalized anxiety disorder, and head injury, which alcohol temporarily masks. He also describes “alcoholic logic”: lies, selfishness, self-loathing, manipulation, and post-sobriety cravings, illustrated by an Alcoholics Anonymous meeting where a welcoming environment triggered a bizarre urge to relapse because it felt “safe.” He compares alcoholism to a virus or Ophiocordyceps fungus that manipulates its host to propagate itself.
 
-For loved ones: recognize that simply telling an alcoholic to stop ignores the medical reality of physical withdrawal and the psychological trap of self-medication. Instead of interpreting lying or apparent selfishness as character flaws, understand they're symptoms of a disease that actively deceives the person suffering from it. The actionable takeaway is to encourage professional help (including treatment for comorbid mental health conditions), avoid enabling the addiction, and set firm boundaries—the alcoholic needs support addressing both the chemical dependency and whatever they're drinking to avoid.
+For the user, the key health implication is that stopping heavy alcohol use can be medically risky and should not be treated as a simple willpower challenge; if there is daily drinking, morning drinking, withdrawal symptoms, prior severe withdrawal, or suspected dependence, seek medical advice before abrupt cessation and ask about supervised detox. Useful follow-up questions include: Are there signs of physical dependence or withdrawal? Is there a co-occurring mental health condition that needs treatment alongside alcohol use? What evidence-based options exist—addiction medicine, therapy, mutual-help groups like AA, and medications such as naltrexone or acamprosate? For loved ones, concrete decisions include setting boundaries, avoiding enabling, not trusting intoxicated promises, and encouraging professional assessment rather than relying on persuasion alone.
 
 ## Transcript
 

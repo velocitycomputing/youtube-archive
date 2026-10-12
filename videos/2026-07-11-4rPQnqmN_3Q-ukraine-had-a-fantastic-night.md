@@ -18,12 +18,12 @@ estimated_watched_seconds: 406
 transcript_status: fetched
 transcript_content_hash: a768a9a7d06a373279f61b754c068e9366ad7ce1d366d615ced3df18c9299b22
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Ukraine conducted its most devastating maritime campaign of the war, striking 28 Russian ships in a single night (July 11, 2026) following an escalating 6-day campaign that destroyed 76 total vessels across the Sea of Azov and Black Sea, including 21 tankers and 4 tugboats. The assault used approximately 270 drones and forced Russia to halt shipping through the Don-Azov Channel, disrupting fuel deliveries to Crimea. Simultaneously, Russia launched 121 drones and 12 missiles at Ukrainian cities, causing civilian casualties in Kyiv and other regions, while Ukrainian forces reclaimed 22 square kilometers and inflicted 1,490 Russian casualties.
+Ukrainian unmanned-systems forces reportedly hit 28 Russian vessels overnight on July 11, 2026, after a rapid escalation in the Sea of Azov and Black Sea that the transcript claims totaled 76 vessels from July 6 to July 11, including 21 tankers, four tugs, two dry-cargo ships, and one special-purpose vehicle; named units included Kyros, Taki, Magyar K2, Nemesis, and Rarog, with about 270 drones reported in the overnight wave. The transcript cites Reuters industry sources saying Russia halted shipping through the Don-Azov Channel and stopped accepting Kerch Strait passage requests on July 10 after strikes on 13 vessels, including 10 tankers, and notes Euronext wheat rose as much as 4% to a six-week high, while arguing the attacks would chill shadow-fleet and merchant shipping transporting Russian oil and fuel to Crimea. It also covers Russian strikes on Ukraine: 133 drones and missiles, 111 intercepted, 121 drones, six Iskander ballistic missiles, and six other guided or anti-radar missiles, with only two of 12 missiles reportedly intercepted; Kyiv suffered 10 or 11 injuries including a child, Kherson and Chernihiv injuries, and delayed air-raid alerts possibly caused by S-400 anti-aircraft missiles used in ground attack. Battlefield claims include 1,490 Russian personnel losses, 8 tanks, 10 armored fighting vehicles, 74 artillery systems, 361 vehicles and fuel tanks, 1,294 UAVs, four Russian air-defense systems, 22 square kilometers reclaimed by Ukraine, and 261 combat engagements, plus allegations that Russian forces use civilian school buses for military purposes and stage propaganda strikes. The transcript also mentions Trump claiming he is the primary target of Iranian assassination plots, John Bolton as a key to understanding that claim, two U.S. carriers near Iran, Jake Broe’s fundraiser at $951,000 of $1,000,000, and Zelenskyy’s earlier 40-day intensification timeline.
 
-This offensive represents day 16 of an apparent 40-day intensive campaign initiated by Zelenskyy, indicating sustained Ukrainian pressure through the seasonal window before autumn weather degrades operations. If you want to support Ukraine, the creator highlights Jake Broe's fundraiser (currently at $951,000 of $1 million goal) as a specific donation target; otherwise, the primary actionable item is understanding the strategic implications—Russia's merchant fleet is being systematically degraded, disrupting logistics, while maintaining awareness of escalating civilian casualties on both sides.
+Actionable follow-up: verify the maritime tally against independent OSINT and official sources such as the Ukrainian General Staff, Reuters, SBS Group, and Ragnar Gudmundsson’s dashboard, because the transcript mixes real-time claims, commentary, and unconfirmed casualty figures; track whether Russia’s Don-Azov and Kerch Strait shipping suspension persists, whether insurance and freight rates for shadow-fleet tankers rise, and whether Euronext wheat, diesel, gasoline, and Black Sea grain export prices continue to move, since these are concrete economic and research leads. For health and humanitarian implications, treat the Kyiv, Kherson, and Chernihiv injury reports and delayed air-raid alerts as evidence of civilian trauma risk, blast exposure, PTSD risk, and infrastructure vulnerability, especially for residents near ports, rail, fuel depots, and residential neighborhoods; if the user is traveling, investing, researching, or advising others, prioritize conflict-zone safety, avoid port and energy facilities, and monitor official civil-military advisories. Key questions to ask next: are the 76 vessels and 28 overnight strikes independently confirmed; what proportion were tankers versus tugs; are S-400 missiles being repurposed for ground strikes and how does that affect air-defense warning times; is Crimea’s fuel shortage military or civilian; and is the Trump/Iran segment directly relevant to Ukraine or a separate geopolitical escalation signal.
 
 ## Transcript
 

@@ -18,12 +18,12 @@ estimated_watched_seconds: 154
 transcript_status: fetched
 transcript_content_hash: c9f4bd4fb8c4b1f08fd4d5d58fb6f1a80fb094d7efcc6444ac6a4702b2b5c2f0
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:musculoskeletal", "intervention:lifestyle"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Matt from the Movement System outlined a spectrum of plyometric training organized by ground contact time, from max strength training (0.7–3 seconds) through jump training, slow and fast stretch-shortening cycles, to max reactivity sprinting (<100 milliseconds). He explained that max strength provides the foundation for force production, jump training teaches force absorption and rate of force development but doesn't directly transfer to sprint speed, slow stretch-shortening cycle work (250–500ms) improves acceleration and change of direction, and true fast plyometrics (100–250ms) with tightly coupled elastic recoil build tendon stiffness and pre-activation. He revealed that sprinting is nearly quasi-isometric at the muscle level, with the Achilles tendon handling most length change and pre-activation from the nervous system driving force output more than active muscle shortening.
+Matt from Movement System organized plyometrics by ground-contact time: max strength (0.7–3 seconds, heavy squats/deadlifts, force via motor-unit recruitment, sets the force ceiling), jump training (500–700 milliseconds, box/broad/loaded/yielding/split/oscillatory jumps, not true plyometrics, trains rate of force development and landing absorption), slow stretch-shortening cycle work (250–500 milliseconds, depth jumps, max bounds, single-leg hops, countermovement/high hurdle hops, more forceful, can decouple the stretch-shortening cycle, useful for acceleration/change-of-direction, suggested 10–30% of plyometric volume), fast stretch-shortening cycle “true plyometrics” (100–250 milliseconds, drop jumps, pogo hops, hurdle hops, bounding/skipping, coupled elastic recoil, tendon stiffness, energy storage, pre-activation), and max reactivity (<100 milliseconds, sprinting, pre-activation and tendon stiffness dominate, 30–100 millisecond stretch-response latency, quasi-isometric muscle action with Achilles lengthening 15–20 mm versus fascicle lengthening 1–3 mm, plantar fascia contributing about 17% of sprint force). He also named the OVR Jump tool (~$300, $25 affiliate discount) for measuring contact time, referenced Johnson calf raises, ankle iso push/switch drills, and a Movement System CEU course.
 
-To apply this: prioritize building max strength first with heavy compound lifts, then add plyometrics matched to your goal—use short ground contact cues (60–80% effort progressions) and exercises like drop jumps or pogo hops for sprint specificity, or longer ground contact movements like depth jumps if you need acceleration. If sprint performance is your target, strengthen your calves through full-range calf raises and ankle isometrics to build the tendon stiffness required for high ground reaction forces, and include consistent sprint repetitions themselves since no drill fully replaces the movement.
+For the user, decide the goal first: if sprinting/max velocity is the priority, emphasize short-contact fast SSC work, sprinting itself, and high-quality isometric calf/ankle training such as ankle iso push/switch plus full-ROM calf raises; if acceleration/change-of-direction is the priority, include 10–30% slow SSC max-effort bounds, hops, or depth jumps; if general strength is the base, keep heavy lifting as the foundation. Concrete next steps are to measure ground-contact time if possible, audit current jump work by contact time, use cues like 60% → 70% → 80% effort to keep movements elastic rather than forceful, avoid relying only on long-contact box/broad jumps when speed is the goal, and progress sprinting gradually while watching for fatigue or tendon/calf irritation. Follow-up questions should cover sport/goals, injury history, available equipment, current strength level, and whether performance is limited by force production, tendon stiffness, sprint technique, or program volume.
 
 ## Transcript
 

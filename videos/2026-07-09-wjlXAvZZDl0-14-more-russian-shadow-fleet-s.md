@@ -18,12 +18,12 @@ estimated_watched_seconds: 105
 transcript_status: fetched
 transcript_content_hash: b13558847d77657c1be51b5b944be8c634c19a4416ca9217c05cfe28a1ff60cd
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Ukraine launched 270 drones overnight, striking 14 Russian vessels in the Sea of Azov (12 tankers, a cargo ship, and tugboat), destroying two oil depots 500km from the front, hitting an ammunition dump, and damaging multiple Russian refineries. Russian casualties exceeded average at 1,310+ losses, with Ukrainian forces conducting 268+ combat engagements—a pace matching the spring offensive. Russia is developing countermeasures including fiber optic drones, Starlink jammers, and A-50U radar planes (now down to ~5 serviceable units), while Ukraine advances its own cruise missile technology and conducted 16,600+ robotic logistics/evacuation missions in June.
+Ukrainian long-range drone strikes were described as hitting 14 Russian vessels overnight in the Sea of Azov, including 12 shadow-fleet tankers, a tugboat, and a dry cargo ship, with claims of 35 shadow-fleet support vessels hit over 96 hours and 270 drones launched. The transcript also reported fires at the Rosneft-operated Tvernefteprodukt depot in Tver, about 800 km from Kyiv; Lukoil Yugnefteprodukt in Stavropol; an oil pumping station near Ufa, about 1,500 km away; and a Rostov loading terminal, about 200 km away, plus an ammunition dump fire and satellite-confirmed damage at Saratov, Nizhnekamsk, Ufa, and Kerch. It named Zelensky, Commander Magyar, Fire Point’s Dennis Stillermann, Fedorov, Lavrov, and Jake Bro’s fundraiser, and cited battlefield data: 1,310 Russian casualties, 7 tanks, 3 armored vehicles, 59 artillery systems, 2 km² of confirmed Russian gains, 268 engagements, June totals of 7,316 engagements and 8,266 glide bombs, a downed Su-35 by a Patriot, FP-5 Flamingo turbojet prototypes, A-50U radar-plane attrition, Russian 2 Iskander-M missiles and 94 drones with about 75% air-defense suppression, civilian deaths in Odessa and Kharkiv, 16,600 ground-robotic logistics/evacuation missions, fiber-optic drone testing, and 10 Starlink jammers.
 
-Jake Bro's fundraiser for Ukrainian equipment support is at $799,000 of $1 million—you can contribute via the link in the video description. The escalating strike frequency and Russian casualties suggest the conflict's intensity is increasing; understanding these developments helps contextualize why sustained international military and financial support remains critical to Ukrainian defense operations.
+Actionable takeaways: treat casualty, tanker-hit, refinery-damage, and air-defense numbers as claims needing verification via OSINT satellite imagery, NASA FIRMS fire data, tanker-tracking AIS records, Ukrainian General Staff releases, and independent Russian-language outlets before repeating them. If following the war causes anxiety, vicarious trauma, or sleep disruption, limit graphic video exposure, take breaks, and seek mental-health support if symptoms persist; for civilians in affected regions, watch for fuel-price spikes, supply disruptions, and air-quality/fire hazards from refinery strikes. Research leads include the effectiveness of Ukraine’s “sanctions plan,” the operational impact of losing shadow-fleet tankers and A-50U aircraft, countermeasures to fiber-optic drones and Starlink jammers, and whether ground robotics materially reduce casualty evacuation risk. Decisions/follow-ups: verify donation channels before giving to Jake Bro’s fundraiser or humanitarian groups, ask whether strikes are targeting military logistics versus civilian infrastructure, and monitor whether increased drone tempo changes Russian offensive pressure around Kostyantynivka, fuel availability, or broader energy markets.
 
 ## Transcript
 

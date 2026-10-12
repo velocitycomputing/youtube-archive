@@ -18,12 +18,12 @@ estimated_watched_seconds: 2591
 transcript_status: fetched
 transcript_content_hash: eb1c738d039a11123bb47ab6807021e1e0caaba39ee60ce2b8dec4e0ae9debf4
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video, "system:cognitive", "intervention:medication", "goal:symptom-relief", "goal:longevity"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The episode establishes Dr. John Krystal's background—his father survived Nazi concentration camps and pioneered early conceptualization of post-traumatic stress disorder—before diving into how depression is fundamentally misunderstood. Depression is not sadness but a pervasive alteration of thought patterns, emotional blunting, loss of energy, and inability to perceive reward or opportunity. It affects your entire body through inflammatory processes and reduces lifespan by approximately five years. The discussion moves through the historical development of antidepressants—from monoamine oxidase inhibitors in 1957 through SSRIs—and identifies a critical systemic failure: psychiatry doesn't measure treatment outcomes in clinical practice, leaving patients and providers settling for partial improvement (moving from an 8/10 to a 5/10 in symptom severity) rather than pursuing full remission.
+Tim Ferriss and Dr. John Krystal—Yale psychiatry chair, Freedom Biosciences co-founder, and a leader in ketamine’s rapid antidepressant discovery—trace Krystal’s father Henry Crystal’s Holocaust survival and psychiatric work evaluating more than 1,000 survivors for German reparations, linking that to “survivor syndrome” and PTSD. They discuss depression as more than sadness: pervasive negative thinking, emotional blunting, sleep/appetite/energy loss, rumination, and whole-body effects, including inflammation and about five years of lost life expectancy on average when untreated. They also cover partial response in psychiatry, weak routine outcome measurement, shrinking ECT access, the history of antidepressants from 1957 MAOIs to tricyclics and SSRIs, MAOI risks from tyramine in aged cheese/wine and Demerol interactions, and Krystal’s view that the serotonin hypothesis is incomplete while ketamine and psychedelic-related compounds may open new mechanisms. Ferriss notes friends averted suicide with supervised ketamine, and the conversation raises harmine/MAOIs in ayahuasca vine, BDNF, and traditional dietas as overlooked research leads.
 
-If you experience depression, the core actionable message is: don't accept partial recovery as success. Demand that your provider measure your outcomes objectively and continue pursuing treatments—whether additional medications, removal of interfering drugs, or newer options like ketamine—until you achieve genuine remission, not just improvement. Depression is a medical disorder affecting your whole body, so address its physical components (inflammation, sleep disruption, energy loss) alongside psychiatric care. If you've failed multiple conventional antidepressants, recognize that the episode is positioning ketamine as a distinct mechanism worth exploring when standard SSRIs and psychotherapy alone have plateaued.
+For someone considering treatment, the practical takeaway is to push for remission, not just partial improvement: ask whether depression is melancholic, reactive, or mixed; use validated symptom scales; review whether current medications or comorbidities such as obesity, cardiac disease, arthritis, or asthma are sustaining inflammation; and ask whether a medication is interfering with recovery. If multiple treatments have failed, ask about referral to a center offering ECT or ketamine-based care under medical supervision, and weigh depression’s medical risks against treatment risks. If exploring MAOIs, ask specifically about tyramine restrictions, serotonin syndrome, blood-pressure spikes, and interactions with opioids such as Demerol. For psychedelics or ayahuasca-derived compounds, treat them as research leads rather than self-treatment: consult a clinician, screen for contraindications, and ask about supervised trials, legal risks, and whether compounds like harmine have evidence for BDNF or antidepressant effects.
 
 ## Transcript
 

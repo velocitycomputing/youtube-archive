@@ -18,12 +18,12 @@ estimated_watched_seconds: 3393
 transcript_status: fetched
 transcript_content_hash: cc490090e3eb457ebe3d0adcf5fe54934bf4ca1354b9a32c8e8066d16220d5f4
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, china-decline, primary-source-video]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Geopolitical analyst Peter Zeihan discussed three major global crises: the Iran-Strait of Hormuz conflict, where Trump's administration drastically underestimated timelines and lacks experienced advisors, and where oil field recovery will take 1-3+ years (with no production returning this year even in a peace scenario); Ukraine's military evolution toward autonomous AI-targeting drones and ground robots that are breaking Russian logistics across 1,000+ miles of front lines; and China's demographic collapse, where the Shanghai Academy of Sciences estimates 100-500 million fabricated or missing people in official population data, with birth rates lower than the US since 1991, leaving an aging workforce dependent on globalization and automation for survival.
+Peter Zeihan and the host discussed Iran, the Strait of Hormuz, oil supply, U.S. decision-making, Europe’s security, Ukraine’s drone revolution, and China’s demographic and economic collapse. Zeihan claimed the Iran operation was improvised after Israeli Prime Minister Benjamin Netanyahu’s February 11 visit to Donald Trump, was expected to end in 96 hours, and was undermined by Trump’s firing of roughly 6,000 civil servants, many empty ambassadorships, and negotiations led by Pakistan’s Field Marshal with no Americans after JD Vance, Jared Kushner, and Steve Witkoff’s first meeting. He argued oil fields cannot restart quickly: Saudi and Emirati fields may need 90–180 days if prepared, Iraq took 20 years last time, Kuwait 3–5 years, and Qatar 5–10 years, with a real refinery shock possible in late June or July; he also said the U.S. lacks escort ships, with only about 60 destroyers total, while Iranian 600-mile Shahed drones threaten Gulf energy assets and bypass pipelines. He said Europe now sees the U.S. as unreliable after threats to Canada and Denmark, poor U.K. relations, and polling suggesting only 11% of Europeans view the U.S. as an ally, pushing Finland, Romania, Sweden, Germany, and Poland toward nuclear discussions and France toward bilateral nuclear arrangements. He also said Ukraine’s new autonomous drones—about 60 systems, ranges near 1,000 miles, production doubling monthly, and roughly 8 times May output—are degrading Russian logistics, and on China he cited Xi Jinping’s data suppression, Shanghai Academy of Sciences skepticism, possible population overcounts of 100–500 million, a birth rate below the U.S. since 1991, fewer people than India for 15 years, and Ray Dalio/Bridgewater’s shift from bullish to bearish.
 
-The market is mispricing oil by ignoring July's refineries hitting minimum thresholds when Persian Gulf supply cannot recover in time. Investors should watch defensive tech stocks (systems that protect tanker convoys from evolving drone threats) and European nuclearization plays, while treating Chinese equities as extremely high-risk given the unreliability of all official data and the economy's structural collapse if global trade fractures from the coming energy crisis.
+For the user, the actionable takeaway is to treat energy, defense technology, and China exposure as high-uncertainty, data-skepticism areas: watch oil futures, refinery utilization, tanker insurance, Strait of Hormuz bypass pipelines, and late-June/July refinery thresholds; consider whether a portfolio has too much exposure to Gulf-dependent chemicals, aviation, shipping, or petrochemicals; research counter-drone systems, electronic warfare, autonomous ground robots, and European nuclear/drone industrialization as possible investment or policy themes; for China, avoid relying on official GDP, birth, population, or tax data and instead triangulate with electricity use, freight, imports, labor participation, and Shanghai Academy of Sciences commentary. Follow-up questions should ask whether oil restart estimates are field-specific, whether U.S. escort capacity can be rebuilt, whether Ukraine’s autonomous drones can scale, and whether China’s automation push can offset missing workers without open trade. Direct health implications are limited, but energy-price shocks and supply-chain stress could raise costs for heating, transport, medicines, and food, while geopolitical anxiety may warrant stress-management and emergency-preparedness planning.
 
 ## Transcript
 

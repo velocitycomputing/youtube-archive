@@ -18,12 +18,12 @@ estimated_watched_seconds: 223
 transcript_status: fetched
 transcript_content_hash: 849b6601dc1b92540f5261dbff38b793ab260b17f9e0174b49bb73c7749fa619
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Ryan Macbeth examines whether Russia will conduct a major mobilization of hundreds of thousands of troops, addressing three core questions: whether Russia needs more manpower, whether it can convert recruits into effective military units, and whether Putin will accept the consequences. While Ukrainian intelligence assessed that Russia plans to call up 300,000 men post-September 2026 elections (potentially reaching 500,000 by 2027) and evidence shows mobilization preparation exercises, no confirmed decision has been made. Macbeth analyzes current recruitment (approximately 33,000-40,000 monthly contracts, though costs are rising 30% per recruit) and argues that Russia likely continues gradual recruitment with increased pressure rather than declaring a full national mobilization. He estimates that additional troops would first replace depleted units, then staff new formations, with meaningful battlefield impact arriving over weeks to months—but 300,000 new troops wouldn't necessarily translate to 300,000 combat infantrymen and couldn't overcome Russia's difficulty massing forces under drone observation.
+Ryan Macbeth examines whether Putin may order another Russian mobilization after the September 18–20, 2026 State Duma elections, citing Zelenskyy’s August 23, 2026 claim that Russia intends to call up 300,000 men after the vote and possibly 500,000 by 2027, WSJ reporting of mobilization readiness exercises including Kaliningrad, and Putin’s September 1 denial. He frames the issue as three questions—whether Russia needs men, can turn them into useful units, and will accept the political and economic consequences—while noting the 2022 mobilization, announced September 21, 2022 by Defense Minister Sergei Shoigu for 300,000 reservists, never formally ended and could be reactivated without a new law. The video distinguishes routine conscription, paid contract recruiting, and reserve mobilization; describes electronic summons linked to travel and driver’s-license restrictions; and estimates first replacements within weeks, a substantial flow in 1–3 months, and cohesive new formations months later. It cites official Russian claims of about 200,000 contracts in the first six months of 2026 and Medvedev’s 2025 claim of over 422,000 contracts, alongside economist Janis Kluge’s estimates of 71,200 contracts in Q1, down 20%, and 93,000 in Q2, with regional bonuses up about 30% since mid-2025; it also mentions Ukraine intelligence’s 18,500 annual foreign-recruit target, Kenya’s attempt to stop citizen recruitment, about 8,500 North Koreans in Kursk, and ARK’s 6.3-fold rise in departure inquiries in early August.
 
-Watch for these indicators: verified call-ups across multiple regions, expanding training camps, large-scale equipment distribution, and new military supply contracts posted on Russian websites (a leading indicator before actual mobilization). A partial mobilization of 300,000-500,000 troops is more likely than full general mobilization under current conditions. If mobilization occurs, it would extend the war and increase pressure on Ukraine but likely won't produce a decisive Russian breakthrough; conversely, no mobilization would leave Russia dependent on increasingly expensive contract recruitment. The core uncertainty remains Putin's willingness to absorb the domestic and economic costs of a large call-up versus betting that time and attrition favor him.
+Actionable follow-up is to treat mobilization talk as probabilistic and verify it through independent indicators rather than single statements: look for confirmed summons across multiple regions, visible expansion of training camps, large equipment procurement contracts appearing on Russian procurement sites, and sustained changes in regional recruitment bonuses or coercion. For research, compare official Russian contract claims with Kluge’s budget-based estimates, Ukrainian intelligence assessments, and open-source reporting on foreign recruits and North Korean deployments; for decisions, distinguish short-term battlefield reinforcements from a general mobilization’s economic and political costs, especially skilled-labor loss, training bottlenecks, and public anger. Useful questions are whether the September elections affect timing rather than necessity, whether recruiting is stabilizing or falling, whether new formations can be officered and equipped, and whether rumors reflect Kremlin preparation, Ukrainian psychological operations, or genuine public anxiety; if personal exposure is relevant, monitor verified legal changes and border/travel restrictions rather than relying on social-media panic.
 
 ## Transcript
 

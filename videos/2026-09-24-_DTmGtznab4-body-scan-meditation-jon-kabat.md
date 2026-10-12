@@ -18,12 +18,12 @@ estimated_watched_seconds: 174
 transcript_status: fetched
 transcript_content_hash: 4d8a2da00c6cac3d1ab860c0044e2687be678371ec7bc6dd954c73a9fa42ccf6
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["intervention:lifestyle"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Jon Kabat-Zinn's body scan meditation guides practitioners through a 30-minute systematic journey of awareness, moving progressively from the toes of the left foot through the entire body to the head. Lying on their back, practitioners focus attention on sensations in each region—toes, feet, legs, pelvis, lower back, belly, chest, arms, neck, and face—using the breath as an anchor. The practice emphasizes non-judgmental observation: noticing whatever sensations, thoughts, or emotions arise without trying to change them, accepting the mind's inevitable wandering, and recognizing there is no "right way" to feel. The core teaching is that beneath the body's conditions and life's challenges, "as long as you're breathing there's more right with you than wrong with you."
+Jon Kabat-Zinn guides a roughly 30-minute body scan meditation in which the listener lies on their back, ideally on a padded surface, with knees and head supported, arms alongside the body, palms open, and feet falling apart; if lying on the back is difficult, another comfortable posture is acceptable. The practice is framed as an invitation to “fall awake” rather than fall asleep, to step out of clock time, and to cultivate “being mode” by accepting present-moment experience without judgment, including difficult sensations, thoughts, or emotions. The guided sequence moves attention through the body: first the whole body and breath, then the left toes, sole, top of foot, lower leg, knee, thigh, right foot and leg, pelvis, lower back, belly, chest/ribcage, hands and arms, neck and throat, and head and face, before returning to awareness of the whole body. Key claims include that mind-wandering is normal and not a failure, that “as long as you’re breathing there’s more right with you than wrong with you,” that the lower back, neck/shoulders, and head/face commonly store tension, and that resting in nonreactive awareness is “profoundly healing.”
 
-To practice this, set aside 30 minutes in a quiet space and lie on your back on a comfortable surface (floor or bed), then systematically bring gentle attention to each body region in sequence, breathing naturally and returning focus whenever your mind wanders. This isn't about achieving relaxation or falling asleep—it's about cultivating present-moment awareness and self-compassion. Regular practice builds a portable mindfulness skill that, over time, naturally extends from formal meditation into daily life, helping you respond to stress and tension with acceptance rather than resistance.
+Actionable takeaways: try the body scan as a 30-minute practice for stress, tension, or disconnection, using a comfortable lying position and keeping eyes open if drowsiness arises; treat attention wandering as part of the exercise and gently return to breath or the current body region. For health implications, the practice may be useful for noticing where stress accumulates—especially lower back, neck, shoulders, jaw, and face—and for building a nonjudgmental relationship with pain, fatigue, or anxiety, though it should not replace medical care for persistent pain, trauma symptoms, or severe distress. Research leads include Jon Kabat-Zinn’s mindfulness-based stress reduction (MBSR), body scan meditation, interoceptive awareness, and mindfulness-based interventions for stress, chronic pain, sleep, and emotion regulation. Decisions or follow-up questions: whether to practice daily or several times weekly, whether lying down is feasible or a seated version is needed, whether to use the full 30 minutes or shorter segments, and whether to track changes in tension, sleep, mood, or pain after several sessions.
 
 ## Transcript
 

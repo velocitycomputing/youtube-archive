@@ -18,12 +18,12 @@ estimated_watched_seconds: 126
 transcript_status: fetched
 transcript_content_hash: 76b1d72b41f6f1b56eaf5fd7692c3d08100f88bc67b789e61b25e43efd886a0e
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:metabolic", "intervention:lifestyle", "goal:risk-reduction"]
 proposed_entities: []
@@ -34,11 +34,9 @@ routed_to: null
 
 ## Summary
 
-**What Was Discussed**
-Dr. Alex presents 10 practical glucose management hacks to reduce blood sugar spikes and prevent metabolic dysfunction. The core argument: post-meal glucose spikes—even without diabetes—drive insulin surges that lead to insulin resistance, fatty liver, and chronic disease over time. The 10 hacks range from easiest to implement (10-minute post-meal walks, eating vegetables before carbs, savory breakfasts with 25–35g protein) to lifestyle factors (7–9 hours sleep, resistance training twice weekly). Additional strategies include surrounding carbs with protein and fat, timing sweets as dessert rather than snacks, choosing savory snacks, and understanding that all sugars (honey, maple syrup, coconut sugar) spike glucose identically to white sugar.
+Dr. Alex, an emergency-medicine clinician, argues that glucose spikes matter far beyond diabetes, claiming post-meal glucose excursions may shape energy, aging, skin, medication risk, and cardiovascular disease more than a “normal” fasting glucose. He cites the DECODE study of more than 22,000 Europeans, saying 2-hour post-meal glucose was more strongly linked to mortality than fasting glucose, and frames repeated spikes and insulin surges as drivers of insulin resistance, fatty liver, type 2 diabetes, vascular inflammation, and plaque formation. The transcript presents 10 hacks: 5–10 minutes of post-meal walking, citing a 2022 Sports Medicine meta-analysis showing reductions even with 2-minute walks; eating vegetables before carbohydrates, citing a small Japanese type 2 diabetes trial showing roughly 30–40% lower post-meal glucose excursions; using a vegetable starter; eating a savory breakfast with 25–35 g protein, citing University of Missouri research on reduced cravings and steadier glucose; pairing carbs with protein, fat, and fiber to slow gastric emptying; saving sweets for after meals rather than eating them on an empty stomach; choosing savory snacks; sleeping 7–9 hours, citing a Lancet study where 4 hours of sleep for 6 nights pushed healthy young men toward prediabetic glucose tolerance; resistance training twice weekly to expand muscle glycogen storage and improve insulin sensitivity for up to 48 hours; and recognizing that honey, maple syrup, coconut sugar, brown sugar, and date syrup are still metabolically sugar, with GLP-1, Ozempic, and Mounjaro mentioned as related to appetite and glucose regulation.
 
-**What's Actionable**
-Pick one hack that feels easiest—usually the post-meal walk or savory breakfast—and practice it for 2 weeks until it becomes automatic. Then add a second hack, then a third, layering them gradually over months rather than trying to implement all 10 at once. You'll notice improvements first in energy (3 p.m. crashes disappear), then reduced mid-morning cravings, better sleep, and eventually improved lipid profiles and lower disease risk. The key: small consistent choices done daily compound dramatically over years, and unlike medication, they require no special equipment or cost.
+For the user, the practical move is to pick one low-friction habit for two weeks—most likely a 10-minute walk after the largest meal or a savory protein breakfast—then layer in vegetable-first eating, a veggie starter, protein/fat/fiber with carbs, sweets only after meals, savory snacks, 7–9 hours of sleep, and two weekly strength sessions using compound movements like squats, deadlifts, push-ups, or lunges. The expected health implications are fewer afternoon crashes, less sugar craving, steadier energy, better sleep, and over time potentially better lipids, lower visceral fat, and lower metabolic/cardiovascular risk. Useful research leads to explore are the DECODE study, the Lancet sleep-restriction study, University of Missouri protein-breakfast research, and the 2022 post-meal walking meta-analysis. Decisions or follow-up questions include whether to ask a clinician about fasting insulin, HOMA-IR, A1c, triglycerides, liver enzymes, an oral glucose tolerance test, or continuous glucose monitoring if there is fatigue, weight gain around the abdomen, prediabetes, PCOS, sleep apnea, or family history of type 2 diabetes or heart disease; anyone on glucose-lowering medication should discuss diet and exercise changes with a clinician to avoid hypoglycemia.
 
 ## Transcript
 

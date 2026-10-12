@@ -18,12 +18,12 @@ estimated_watched_seconds: 69
 transcript_status: fetched
 transcript_content_hash: 56e115fd70441d41854ad447fc97e4d7fa2d5773c0547a355145a34871421808
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, primary-source-video]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Russia maintains its 30,000-35,000 monthly casualty replacement rate through five overlapping recruitment strategies centered on financial incentives rather than conscription. It offers 400,000 rubles ($5,500) signing bonuses with monthly salaries of 204,000-220,000 rubles, but the real pull comes from regional bonuses—Siberian cities pay up to 18.5 million rubles (~$250,000) to attract recruits who travel across the country for better offers. Beyond salaries, Russia advertises combat bonuses for destroying Western equipment, death and disability payments up to 5.52 million rubles for families, plus debt forgiveness, job retention, housing support, and veteran status. The recruitment pipeline targets poorer regions, indebted men, prisoners, migrants, gamers, and IT workers through official offices, regional bidding wars, paid civilian and state recruiters (including FSB), and coercion, while also recruiting 18,500 foreigners annually from Central Asia, South Asia, and Africa through 97 selection points.
+Russia’s replacement of about 30,000–35,000 soldiers monthly is presented as a high-cash, high-pressure recruitment market: federal signing bonuses of 400,000 rubles, monthly contract pay of 204,000–220,000 rubles, and regional top-ups such as 1.9 million rubles in Moscow, 4.1 million in St. Petersburg, and 18.5 million in Khanty-Mansiysk, with advertised combat bonuses (8,000 rubles/day for offensive operations, 50,000 per kilometer advanced, 1 million for capturing a Western tank or HIMARS), injury/death benefits (3 million for serious wounds, 5.52 million one-time family payment), debt relief up to 10 million rubles, job retention, veteran status, housing, medical care, and family support. The discussion cites William Spaniel/Lines on Maps incentives, Russian state recruiting channels, Agentstvo’s report that 35 regions raised local payments since early 2026, Important Stories’ report that about half of regions pay recruiter bonuses—sometimes over 500,000 rubles per recruit—to police, FSB, prison staff, officials, and civilians, and AP reporting on coercion of conscripts, prisoners, migrants, and foreigners; Ukrainian-linked intelligence claims plans for at least 18,500 foreign recruits in 2026, targeting Central Asia and poorer countries, with a blacklist including China, India, Brazil, South Africa, Turkey, Cuba, Colombia, and others.
 
-The actionable insight is that Russia's recruitment model relies on exploiting financial desperation rather than patriotic mobilization—it systematically targets legally vulnerable populations (prisoners, pre-trial detainees, the indebted, the unemployed) and uses contract terms that are often extended beyond stated lengths. Observers can track recruitment strain by monitoring regional bonus increases and recruiter compensation levels, which rose sharply in 2026. For policymakers, this model reveals both sustainability vulnerabilities (the need for ever-higher bonuses signals tightening manpower) and ethical contrasts with allied recruitment practices, which exclude prisoners and felons and do not employ dating-app tactics for military enrollment.
+For the user, the actionable implications are to treat advertised Russian military pay and benefits as unverified marketing unless corroborated by payment records, court cases, opposition media, or official documents; if researching or advising someone, verify contract length, actual regional bonus, whether debt relief/citizenship/job retention are legally enforceable, and whether contracts are secretly extended, because coercion, recruiter incentives, and foreign-recruit blacklists create fraud and legal risk. Health and welfare follow-ups should focus on casualty exposure, injury compensation, PTSD, prosthetics/rehabilitation, family benefits, and the risk that combat bonuses may be withheld or skimmed by commanders; useful research leads include Russian recruitment portals, regional bonus tables, Agentstvo/Important Stories/AP investigations, drone-unit recruitment pages, and tracking whether Khanty-Mansiysk/Siberian and foreign recruits actually receive promised sums. Decisions to consider include avoiding enlistment based on advertised bonuses, consulting a lawyer before signing any contract or accepting debt relief, and asking follow-up questions about proof of payment, contract termination, prisoner/pretrial detainee pressure, and whether a recruiter’s bonus creates a conflict of interest.
 
 ## Transcript
 

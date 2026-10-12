@@ -18,12 +18,12 @@ estimated_watched_seconds: 1800
 transcript_status: fetched
 transcript_content_hash: 1563bbccbccbea04f08d30d40d8e06e24d765f7b5d8d1946e73575ebc5f14ce4
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, primary-source-video]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-General David Petraeus discusses Ukraine's devastating drone and missile campaign against Russian oil infrastructure. Ukraine has hit every refinery within 3,000 km of its border, leaving less than 30% of Russian gas stations supplied and degrading fuel in Crimea to the point of fouling car engines. Ukraine is producing 8 million unmanned systems—including maritime drones that have sunk over a third of Russia's Black Sea Fleet—and launching a new Flamingo cruise missile with greater range and payload than the US Tomahawk. Beyond refineries, Ukraine targets Russian logistics hubs (dual-use civilian-military warehouses) that supply both military operations and the broader economy. The battlefield itself has transformed: the 35 km death zone makes traditional combined-arms warfare unviable; troops must remain underground; commanders cannot visit front lines; and soldiers move only under heavy drone threat.
+General David Petraeus and the host covered Iran’s Strait of Hormuz leverage, Ukraine’s deep-strike campaign, and the wider transformation of warfare by cheap drones. Petraeus argued Iran is militarily weakened but controls a “weapon of mass disruption” because the strait normally carries about 20% of global crude and LNG; he cited 6–8 million barrels per night escaping via oil-company tankers and ship-to-ship transfers, with a possible path to 10 million barrels per night plus UAE Fujairah volumes above 2 million barrels and Saudi Red Sea exports around 6 million barrels, while China’s roughly 1 billion-barrel strategic release and U.S.–Venezuela increases of about 500,000 barrels per day help offset shortages. He linked President Trump’s blockade of Iranian ports, Qatar’s loss of 15–17% LNG capacity for 3–5 years, Kharg Island’s vulnerability, depleted U.S. interceptor stocks, and concerns about 1,000 pounds of 60% enriched uranium to a contest of wills with Tehran’s new supreme leader and hardliners. On Ukraine, he said Kyiv has struck every Russian refinery within 3,000 km, leaving fewer than 30% of gas stations with fuel and degrading Crimea’s gasoline supply; he named Zelensky, Putin, the Flamingo cruise missile, 8 million Ukrainian unmanned systems, maritime drones sinking over a third of Russia’s Black Sea Fleet, Wildberries/Ozon logistics hubs, a 35 km “death zone,” Russian casualties above 1.4 million, EU support of 90 billion euros, and the Lindsey Graham sanctions package as factors that could isolate Crimea and strain Putin’s finances.
 
-For sustained impact on Putin's position: Western allies must maintain economic sanctions and increase military aid to Ukraine, particularly missile interceptors (Ukraine's critical vulnerability). Petraeus argues that Russia's national welfare fund exhausts this year and is running out of money; continued sanctions plus Ukrainian production of 8 million unmanned systems annually create unsustainable pressure on Russian forces (currently losing over 1,000 killed and wounded daily). If the US, EU, UK, and others sustain the Lindsey Graham sanctions package alongside European support (€90 billion from the EU alone), Ukraine can degrade Russia's Crimea position, maintain lines, and force Putin toward negotiation—but only if Western commitment remains firm through the year.
+Actionable follow-ups are to monitor whether Hormuz exports reach 10 million barrels per night, whether Brent prices fall enough to reduce U.S. midterm pressure, whether the U.S. and allies pass and enforce additional sanctions, and whether Ukraine’s Flamingo missile and drone production actually expands deep-strike tempo. For research leads, examine counter-drone economics—$2–3 million interceptors versus $50,000 drones—U.S. force-structure reform, Kharg Island logistics, UAE/Saudi bypass pipelines, and the durability of Iran’s currency and frozen-reserve negotiations. For decisions, energy, logistics, or defense exposure should be assessed against scenarios of prolonged Hormuz disruption, renewed oil-price spikes, Black Sea shipping risk, and possible escalation around Crimea; there are no direct health implications in the transcript, but indirect effects could include higher fuel/heating costs, supply-chain inflation, and stress from geopolitical uncertainty. Follow-up questions: Can Iran force control of the strait, will Crimea’s power and fuel systems fail, will U.S. interceptor and cruise-missile stocks be replenished, and will Trump’s blockade produce Iranian concessions or a longer stalemate?
 
 ## Transcript
 

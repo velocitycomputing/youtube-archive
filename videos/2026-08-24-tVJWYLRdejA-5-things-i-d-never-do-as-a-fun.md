@@ -18,12 +18,12 @@ estimated_watched_seconds: 700
 transcript_status: fetched
 transcript_content_hash: ef7976e70178d85992849ea1e50da558ee868a48437aa9e1ac79f11b2f3526c3
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video, "system:metabolic", "system:thyroid", "system:gi", "intervention:lifestyle", "goal:longevity", "goal:risk-reduction"]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-A functional medicine NP with cardiology training outlines five core practices to avoid: missing morning sunlight (which disrupts circadian rhythm and downstream hormone/metabolic signaling), using fragrance (volatile organic compounds act as endocrine disruptors and carcinogens, accumulating across candles, detergents, deodorant, etc.), applying bleach to mold (it aerosolizes spores rather than fixing moisture and microbial causes), consuming unfiltered water and ultraprocessed foods regularly (compromising detoxification, gut integrity, and hormone signaling), and reflexively prescribing certain medications like aromatase inhibitors or statins without investigating root causes—with a bonus sixth warning against glyphosate, which has been detected in the majority of pregnant women and is linked to hormone disruption, reduced fetal growth, and microbiome damage. The common thread is cumulative environmental burden: five of six exposures are environmental, and their combined load impairs receptor sensitivity and hormone metabolism more than any single item.
+Circadian light timing, household fragrance, mold remediation, water/food chemical load, medication defaults, and glyphosate were discussed by a functional medicine nurse practitioner with a cardiology background. The claims were that morning sunlight and reduced evening artificial light regulate cortisol, melatonin, and sleep architecture; fragrance is a major source of volatile organic compounds, some endocrine-disrupting or potentially carcinogenic, and cumulative exposures may sensitize nervous and immune systems; bleach on mold can aerosolize spores while leaving moisture and microbial growth unresolved; unfiltered water and ultra-processed additives may affect detoxification pathways, gut lining integrity, and hormone signaling; and aromatase inhibitors, conjugated equine estrogen, synthetic progesterone, statins, and levothyroxine should not become reflex first-line treatments without evaluating root cause, hormone metabolism, endothelial health, and optimal versus merely normal lab ranges. Key data cited included a 2003 study in young healthy men where an aromatase inhibitor lowered estradiol and reduced brachial artery flow-mediated dilation from 6.1% to 3.5%, another study linking higher natural estradiol to better flow-mediated dilation in middle-aged men, and reports that glyphosate and its metabolites have been detected in the majority of pregnant women, with observational associations involving lower estradiol/estriol, reduced fetal growth, preterm birth signals, microbiome disruption, endocrine disruption, and possible carcinogenic effects.
 
-Actionably: get morning sunlight and use blue-light glasses at night; eliminate fragrance from your home and personal care products; filter your water (reverse osmosis is sufficient); shift your regular food rotation toward nutrient-dense whole foods; if you have mold, hire a contractor to fix moisture/water damage rather than spray bleach; ask your doctor root-cause questions before accepting hormonal medications as automatic first-line treatment; and avoid glyphosate on your property and choose lower-residue foods where feasible—these changes cost little or nothing but compound over years into measurable health protection.
+Actionable steps include getting outdoor light early, dimming or filtering bright evening light, and considering blue-light blocking glasses; replacing fragranced candles, air fresheners, laundry products, cleaners, body products, and car fresheners with fragrance-free alternatives; not spraying bleach on mold but instead finding and fixing moisture and considering professional remediation or testing; filtering drinking water, with reverse osmosis presented as acceptable, and reducing frequent ultra-processed foods, dyes, and additives; avoiding glyphosate spraying and choosing lower-residue foods where practical; and not stopping prescribed medications, but asking whether the root cause, hormone conversion, endothelial health, and optimal ranges were assessed before starting or adjusting drugs, especially estrogen-lowering therapy in men. Follow-up questions should include what is producing the lab pattern, how hormones are being metabolized, whether vascular function is impaired, whether environmental exposures are contributing to fatigue, autoimmune symptoms, or hormone complaints, and whether a medication is treating a number rather than the underlying terrain.
 
 ## Transcript
 

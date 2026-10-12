@@ -18,12 +18,12 @@ estimated_watched_seconds: 793
 transcript_status: fetched
 transcript_content_hash: 38749c2d66a54ce3c044002224fd775811972a0fa845668981da23c67a349f31
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The transcript argues that Russia and Ukraine are trapped in a three-war cycle: the 2014 Crimea/Donbas conflict (first war, ~14,500 deaths), the current 2022 full-scale invasion (second war, 230,000+ deaths), and an inevitable third war that both sides openly expect. Ukrainian and Russian leaders—Zelenskyy, Zaluzhnyy, Dugin, Medvedev, Karaganov—frame the conflict as generational and existential. Both countries rejected ceasefire proposals because neither will accept a frozen status quo: Russia demands the Donbas and military limits on Ukraine; Ukraine refuses territorial concessions and restrictions that would leave it weakened. NATO intelligence forecasts Russia will probe NATO's defenses within 1–3 years after Ukraine, potentially escalating to full-scale conflict. The underlying drivers are economic (Russia's war-dependent economy), ideological (Kremlin visions of a Eurasian empire), demographic (both nations depleting military-age men), and strategic (Ukraine views itself as Europe's sole capable defender).
+The transcript argues that the Russia-Ukraine war is the second of three wars, with the first beginning in 2014 after Euromaidan and Crimea’s annexation, and a third expected after a ceasefire. It cites CSIS for over 2 million casualties, and Mediazona/BBC for over 230,000 confirmed Russian deaths—more than double U.S. deaths in all post-WWII American wars—while noting the true toll is likely higher; the earlier Donbas war caused about 14,500 deaths and under 60,000 wounded. It claims both Moscow and Kyiv view any ceasefire as a brief intermission because unresolved goals remain: Russia wants Donbas/Crimea, a fortified border, limits on Ukraine’s military, and no NATO membership, while Ukraine refuses to concede territory or force limits because it expects another war. It names Zelenskyy, Zaluzhnyy, Dugin, Medvedev, Karaganov, Belousov, Mikhail Yuriev’s The Third Empire, and NATO/European intelligence assessments that Russia may test NATO within 1–3 years and could face a larger war later. It also emphasizes Russia’s war economy, Ukraine’s postwar EU/defense-industry trajectory, demographic crises, and the need for both sides to rearm, fortify, and secure allies during any pause.
 
-If a ceasefire occurs, both sides will race to rearm during the pause: Ukraine will modernize defenses, expand strike capabilities, and seek NATO membership or coalition guarantees; Russia will recover forces, rebuild munitions and industrial capacity, and rebuild conscription networks in wealthy regions. The critical takeaway for allies is that any peace agreement should be treated as an intermission, not an ending—Ukraine cannot concede territory or accept military restrictions that weaken it for the next war, and the West should expect sustained conflict resumption rather than permanent stability.
+For the user, the actionable takeaway is to treat a ceasefire as a risk-management problem rather than a resolution: monitor whether any settlement freezes contact lines, leaves Russian forces in Donetsk/Luhansk/Crimea, restricts Ukraine’s military or NATO path, and includes enforceable security guarantees such as NATO membership or a coalition-of-the-willing deployment. Useful research leads include CSIS casualty estimates, Mediazona/BBC confirmed Russian death counts, NATO European threat-timeline reporting, Ukrainian fortress-belt and Dnieper defense plans, Russian mobilization and industrial recovery, and demographic data on Ukraine’s aging military and Russia’s lost fighting-age men. Health and humanitarian implications to follow include long-term trauma, disability, veteran care, civilian infrastructure damage, displaced populations, and reconstruction needs. Follow-up questions should ask: what would make a ceasefire durable rather than a pause; which weapons, financing, and alliance commitments would change deterrence; whether Russia can sustain its war economy without broader mobilization; and whether Ukraine’s EU integration and defense industry can offset population losses.
 
 ## Transcript
 

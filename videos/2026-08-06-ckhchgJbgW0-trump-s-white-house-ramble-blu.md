@@ -18,12 +18,12 @@ estimated_watched_seconds: 475
 transcript_status: fetched
 transcript_content_hash: 88f8fee44320ebe5bd2c5237ccdc8c7073037d8d4248327b21628e637e51902d
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, us-decline]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-Trump held a disjointed press conference where four unrelated issues became tangled together: the Iran conflict (where he repeatedly threatens strikes then backs down), White House renovation projects (golden horses, Lafayette Park), vandalism to the Lincoln Memorial Reflecting Pool, and grass damage with numbers written on it (86 47). The commentator highlights that Trump demonstrates obsessive fixation on these decorative and minor vandalism details with granular specificity, while discussing major geopolitical stakes like Iran with vague incoherence—a stark mismatch in priorities and focus.
+Trump’s press ramble, as reacted to by VLAD, bundled together four topics: the Iran war and Trump’s repeated threats to strike Iranian infrastructure followed by pauses, which VLAD estimates have occurred closer to seven times since April rather than five; White House and Washington monument renovations, including “golden horses,” Lafayette Park cleanup, and a decision about replacing red brick pavers with gray granite; damage to the Lincoln Memorial Reflecting Pool and nearby grass; and vandalism on grass reading “86 47,” with Trump confusedly cycling through numbers like 87, 45, and 78. Trump attacked Jeanine Pirro, saying she “folded like an umbrella” and “choked” before an “unfriendly” or “vicious” judge in a case involving a man VLAD claims was falsely accused of reflecting-pool vandalism. VLAD framed the episode as evidence of Trump’s distorted priorities, “mental porridge,” and a broader erosion of presidential credibility, linking Trump ideologically to figures like Putin and Orban and mentioning Anthony Scaramucci’s “Trump Fatigue Syndrome.”
 
-The takeaway is that this pattern of distorted priorities and institutional delegitimization (exemplified by Trump attacking attorney Jeanine Pirro for discontinuing a weak vandalism case) is causing serious long-term damage. The incoherence normalizes erosion of democratic standards and makes the presidency itself less credible regardless of who holds it next. Expect this to require a multi-year recalibration of how people assess executive authority and institutional stability.
+For the user, the actionable follow-ups are to verify the original press conference and fact-check the specific claims: how many times Trump announced or paused Iran strikes since April; whether the reflecting-pool suspect was falsely accused and why Pirro dropped or lost the case; what the judge actually said; what damage occurred to Lafayette Park, the reflecting pool, and the grass; and whether the “golden horses,” paver changes, and White House renovations are authorized, funded, and historically appropriate. Research leads include official National Park Service or White House statements, court records in the Pirro matter, and reporting on Iran strike pauses and presidential credibility. If the content causes anxiety, doomscrolling, or a sense of political unreality, limit exposure, set news-check windows, use trusted sources, and discuss confusing events with others; useful questions are whether Trump’s statements are policy, performance, or distraction, and how repeated contradictions affect public trust in future presidents.
 
 ## Transcript
 

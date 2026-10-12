@@ -18,12 +18,12 @@ estimated_watched_seconds: 542
 transcript_status: fetched
 transcript_content_hash: 416e31bf1b471f223f03dfc1f8c989325186724fe17efc0b97702c27ee9c1088
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video, "goal:symptom-relief"]
 proposed_entities: []
@@ -34,13 +34,7 @@ routed_to: null
 
 ## Summary
 
-**What Was Discussed**
-
-This 1996 HBO documentary follows patients and families in hospice care, showing how the shift from curative to comfort-focused medicine allows meaningful final time. Through multiple stories—a young boy with a rare brain disease managed by his devoted father, a cancer patient relying on faith, a former firefighter reconnecting with estranged family, and others—the film illustrates that when physical pain and symptoms are controlled, families can address unfinished emotional work: conversations deferred for years, apologies, expressions of love, and life review. The documentary emphasizes that hospice workers serve as facilitators of these connections, helping families navigate the turbulent emotions and family dynamics that emerge when death becomes imminent. Key themes include the importance of allowing people to grieve openly, helping children understand mortality, and recognizing that dying—while always sad—doesn't have to involve suffering.
-
-**What's Actionable for You**
-
-If you or someone close to you is terminally ill, prioritize symptom control first (pain, nausea, seizures) so the person has clarity and energy for relational work. Have difficult conversations now—apologies, gratitude, forgiveness, advice for those who survive—rather than assuming there will be time later. If you're a caregiver or family member, watch for family tensions and unresolved history; consider professional support (social workers, hospice staff) to help navigate these. Recognize that family members may cope through denial or avoidance, but gently create space for them to express grief and say meaningful goodbyes. Don't postpone saying what matters.
+Hospice clinicians and families navigate terminal illness, symptom control, grief, and communication across several cases: a child with a rare brain disease and accelerating seizures (Michael; his father, daughter Crystal, and hospice staff including Ira, Vicki, Ruby, and social worker Jeff) where liquid phenobarbital every 12 hours is considered to stop seizures but carries a small risk of stopping breathing; Anna, given three to four months after a late cancer diagnosis, whose new large left-neck lymph node suggests persistent cancer and whose insurance may eventually stop covering acute rehab; Ralph, a former San Francisco firefighter with a brain tumor, estranged from his mother, sister, and a 36-year-old pregnant daughter, and working through conflict with Donna about marriage, care, and unfinished relationships
 
 ## Transcript
 

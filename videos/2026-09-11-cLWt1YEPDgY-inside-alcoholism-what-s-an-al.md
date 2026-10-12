@@ -18,12 +18,12 @@ estimated_watched_seconds: 216
 transcript_status: fetched
 transcript_content_hash: 874f069c3f7770a64fede43865eb75acb49621a60d52fbef9227cf3c56322edd
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:cognitive", "intervention:lifestyle", primary-source-video]
 proposed_entities: []
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-The speaker describes his experience with episodic alcohol use disorder, detailing a typical two-week binge relapse that follows a predictable progression: initial anticipation and euphoria while acquiring alcohol, early-stage creative ideas and engagement with people, rapid mood shifts into seeking sadness, blackouts requiring constant re-drinking upon waking, escalating isolation with closed curtains and severed communication, physical deterioration (no food, showers, or hygiene), and eventually hallucinations and withdrawal symptoms occurring before sobriety even begins. He explains how shame forces him to drink more to suppress regret, how he loses track of time, and how the psychological driver is active rejection of responsibility—the "reckoning" he fears facing after the damage (lost job, eviction, destroyed relationships) becomes apparent around day ten.
+A person with episodic alcohol use disorder describes a recurring two-week binge pattern: months of sobriety, then a relapse that begins with anticipation, excuses, and a deliberate purchase of spirits, often vodka, followed by escalating drinking, blackouts, isolation, and loss of control. The speaker frames alcoholism as both highly individual and shared, using the etymology of “binge” as soaking/swelling to describe the experience, and criticizes the term “functioning alcoholic” as self-flattering denial. Key details include a specific relapse that began after an AA event in Berlin, drinking alone in public spaces, buying cheap high-volume alcohol, drinking about 750 ml of vodka in roughly four hours, consuming about 1.5 liters per day during the binge, blacking out before finishing bottles, and by day three stopping healthy eating, hygiene, and normal bodily routines. The speaker says a two-week binge can cause at least a week of detox, a month of rebuilding, and about six months of practical setbacks in trust, work, health, and goals; later stages include vomiting, possible “coffee grounds” vomit, hallucinations or withdrawal-like symptoms even while still drinking, police and welfare checks after followers or employers become alarmed, and dependence on a trusted person—especially the speaker’s girlfriend—to intervene and push toward detox.
 
-The actionable insight is that intervention from a trusted person (in his case, his girlfriend) is what breaks the cycle when self-help fails, and that people fundamentally want others to be okay and will forgive—meaning recovery is possible even after extreme degradation if you allow others to help you. If you recognize yourself in this pattern, the path forward is not willpower alone but reaching out for external support before the spiral reaches its worst point, as the physical and psychological toll becomes increasingly severe and difficult to reverse.
+Anyone recognizing this pattern should treat it as a serious medical and safety issue, not a willpower problem: heavy binge drinking and abrupt cessation can cause dangerous withdrawal, seizures, delirium tremens, dehydration, malnutrition, injury, self-harm, and organ damage, so stopping after prolonged heavy use should ideally involve a doctor, addiction specialist, or detox service. Concrete next steps include telling a trusted person what is happening, removing alcohol from the home, arranging a supervised detox or urgent evaluation if there are blackouts, hallucinations, confusion, tremors, vomiting blood/coffee-ground material, severe dehydration, or suicidal thoughts, and contacting emergency services if those occur. Useful research leads are alcohol withdrawal syndrome, delirium tremens, episodic alcohol use disorder, medication-assisted treatment options to discuss with a clinician such as naltrexone, acamprosate, or disulfiram, and recovery supports such as AA, SMART Recovery, therapy, or addiction medicine clinics. Follow-up questions worth asking are: How much and how often is alcohol being consumed? Are there blackouts, morning drinking, withdrawal symptoms, or prior detox attempts? What triggers the relapse? Who can help hold accountability or call for help? What local detox, crisis, or addiction services are available?
 
 ## Transcript
 

@@ -18,12 +18,12 @@ estimated_watched_seconds: 1090
 transcript_status: fetched
 transcript_content_hash: c7cb0659550b8b080344eaf3a853866a155b719877a7a7e38ee7fc241dd3ea71
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: [geopolitics, primary-source-video]
 proposed_entities: []
@@ -34,11 +34,9 @@ routed_to: null
 
 ## Summary
 
-# Summary
+At the NATO summit in Ankara, the transcript argues the alliance’s mood shifted optimistically because Ukraine is gaining battlefield momentum, especially through mid- and long-range drone strikes that strain Russian air defenses, prompting a NATO diplomat to say Trump likes winners and Ukraine has started winning. It cites a Financial Times article, Chatham House’s Orysia Lutsevych, President Zelenskyy’s claim that Ukraine leads Europe in drone technology and credits early U.S. intelligence and Patriot systems, and reports a roughly hour-to-hour-and-a-half Trump-Zelenskyy meeting whose main outcome was an agreement to license Patriot production to Ukraine, likely initially interceptors rather than full systems. The summit statement reaffirmed Article 5, pledged €70 billion in military equipment, assistance, and training for Ukraine in 2026 and at least equivalent levels in 2027—about €140 billion over two years—while Russian Foreign Minister Lavrov and Russian milbloggers such as Fighter Bomber said the summit showed the West would not force Kyiv to accept Moscow’s terms and that Russia lacks a comparable alliance like NATO or CSTO. The transcript also notes Trump’s disruptive remarks about Greenland, Spain, and U.S. troops in Europe, fatigue among 27 invited creators, and a Car for Ukraine fundraiser delivering vehicles 17–19.
 
-At the NATO summit in Ankara, Turkey, the mood was notably optimistic and markedly different from previous years—a shift driven by Ukraine's recent military victories, particularly in drone technology, which has changed Trump's calculus since he "likes winners." Trump and Zelenskyy met for roughly an hour and agreed to license Patriot production to Ukraine; NATO simultaneously pledged 70 billion euros in military aid for 2026 with commitment to equivalent levels in 2027. Zelenskyy emphasized that Ukraine is fighting for freedom and stressed the critical importance of early U.S. support, intelligence, and weaponry to their war effort. Article 5 (collective defense) was reaffirmed, and across-the-board assessments from NATO leaders confirm Ukraine now holds the military upper hand, with Russia increasingly unable to defend against mid- and long-range drone strikes. Russian officials openly acknowledged the U.S. has "effectively changed sides" and now firmly backs Ukraine.
-
-International donations to Ukrainian military units remain directly impactful—Zelenskyy stressed that the position to help, not the volume of money, matters most to soldiers on the front lines. The speaker's ongoing Car for Ukraine fundraiser has delivered 19 vehicles to combat units in hot zones in just over half a year. If you support Ukraine, donations continue to translate into concrete logistics, transportation, and medevac capability for units in active combat; links are in the video description.
+Actionable follow-up: verify the Patriot-license claim by checking the White House, NATO, Ukrainian government, and Patriot manufacturer statements for scope, timeline, financing, and whether it covers interceptors, radars, launchers, or maintenance; track whether the €70 billion 2026 pledge is itemized by country and whether 2027 commitments are met. Research Ukraine’s drone and air-defense production bottlenecks, Russian air-defense attrition, and independent battlefield assessments from ISW, DeepStateMap, Chatham House, RUSI, or Reuters/AP to test the “Ukraine has the upper hand” claim rather than relying on summit optimism. If considering donations, compare vetted organizations such as Come Back Alive, United24, Red Cross, or Car for Ukraine, checking registration, financial transparency, and whether funds go to drones, vehicles, medevac, or humanitarian aid; no direct health implications are given, but the practical health-adjacent angle is that air-defense and medevac capacity affect civilian and soldier survival, so follow-up questions should focus on interceptor supply, medical evacuation, and civilian protection.
 
 ## Transcript
 

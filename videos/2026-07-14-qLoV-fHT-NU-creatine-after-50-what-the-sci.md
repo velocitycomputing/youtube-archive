@@ -18,12 +18,12 @@ estimated_watched_seconds: 417
 transcript_status: fetched
 transcript_content_hash: 5e2199c671882fc888f02306338981af5202ad9f324d792e3a9184c0007ffe61
 analysis_mode: health
-summary_source: hosted
-model_source: hosted
+summary_source: local
+model_source: local
 summary_status: ready
 item_status: ready
 wealth_eligible: false
-summary_model: claude-haiku-4-5
+summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: ["system:musculoskeletal", "system:cognitive", "intervention:supplement", "goal:longevity"]
 proposed_entities: [ent-intervention-creatine]
@@ -34,9 +34,9 @@ routed_to: null
 
 ## Summary
 
-**What was discussed:** Creatine is a natural compound stored in muscles and brain that acts as a rapid-energy battery. For muscle, the evidence is strong: creatine combined with resistance training adds approximately 1.5 kg of lean muscle, particularly in the legs—but only in people already lifting weights; it amplifies training rather than building muscle on its own. For brain function, benefits are narrower: creatine reliably improves short-term memory and mental processing speed (especially in people in their 60s-80s), but does not prevent dementia or broadly enhance cognition. It's generally safe in healthy people, with minor side effects like stomach upset and initial water-weight gain, though it raises blood creatinine levels, which can make healthy kidneys appear impaired on standard tests.
+Dr. Alex, a UK emergency medicine doctor, reviews creatine monohydrate for adults over 50, focusing on muscle and brain claims amid heavy marketing. He explains that creatine is a natural compound made mostly in the liver and obtained from meat and fish, so vegetarians and vegans may have lower stores and respond more noticeably. For muscle, he cites 22 randomized controlled trials involving more than 700 older adults, showing that creatine combined with resistance training added roughly 1.5 kg of lean tissue and improved strength, especially in the legs, but produced little benefit without training. For the brain, he says evidence supports small improvements in short-term memory and processing speed, strongest in older adults and during stress or sleep deprivation, but not broad cognition or dementia prevention. He also notes that creatine is generally safe in healthy people, may cause mild stomach upset and water-weight gain, and can raise creatinine by about 10%, artificially lowering eGFR; kidney disease, especially persistent eGFR below 60, and pregnancy are cautions.
 
-**What's actionable for you:** Only consider creatine if you're already doing consistent resistance training and have mastered the fundamentals (whole foods, sleep, movement, stable blood sugar)—it won't work without the training foundation. Take 3–5 g daily of plain creatine monohydrate; no loading phase or timing around workouts is necessary. Do not expect dementia prevention or broad cognitive gains. Before blood work, tell your doctor you use creatine or stop it for a week to avoid misreading of kidney function. If you're over 40–50 or have any medical conditions, check with your doctor first. Buy from reputable brands only.
+For the user, creatine is only a small add-on after the basics: resistance training, whole-food nutrition, sleep, stable blood sugar, and medical clearance if over 40 or 50 or if there are health problems. If healthy and already lifting, a practical trial is 3–5 g/day of plain creatine monohydrate, with no loading phase and no required timing, from a reputable brand; realistic expectations are modest strength, lean-mass, and mental-speed benefits, not dementia protection. Before starting, ask a clinician about kidney function, eGFR, medications, and whether creatine could affect lab interpretation; if getting blood tests, disclose creatine use or pause it for about a week. Follow-up questions should include: Is my kidney function normal? Am I doing resistance training? Are my goals realistic? Would a vegetarian diet make creatine more relevant? What symptoms or lab changes should prompt stopping and rechecking?
 
 ## Transcript
 
