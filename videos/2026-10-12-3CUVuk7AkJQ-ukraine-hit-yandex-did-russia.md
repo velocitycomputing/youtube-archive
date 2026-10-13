@@ -28,8 +28,8 @@ tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
 topic_domain: politics
-status: new
-routed_to: null
+status: routed-to-ournation
+routed_to: ournation.us.news#94
 ---
 
 ## Summary
