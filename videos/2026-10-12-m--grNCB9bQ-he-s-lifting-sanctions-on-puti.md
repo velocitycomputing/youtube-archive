@@ -5,15 +5,15 @@ title: "He's LIFTING Sanctions on Putin!"
 channel: Combat Veteran News
 url: "https://www.youtube.com/watch?v=m--grNCB9bQ"
 watched_date: "2026-10-12"
-watched_at: "2026-10-12T23:59:54Z"
+watched_at: "2026-10-12T23:59:49Z"
 watch_count: 1
 duration_seconds: 920
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 6
+history_label: Yesterday
+history_order: 11
 watched_at_precision: date-from-history-label
-watched_percent: 52
+watched_percent: 10
 estimated_watched_seconds: 478
 transcript_status: fetched
 transcript_content_hash: c0983964327fee3928315c70dd978a73ab35416cb124fc7600e4bf238c8cc6ea

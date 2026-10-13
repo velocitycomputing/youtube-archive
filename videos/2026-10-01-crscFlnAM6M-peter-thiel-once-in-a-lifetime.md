@@ -5,13 +5,13 @@ title: "Peter Thiel: Once in a Lifetime Opportunity is Coming"
 channel: David Carbutt
 url: "https://www.youtube.com/watch?v=crscFlnAM6M"
 watched_date: "2026-10-01"
-watched_at: "2026-10-01T23:57:53Z"
+watched_at: "2026-10-01T23:57:40Z"
 watch_count: 1
 duration_seconds: 2527
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 1
-history_order: 127
+history_order: 140
 watched_at_precision: date-from-history-label
 watched_percent: 27
 estimated_watched_seconds: null

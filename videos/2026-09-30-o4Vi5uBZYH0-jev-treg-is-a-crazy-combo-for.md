@@ -5,13 +5,13 @@ title: Jev + Treg is a crazy combo for automation...
 channel: AI Jason
 url: "https://www.youtube.com/watch?v=o4Vi5uBZYH0"
 watched_date: "2026-09-30"
-watched_at: "2026-09-30T23:57:34Z"
+watched_at: "2026-09-30T23:57:21Z"
 watch_count: 1
 duration_seconds: 869
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 30
-history_order: 146
+history_order: 159
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

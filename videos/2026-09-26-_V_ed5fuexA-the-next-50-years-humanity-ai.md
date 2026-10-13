@@ -5,13 +5,13 @@ title: "The next 50 years: humanity, AI, power | Yuval Noah Harari"
 channel: Yuval Noah Harari
 url: "https://www.youtube.com/watch?v=_V_ed5fuexA"
 watched_date: "2026-09-26"
-watched_at: "2026-09-26T23:56:56Z"
+watched_at: "2026-09-26T23:56:51Z"
 watch_count: 1
 duration_seconds: 2886
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 26
-history_order: 184
+history_order: 189
 watched_at_precision: date-from-history-label
 watched_percent: 20
 estimated_watched_seconds: 577

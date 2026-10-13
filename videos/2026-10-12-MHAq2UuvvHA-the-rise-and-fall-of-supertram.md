@@ -5,13 +5,13 @@ title: The Rise and Fall of Supertramp
 channel: Studio Number Six
 url: "https://www.youtube.com/watch?v=MHAq2UuvvHA"
 watched_date: "2026-10-12"
-watched_at: "2026-10-12T23:59:44Z"
+watched_at: "2026-10-12T23:59:29Z"
 watch_count: 1
-duration_seconds: 941
+duration_seconds: 934
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 16
+history_label: Yesterday
+history_order: 31
 watched_at_precision: date-from-history-label
 watched_percent: 68
 estimated_watched_seconds: null
