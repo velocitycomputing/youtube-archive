@@ -5,13 +5,13 @@ title: 10 Levels of Jev For Agentic Engineers
 channel: IndyDevDan
 url: "https://www.youtube.com/watch?v=_U-O5lYhJ7Q"
 watched_date: "2026-09-29"
-watched_at: "2026-09-29T23:57:14Z"
+watched_at: "2026-09-29T23:57:01Z"
 watch_count: 1
 duration_seconds: 2118
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 29
-history_order: 166
+history_order: 179
 watched_at_precision: date-from-history-label
 watched_percent: 16
 estimated_watched_seconds: null

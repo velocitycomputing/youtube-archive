@@ -5,13 +5,13 @@ title: Elon & Google’s Bet of their LIFETIME Just Paid Off!
 channel: David Carbutt
 url: "https://www.youtube.com/watch?v=FBwx_UE1o-g"
 watched_date: "2026-10-11"
-watched_at: "2026-10-11T23:59:41Z"
+watched_at: "2026-10-11T23:59:27Z"
 watch_count: 1
 duration_seconds: 1084
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 19
+history_label: Sunday
+history_order: 33
 watched_at_precision: date-from-history-label
 watched_percent: 23
 estimated_watched_seconds: null

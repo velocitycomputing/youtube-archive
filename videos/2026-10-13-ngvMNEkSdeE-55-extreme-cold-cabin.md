@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:URTxDxYbedA"
-video_id: URTxDxYbedA
-title: "THIS is How AI Will Determine If You’re Rich or Poor in 5 Years | Simon Dixon"
-channel: Tom Bilyeu
-url: "https://www.youtube.com/watch?v=URTxDxYbedA"
-watched_date: "2026-10-11"
-watched_at: "2026-10-11T23:59:43Z"
+record_id: "youtube:ngvMNEkSdeE"
+video_id: ngvMNEkSdeE
+title: -55° Extreme Cold Cabin
+channel: jay legere
+url: "https://www.youtube.com/watch?v=ngvMNEkSdeE"
+watched_date: "2026-10-13"
+watched_at: "2026-10-13T23:59:59Z"
 watch_count: 1
-duration_seconds: 6487
+duration_seconds: 3033
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 17
+history_label: Today
+history_order: 1
 watched_at_precision: date-from-history-label
-watched_percent: 10
+watched_percent: 100
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8
