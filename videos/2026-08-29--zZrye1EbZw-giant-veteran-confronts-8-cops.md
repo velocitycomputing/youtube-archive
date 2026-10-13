@@ -27,6 +27,7 @@ summary_model: claude-haiku-4-5
 tagging_model: claude-haiku-4-5
 proposed_tags: [primary-source-video]
 proposed_entities: []
+topic_domain: borderline
 status: new
 routed_to: null
 ---

@@ -27,6 +27,7 @@ summary_model: sonnet
 tagging_model: sonnet
 proposed_tags: [primary-source-video]
 proposed_entities: []
+topic_domain: other
 status: new
 routed_to: null
 ---

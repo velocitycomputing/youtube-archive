@@ -27,6 +27,7 @@ summary_model: sonnet
 tagging_model: sonnet
 proposed_tags: [geopolitics, primary-source-video, china-decline, us-decline]
 proposed_entities: []
+topic_domain: politics
 status: new
 routed_to: null
 ---

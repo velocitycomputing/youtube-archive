@@ -27,6 +27,7 @@ summary_model: sonnet
 tagging_model: sonnet
 proposed_tags: ["system:musculoskeletal", "system:gi", "intervention:lifestyle", "goal:risk-reduction"]
 proposed_entities: []
+topic_domain: other
 status: new
 routed_to: null
 ---

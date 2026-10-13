@@ -27,6 +27,7 @@ summary_model: Qwen3.8-Flash-Next-UD-Q4_K_XL
 tagging_model: claude-haiku-4-5
 proposed_tags: []
 proposed_entities: []
+topic_domain: other
 status: new
 routed_to: null
 ---
