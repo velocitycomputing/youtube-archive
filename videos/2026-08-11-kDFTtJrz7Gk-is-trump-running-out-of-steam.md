@@ -27,6 +27,7 @@ summary_model: sonnet
 tagging_model: sonnet
 proposed_tags: [primary-source-video, geopolitics]
 proposed_entities: []
+topic_domain: politics
 status: routed-to-ournation
 routed_to: ournation.us.news#76
 ---

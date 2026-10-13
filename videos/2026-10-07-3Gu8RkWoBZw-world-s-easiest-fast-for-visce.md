@@ -27,6 +27,7 @@ summary_model: claude-haiku-4-5
 tagging_model: skipped
 proposed_tags: []
 proposed_entities: []
+topic_domain: health
 status: new
 routed_to: null
 ---

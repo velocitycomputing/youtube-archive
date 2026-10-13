@@ -27,6 +27,7 @@ summary_model: sonnet
 tagging_model: sonnet
 proposed_tags: ["goal:longevity", "intervention:lifestyle"]
 proposed_entities: []
+topic_domain: health
 status: new
 routed_to: null
 ---

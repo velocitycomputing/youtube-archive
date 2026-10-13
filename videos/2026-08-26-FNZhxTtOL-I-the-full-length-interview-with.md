@@ -27,6 +27,7 @@ summary_model: sonnet
 tagging_model: sonnet
 proposed_tags: [primary-source-video, geopolitics]
 proposed_entities: []
+topic_domain: borderline
 status: new
 routed_to: null
 ---

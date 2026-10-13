@@ -27,6 +27,7 @@ summary_model: sonnet
 tagging_model: sonnet
 proposed_tags: [primary-source-video, "intervention:lifestyle", "system:musculoskeletal"]
 proposed_entities: []
+topic_domain: health
 status: new
 routed_to: null
 ---
