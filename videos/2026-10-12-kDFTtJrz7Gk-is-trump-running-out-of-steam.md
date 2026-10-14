@@ -5,13 +5,13 @@ title: "Is Trump Running Out of Steam? | The Ezra Klein Show"
 channel: The Ezra Klein Show
 url: "https://www.youtube.com/watch?v=kDFTtJrz7Gk"
 watched_date: "2026-10-12"
-watched_at: "2026-10-12T23:59:44Z"
+watched_at: "2026-10-12T23:59:22Z"
 watch_count: 1
 duration_seconds: 3744
 source: youtube-history-browser
 added_date: 
-history_label: Yesterday
-history_order: 16
+history_label: Monday
+history_order: 38
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 412

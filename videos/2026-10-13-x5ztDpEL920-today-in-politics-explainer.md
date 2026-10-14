@@ -4,14 +4,14 @@ video_id: x5ztDpEL920
 title: "Today in Politics | Explainer"
 channel: Heather Cox Richardson
 url: "https://www.youtube.com/watch?v=x5ztDpEL920"
-watched_date: "2026-10-07"
-watched_at: "2026-10-07T23:58:36Z"
+watched_date: "2026-10-13"
+watched_at: "2026-10-13T23:59:45Z"
 watch_count: 1
 duration_seconds: 3335
 source: youtube-history-browser
 added_date: ""
-history_label: Wednesday
-history_order: 84
+history_label: Yesterday
+history_order: 15
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 334

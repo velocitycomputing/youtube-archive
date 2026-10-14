@@ -5,13 +5,13 @@ title: "Opus 5.5 vs The Rest: Is this the new industry standard?"
 channel: "AI News & Strategy Daily | Nate B Jones"
 url: "https://www.youtube.com/watch?v=osZZjdMZVvA"
 watched_date: "2026-09-30"
-watched_at: "2026-09-30T23:57:31Z"
+watched_at: "2026-09-30T23:57:13Z"
 watch_count: 1
 duration_seconds: 1473
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 30
-history_order: 149
+history_order: 167
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
