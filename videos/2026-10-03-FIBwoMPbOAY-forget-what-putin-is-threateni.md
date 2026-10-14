@@ -5,13 +5,13 @@ title: Forget What Putin Is Threatening. Look at What Russia Is Preparing For
 channel: "Pyotr Kurzin | Geopolitics"
 url: "https://www.youtube.com/watch?v=FIBwoMPbOAY"
 watched_date: "2026-10-03"
-watched_at: "2026-10-03T23:57:54Z"
+watched_at: "2026-10-03T23:57:36Z"
 watch_count: 1
 duration_seconds: 967
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 3
-history_order: 126
+history_order: 144
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 97

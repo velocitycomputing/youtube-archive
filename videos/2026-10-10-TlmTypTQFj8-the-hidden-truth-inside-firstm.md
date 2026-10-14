@@ -5,13 +5,13 @@ title: The hidden truth inside Firstmate AI
 channel: Hal Shin
 url: "https://www.youtube.com/watch?v=TlmTypTQFj8"
 watched_date: "2026-10-10"
-watched_at: "2026-10-10T23:59:09Z"
+watched_at: "2026-10-10T23:58:49Z"
 watch_count: 1
 duration_seconds: 1428
 source: youtube-history-browser
 added_date: ""
 history_label: Saturday
-history_order: 51
+history_order: 71
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 143

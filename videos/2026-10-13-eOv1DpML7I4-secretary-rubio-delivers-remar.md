@@ -4,16 +4,16 @@ video_id: eOv1DpML7I4
 title: Secretary Rubio Delivers Remarks from the Acropolis in Athens
 channel: U.S. Department of State
 url: "https://www.youtube.com/watch?v=eOv1DpML7I4"
-watched_date: "2026-10-07"
-watched_at: "2026-10-07T23:58:45Z"
+watched_date: "2026-10-13"
+watched_at: "2026-10-13T23:59:42Z"
 watch_count: 1
 duration_seconds: 1655
 source: youtube-history-browser
 added_date: ""
-history_label: Wednesday
-history_order: 75
+history_label: Yesterday
+history_order: 18
 watched_at_precision: date-from-history-label
-watched_percent: 38
+watched_percent: 37
 estimated_watched_seconds: 629
 transcript_status: fetched
 transcript_content_hash: c25ead1a17243875b0435a628148fe7686e66ccc0b96261a5b06caf2b4acd9b5
