@@ -5,13 +5,13 @@ title: Trump makes diesel deal with Putin - BIG PICTURE INSIGHTS
 channel: Vlad Vexler Chat
 url: "https://www.youtube.com/watch?v=nkInp51yueY"
 watched_date: "2026-10-13"
-watched_at: "2026-10-13T23:59:34Z"
+watched_at: "2026-10-13T23:59:30Z"
 watch_count: 1
 duration_seconds: 843
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 26
+history_label: Tuesday
+history_order: 30
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 599

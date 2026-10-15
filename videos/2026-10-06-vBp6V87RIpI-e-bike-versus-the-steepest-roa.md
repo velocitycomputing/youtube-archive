@@ -5,13 +5,13 @@ title: E-Bike Versus the Steepest Road in the U.S.
 channel: Sam Westby
 url: "https://www.youtube.com/watch?v=vBp6V87RIpI"
 watched_date: "2026-10-06"
-watched_at: "2026-10-06T23:58:13Z"
+watched_at: "2026-10-06T23:58:09Z"
 watch_count: 1
 duration_seconds: 813
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 6
-history_order: 107
+history_order: 111
 watched_at_precision: date-from-history-label
 watched_percent: 67
 estimated_watched_seconds: null

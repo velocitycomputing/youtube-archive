@@ -5,13 +5,13 @@ title: "Late-Night Solo Drinks | Japanese Wagyu Steak & Highballs"
 channel: ベランダ酒場 veranda bar
 url: "https://www.youtube.com/watch?v=zxY-qZv-l8k"
 watched_date: "2026-10-11"
-watched_at: "2026-10-11T23:58:59Z"
+watched_at: "2026-10-11T23:58:55Z"
 watch_count: 1
 duration_seconds: 1475
 source: youtube-history-browser
 added_date: ""
 history_label: Sunday
-history_order: 61
+history_order: 65
 watched_at_precision: date-from-history-label
 watched_percent: 90
 estimated_watched_seconds: null

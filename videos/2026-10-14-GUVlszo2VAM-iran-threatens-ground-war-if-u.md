@@ -5,13 +5,13 @@ title: IRAN THREATENS GROUND WAR IF US RESTARTS ATTACKS - w/ Expert Trita Parsi
 channel: "Pyotr Kurzin | Geopolitics"
 url: "https://www.youtube.com/watch?v=GUVlszo2VAM"
 watched_date: "2026-10-14"
-watched_at: "2026-10-14T23:59:56Z"
+watched_at: "2026-10-14T23:59:52Z"
 watch_count: 1
 duration_seconds: 2648
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 4
+history_label: Yesterday
+history_order: 8
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
