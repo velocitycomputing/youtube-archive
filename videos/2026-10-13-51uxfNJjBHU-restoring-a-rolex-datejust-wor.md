@@ -5,13 +5,13 @@ title: Restoring a Rolex Datejust Worn Every Day for 40 Years by a Mud Engineer 
 channel: Wristwatch Revival
 url: "https://www.youtube.com/watch?v=51uxfNJjBHU"
 watched_date: "2026-10-13"
-watched_at: "2026-10-13T23:59:53Z"
+watched_at: "2026-10-13T23:59:49Z"
 watch_count: 1
 duration_seconds: 4058
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 7
+history_label: Tuesday
+history_order: 11
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

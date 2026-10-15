@@ -5,13 +5,13 @@ title: "They're Deliberately Winding Down America — Here's the Plan for What C
 channel: Tom Bilyeu
 url: "https://www.youtube.com/watch?v=u4RawKdA_gM"
 watched_date: "2026-10-12"
-watched_at: "2026-10-12T23:59:26Z"
+watched_at: "2026-10-12T23:59:22Z"
 watch_count: 1
 duration_seconds: 8475
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 34
+history_order: 38
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 848

@@ -5,13 +5,13 @@ title: The Real Reason Trump Just Signed a Deal with Putin
 channel: "Pyotr Kurzin | Geopolitics"
 url: "https://www.youtube.com/watch?v=gnU50AXrx84"
 watched_date: "2026-10-11"
-watched_at: "2026-10-11T23:59:02Z"
+watched_at: "2026-10-11T23:58:58Z"
 watch_count: 1
 duration_seconds: 1303
 source: youtube-history-browser
 added_date: ""
 history_label: Sunday
-history_order: 58
+history_order: 62
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 130

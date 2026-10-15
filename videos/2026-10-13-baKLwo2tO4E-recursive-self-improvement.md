@@ -5,13 +5,13 @@ title: Recursive Self Improvement
 channel: David Shapiro
 url: "https://www.youtube.com/watch?v=baKLwo2tO4E"
 watched_date: "2026-10-13"
-watched_at: "2026-10-13T23:59:39Z"
+watched_at: "2026-10-13T23:59:35Z"
 watch_count: 1
 duration_seconds: 1061
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 21
+history_label: Tuesday
+history_order: 25
 watched_at_precision: date-from-history-label
 watched_percent: 16
 estimated_watched_seconds: null

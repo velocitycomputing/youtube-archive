@@ -5,13 +5,13 @@ title: Gemini 4 Argon Is Google’s Most Powerful AI Model + Early Tests!
 channel: WorldofAI
 url: "https://www.youtube.com/watch?v=RMTWayrwYkQ"
 watched_date: "2026-10-01"
-watched_at: "2026-10-01T23:57:14Z"
+watched_at: "2026-10-01T23:57:10Z"
 watch_count: 1
 duration_seconds: 852
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 1
-history_order: 166
+history_order: 170
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
