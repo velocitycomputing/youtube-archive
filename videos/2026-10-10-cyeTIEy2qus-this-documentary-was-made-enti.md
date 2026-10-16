@@ -5,13 +5,13 @@ title: This Documentary Was Made Entirely by AI. Including Her.
 channel: AI For Humans
 url: "https://www.youtube.com/watch?v=cyeTIEy2qus"
 watched_date: "2026-10-10"
-watched_at: "2026-10-10T23:58:39Z"
+watched_at: "2026-10-10T23:58:38Z"
 watch_count: 1
 duration_seconds: 1659
 source: youtube-history-browser
 added_date: ""
 history_label: Saturday
-history_order: 81
+history_order: 82
 watched_at_precision: date-from-history-label
 watched_percent: 60
 estimated_watched_seconds: 995

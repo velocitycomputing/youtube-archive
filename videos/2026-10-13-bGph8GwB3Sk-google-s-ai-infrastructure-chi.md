@@ -5,13 +5,13 @@ title: "Google's AI Infrastructure Chief, Amin Vahdat, on the Physics & Economic
 channel: Sequoia Capital
 url: "https://www.youtube.com/watch?v=bGph8GwB3Sk"
 watched_date: "2026-10-13"
-watched_at: "2026-10-13T23:59:39Z"
+watched_at: "2026-10-13T23:59:38Z"
 watch_count: 1
 duration_seconds: 3867
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 21
+history_order: 22
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

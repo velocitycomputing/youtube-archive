@@ -5,13 +5,13 @@ title: "Mathocalypse! Scott Aaronson on OpenAI's flood of AI math breakthroughs"
 channel: Dr. Samuel Allen Alexander
 url: "https://www.youtube.com/watch?v=StluAE0HQOM"
 watched_date: "2026-10-09"
-watched_at: "2026-10-09T23:58:31Z"
+watched_at: "2026-10-09T23:58:30Z"
 watch_count: 1
 duration_seconds: 2028
 source: youtube-history-browser
 added_date: ""
-history_label: Friday
-history_order: 89
+history_label: Oct 9
+history_order: 90
 watched_at_precision: date-from-history-label
 watched_percent: 13
 estimated_watched_seconds: 264

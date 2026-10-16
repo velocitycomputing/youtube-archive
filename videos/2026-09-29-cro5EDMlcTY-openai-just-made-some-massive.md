@@ -5,13 +5,13 @@ title: OpenAI just made some MASSIVE announcements
 channel: Alex Finn
 url: "https://www.youtube.com/watch?v=cro5EDMlcTY"
 watched_date: "2026-09-29"
-watched_at: "2026-09-29T23:56:56Z"
+watched_at: "2026-09-29T23:57:00Z"
 watch_count: 1
 duration_seconds: 1232
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 29
-history_order: 184
+history_order: 180
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
