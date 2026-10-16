@@ -5,13 +5,13 @@ title: "US weapons maker says Putin was one of the first to grasp importance of 
 channel: 60 Minutes Australia
 url: "https://www.youtube.com/watch?v=6CAbZRpy4tQ"
 watched_date: "2026-09-26"
-watched_at: "2026-09-26T23:56:49Z"
+watched_at: "2026-09-26T23:56:48Z"
 watch_count: 1
 duration_seconds: 2873
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 26
-history_order: 191
+history_order: 192
 watched_at_precision: date-from-history-label
 watched_percent: 87
 estimated_watched_seconds: 2500

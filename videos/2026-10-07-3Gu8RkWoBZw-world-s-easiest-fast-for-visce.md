@@ -5,13 +5,13 @@ title: World’s Easiest FAST For Visceral Fat Reduction
 channel: Ben Azadi
 url: "https://www.youtube.com/watch?v=3Gu8RkWoBZw"
 watched_date: "2026-10-07"
-watched_at: "2026-10-07T23:58:14Z"
+watched_at: "2026-10-07T23:58:13Z"
 watch_count: 1
 duration_seconds: 931
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 7
-history_order: 106
+history_order: 107
 watched_at_precision: date-from-history-label
 watched_percent: 78
 estimated_watched_seconds: 726

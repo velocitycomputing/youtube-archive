@@ -5,13 +5,13 @@ title: Why You Get Lost During Blues Solos (And How To Fix It Fast)
 channel: Soulful Guitar Lessons
 url: "https://www.youtube.com/watch?v=fUYLlstxPWM"
 watched_date: "2026-10-12"
-watched_at: "2026-10-12T23:59:28Z"
+watched_at: "2026-10-12T23:59:27Z"
 watch_count: 1
 duration_seconds: 1725
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 32
+history_order: 33
 watched_at_precision: date-from-history-label
 watched_percent: 37
 estimated_watched_seconds: null

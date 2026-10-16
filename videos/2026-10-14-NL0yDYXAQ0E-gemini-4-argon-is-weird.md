@@ -5,13 +5,13 @@ title: GEMINI 4 ARGON IS WEIRD...
 channel: Wes Roth
 url: "https://www.youtube.com/watch?v=NL0yDYXAQ0E"
 watched_date: "2026-10-14"
-watched_at: "2026-10-14T23:59:50Z"
+watched_at: "2026-10-14T23:59:49Z"
 watch_count: 1
 duration_seconds: 1497
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 10
+history_label: Wednesday
+history_order: 11
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

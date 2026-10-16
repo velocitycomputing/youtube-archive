@@ -5,13 +5,13 @@ title: "Kent Beck: Software Engineering in the Age of AI | Prodacity 2026"
 channel: Rise8
 url: "https://www.youtube.com/watch?v=F8fBgDCf2Y4"
 watched_date: "2026-10-04"
-watched_at: "2026-10-04T23:57:35Z"
+watched_at: "2026-10-04T23:57:34Z"
 watch_count: 1
 duration_seconds: 3113
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 4
-history_order: 145
+history_order: 146
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null
