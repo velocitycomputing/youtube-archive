@@ -5,13 +5,13 @@ title: Iran Has Lost Control of Hormuz. Here’s What that Means.
 channel: WarFronts
 url: "https://www.youtube.com/watch?v=JtuDX4uzOcg"
 watched_date: "2026-10-12"
-watched_at: "2026-10-12T23:59:19Z"
+watched_at: "2026-10-12T23:59:02Z"
 watch_count: 1
 duration_seconds: 859
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 41
+history_order: 58
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 86

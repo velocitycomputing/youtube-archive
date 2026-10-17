@@ -5,13 +5,13 @@ title: THIS is What Happens When AI Gets Smarter Than Humans
 channel: Tom Bilyeu
 url: "https://www.youtube.com/watch?v=WsdcF7EEvhM"
 watched_date: "2026-10-01"
-watched_at: "2026-10-01T23:57:20Z"
+watched_at: "2026-10-01T23:57:03Z"
 watch_count: 1
 duration_seconds: 6294
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 1
-history_order: 160
+history_order: 177
 watched_at_precision: date-from-history-label
 watched_percent: 37
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: 5 Signs You Can Retire Tomorrow
 channel: Streamline Financial
 url: "https://www.youtube.com/watch?v=uFlqyJ_ARW8"
 watched_date: "2026-09-28"
-watched_at: "2026-09-28T23:56:56Z"
+watched_at: "2026-09-28T23:56:46Z"
 watch_count: 1
 duration_seconds: 829
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 28
-history_order: 184
+history_order: 194
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: Gemini 4 Argon Is Here (Fully Tested)
 channel: Paul J Lipsky
 url: "https://www.youtube.com/watch?v=3MMbWDF4xYI"
 watched_date: "2026-10-13"
-watched_at: "2026-10-13T23:59:35Z"
+watched_at: "2026-10-13T23:59:18Z"
 watch_count: 1
 duration_seconds: 645
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 25
+history_order: 42
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

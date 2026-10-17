@@ -5,13 +5,13 @@ title: "The Rise and Fall of Steely Dan: From 42 Musicians to Perfection and Col
 channel: "Yesterday's America"
 url: "https://www.youtube.com/watch?v=uUNdTX4dU8o"
 watched_date: "2026-09-30"
-watched_at: "2026-09-30T23:57:07Z"
+watched_at: "2026-09-30T23:56:57Z"
 watch_count: 1
 duration_seconds: 1101
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 30
-history_order: 173
+history_order: 183
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null
