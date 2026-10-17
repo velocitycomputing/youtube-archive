@@ -5,13 +5,13 @@ title: "Elon & Chamath: The UNTHINKABLE is Happening"
 channel: David Carbutt
 url: "https://www.youtube.com/watch?v=soG_kfCaGAo"
 watched_date: "2026-10-13"
-watched_at: "2026-10-13T23:59:33Z"
+watched_at: "2026-10-13T23:59:16Z"
 watch_count: 1
 duration_seconds: 2014
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 27
+history_order: 44
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

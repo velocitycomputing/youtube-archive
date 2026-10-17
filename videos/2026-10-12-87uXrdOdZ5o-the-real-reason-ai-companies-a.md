@@ -5,13 +5,13 @@ title: The Real Reason AI Companies Are Desperate to Be Regulated
 channel: Tom Bilyeu
 url: "https://www.youtube.com/watch?v=87uXrdOdZ5o"
 watched_date: "2026-10-12"
-watched_at: "2026-10-12T23:59:16Z"
+watched_at: "2026-10-12T23:58:59Z"
 watch_count: 1
 duration_seconds: 3108
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 44
+history_order: 61
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 311

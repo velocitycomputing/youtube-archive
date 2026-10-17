@@ -5,13 +5,13 @@ title: "The AI Bottleneck: Why Your Team Isn't Shipping. Here's the Fix."
 channel: "AI News & Strategy Daily | Nate B Jones"
 url: "https://www.youtube.com/watch?v=2IAYFgAqX6g"
 watched_date: "2026-09-27"
-watched_at: "2026-09-27T23:56:53Z"
+watched_at: "2026-09-27T23:56:41Z"
 watch_count: 1
 duration_seconds: 1977
 source: youtube-history-browser
 added_date: ""
 history_label: Sep 27
-history_order: 187
+history_order: 199
 watched_at_precision: date-from-history-label
 watched_percent: 29
 estimated_watched_seconds: null

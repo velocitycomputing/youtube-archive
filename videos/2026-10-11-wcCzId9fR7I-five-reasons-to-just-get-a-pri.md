@@ -5,13 +5,13 @@ title: "Five Reasons to...\"Just Get a Princeton\""
 channel: five watt world
 url: "https://www.youtube.com/watch?v=wcCzId9fR7I"
 watched_date: "2026-10-11"
-watched_at: "2026-10-11T23:58:55Z"
+watched_at: "2026-10-11T23:58:38Z"
 watch_count: 1
 duration_seconds: 1344
 source: youtube-history-browser
 added_date: ""
 history_label: Sunday
-history_order: 65
+history_order: 82
 watched_at_precision: date-from-history-label
 watched_percent: 20
 estimated_watched_seconds: null

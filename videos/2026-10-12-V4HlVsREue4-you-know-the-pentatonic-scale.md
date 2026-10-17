@@ -5,13 +5,13 @@ title: You Know the Pentatonic Scale. But Can You Actually Use It?
 channel: Janek Gwizdala
 url: "https://www.youtube.com/watch?v=V4HlVsREue4"
 watched_date: "2026-10-12"
-watched_at: "2026-10-12T23:59:07Z"
+watched_at: "2026-10-12T23:58:50Z"
 watch_count: 1
 duration_seconds: 4650
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 53
+history_order: 70
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

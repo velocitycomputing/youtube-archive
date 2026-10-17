@@ -5,13 +5,13 @@ title: "The New Standard of Health: What Function Tests and Why"
 channel: Function Health
 url: "https://www.youtube.com/watch?v=gTzl85ADfuU"
 watched_date: "2026-10-05"
-watched_at: "2026-10-05T23:57:53Z"
+watched_at: "2026-10-05T23:57:36Z"
 watch_count: 1
 duration_seconds: 2841
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 5
-history_order: 127
+history_order: 144
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 284

@@ -1,17 +1,17 @@
 ---
 record_id: "youtube:URTxDxYbedA"
 video_id: URTxDxYbedA
-title: "THIS is How AI Will Determine If You’re Rich or Poor in 5 Years | Simon Dixon"
+title: The Real Reason Your Pension Makes the Rich Richer
 channel: Tom Bilyeu
 url: "https://www.youtube.com/watch?v=URTxDxYbedA"
 watched_date: "2026-10-12"
-watched_at: "2026-10-12T23:59:15Z"
+watched_at: "2026-10-12T23:58:58Z"
 watch_count: 1
 duration_seconds: 6487
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 45
+history_order: 62
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

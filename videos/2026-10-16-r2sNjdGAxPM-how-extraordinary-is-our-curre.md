@@ -4,16 +4,16 @@ video_id: r2sNjdGAxPM
 title: How Extraordinary is Our Current Geopolitical Situation?
 channel: Geopolitical Futures
 url: "https://www.youtube.com/watch?v=r2sNjdGAxPM"
-watched_date: "2026-10-13"
-watched_at: "2026-10-13T23:59:41Z"
+watched_date: "2026-10-16"
+watched_at: "2026-10-16T23:59:56Z"
 watch_count: 1
 duration_seconds: 2300
 source: youtube-history-browser
 added_date: ""
-history_label: Tuesday
-history_order: 19
+history_label: Yesterday
+history_order: 4
 watched_at_precision: date-from-history-label
-watched_percent: 54
+watched_percent: 53
 estimated_watched_seconds: 1242
 transcript_status: fetched
 transcript_content_hash: 0a52f10632aace3e8ca590a27282b6a8edd6e5a496cbfeee7dbce3e8b810da52
