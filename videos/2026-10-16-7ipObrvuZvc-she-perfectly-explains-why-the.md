@@ -5,13 +5,13 @@ title: She PERFECTLY Explains Why the Dating Market Has TANKED
 channel: The Show for Men
 url: "https://www.youtube.com/watch?v=7ipObrvuZvc"
 watched_date: "2026-10-16"
-watched_at: "2026-10-16T23:59:51Z"
+watched_at: "2026-10-16T23:59:50Z"
 watch_count: 1
 duration_seconds: 2177
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 9
+history_label: Friday
+history_order: 10
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

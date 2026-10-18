@@ -5,13 +5,13 @@ title: "Tyler Cowen and Dwarkesh Patel Predict the Future | Interesting Times"
 channel: Interesting Times
 url: "https://www.youtube.com/watch?v=b-jsSfh0a9M"
 watched_date: "2026-10-16"
-watched_at: "2026-10-16T23:59:55Z"
+watched_at: "2026-10-16T23:59:54Z"
 watch_count: 1
 duration_seconds: 2980
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 5
+history_label: Friday
+history_order: 6
 watched_at_precision: date-from-history-label
 watched_percent: 40
 estimated_watched_seconds: null

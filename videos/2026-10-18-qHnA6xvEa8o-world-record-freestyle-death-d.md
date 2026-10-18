@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:WsdcF7EEvhM"
-video_id: WsdcF7EEvhM
-title: THIS is What Happens When AI Gets Smarter Than Humans
-channel: Tom Bilyeu
-url: "https://www.youtube.com/watch?v=WsdcF7EEvhM"
-watched_date: "2026-10-01"
-watched_at: "2026-10-01T23:57:03Z"
+record_id: "youtube:qHnA6xvEa8o"
+video_id: qHnA6xvEa8o
+title: "World Record Freestyle Death Dive! | 42.5m"
+channel: Khedoori
+url: "https://www.youtube.com/watch?v=qHnA6xvEa8o"
+watched_date: "2026-10-18"
+watched_at: "2026-10-18T23:59:59Z"
 watch_count: 1
-duration_seconds: 6294
+duration_seconds: 848
 source: youtube-history-browser
 added_date: ""
-history_label: Oct 1
-history_order: 177
+history_label: Today
+history_order: 1
 watched_at_precision: date-from-history-label
-watched_percent: 37
+watched_percent: 10
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

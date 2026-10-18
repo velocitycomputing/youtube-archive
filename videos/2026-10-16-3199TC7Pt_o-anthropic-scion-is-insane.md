@@ -5,13 +5,13 @@ title: Anthropic Scion is INSANE
 channel: David Shapiro
 url: "https://www.youtube.com/watch?v=3199TC7Pt_o"
 watched_date: "2026-10-16"
-watched_at: "2026-10-16T23:59:42Z"
+watched_at: "2026-10-16T23:59:41Z"
 watch_count: 1
 duration_seconds: 644
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 18
+history_label: Friday
+history_order: 19
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: The Busboy - the struggles and triumphs of a Master Sommelier.
 channel: SOMM TV
 url: "https://www.youtube.com/watch?v=UiRLzE5rG7g"
 watched_date: "2026-10-10"
-watched_at: "2026-10-10T23:58:18Z"
+watched_at: "2026-10-10T23:58:17Z"
 watch_count: 1
 duration_seconds: 1281
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 10
-history_order: 102
+history_order: 103
 watched_at_precision: date-from-history-label
 watched_percent: 78
 estimated_watched_seconds: 999

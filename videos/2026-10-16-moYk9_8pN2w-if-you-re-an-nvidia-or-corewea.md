@@ -5,13 +5,13 @@ title: "If You're an NVIDIA or CoreWeave Shareholder... Get Ready!"
 channel: David Carbutt
 url: "https://www.youtube.com/watch?v=moYk9_8pN2w"
 watched_date: "2026-10-16"
-watched_at: "2026-10-16T23:59:44Z"
+watched_at: "2026-10-16T23:59:43Z"
 watch_count: 1
 duration_seconds: 1103
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 16
+history_label: Friday
+history_order: 17
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

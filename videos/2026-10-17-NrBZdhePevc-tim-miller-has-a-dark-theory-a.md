@@ -5,13 +5,13 @@ title: Tim Miller Has a Dark Theory About What’s Driving Trump
 channel: The Bulwark
 url: "https://www.youtube.com/watch?v=NrBZdhePevc"
 watched_date: "2026-10-17"
-watched_at: "2026-10-17T23:59:58Z"
+watched_at: "2026-10-17T23:59:57Z"
 watch_count: 1
 duration_seconds: 2216
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 2
+history_label: Yesterday
+history_order: 3
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

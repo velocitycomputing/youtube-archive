@@ -5,13 +5,13 @@ title: "\"It's a Catastrophe\" - Russians Angry With Mounting Losses"
 channel: Preston Stewart
 url: "https://www.youtube.com/watch?v=UTVgqppbcoA"
 watched_date: "2026-10-14"
-watched_at: "2026-10-14T23:59:35Z"
+watched_at: "2026-10-14T23:59:34Z"
 watch_count: 1
 duration_seconds: 874
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 25
+history_order: 26
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
