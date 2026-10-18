@@ -5,13 +5,13 @@ title: "The Worst Death In History: Balthazar Gerard"
 channel: Flashback History
 url: "https://www.youtube.com/watch?v=wBtY1Gl6z_E"
 watched_date: "2026-10-12"
-watched_at: "2026-10-12T23:59:11Z"
+watched_at: "2026-10-12T23:59:10Z"
 watch_count: 1
 duration_seconds: 1284
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 49
+history_order: 50
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

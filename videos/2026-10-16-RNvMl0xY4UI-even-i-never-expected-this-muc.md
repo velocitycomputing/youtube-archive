@@ -5,13 +5,13 @@ title: Even I Never Expected This Much Success...
 channel: Combat Veteran News
 url: "https://www.youtube.com/watch?v=RNvMl0xY4UI"
 watched_date: "2026-10-16"
-watched_at: "2026-10-16T23:59:50Z"
+watched_at: "2026-10-16T23:59:49Z"
 watch_count: 1
 duration_seconds: 835
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 10
+history_label: Friday
+history_order: 11
 watched_at_precision: date-from-history-label
 watched_percent: 23
 estimated_watched_seconds: null

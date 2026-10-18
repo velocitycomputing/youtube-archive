@@ -5,13 +5,13 @@ title: High Throughput Agentic Engineering with Kun
 channel: Kun Chen
 url: "https://www.youtube.com/watch?v=MSbacZ99E14"
 watched_date: "2026-10-07"
-watched_at: "2026-10-07T23:58:01Z"
+watched_at: "2026-10-07T23:58:00Z"
 watch_count: 1
 duration_seconds: 3237
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 7
-history_order: 119
+history_order: 120
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 324

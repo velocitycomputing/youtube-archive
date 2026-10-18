@@ -5,13 +5,13 @@ title: "The Truth About Trump's Overwhelming Weakness"
 channel: Vlad Vexler Chat
 url: "https://www.youtube.com/watch?v=BicnK5pKGK8"
 watched_date: "2026-10-16"
-watched_at: "2026-10-16T23:59:48Z"
+watched_at: "2026-10-16T23:59:47Z"
 watch_count: 1
 duration_seconds: 681
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 12
+history_label: Friday
+history_order: 13
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 681

@@ -5,13 +5,13 @@ title: Can Anduril’s Steelfin Make Air Defense Affordable?
 channel: Ryan McBeth
 url: "https://www.youtube.com/watch?v=8ILrgNKD6eo"
 watched_date: "2026-10-16"
-watched_at: "2026-10-16T23:59:54Z"
+watched_at: "2026-10-16T23:59:53Z"
 watch_count: 1
 duration_seconds: 657
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 6
+history_label: Friday
+history_order: 7
 watched_at_precision: date-from-history-label
 watched_percent: 71
 estimated_watched_seconds: 466

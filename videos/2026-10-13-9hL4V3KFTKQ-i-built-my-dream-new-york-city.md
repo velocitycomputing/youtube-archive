@@ -5,13 +5,13 @@ title: I built my DREAM New York City apartment from SCRATCH in 93 days
 channel: Charles Liu
 url: "https://www.youtube.com/watch?v=9hL4V3KFTKQ"
 watched_date: "2026-10-13"
-watched_at: "2026-10-13T23:59:28Z"
+watched_at: "2026-10-13T23:59:27Z"
 watch_count: 1
 duration_seconds: 2981
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 32
+history_order: 33
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

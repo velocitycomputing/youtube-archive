@@ -5,13 +5,13 @@ title: The SECRET Claude Code Upgrade That Has Everyone Going Nuts (Full Guide)
 channel: Chase AI
 url: "https://www.youtube.com/watch?v=mKjxGy6vCnY"
 watched_date: "2026-10-16"
-watched_at: "2026-10-16T23:59:46Z"
+watched_at: "2026-10-16T23:59:45Z"
 watch_count: 1
 duration_seconds: 1129
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 14
+history_label: Friday
+history_order: 15
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

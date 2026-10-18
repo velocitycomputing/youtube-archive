@@ -5,13 +5,13 @@ title: Google Just Caught Up (Gemini-4 Argon)
 channel: Matt Wolfe
 url: "https://www.youtube.com/watch?v=eBszYxzE2dk"
 watched_date: "2026-10-13"
-watched_at: "2026-10-13T23:59:19Z"
+watched_at: "2026-10-13T23:59:18Z"
 watch_count: 1
 duration_seconds: 1240
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 41
+history_order: 42
 watched_at_precision: date-from-history-label
 watched_percent: 56
 estimated_watched_seconds: null

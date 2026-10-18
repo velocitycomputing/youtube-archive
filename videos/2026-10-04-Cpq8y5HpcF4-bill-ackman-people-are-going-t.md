@@ -5,13 +5,13 @@ title: "Bill Ackman: People are Going to Lose a Lot of Money"
 channel: The Knowledge Project Podcast
 url: "https://www.youtube.com/watch?v=Cpq8y5HpcF4"
 watched_date: "2026-10-04"
-watched_at: "2026-10-04T23:57:19Z"
+watched_at: "2026-10-04T23:57:18Z"
 watch_count: 1
 duration_seconds: 4647
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 4
-history_order: 161
+history_order: 162
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

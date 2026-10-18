@@ -5,13 +5,13 @@ title: The Fender Tone Master Princeton Reverb Vs. My Vintage 1967 Princeton!
 channel: Corey Congilio
 url: "https://www.youtube.com/watch?v=3YlLaBl-l1w"
 watched_date: "2026-10-12"
-watched_at: "2026-10-12T23:59:03Z"
+watched_at: "2026-10-12T23:59:02Z"
 watch_count: 1
 duration_seconds: 1135
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 57
+history_order: 58
 watched_at_precision: date-from-history-label
 watched_percent: 85
 estimated_watched_seconds: null
