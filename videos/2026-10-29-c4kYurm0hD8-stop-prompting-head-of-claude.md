@@ -5,13 +5,13 @@ title: Stop Prompting — Head of Claude Code Uses Opus 5.5 + Graphs + Harness
 channel: "hyperfixation on AI | beamnxw"
 url: "https://www.youtube.com/watch?v=c4kYurm0hD8"
 watched_date: "2026-10-29"
-watched_at: "2026-10-29T23:57:37Z"
+watched_at: "2026-10-29T23:57:25Z"
 watch_count: 1
 duration_seconds: 2068
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 29
-history_order: 143
+history_order: 155
 watched_at_precision: date-from-history-label
 watched_percent: 66
 estimated_watched_seconds: null

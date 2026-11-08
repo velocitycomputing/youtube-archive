@@ -5,13 +5,13 @@ title: "Ian Bremmer on what a midterms defeat could mean for Trump | DW News"
 channel: DW News
 url: "https://www.youtube.com/watch?v=ToLA6bjteBw"
 watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:59:12Z"
+watched_at: "2026-11-04T23:59:00Z"
 watch_count: 1
 duration_seconds: 1002
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 48
+history_order: 60
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

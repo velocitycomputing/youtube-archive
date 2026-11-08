@@ -5,13 +5,13 @@ title: "THE BEST \"ATTENUATOR\" AVAILABLE! FRYETTE PS100 POWER STATION"
 channel: Pete Thorn
 url: "https://www.youtube.com/watch?v=gKwJv2BQ-jw"
 watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:59:22Z"
+watched_at: "2026-11-04T23:59:10Z"
 watch_count: 1
 duration_seconds: 1082
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 38
+history_order: 50
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

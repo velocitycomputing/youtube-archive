@@ -5,13 +5,13 @@ title: BOSS DS1W WAZA DISTORTION PEDAL... I GET IT NOW
 channel: Pete Thorn
 url: "https://www.youtube.com/watch?v=ZSeyIXJfhK4"
 watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:59:45Z"
+watched_at: "2026-11-05T23:59:33Z"
 watch_count: 1
 duration_seconds: 795
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 15
+history_order: 27
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

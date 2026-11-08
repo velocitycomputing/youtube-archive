@@ -5,13 +5,13 @@ title: A guide to understanding the Russian psyche.
 channel: Centre for Eastern Studies (OSW)
 url: "https://www.youtube.com/watch?v=0_w9qsi6efo"
 watched_date: "2026-10-28"
-watched_at: "2026-10-28T23:57:21Z"
+watched_at: "2026-10-28T23:57:09Z"
 watch_count: 1
 duration_seconds: 2094
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 28
-history_order: 159
+history_order: 171
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: If YOU Have Belly Fat, You NEED To See This
 channel: The Diary Of A CEO Clips
 url: "https://www.youtube.com/watch?v=FAtNs4hHXQQ"
 watched_date: "2026-10-28"
-watched_at: "2026-10-28T23:57:24Z"
+watched_at: "2026-10-28T23:57:12Z"
 watch_count: 1
 duration_seconds: 917
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 28
-history_order: 156
+history_order: 168
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

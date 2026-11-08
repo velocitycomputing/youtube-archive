@@ -5,13 +5,13 @@ title: Why This Distortion Feels Uncomfortable to Play
 channel: TomoFujitaMusic
 url: "https://www.youtube.com/watch?v=uGN-aU7XSwg"
 watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:59:15Z"
+watched_at: "2026-11-04T23:59:03Z"
 watch_count: 1
 duration_seconds: 1157
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 45
+history_order: 57
 watched_at_precision: date-from-history-label
 watched_percent: 12
 estimated_watched_seconds: null

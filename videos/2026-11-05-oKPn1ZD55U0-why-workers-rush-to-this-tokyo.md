@@ -5,13 +5,13 @@ title: Why Workers Rush to This Tokyo Steakhouse for Huge Steaks and Rice
 channel: Japanese Food Noodles
 url: "https://www.youtube.com/watch?v=oKPn1ZD55U0"
 watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:59:34Z"
+watched_at: "2026-11-05T23:59:22Z"
 watch_count: 1
 duration_seconds: 1882
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 26
+history_order: 38
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

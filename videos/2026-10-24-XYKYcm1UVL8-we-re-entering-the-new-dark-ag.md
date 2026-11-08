@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:U9xCeaAtE-I"
-video_id: U9xCeaAtE-I
-title: Get the PERFECT Spray Pattern! Airless Sprayer Tips
-channel: Paint Life TV
-url: "https://www.youtube.com/watch?v=U9xCeaAtE-I"
-watched_date: "2026-10-26"
-watched_at: "2026-10-26T23:56:56Z"
+record_id: "youtube:XYKYcm1UVL8"
+video_id: XYKYcm1UVL8
+title: We’re Entering the New Dark Ages
+channel: Interesting Times
+url: "https://www.youtube.com/watch?v=XYKYcm1UVL8"
+watched_date: "2026-10-24"
+watched_at: "2026-10-24T23:56:49Z"
 watch_count: 1
-duration_seconds: 989
+duration_seconds: 2927
 source: youtube-history-browser
 added_date: ""
-history_label: Oct 26
-history_order: 184
+history_label: Oct 24
+history_order: 191
 watched_at_precision: date-from-history-label
-watched_percent: 10
+watched_percent: 19
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8
