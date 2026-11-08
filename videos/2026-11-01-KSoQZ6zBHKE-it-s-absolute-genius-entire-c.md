@@ -1,0 +1,40 @@
+---
+record_id: "youtube:KSoQZ6zBHKE"
+video_id: KSoQZ6zBHKE
+title: "\"It's Absolute Genius.\" Entire Chess World STUNNED By Triple Sacrifice"
+channel: Epic Chess
+url: "https://www.youtube.com/watch?v=KSoQZ6zBHKE"
+watched_date: "2026-11-01"
+watched_at: "2026-11-01T23:58:12Z"
+watch_count: 1
+duration_seconds: 969
+source: youtube-history-browser
+added_date: ""
+history_label: Nov 1
+history_order: 108
+watched_at_precision: date-from-history-label
+watched_percent: 10
+estimated_watched_seconds: null
+transcript_status: pending
+transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8
+analysis_mode: health
+summary_source: none
+model_source: none
+summary_status: pending
+item_status: pending
+wealth_eligible: false
+summary_model: ""
+tagging_model: ""
+proposed_tags: []
+proposed_entities: []
+status: new
+routed_to: null
+---
+
+## Summary
+
+_Summary pending: the summarizer has not produced a summary for this video yet; a later run will replace this line._
+
+## Transcript
+
+(transcript not available)

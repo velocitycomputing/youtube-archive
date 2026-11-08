@@ -1,0 +1,40 @@
+---
+record_id: "youtube:LH3Ck59I8V0"
+video_id: LH3Ck59I8V0
+title: We looked at 92,255 flags - NFL refs are biased
+channel: Michael MacKelvie
+url: "https://www.youtube.com/watch?v=LH3Ck59I8V0"
+watched_date: "2026-11-04"
+watched_at: "2026-11-04T23:59:20Z"
+watch_count: 1
+duration_seconds: 1913
+source: youtube-history-browser
+added_date: ""
+history_label: Wednesday
+history_order: 40
+watched_at_precision: date-from-history-label
+watched_percent: 10
+estimated_watched_seconds: null
+transcript_status: pending
+transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8
+analysis_mode: health
+summary_source: none
+model_source: none
+summary_status: pending
+item_status: pending
+wealth_eligible: false
+summary_model: ""
+tagging_model: ""
+proposed_tags: []
+proposed_entities: []
+status: new
+routed_to: null
+---
+
+## Summary
+
+_Summary pending: the summarizer has not produced a summary for this video yet; a later run will replace this line._
+
+## Transcript
+
+(transcript not available)
