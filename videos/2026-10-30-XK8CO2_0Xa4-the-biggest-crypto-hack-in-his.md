@@ -5,13 +5,13 @@ title: The biggest crypto hack in history
 channel: Tom Bilyeu
 url: "https://www.youtube.com/watch?v=XK8CO2_0Xa4"
 watched_date: "2026-10-30"
-watched_at: "2026-10-30T23:57:47Z"
+watched_at: "2026-10-30T23:57:35Z"
 watch_count: 1
 duration_seconds: 7484
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 30
-history_order: 133
+history_order: 145
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

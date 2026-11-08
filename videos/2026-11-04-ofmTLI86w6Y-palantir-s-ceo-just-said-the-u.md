@@ -5,13 +5,13 @@ title: "Palantir's CEO Just Said the UNTHINKABLE!"
 channel: David Carbutt
 url: "https://www.youtube.com/watch?v=ofmTLI86w6Y"
 watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:59:14Z"
+watched_at: "2026-11-04T23:59:02Z"
 watch_count: 1
 duration_seconds: 1165
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 46
+history_order: 58
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

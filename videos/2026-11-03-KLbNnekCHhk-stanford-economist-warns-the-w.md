@@ -5,13 +5,13 @@ title: "Stanford Economist WARNS :\"The World Is Not Ready for What's Coming\" -
 channel: Beyond AI
 url: "https://www.youtube.com/watch?v=KLbNnekCHhk"
 watched_date: "2026-11-03"
-watched_at: "2026-11-03T23:58:58Z"
+watched_at: "2026-11-03T23:58:46Z"
 watch_count: 1
 duration_seconds: 1114
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 62
+history_order: 74
 watched_at_precision: date-from-history-label
 watched_percent: 45
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: Is This Pedal A Scam!?
 channel: Know Your Gear
 url: "https://www.youtube.com/watch?v=05jo1lWNVzM"
 watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:59:31Z"
+watched_at: "2026-11-05T23:59:19Z"
 watch_count: 1
 duration_seconds: 1108
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 29
+history_order: 41
 watched_at_precision: date-from-history-label
 watched_percent: 14
 estimated_watched_seconds: null

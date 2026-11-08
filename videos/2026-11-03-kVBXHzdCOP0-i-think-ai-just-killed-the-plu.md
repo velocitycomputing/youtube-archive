@@ -5,13 +5,13 @@ title: I Think AI Just Killed The Plugin Industry
 channel: Rhett Shull
 url: "https://www.youtube.com/watch?v=kVBXHzdCOP0"
 watched_date: "2026-11-03"
-watched_at: "2026-11-03T23:58:43Z"
+watched_at: "2026-11-03T23:58:31Z"
 watch_count: 1
 duration_seconds: 985
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 77
+history_order: 89
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

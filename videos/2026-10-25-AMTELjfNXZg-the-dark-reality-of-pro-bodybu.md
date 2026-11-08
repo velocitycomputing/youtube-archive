@@ -5,13 +5,13 @@ title: The Dark Reality Of Pro Bodybuilding
 channel: Will Tennyson
 url: "https://www.youtube.com/watch?v=AMTELjfNXZg"
 watched_date: "2026-10-25"
-watched_at: "2026-10-25T23:56:44Z"
+watched_at: "2026-10-25T23:56:56Z"
 watch_count: 1
 duration_seconds: 2647
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 25
-history_order: 196
+history_order: 184
 watched_at_precision: date-from-history-label
 watched_percent: 33
 estimated_watched_seconds: null

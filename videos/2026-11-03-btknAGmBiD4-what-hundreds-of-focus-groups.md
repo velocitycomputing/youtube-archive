@@ -5,13 +5,13 @@ title: "What Hundreds of Focus Groups With Trump Voters Revealed | The Ezra Klei
 channel: The Ezra Klein Show
 url: "https://www.youtube.com/watch?v=btknAGmBiD4"
 watched_date: "2026-11-03"
-watched_at: "2026-11-03T23:59:01Z"
+watched_at: "2026-11-03T23:58:49Z"
 watch_count: 1
 duration_seconds: 4319
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 59
+history_order: 71
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

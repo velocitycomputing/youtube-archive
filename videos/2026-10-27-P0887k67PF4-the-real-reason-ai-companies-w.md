@@ -5,13 +5,13 @@ title: The Real Reason AI Companies Won’t Slow Down (It’s Not Money)
 channel: Tom Bilyeu
 url: "https://www.youtube.com/watch?v=P0887k67PF4"
 watched_date: "2026-10-27"
-watched_at: "2026-10-27T23:57:10Z"
+watched_at: "2026-10-27T23:56:58Z"
 watch_count: 1
 duration_seconds: 3011
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 27
-history_order: 170
+history_order: 182
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

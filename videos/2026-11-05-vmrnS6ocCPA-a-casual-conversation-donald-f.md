@@ -5,13 +5,13 @@ title: "A Casual Conversation: Donald Fagen, Fred Kaplan and Chad Kassem"
 channel: acousticsoundsks
 url: "https://www.youtube.com/watch?v=vmrnS6ocCPA"
 watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:59:35Z"
+watched_at: "2026-11-05T23:59:23Z"
 watch_count: 1
 duration_seconds: 2843
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 25
+history_order: 37
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

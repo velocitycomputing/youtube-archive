@@ -5,13 +5,13 @@ title: A crisis so boring it could ruin everything
 channel: Good Work
 url: "https://www.youtube.com/watch?v=UoT5OzspMo8"
 watched_date: "2026-10-26"
-watched_at: "2026-10-26T23:56:58Z"
+watched_at: "2026-10-26T23:56:57Z"
 watch_count: 1
 duration_seconds: 920
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 26
-history_order: 182
+history_order: 183
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: Trump Could Seek Revenge on Americans After a Midterm Defeat, Anne Appleb
 channel: Stay Tuned with Preet Bharara
 url: "https://www.youtube.com/watch?v=S1WuuvoFTbQ"
 watched_date: "2026-11-03"
-watched_at: "2026-11-03T23:58:57Z"
+watched_at: "2026-11-03T23:58:45Z"
 watch_count: 1
 duration_seconds: 2198
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 63
+history_order: 75
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

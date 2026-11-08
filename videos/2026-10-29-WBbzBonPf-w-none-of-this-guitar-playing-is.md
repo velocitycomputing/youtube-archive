@@ -5,13 +5,13 @@ title: None of This Guitar Playing is FAKE...
 channel: Music is Win
 url: "https://www.youtube.com/watch?v=WBbzBonPf-w"
 watched_date: "2026-10-29"
-watched_at: "2026-10-29T23:57:34Z"
+watched_at: "2026-10-29T23:57:22Z"
 watch_count: 1
 duration_seconds: 903
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 29
-history_order: 146
+history_order: 158
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

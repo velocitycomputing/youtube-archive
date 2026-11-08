@@ -5,13 +5,13 @@ title: China Just Lost Its Chokehold On The Global Economy
 channel: Paul Warburg
 url: "https://www.youtube.com/watch?v=TUK_WjFMFfE"
 watched_date: "2026-10-28"
-watched_at: "2026-10-28T23:57:26Z"
+watched_at: "2026-10-28T23:57:14Z"
 watch_count: 1
 duration_seconds: 1539
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 28
-history_order: 154
+history_order: 166
 watched_at_precision: date-from-history-label
 watched_percent: 24
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: "Steel Beans One Man Band Jam in the Van Live Session | Los Angeles, CA"
 channel: Jam In The Van
 url: "https://www.youtube.com/watch?v=bSCcknNoogc"
 watched_date: "2026-10-28"
-watched_at: "2026-10-28T23:57:17Z"
+watched_at: "2026-10-28T23:57:05Z"
 watch_count: 1
 duration_seconds: 1568
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 28
-history_order: 163
+history_order: 175
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: "Trump Lost the Midterms. Now He'll Hit Iran | Ian Bremmer"
 channel: One Decision
 url: "https://www.youtube.com/watch?v=N6dkLnCkUl0"
 watched_date: "2026-10-29"
-watched_at: "2026-10-29T23:57:41Z"
+watched_at: "2026-10-29T23:57:29Z"
 watch_count: 1
 duration_seconds: 3098
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 29
-history_order: 139
+history_order: 151
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

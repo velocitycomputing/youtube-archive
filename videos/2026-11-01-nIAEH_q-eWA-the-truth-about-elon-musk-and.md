@@ -5,13 +5,13 @@ title: The Truth About Elon Musk and the Ukraine Starlink Timeline
 channel: Ryan McBeth
 url: "https://www.youtube.com/watch?v=nIAEH_q-eWA"
 watched_date: "2026-11-01"
-watched_at: "2026-11-01T23:58:14Z"
+watched_at: "2026-11-01T23:58:02Z"
 watch_count: 1
 duration_seconds: 660
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 1
-history_order: 106
+history_order: 118
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

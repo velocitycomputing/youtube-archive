@@ -5,13 +5,13 @@ title: People Pay $700 a Month to Live Like This in Paris
 channel: Drew Binsky
 url: "https://www.youtube.com/watch?v=XYYrKZEUDag"
 watched_date: "2026-10-25"
-watched_at: "2026-10-25T23:56:43Z"
+watched_at: "2026-10-25T23:56:55Z"
 watch_count: 1
 duration_seconds: 2295
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 25
-history_order: 197
+history_order: 185
 watched_at_precision: date-from-history-label
 watched_percent: 25
 estimated_watched_seconds: null
