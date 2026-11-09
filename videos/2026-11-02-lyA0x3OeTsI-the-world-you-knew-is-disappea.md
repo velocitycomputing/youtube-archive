@@ -5,13 +5,13 @@ title: The World You Knew Is Disappearing
 channel: The Functional Melancholic
 url: "https://www.youtube.com/watch?v=lyA0x3OeTsI"
 watched_date: "2026-11-02"
-watched_at: "2026-11-02T23:58:20Z"
+watched_at: "2026-11-02T23:58:12Z"
 watch_count: 1
 duration_seconds: 1983
 source: youtube-history-browser
 added_date: ""
-history_label: Monday
-history_order: 100
+history_label: Nov 2
+history_order: 108
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

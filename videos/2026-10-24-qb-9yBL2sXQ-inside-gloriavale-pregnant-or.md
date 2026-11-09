@@ -5,13 +5,13 @@ title: "INSIDE GLORIAVALE: Pregnant or Breastfeeding for 22 Years Straight (a Wo
 channel: Cults to Consciousness
 url: "https://www.youtube.com/watch?v=qb-9yBL2sXQ"
 watched_date: "2026-10-24"
-watched_at: "2026-10-24T23:56:52Z"
+watched_at: "2026-10-24T23:56:49Z"
 watch_count: 1
 duration_seconds: 5217
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 24
-history_order: 188
+history_order: 191
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

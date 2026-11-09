@@ -5,13 +5,13 @@ title: Stop Learning The CAGED System (Do THIS Instead)
 channel: The Donut Doctor
 url: "https://www.youtube.com/watch?v=49eJauLMsio"
 watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:58:53Z"
+watched_at: "2026-11-04T23:58:45Z"
 watch_count: 1
 duration_seconds: 932
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 67
+history_order: 75
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

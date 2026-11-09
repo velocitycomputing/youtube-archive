@@ -5,13 +5,13 @@ title: The 7 Levels of CAGED
 channel: Pickup Music
 url: "https://www.youtube.com/watch?v=suUweB4xMKg"
 watched_date: "2026-10-24"
-watched_at: "2026-10-24T23:56:50Z"
+watched_at: "2026-10-24T23:56:47Z"
 watch_count: 1
 duration_seconds: 1020
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 24
-history_order: 190
+history_order: 193
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

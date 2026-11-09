@@ -5,13 +5,13 @@ title: "ASMR | Restoring a Fender Japan Stratocaster with a Peeling Fretboard Fi
 channel: studio asyl
 url: "https://www.youtube.com/watch?v=wBAcnwXFLik"
 watched_date: "2026-10-31"
-watched_at: "2026-10-31T23:57:47Z"
+watched_at: "2026-10-31T23:57:39Z"
 watch_count: 1
 duration_seconds: 2537
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 31
-history_order: 133
+history_order: 141
 watched_at_precision: date-from-history-label
 watched_percent: 95
 estimated_watched_seconds: null

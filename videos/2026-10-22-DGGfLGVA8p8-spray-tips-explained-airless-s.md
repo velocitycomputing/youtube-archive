@@ -5,13 +5,13 @@ title: Spray Tips Explained - Airless Sprayer Tips For Beginners
 channel: Sprayaholic
 url: "https://www.youtube.com/watch?v=DGGfLGVA8p8"
 watched_date: "2026-10-22"
-watched_at: "2026-10-22T23:56:43Z"
+watched_at: "2026-10-22T23:56:40Z"
 watch_count: 1
 duration_seconds: 703
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 22
-history_order: 197
+history_order: 200
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

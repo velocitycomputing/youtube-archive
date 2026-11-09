@@ -5,13 +5,13 @@ title: "The AI \"Bubble\" Is Bursting RIGHT NOW!"
 channel: David Shapiro
 url: "https://www.youtube.com/watch?v=vqvK1-e3YaI"
 watched_date: "2026-10-30"
-watched_at: "2026-10-30T23:57:36Z"
+watched_at: "2026-10-30T23:57:28Z"
 watch_count: 1
 duration_seconds: 956
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 30
-history_order: 144
+history_order: 152
 watched_at_precision: date-from-history-label
 watched_percent: 65
 estimated_watched_seconds: null

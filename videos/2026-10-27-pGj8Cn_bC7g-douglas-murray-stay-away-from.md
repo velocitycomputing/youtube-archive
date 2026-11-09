@@ -5,13 +5,13 @@ title: "Douglas Murray: “Stay Away From France... Things Are About to Get MUCH
 channel: Tal Oran - TheTravelingClatt
 url: "https://www.youtube.com/watch?v=pGj8Cn_bC7g"
 watched_date: "2026-10-27"
-watched_at: "2026-10-27T23:57:00Z"
+watched_at: "2026-10-27T23:56:56Z"
 watch_count: 1
 duration_seconds: 950
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 27
-history_order: 180
+history_order: 184
 watched_at_precision: date-from-history-label
 watched_percent: 48
 estimated_watched_seconds: 456

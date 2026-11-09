@@ -5,13 +5,13 @@ title: "The Real Reason Europe Is Falling Apart (It's Not Immigration)"
 channel: Tom Bilyeu
 url: "https://www.youtube.com/watch?v=e8BKXrloaSs"
 watched_date: "2026-10-29"
-watched_at: "2026-10-29T23:57:26Z"
+watched_at: "2026-10-29T23:57:18Z"
 watch_count: 1
 duration_seconds: 3167
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 29
-history_order: 154
+history_order: 162
 watched_at_precision: date-from-history-label
 watched_percent: 37
 estimated_watched_seconds: 1172
