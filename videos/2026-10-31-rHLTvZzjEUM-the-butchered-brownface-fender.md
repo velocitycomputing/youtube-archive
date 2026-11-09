@@ -5,13 +5,13 @@ title: The Butchered Brownface Fender Amp is Resurrected. See How. PART TWO
 channel: The Guitar Amp Tech
 url: "https://www.youtube.com/watch?v=rHLTvZzjEUM"
 watched_date: "2026-10-31"
-watched_at: "2026-10-31T23:57:44Z"
+watched_at: "2026-10-31T23:57:36Z"
 watch_count: 1
 duration_seconds: 1860
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 31
-history_order: 136
+history_order: 144
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

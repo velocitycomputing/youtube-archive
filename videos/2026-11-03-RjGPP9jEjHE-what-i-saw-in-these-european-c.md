@@ -5,13 +5,13 @@ title: "What I Saw in These European Cities Shocked Me | Peter Boghossian"
 channel: The Rubin Report
 url: "https://www.youtube.com/watch?v=RjGPP9jEjHE"
 watched_date: "2026-11-03"
-watched_at: "2026-11-03T23:58:40Z"
+watched_at: "2026-11-03T23:58:32Z"
 watch_count: 1
 duration_seconds: 2925
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 80
+history_order: 88
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 292

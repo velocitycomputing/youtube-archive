@@ -1,17 +1,17 @@
 ---
-record_id: "youtube:gKwJv2BQ-jw"
-video_id: gKwJv2BQ-jw
-title: "THE BEST \"ATTENUATOR\" AVAILABLE! FRYETTE PS100 POWER STATION"
-channel: Pete Thorn
-url: "https://www.youtube.com/watch?v=gKwJv2BQ-jw"
-watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:59:10Z"
+record_id: "youtube:S6SEgMooZpE"
+video_id: S6SEgMooZpE
+title: The end of git? OpenAI CTO on the future of coding.
+channel: "AI News & Strategy Daily | Nate B Jones"
+url: "https://www.youtube.com/watch?v=S6SEgMooZpE"
+watched_date: "2026-11-08"
+watched_at: "2026-11-08T23:59:54Z"
 watch_count: 1
-duration_seconds: 1082
+duration_seconds: 967
 source: youtube-history-browser
 added_date: ""
-history_label: Wednesday
-history_order: 50
+history_label: Yesterday
+history_order: 6
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

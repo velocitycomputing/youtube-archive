@@ -5,13 +5,13 @@ title: "Pro Rig Builders Don't Want You To Know This SECRET!"
 channel: Vertex Effects
 url: "https://www.youtube.com/watch?v=WREXyC2PUNk"
 watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:59:35Z"
+watched_at: "2026-11-05T23:59:26Z"
 watch_count: 1
 duration_seconds: 722
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 25
+history_order: 34
 watched_at_precision: date-from-history-label
 watched_percent: 36
 estimated_watched_seconds: null

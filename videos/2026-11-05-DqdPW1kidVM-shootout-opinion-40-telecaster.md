@@ -5,13 +5,13 @@ title: "Shootout + Opinion: 40 TELECASTER PICKUPS (Fender, Lollar, Fralin, Seymo
 channel: Made by Miike
 url: "https://www.youtube.com/watch?v=DqdPW1kidVM"
 watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:59:34Z"
+watched_at: "2026-11-05T23:59:25Z"
 watch_count: 1
 duration_seconds: 3218
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 26
+history_order: 35
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

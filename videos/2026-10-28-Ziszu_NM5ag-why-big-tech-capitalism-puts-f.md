@@ -5,13 +5,13 @@ title: "Why Big Tech Capitalism Puts Freedom in Danger | The Futurology Podcast"
 channel: Futurology
 url: "https://www.youtube.com/watch?v=Ziszu_NM5ag"
 watched_date: "2026-10-28"
-watched_at: "2026-10-28T23:57:13Z"
+watched_at: "2026-10-28T23:57:05Z"
 watch_count: 1
 duration_seconds: 3098
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 28
-history_order: 167
+history_order: 175
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

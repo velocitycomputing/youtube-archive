@@ -5,13 +5,13 @@ title: Gemini 4 Carbon BEATS Opus 5.5 But There’s a Catch!
 channel: Universe of AI
 url: "https://www.youtube.com/watch?v=YC_yDXDKwpE"
 watched_date: "2026-10-29"
-watched_at: "2026-10-29T23:57:19Z"
+watched_at: "2026-10-29T23:57:11Z"
 watch_count: 1
 duration_seconds: 803
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 29
-history_order: 161
+history_order: 169
 watched_at_precision: date-from-history-label
 watched_percent: 51
 estimated_watched_seconds: null

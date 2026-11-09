@@ -5,13 +5,13 @@ title: "She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning. 
 channel: and 2 more
 url: "https://www.youtube.com/watch?v=hDWdce9a6kY"
 watched_date: "2026-10-28"
-watched_at: "2026-10-28T23:57:08Z"
+watched_at: "2026-10-28T23:57:00Z"
 watch_count: 1
 duration_seconds: 2530
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 28
-history_order: 172
+history_order: 180
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 253

@@ -5,13 +5,13 @@ title: Get the PERFECT Spray Pattern! Airless Sprayer Tips
 channel: Paint Life TV
 url: "https://www.youtube.com/watch?v=U9xCeaAtE-I"
 watched_date: "2026-10-22"
-watched_at: "2026-10-22T23:56:44Z"
+watched_at: "2026-10-22T23:56:41Z"
 watch_count: 1
 duration_seconds: 989
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 22
-history_order: 196
+history_order: 199
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: "Anthropic Just Filed Its S-1. Here's What The Headlines Are Missing."
 channel: "AI News & Strategy Daily | Nate B Jones"
 url: "https://www.youtube.com/watch?v=EAEixlPC6L4"
 watched_date: "2026-10-28"
-watched_at: "2026-10-28T23:57:11Z"
+watched_at: "2026-10-28T23:57:03Z"
 watch_count: 1
 duration_seconds: 1951
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 28
-history_order: 169
+history_order: 177
 watched_at_precision: date-from-history-label
 watched_percent: 24
 estimated_watched_seconds: 468

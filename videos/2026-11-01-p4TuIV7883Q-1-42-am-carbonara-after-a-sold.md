@@ -5,13 +5,13 @@ title: "1:42 AM Carbonara After a Sold-Out Service"
 channel: Denis Prokopyev
 url: "https://www.youtube.com/watch?v=p4TuIV7883Q"
 watched_date: "2026-11-01"
-watched_at: "2026-11-01T23:57:50Z"
+watched_at: "2026-11-01T23:57:42Z"
 watch_count: 1
 duration_seconds: 781
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 1
-history_order: 130
+history_order: 138
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: Afghanistan is Hell on Earth
 channel: Small Brained American
 url: "https://www.youtube.com/watch?v=024arpxwmzM"
 watched_date: "2026-10-31"
-watched_at: "2026-10-31T23:57:46Z"
+watched_at: "2026-10-31T23:57:38Z"
 watch_count: 1
 duration_seconds: 2913
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 31
-history_order: 134
+history_order: 142
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 291
