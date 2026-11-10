@@ -5,13 +5,13 @@ title: Can the Democrats Capitalise on Trump’s Disaster?
 channel: The Rest Is Politics
 url: "https://www.youtube.com/watch?v=MCBjZjPW7HA"
 watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:58:50Z"
+watched_at: "2026-11-04T23:58:28Z"
 watch_count: 1
 duration_seconds: 4205
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 70
+history_order: 92
 watched_at_precision: date-from-history-label
 watched_percent: 13
 estimated_watched_seconds: 547

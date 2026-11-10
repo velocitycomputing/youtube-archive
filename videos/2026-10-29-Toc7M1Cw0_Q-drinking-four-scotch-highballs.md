@@ -5,13 +5,13 @@ title: "Drinking Four Scotch Highballs like Winston Churchill | How to Drink"
 channel: How To Drink
 url: "https://www.youtube.com/watch?v=Toc7M1Cw0_Q"
 watched_date: "2026-10-29"
-watched_at: "2026-10-29T23:57:13Z"
+watched_at: "2026-10-29T23:56:51Z"
 watch_count: 1
 duration_seconds: 1135
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 29
-history_order: 167
+history_order: 189
 watched_at_precision: date-from-history-label
 watched_percent: 61
 estimated_watched_seconds: null

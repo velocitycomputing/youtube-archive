@@ -5,13 +5,13 @@ title: "Data Centers: A Necessary Evil...Kinda || Peter Zeihan"
 channel: Zeihan on Geopolitics
 url: "https://www.youtube.com/watch?v=iRCnengWjLE"
 watched_date: "2026-10-28"
-watched_at: "2026-10-28T23:57:07Z"
+watched_at: "2026-10-28T23:56:45Z"
 watch_count: 1
 duration_seconds: 800
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 28
-history_order: 173
+history_order: 195
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 800

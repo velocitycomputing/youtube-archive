@@ -5,13 +5,13 @@ title: My Honest Thoughts on AI and the Upcoming Layoffs 2027 (No Hype)
 channel: James Cross
 url: "https://www.youtube.com/watch?v=afHwm12DZcY"
 watched_date: "2026-10-29"
-watched_at: "2026-10-29T23:57:20Z"
+watched_at: "2026-10-29T23:56:58Z"
 watch_count: 1
 duration_seconds: 711
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 29
-history_order: 160
+history_order: 182
 watched_at_precision: date-from-history-label
 watched_percent: 76
 estimated_watched_seconds: null

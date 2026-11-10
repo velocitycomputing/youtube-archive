@@ -5,15 +5,15 @@ title: Fryette Power Station PS-2A - Even better than the REAL thing!
 channel: Johan Segeborn
 url: "https://www.youtube.com/watch?v=YH-AQIinU4A"
 watched_date: "2026-11-09"
-watched_at: "2026-11-09T23:59:59Z"
+watched_at: "2026-11-09T23:59:35Z"
 watch_count: 1
 duration_seconds: 722
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 1
+history_label: Yesterday
+history_order: 25
 watched_at_precision: date-from-history-label
-watched_percent: 100
+watched_percent: 39
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

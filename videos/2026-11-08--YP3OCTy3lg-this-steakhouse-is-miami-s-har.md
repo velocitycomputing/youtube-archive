@@ -5,13 +5,13 @@ title: "This Steakhouse is Miami’s Hardest Reservation | On The Line | Bon App
 channel: Bon Appétit
 url: "https://www.youtube.com/watch?v=-YP3OCTy3lg"
 watched_date: "2026-11-08"
-watched_at: "2026-11-08T23:59:40Z"
+watched_at: "2026-11-08T23:59:18Z"
 watch_count: 1
 duration_seconds: 1098
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 20
+history_label: Sunday
+history_order: 42
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

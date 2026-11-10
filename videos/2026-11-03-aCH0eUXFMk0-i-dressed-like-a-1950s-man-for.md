@@ -5,13 +5,13 @@ title: "I Dressed Like a 1950s Man for a Week, Here's What Happened"
 channel: Buff Dudes
 url: "https://www.youtube.com/watch?v=aCH0eUXFMk0"
 watched_date: "2026-11-03"
-watched_at: "2026-11-03T23:58:31Z"
+watched_at: "2026-11-03T23:58:09Z"
 watch_count: 1
 duration_seconds: 1741
 source: youtube-history-browser
 added_date: ""
-history_label: Tuesday
-history_order: 89
+history_label: Nov 3
+history_order: 111
 watched_at_precision: date-from-history-label
 watched_percent: 26
 estimated_watched_seconds: null

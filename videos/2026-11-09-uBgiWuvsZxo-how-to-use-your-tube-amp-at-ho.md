@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:wNdrXjt32z8"
-video_id: wNdrXjt32z8
-title: "Our Favorite Amps for at Home: with Lyle from Psionic Audio"
-channel: five watt world
-url: "https://www.youtube.com/watch?v=wNdrXjt32z8"
-watched_date: "2026-01-14"
-watched_at: "2026-01-14T12:00:00Z"
+record_id: "youtube:uBgiWuvsZxo"
+video_id: uBgiWuvsZxo
+title: How To Use Your Tube Amp At Home (and NOT get divorced)
+channel: Rhett Shull
+url: "https://www.youtube.com/watch?v=uBgiWuvsZxo"
+watched_date: "2026-11-09"
+watched_at: "2026-11-09T23:59:49Z"
 watch_count: 1
-duration_seconds: 3940
+duration_seconds: 796
 source: youtube-history-browser
 added_date: ""
-history_label: Jan 14
-history_order: 3062
+history_label: Yesterday
+history_order: 11
 watched_at_precision: date-from-history-label
-watched_percent: 100
+watched_percent: 42
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

@@ -5,13 +5,13 @@ title: I Bought a $5,000 Guitar Pedal–Does it Sound ANY GOOD?
 channel: Music is Win
 url: "https://www.youtube.com/watch?v=KOXUmSu4Zw8"
 watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:58:59Z"
+watched_at: "2026-11-04T23:58:37Z"
 watch_count: 1
 duration_seconds: 884
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 61
+history_order: 83
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
