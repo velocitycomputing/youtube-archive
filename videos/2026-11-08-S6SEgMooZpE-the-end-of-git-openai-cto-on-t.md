@@ -5,13 +5,13 @@ title: The end of git? OpenAI CTO on the future of coding.
 channel: "AI News & Strategy Daily | Nate B Jones"
 url: "https://www.youtube.com/watch?v=S6SEgMooZpE"
 watched_date: "2026-11-08"
-watched_at: "2026-11-08T23:59:54Z"
+watched_at: "2026-11-08T23:59:31Z"
 watch_count: 1
 duration_seconds: 967
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 6
+history_label: Sunday
+history_order: 29
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

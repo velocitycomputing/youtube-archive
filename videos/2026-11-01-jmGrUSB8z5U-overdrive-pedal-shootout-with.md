@@ -5,13 +5,13 @@ title: Overdrive Pedal Shootout with Chris Buck - Winner Stays On Edition!
 channel: Andertons Music Co
 url: "https://www.youtube.com/watch?v=jmGrUSB8z5U"
 watched_date: "2026-11-01"
-watched_at: "2026-11-01T23:57:49Z"
+watched_at: "2026-11-01T23:57:27Z"
 watch_count: 1
 duration_seconds: 2684
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 1
-history_order: 131
+history_order: 153
 watched_at_precision: date-from-history-label
 watched_percent: 60
 estimated_watched_seconds: null

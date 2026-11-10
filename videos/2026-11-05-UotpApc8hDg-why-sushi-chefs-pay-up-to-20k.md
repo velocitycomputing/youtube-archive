@@ -5,13 +5,13 @@ title: "Why Sushi Chefs Pay Up to $20K for These Knives | WSJ Coveted"
 channel: WSJ. Style
 url: "https://www.youtube.com/watch?v=UotpApc8hDg"
 watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:59:16Z"
+watched_at: "2026-11-05T23:58:54Z"
 watch_count: 1
 duration_seconds: 611
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 44
+history_order: 66
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

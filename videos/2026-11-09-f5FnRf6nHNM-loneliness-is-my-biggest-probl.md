@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:fJjNHrm4eo0"
-video_id: fJjNHrm4eo0
-title: "Meh | Fender '64 Custom Hand-Wired Deluxe Reverb Pt 1"
-channel: Psionic Audio
-url: "https://www.youtube.com/watch?v=fJjNHrm4eo0"
-watched_date: "2026-01-04"
-watched_at: "2026-01-04T12:00:00Z"
+record_id: "youtube:f5FnRf6nHNM"
+video_id: f5FnRf6nHNM
+title: Loneliness Is My Biggest Problem Right Now
+channel: David Shapiro
+url: "https://www.youtube.com/watch?v=f5FnRf6nHNM"
+watched_date: "2026-11-09"
+watched_at: "2026-11-09T23:59:36Z"
 watch_count: 1
-duration_seconds: 1502
+duration_seconds: 671
 source: youtube-history-browser
 added_date: ""
-history_label: Jan 4
-history_order: 3147
+history_label: Yesterday
+history_order: 24
 watched_at_precision: date-from-history-label
-watched_percent: 100
+watched_percent: 31
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8
