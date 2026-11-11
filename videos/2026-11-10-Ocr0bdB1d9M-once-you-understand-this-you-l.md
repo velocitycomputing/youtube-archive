@@ -5,13 +5,13 @@ title: "Once You Understand This, You'll Stop Working Hard"
 channel: A Life Engineered
 url: "https://www.youtube.com/watch?v=Ocr0bdB1d9M"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:43Z"
+watched_at: "2026-11-10T23:59:42Z"
 watch_count: 1
 duration_seconds: 1081
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 17
+history_order: 18
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

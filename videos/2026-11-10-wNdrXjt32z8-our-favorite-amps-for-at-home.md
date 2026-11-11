@@ -5,13 +5,13 @@ title: "Our Favorite Amps for at Home: with Lyle from Psionic Audio"
 channel: five watt world
 url: "https://www.youtube.com/watch?v=wNdrXjt32z8"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:34Z"
+watched_at: "2026-11-10T23:59:33Z"
 watch_count: 1
 duration_seconds: 3940
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 26
+history_order: 27
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

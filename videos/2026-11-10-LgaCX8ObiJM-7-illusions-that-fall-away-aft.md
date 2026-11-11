@@ -5,13 +5,13 @@ title: 7 Illusions That Fall Away After You Stop Working
 channel: Jeff Knuppel
 url: "https://www.youtube.com/watch?v=LgaCX8ObiJM"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:44Z"
+watched_at: "2026-11-10T23:59:43Z"
 watch_count: 1
 duration_seconds: 623
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 16
+history_order: 17
 watched_at_precision: date-from-history-label
 watched_percent: 28
 estimated_watched_seconds: null

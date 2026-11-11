@@ -5,13 +5,13 @@ title: "Surviving a 10-Hour Shift as a Line Cook in NYC | Life of a Line Cook | 
 channel: Bon Appétit
 url: "https://www.youtube.com/watch?v=l6N8dYQfZJ4"
 watched_date: "2026-10-30"
-watched_at: "2026-10-30T23:56:42Z"
+watched_at: "2026-10-30T23:56:41Z"
 watch_count: 1
 duration_seconds: 1559
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 30
-history_order: 198
+history_order: 199
 watched_at_precision: date-from-history-label
 watched_percent: 15
 estimated_watched_seconds: null
