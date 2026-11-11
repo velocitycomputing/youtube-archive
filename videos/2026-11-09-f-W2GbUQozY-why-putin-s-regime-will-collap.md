@@ -5,13 +5,13 @@ title: "Why Putin's regime will collapse like a house of cards"
 channel: Vlad Vexler
 url: "https://www.youtube.com/watch?v=f-W2GbUQozY"
 watched_date: "2026-11-09"
-watched_at: "2026-11-09T23:59:38Z"
+watched_at: "2026-11-09T23:59:16Z"
 watch_count: 1
 duration_seconds: 606
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 22
+history_label: Monday
+history_order: 44
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 61

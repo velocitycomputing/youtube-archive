@@ -5,13 +5,13 @@ title: Douglas Murray “There Is NO QUESTION…France Is Over”
 channel: Daily Goldstein
 url: "https://www.youtube.com/watch?v=NV6bCxxkJOo"
 watched_date: "2026-11-03"
-watched_at: "2026-11-03T23:58:17Z"
+watched_at: "2026-11-03T23:57:56Z"
 watch_count: 1
 duration_seconds: 1195
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 3
-history_order: 103
+history_order: 124
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1195

@@ -5,13 +5,13 @@ title: $2k Glorified Katana Amp
 channel: Know Your Gear
 url: "https://www.youtube.com/watch?v=jsBxL0lQpOk"
 watched_date: "2026-10-29"
-watched_at: "2026-10-29T23:57:01Z"
+watched_at: "2026-10-29T23:56:40Z"
 watch_count: 1
 duration_seconds: 881
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 29
-history_order: 179
+history_order: 200
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

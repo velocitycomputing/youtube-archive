@@ -5,13 +5,13 @@ title: "There's Something Much Worse to a NATO-Russia War You Weren't Aware Of"
 channel: "Pyotr Kurzin | Geopolitics"
 url: "https://www.youtube.com/watch?v=V0Aq7iz8EPk"
 watched_date: "2026-11-02"
-watched_at: "2026-11-02T23:57:54Z"
+watched_at: "2026-11-02T23:57:33Z"
 watch_count: 1
 duration_seconds: 2578
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 2
-history_order: 126
+history_order: 147
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 258

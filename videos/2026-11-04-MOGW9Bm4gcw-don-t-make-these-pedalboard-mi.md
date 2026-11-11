@@ -5,13 +5,13 @@ title: "Don't Make These Pedalboard Mistakes!"
 channel: Corey Congilio
 url: "https://www.youtube.com/watch?v=MOGW9Bm4gcw"
 watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:58:29Z"
+watched_at: "2026-11-04T23:58:08Z"
 watch_count: 1
 duration_seconds: 1991
 source: youtube-history-browser
 added_date: ""
-history_label: Wednesday
-history_order: 91
+history_label: Nov 4
+history_order: 112
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

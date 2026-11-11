@@ -5,13 +5,13 @@ title: "North Korea's New Weightlifter Demolishes World Records In Sensational 6
 channel: Weightlifting House
 url: "https://www.youtube.com/watch?v=Xi86wHQIhVM"
 watched_date: "2026-10-31"
-watched_at: "2026-10-31T23:57:13Z"
+watched_at: "2026-10-31T23:56:52Z"
 watch_count: 1
 duration_seconds: 748
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 31
-history_order: 167
+history_order: 188
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: Loneliness Is My Biggest Problem Right Now
 channel: David Shapiro
 url: "https://www.youtube.com/watch?v=f5FnRf6nHNM"
 watched_date: "2026-11-09"
-watched_at: "2026-11-09T23:59:36Z"
+watched_at: "2026-11-09T23:59:14Z"
 watch_count: 1
 duration_seconds: 671
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 24
+history_label: Monday
+history_order: 46
 watched_at_precision: date-from-history-label
 watched_percent: 31
 estimated_watched_seconds: 208

@@ -5,13 +5,13 @@ title: We try to match Churchill drink for drink… send help.
 channel: Whiskey Tribe
 url: "https://www.youtube.com/watch?v=PrbwvG0XeUQ"
 watched_date: "2026-10-30"
-watched_at: "2026-10-30T23:57:04Z"
+watched_at: "2026-10-30T23:56:43Z"
 watch_count: 1
 duration_seconds: 1390
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 30
-history_order: 176
+history_order: 197
 watched_at_precision: date-from-history-label
 watched_percent: 79
 estimated_watched_seconds: null
