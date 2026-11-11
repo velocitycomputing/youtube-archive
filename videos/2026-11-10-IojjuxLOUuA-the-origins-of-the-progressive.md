@@ -5,13 +5,13 @@ title: "The Origins of the Progressive Mind Virus (100 yrs history in 15 mins) |
 channel: Alliance for Responsible Citizenship
 url: "https://www.youtube.com/watch?v=IojjuxLOUuA"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:38Z"
+watched_at: "2026-11-10T23:59:37Z"
 watch_count: 1
 duration_seconds: 1156
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 22
+history_order: 23
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 116

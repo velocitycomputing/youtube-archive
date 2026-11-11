@@ -5,13 +5,13 @@ title: "Pedalboard Buffers: The Ultimate Guide"
 channel: Vertex Effects
 url: "https://www.youtube.com/watch?v=_iYptKvP-YI"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:40Z"
+watched_at: "2026-11-10T23:59:39Z"
 watch_count: 1
 duration_seconds: 1105
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 20
+history_order: 21
 watched_at_precision: date-from-history-label
 watched_percent: 24
 estimated_watched_seconds: null

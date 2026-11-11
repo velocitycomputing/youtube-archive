@@ -5,13 +5,13 @@ title: TRUMP GOT DESTROYED IN THE MIDTERMS - HERES WHAT IT MEANS FOR IRAN - w/ T
 channel: "Pyotr Kurzin | Geopolitics"
 url: "https://www.youtube.com/watch?v=_oE_pzuO9X0"
 watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:58:10Z"
+watched_at: "2026-11-04T23:58:09Z"
 watch_count: 1
 duration_seconds: 1510
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 4
-history_order: 110
+history_order: 111
 watched_at_precision: date-from-history-label
 watched_percent: 13
 estimated_watched_seconds: 196
