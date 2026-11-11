@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:oKPn1ZD55U0"
-video_id: oKPn1ZD55U0
-title: Why Workers Rush to This Tokyo Steakhouse for Huge Steaks and Rice
-channel: Japanese Food Noodles
-url: "https://www.youtube.com/watch?v=oKPn1ZD55U0"
-watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:58:51Z"
+record_id: "youtube:LgaCX8ObiJM"
+video_id: LgaCX8ObiJM
+title: 7 Illusions That Fall Away After You Stop Working
+channel: Jeff Knuppel
+url: "https://www.youtube.com/watch?v=LgaCX8ObiJM"
+watched_date: "2026-11-10"
+watched_at: "2026-11-10T23:59:44Z"
 watch_count: 1
-duration_seconds: 1882
+duration_seconds: 623
 source: youtube-history-browser
 added_date: ""
-history_label: Thursday
-history_order: 69
+history_label: Yesterday
+history_order: 16
 watched_at_precision: date-from-history-label
-watched_percent: 10
+watched_percent: 28
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

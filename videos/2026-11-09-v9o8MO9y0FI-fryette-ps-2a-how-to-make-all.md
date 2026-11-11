@@ -5,13 +5,13 @@ title: Fryette PS 2A - How To Make All Guitar Gear Sound Better
 channel: TONE WARS
 url: "https://www.youtube.com/watch?v=v9o8MO9y0FI"
 watched_date: "2026-11-09"
-watched_at: "2026-11-09T23:59:43Z"
+watched_at: "2026-11-09T23:59:21Z"
 watch_count: 1
 duration_seconds: 1817
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 17
+history_label: Monday
+history_order: 39
 watched_at_precision: date-from-history-label
 watched_percent: 23
 estimated_watched_seconds: null

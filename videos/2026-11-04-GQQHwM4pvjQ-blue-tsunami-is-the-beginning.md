@@ -5,13 +5,13 @@ title: Blue Tsunami Is the Beginning of the End for Trump
 channel: Vlad Vexler
 url: "https://www.youtube.com/watch?v=GQQHwM4pvjQ"
 watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:58:27Z"
+watched_at: "2026-11-04T23:58:06Z"
 watch_count: 1
 duration_seconds: 800
 source: youtube-history-browser
 added_date: ""
-history_label: Wednesday
-history_order: 93
+history_label: Nov 4
+history_order: 114
 watched_at_precision: date-from-history-label
 watched_percent: 38
 estimated_watched_seconds: 304

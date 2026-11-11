@@ -5,13 +5,13 @@ title: "A Day With the Grill Master at NYC’s Best New Steakhouse | On The Line
 channel: Bon Appétit
 url: "https://www.youtube.com/watch?v=YJpgGtF3egI"
 watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:58:53Z"
+watched_at: "2026-11-05T23:58:31Z"
 watch_count: 1
 duration_seconds: 867
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 67
+history_order: 89
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

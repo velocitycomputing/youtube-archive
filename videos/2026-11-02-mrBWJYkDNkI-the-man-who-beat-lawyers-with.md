@@ -5,13 +5,13 @@ title: "The Man Who Beat Lawyers With AI: We Have 3 years Until White-Collar car
 channel: At The Top with Ben Andrews
 url: "https://www.youtube.com/watch?v=mrBWJYkDNkI"
 watched_date: "2026-11-02"
-watched_at: "2026-11-02T23:57:49Z"
+watched_at: "2026-11-02T23:57:28Z"
 watch_count: 1
 duration_seconds: 2901
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 2
-history_order: 131
+history_order: 152
 watched_at_precision: date-from-history-label
 watched_percent: 15
 estimated_watched_seconds: null
