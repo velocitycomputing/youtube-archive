@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:oKPn1ZD55U0"
-video_id: oKPn1ZD55U0
-title: Why Workers Rush to This Tokyo Steakhouse for Huge Steaks and Rice
-channel: Japanese Food Noodles
-url: "https://www.youtube.com/watch?v=oKPn1ZD55U0"
-watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:51Z"
+record_id: "youtube:8r5scCne4gk"
+video_id: 8r5scCne4gk
+title: Make Perfectly CLEAR ICE for cocktails at home
+channel: The Broken Bar
+url: "https://www.youtube.com/watch?v=8r5scCne4gk"
+watched_date: "2026-10-27"
+watched_at: "2026-10-27T23:56:40Z"
 watch_count: 1
-duration_seconds: 1882
+duration_seconds: 631
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 9
+history_label: Oct 27
+history_order: 200
 watched_at_precision: date-from-history-label
-watched_percent: 20
+watched_percent: 10
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

@@ -5,13 +5,13 @@ title: Nux Steel Singer Review. Dumble Inspired Tone for $50.00??
 channel: Common Man Guitar
 url: "https://www.youtube.com/watch?v=ofeionaV51o"
 watched_date: "2026-11-01"
-watched_at: "2026-11-01T23:57:01Z"
+watched_at: "2026-11-01T23:57:00Z"
 watch_count: 1
 duration_seconds: 1133
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 1
-history_order: 179
+history_order: 180
 watched_at_precision: date-from-history-label
 watched_percent: 12
 estimated_watched_seconds: null

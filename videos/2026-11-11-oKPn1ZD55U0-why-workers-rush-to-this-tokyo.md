@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:vJtzk51xjG8"
-video_id: vJtzk51xjG8
-title: I played blues guitar for 25 years and learned this
-channel: Soulful Guitar Lessons
-url: "https://www.youtube.com/watch?v=vJtzk51xjG8"
-watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:49Z"
+record_id: "youtube:oKPn1ZD55U0"
+video_id: oKPn1ZD55U0
+title: Why Workers Rush to This Tokyo Steakhouse for Huge Steaks and Rice
+channel: Japanese Food Noodles
+url: "https://www.youtube.com/watch?v=oKPn1ZD55U0"
+watched_date: "2026-11-11"
+watched_at: "2026-11-11T23:59:50Z"
 watch_count: 1
-duration_seconds: 3066
+duration_seconds: 1882
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 11
+history_order: 10
 watched_at_precision: date-from-history-label
-watched_percent: 25
+watched_percent: 20
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

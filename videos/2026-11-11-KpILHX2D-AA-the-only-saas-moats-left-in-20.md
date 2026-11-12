@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:_iYptKvP-YI"
-video_id: _iYptKvP-YI
-title: "Pedalboard Buffers: The Ultimate Guide"
-channel: Vertex Effects
-url: "https://www.youtube.com/watch?v=_iYptKvP-YI"
-watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:39Z"
+record_id: "youtube:KpILHX2D-AA"
+video_id: KpILHX2D-AA
+title: The Only SaaS Moats Left in 2026
+channel: Rob Walling
+url: "https://www.youtube.com/watch?v=KpILHX2D-AA"
+watched_date: "2026-11-11"
+watched_at: "2026-11-11T23:59:47Z"
 watch_count: 1
-duration_seconds: 1105
+duration_seconds: 2390
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 21
+history_order: 13
 watched_at_precision: date-from-history-label
-watched_percent: 24
+watched_percent: 10
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

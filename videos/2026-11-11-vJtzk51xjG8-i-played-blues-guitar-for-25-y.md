@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:6u1K9vhyixI"
-video_id: 6u1K9vhyixI
-title: Don’t Build Your Pedalboard Until You Do This
-channel: Vertex Effects
-url: "https://www.youtube.com/watch?v=6u1K9vhyixI"
-watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:29Z"
+record_id: "youtube:vJtzk51xjG8"
+video_id: vJtzk51xjG8
+title: I played blues guitar for 25 years and learned this
+channel: Soulful Guitar Lessons
+url: "https://www.youtube.com/watch?v=vJtzk51xjG8"
+watched_date: "2026-11-11"
+watched_at: "2026-11-11T23:59:48Z"
 watch_count: 1
-duration_seconds: 875
+duration_seconds: 3066
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 31
+history_order: 12
 watched_at_precision: date-from-history-label
-watched_percent: 100
+watched_percent: 25
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8
