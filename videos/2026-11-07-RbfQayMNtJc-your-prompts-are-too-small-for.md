@@ -5,13 +5,13 @@ title: Your Prompts Are Too SMALL for Claude Code
 channel: Ray Amjad
 url: "https://www.youtube.com/watch?v=RbfQayMNtJc"
 watched_date: "2026-11-07"
-watched_at: "2026-11-07T23:58:50Z"
+watched_at: "2026-11-07T23:58:46Z"
 watch_count: 1
 duration_seconds: 993
 source: youtube-history-browser
 added_date: ""
 history_label: Saturday
-history_order: 70
+history_order: 74
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

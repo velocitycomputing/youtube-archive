@@ -4,14 +4,14 @@ video_id: B4uD0IgMvZc
 title: Why the GOP Meltdown is Going to Get Worse
 channel: To the Contrary With Charlie Sykes
 url: "https://www.youtube.com/watch?v=B4uD0IgMvZc"
-watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:59:34Z"
+watched_date: "2026-11-10"
+watched_at: "2026-11-10T23:59:30Z"
 watch_count: 1
 duration_seconds: 2903
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 26
+history_label: Tuesday
+history_order: 30
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 290

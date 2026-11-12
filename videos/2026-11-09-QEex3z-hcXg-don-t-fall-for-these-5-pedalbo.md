@@ -5,13 +5,13 @@ title: "Don't Fall for These 5 Pedalboard Myths!"
 channel: Vertex Effects
 url: "https://www.youtube.com/watch?v=QEex3z-hcXg"
 watched_date: "2026-11-09"
-watched_at: "2026-11-09T23:59:17Z"
+watched_at: "2026-11-09T23:59:13Z"
 watch_count: 1
 duration_seconds: 1102
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 43
+history_order: 47
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

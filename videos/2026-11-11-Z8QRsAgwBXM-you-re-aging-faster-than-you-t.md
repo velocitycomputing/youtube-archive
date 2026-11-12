@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:B1j0S2WKNgg"
-video_id: B1j0S2WKNgg
-title: The New Era of App Development Has Just Begun
-channel: "ambITious | AI"
-url: "https://www.youtube.com/watch?v=B1j0S2WKNgg"
+record_id: "youtube:Z8QRsAgwBXM"
+video_id: Z8QRsAgwBXM
+title: "You’re Aging Faster Than You Think — The Scientist Who Plans to Live Forever | Dr. Bill Andrews, 74"
+channel: Ageless Athlete
+url: "https://www.youtube.com/watch?v=Z8QRsAgwBXM"
 watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:59:44Z"
+watched_at: "2026-11-11T23:59:56Z"
 watch_count: 1
-duration_seconds: 696
+duration_seconds: 4053
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 16
+history_order: 4
 watched_at_precision: date-from-history-label
-watched_percent: 26
+watched_percent: 44
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

@@ -4,14 +4,14 @@ video_id: MqCk9APctNk
 title: The Addiction That Is Ruining China
 channel: fern
 url: "https://www.youtube.com/watch?v=MqCk9APctNk"
-watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:59:33Z"
+watched_date: "2026-11-10"
+watched_at: "2026-11-10T23:59:29Z"
 watch_count: 1
 duration_seconds: 1803
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 27
+history_label: Tuesday
+history_order: 31
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1803

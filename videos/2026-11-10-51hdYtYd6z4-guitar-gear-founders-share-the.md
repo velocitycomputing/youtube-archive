@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:6u1K9vhyixI"
-video_id: 6u1K9vhyixI
-title: Don’t Build Your Pedalboard Until You Do This
-channel: Vertex Effects
-url: "https://www.youtube.com/watch?v=6u1K9vhyixI"
-watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:59:28Z"
+record_id: "youtube:51hdYtYd6z4"
+video_id: 51hdYtYd6z4
+title: Guitar Gear Founders Share Their Best Business Advice
+channel: Products of Music
+url: "https://www.youtube.com/watch?v=51hdYtYd6z4"
+watched_date: "2026-11-10"
+watched_at: "2026-11-10T23:59:45Z"
 watch_count: 1
-duration_seconds: 875
+duration_seconds: 2141
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 32
+history_label: Tuesday
+history_order: 15
 watched_at_precision: date-from-history-label
-watched_percent: 100
+watched_percent: 10
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

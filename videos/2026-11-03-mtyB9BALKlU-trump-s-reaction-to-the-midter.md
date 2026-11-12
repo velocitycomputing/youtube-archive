@@ -5,13 +5,13 @@ title: "Trump's reaction to the midterms will be unhinged"
 channel: Vlad Vexler Chat
 url: "https://www.youtube.com/watch?v=mtyB9BALKlU"
 watched_date: "2026-11-03"
-watched_at: "2026-11-03T23:57:51Z"
+watched_at: "2026-11-03T23:57:47Z"
 watch_count: 1
 duration_seconds: 1096
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 3
-history_order: 129
+history_order: 133
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1096

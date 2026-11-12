@@ -5,13 +5,13 @@ title: The Amp That Makes All Other Amps Sound Better!
 channel: Andertons Music Co
 url: "https://www.youtube.com/watch?v=fO_u6VjgoP8"
 watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:58:19Z"
+watched_at: "2026-11-04T23:58:15Z"
 watch_count: 1
 duration_seconds: 1475
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 4
-history_order: 101
+history_order: 105
 watched_at_precision: date-from-history-label
 watched_percent: 31
 estimated_watched_seconds: null

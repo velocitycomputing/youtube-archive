@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:_iYptKvP-YI"
-video_id: _iYptKvP-YI
-title: "Pedalboard Buffers: The Ultimate Guide"
+record_id: "youtube:dDHKn69dVuA"
+video_id: dDHKn69dVuA
+title: "90% of volume pedals suck. Here are the ones that don't."
 channel: Vertex Effects
-url: "https://www.youtube.com/watch?v=_iYptKvP-YI"
-watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:59:38Z"
+url: "https://www.youtube.com/watch?v=dDHKn69dVuA"
+watched_date: "2026-11-10"
+watched_at: "2026-11-10T23:59:41Z"
 watch_count: 1
-duration_seconds: 1105
+duration_seconds: 1967
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 22
+history_label: Tuesday
+history_order: 19
 watched_at_precision: date-from-history-label
-watched_percent: 24
+watched_percent: 10
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

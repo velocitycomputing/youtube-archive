@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:3lEZb9MZC1c"
-video_id: 3lEZb9MZC1c
-title: Effects Pedal Order Explained
-channel: Vertex Effects
-url: "https://www.youtube.com/watch?v=3lEZb9MZC1c"
-watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:59:37Z"
+record_id: "youtube:C6hOi60dWss"
+video_id: C6hOi60dWss
+title: "Boss Katana 50 Gen 3 Review: Boss just keeps winning"
+channel: Gui Batista
+url: "https://www.youtube.com/watch?v=C6hOi60dWss"
+watched_date: "2026-11-12"
+watched_at: "2026-11-12T23:59:59Z"
 watch_count: 1
-duration_seconds: 1157
+duration_seconds: 935
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 23
+history_label: Today
+history_order: 1
 watched_at_precision: date-from-history-label
-watched_percent: 100
+watched_percent: 10
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8
