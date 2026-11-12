@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:bTtELKNawl0"
-video_id: bTtELKNawl0
-title: "I Can't Go On. I'll Go On"
-channel: The Functional Melancholic
-url: "https://www.youtube.com/watch?v=bTtELKNawl0"
-watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:32Z"
+record_id: "youtube:LgaCX8ObiJM"
+video_id: LgaCX8ObiJM
+title: 7 Illusions That Fall Away After You Stop Working
+channel: Jeff Knuppel
+url: "https://www.youtube.com/watch?v=LgaCX8ObiJM"
+watched_date: "2026-11-11"
+watched_at: "2026-11-11T23:59:42Z"
 watch_count: 1
-duration_seconds: 2521
+duration_seconds: 623
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 28
+history_order: 18
 watched_at_precision: date-from-history-label
-watched_percent: 54
+watched_percent: 28
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

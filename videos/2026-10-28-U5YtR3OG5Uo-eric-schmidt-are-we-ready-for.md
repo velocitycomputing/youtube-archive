@@ -5,13 +5,13 @@ title: "Eric Schmidt: Are We Ready for Superintelligence? | Podcast | In Good Co
 channel: Norges Bank Investment Management
 url: "https://www.youtube.com/watch?v=U5YtR3OG5Uo"
 watched_date: "2026-10-28"
-watched_at: "2026-10-28T23:56:48Z"
+watched_at: "2026-10-28T23:56:44Z"
 watch_count: 1
 duration_seconds: 2588
 source: youtube-history-browser
 added_date: ""
 history_label: Oct 28
-history_order: 192
+history_order: 196
 watched_at_precision: date-from-history-label
 watched_percent: 11
 estimated_watched_seconds: null

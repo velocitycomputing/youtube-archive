@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:B1j0S2WKNgg"
-video_id: B1j0S2WKNgg
-title: The New Era of App Development Has Just Begun
-channel: "ambITious | AI"
-url: "https://www.youtube.com/watch?v=B1j0S2WKNgg"
-watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:45Z"
+record_id: "youtube:3lEZb9MZC1c"
+video_id: 3lEZb9MZC1c
+title: Effects Pedal Order Explained
+channel: Vertex Effects
+url: "https://www.youtube.com/watch?v=3lEZb9MZC1c"
+watched_date: "2026-11-11"
+watched_at: "2026-11-11T23:59:37Z"
 watch_count: 1
-duration_seconds: 696
+duration_seconds: 1157
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 15
+history_order: 23
 watched_at_precision: date-from-history-label
-watched_percent: 26
+watched_percent: 100
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:LgaCX8ObiJM"
-video_id: LgaCX8ObiJM
-title: 7 Illusions That Fall Away After You Stop Working
-channel: Jeff Knuppel
-url: "https://www.youtube.com/watch?v=LgaCX8ObiJM"
-watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:43Z"
+record_id: "youtube:fJjNHrm4eo0"
+video_id: fJjNHrm4eo0
+title: "Meh | Fender '64 Custom Hand-Wired Deluxe Reverb Pt 1"
+channel: Psionic Audio
+url: "https://www.youtube.com/watch?v=fJjNHrm4eo0"
+watched_date: "2026-11-11"
+watched_at: "2026-11-11T23:59:30Z"
 watch_count: 1
-duration_seconds: 623
+duration_seconds: 1502
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 17
+history_order: 30
 watched_at_precision: date-from-history-label
-watched_percent: 28
+watched_percent: 100
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

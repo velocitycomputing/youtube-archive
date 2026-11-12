@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:wNdrXjt32z8"
-video_id: wNdrXjt32z8
-title: "Our Favorite Amps for at Home: with Lyle from Psionic Audio"
-channel: five watt world
-url: "https://www.youtube.com/watch?v=wNdrXjt32z8"
-watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:33Z"
+record_id: "youtube:6u1K9vhyixI"
+video_id: 6u1K9vhyixI
+title: Don’t Build Your Pedalboard Until You Do This
+channel: Vertex Effects
+url: "https://www.youtube.com/watch?v=6u1K9vhyixI"
+watched_date: "2026-11-11"
+watched_at: "2026-11-11T23:59:28Z"
 watch_count: 1
-duration_seconds: 3940
+duration_seconds: 875
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 27
+history_order: 32
 watched_at_precision: date-from-history-label
-watched_percent: 10
+watched_percent: 100
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

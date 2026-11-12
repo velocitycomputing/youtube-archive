@@ -4,14 +4,14 @@ video_id: wdUGAmYqiDc
 title: "How To Set Your Amp For Pedals [Gain, EQ, Volume & FX Loops]"
 channel: That Pedal Show
 url: "https://www.youtube.com/watch?v=wdUGAmYqiDc"
-watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:36Z"
+watched_date: "2026-11-11"
+watched_at: "2026-11-11T23:59:35Z"
 watch_count: 1
 duration_seconds: 4735
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 24
+history_order: 25
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -1,17 +1,17 @@
 ---
-record_id: "youtube:fJjNHrm4eo0"
-video_id: fJjNHrm4eo0
-title: "Meh | Fender '64 Custom Hand-Wired Deluxe Reverb Pt 1"
-channel: Psionic Audio
-url: "https://www.youtube.com/watch?v=fJjNHrm4eo0"
-watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:31Z"
+record_id: "youtube:Ocr0bdB1d9M"
+video_id: Ocr0bdB1d9M
+title: "Once You Understand This, You'll Stop Working Hard"
+channel: A Life Engineered
+url: "https://www.youtube.com/watch?v=Ocr0bdB1d9M"
+watched_date: "2026-11-11"
+watched_at: "2026-11-11T23:59:41Z"
 watch_count: 1
-duration_seconds: 1502
+duration_seconds: 1081
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 29
+history_order: 19
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null
