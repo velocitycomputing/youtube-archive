@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:51hdYtYd6z4"
-video_id: 51hdYtYd6z4
-title: The Harsh Truths About Starting a Guitar Gear Company
-channel: Products of Music
-url: "https://www.youtube.com/watch?v=51hdYtYd6z4"
-watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:59:49Z"
+record_id: "youtube:Ocr0bdB1d9M"
+video_id: Ocr0bdB1d9M
+title: "Once You Understand This, You'll Stop Working Hard"
+channel: A Life Engineered
+url: "https://www.youtube.com/watch?v=Ocr0bdB1d9M"
+watched_date: "2026-11-10"
+watched_at: "2026-11-10T23:59:37Z"
 watch_count: 1
-duration_seconds: 2141
+duration_seconds: 1081
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 11
+history_label: Tuesday
+history_order: 23
 watched_at_precision: date-from-history-label
-watched_percent: 10
+watched_percent: 100
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

@@ -1,17 +1,17 @@
 ---
-record_id: "youtube:dDHKn69dVuA"
-video_id: dDHKn69dVuA
-title: "90% of volume pedals suck. Here are the ones that don't."
-channel: Vertex Effects
-url: "https://www.youtube.com/watch?v=dDHKn69dVuA"
-watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:59:45Z"
+record_id: "youtube:wdUGAmYqiDc"
+video_id: wdUGAmYqiDc
+title: "How To Set Your Amp For Pedals [Gain, EQ, Volume & FX Loops]"
+channel: That Pedal Show
+url: "https://www.youtube.com/watch?v=wdUGAmYqiDc"
+watched_date: "2026-11-10"
+watched_at: "2026-11-10T23:59:31Z"
 watch_count: 1
-duration_seconds: 1967
+duration_seconds: 4735
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 15
+history_label: Tuesday
+history_order: 29
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

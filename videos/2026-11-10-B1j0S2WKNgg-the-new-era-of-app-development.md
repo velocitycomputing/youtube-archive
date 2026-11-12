@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:LgaCX8ObiJM"
-video_id: LgaCX8ObiJM
-title: 7 Illusions That Fall Away After You Stop Working
-channel: Jeff Knuppel
-url: "https://www.youtube.com/watch?v=LgaCX8ObiJM"
-watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:59:42Z"
+record_id: "youtube:B1j0S2WKNgg"
+video_id: B1j0S2WKNgg
+title: The New Era of App Development Has Just Begun
+channel: "ambITious | AI"
+url: "https://www.youtube.com/watch?v=B1j0S2WKNgg"
+watched_date: "2026-11-10"
+watched_at: "2026-11-10T23:59:40Z"
 watch_count: 1
-duration_seconds: 623
+duration_seconds: 696
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 18
+history_label: Tuesday
+history_order: 20
 watched_at_precision: date-from-history-label
-watched_percent: 28
+watched_percent: 26
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

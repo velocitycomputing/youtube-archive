@@ -5,13 +5,13 @@ title: Could This Be The Future of Tube Amps?
 channel: Riffs, Beards & Gear
 url: "https://www.youtube.com/watch?v=dz4ub_6GD4w"
 watched_date: "2026-11-03"
-watched_at: "2026-11-03T23:57:50Z"
+watched_at: "2026-11-03T23:57:46Z"
 watch_count: 1
 duration_seconds: 610
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 3
-history_order: 130
+history_order: 134
 watched_at_precision: date-from-history-label
 watched_percent: 58
 estimated_watched_seconds: null

@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:OAzncbNovJc"
-video_id: OAzncbNovJc
-title: "Sex Robots 2026: How China is Changing the Sex Industry?"
-channel: PRO ROBOTS
-url: "https://www.youtube.com/watch?v=OAzncbNovJc"
-watched_date: "2026-11-12"
-watched_at: "2026-11-12T23:59:59Z"
+record_id: "youtube:LgaCX8ObiJM"
+video_id: LgaCX8ObiJM
+title: 7 Illusions That Fall Away After You Stop Working
+channel: Jeff Knuppel
+url: "https://www.youtube.com/watch?v=LgaCX8ObiJM"
+watched_date: "2026-11-10"
+watched_at: "2026-11-10T23:59:38Z"
 watch_count: 1
-duration_seconds: 1247
+duration_seconds: 623
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 1
+history_label: Tuesday
+history_order: 22
 watched_at_precision: date-from-history-label
-watched_percent: 100
+watched_percent: 28
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

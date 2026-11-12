@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:KpILHX2D-AA"
-video_id: KpILHX2D-AA
-title: The Only SaaS Moats Left in 2026
-channel: Rob Walling
-url: "https://www.youtube.com/watch?v=KpILHX2D-AA"
-watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:59:47Z"
+record_id: "youtube:oKPn1ZD55U0"
+video_id: oKPn1ZD55U0
+title: Why Workers Rush to This Tokyo Steakhouse for Huge Steaks and Rice
+channel: Japanese Food Noodles
+url: "https://www.youtube.com/watch?v=oKPn1ZD55U0"
+watched_date: "2026-11-10"
+watched_at: "2026-11-10T23:59:46Z"
 watch_count: 1
-duration_seconds: 2390
+duration_seconds: 1882
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 13
+history_label: Tuesday
+history_order: 14
 watched_at_precision: date-from-history-label
-watched_percent: 10
+watched_percent: 20
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

@@ -5,13 +5,13 @@ title: Stack Your Overdrives like a PRO!
 channel: Vertex Effects
 url: "https://www.youtube.com/watch?v=iuf3T6CPBrw"
 watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:58:33Z"
+watched_at: "2026-11-05T23:58:29Z"
 watch_count: 1
 duration_seconds: 1094
 source: youtube-history-browser
 added_date: ""
-history_label: Thursday
-history_order: 87
+history_label: Nov 5
+history_order: 91
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

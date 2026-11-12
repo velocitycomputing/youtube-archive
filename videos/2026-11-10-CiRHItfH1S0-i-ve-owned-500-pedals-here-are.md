@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:vJtzk51xjG8"
-video_id: vJtzk51xjG8
-title: I played blues guitar for 25 years and learned this
-channel: Soulful Guitar Lessons
-url: "https://www.youtube.com/watch?v=vJtzk51xjG8"
-watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:59:48Z"
+record_id: "youtube:CiRHItfH1S0"
+video_id: CiRHItfH1S0
+title: "I've owned 500+ pedals. Here are the only 6 you actually need."
+channel: Vertex Effects
+url: "https://www.youtube.com/watch?v=CiRHItfH1S0"
+watched_date: "2026-11-10"
+watched_at: "2026-11-10T23:59:35Z"
 watch_count: 1
-duration_seconds: 3066
+duration_seconds: 1231
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 12
+history_label: Tuesday
+history_order: 25
 watched_at_precision: date-from-history-label
-watched_percent: 25
+watched_percent: 100
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

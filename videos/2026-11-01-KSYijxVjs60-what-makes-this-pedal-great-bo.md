@@ -5,13 +5,13 @@ title: What Makes This Pedal Great? Boss DS-1
 channel: Wampler Pedals
 url: "https://www.youtube.com/watch?v=KSYijxVjs60"
 watched_date: "2026-11-01"
-watched_at: "2026-11-01T23:57:12Z"
+watched_at: "2026-11-01T23:57:08Z"
 watch_count: 1
 duration_seconds: 815
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 1
-history_order: 168
+history_order: 172
 watched_at_precision: date-from-history-label
 watched_percent: 72
 estimated_watched_seconds: null
