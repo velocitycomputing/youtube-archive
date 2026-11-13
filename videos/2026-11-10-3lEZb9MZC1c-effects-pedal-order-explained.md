@@ -5,13 +5,13 @@ title: Effects Pedal Order Explained
 channel: Vertex Effects
 url: "https://www.youtube.com/watch?v=3lEZb9MZC1c"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:33Z"
+watched_at: "2026-11-10T23:59:21Z"
 watch_count: 1
 duration_seconds: 1157
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 27
+history_order: 39
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

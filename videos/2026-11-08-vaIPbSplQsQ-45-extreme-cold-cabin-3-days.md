@@ -5,13 +5,13 @@ title: -45° Extreme Cold Cabin. 3 Days Freezing
 channel: jay legere
 url: "https://www.youtube.com/watch?v=vaIPbSplQsQ"
 watched_date: "2026-11-08"
-watched_at: "2026-11-08T23:58:56Z"
+watched_at: "2026-11-08T23:58:46Z"
 watch_count: 1
 duration_seconds: 3407
 source: youtube-history-browser
 added_date: ""
 history_label: Sunday
-history_order: 64
+history_order: 74
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

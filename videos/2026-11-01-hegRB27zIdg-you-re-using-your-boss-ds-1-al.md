@@ -5,13 +5,13 @@ title: "You're Using Your Boss DS-1 All Wrong! [No Really, You Are]"
 channel: That Pedal Show
 url: "https://www.youtube.com/watch?v=hegRB27zIdg"
 watched_date: "2026-11-01"
-watched_at: "2026-11-01T23:57:16Z"
+watched_at: "2026-11-01T23:57:07Z"
 watch_count: 1
 duration_seconds: 3527
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 1
-history_order: 164
+history_order: 173
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

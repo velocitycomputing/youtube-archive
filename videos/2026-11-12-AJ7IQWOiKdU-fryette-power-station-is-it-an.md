@@ -5,13 +5,13 @@ title: "Fryette Power Station - is it any good as power amp? (Spoiler: It's awes
 channel: Chasing Tone
 url: "https://www.youtube.com/watch?v=AJ7IQWOiKdU"
 watched_date: "2026-11-12"
-watched_at: "2026-11-12T23:59:57Z"
+watched_at: "2026-11-12T23:59:45Z"
 watch_count: 1
 duration_seconds: 635
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 3
+history_label: Yesterday
+history_order: 15
 watched_at_precision: date-from-history-label
 watched_percent: 69
 estimated_watched_seconds: null

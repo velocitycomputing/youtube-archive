@@ -5,13 +5,13 @@ title: Civil War in Europe? The Warning From Professor David Betz
 channel: The Financial Express
 url: "https://www.youtube.com/watch?v=5E-n6Ozo6m4"
 watched_date: "2026-11-02"
-watched_at: "2026-11-02T23:57:28Z"
+watched_at: "2026-11-02T23:57:19Z"
 watch_count: 1
 duration_seconds: 1524
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 2
-history_order: 152
+history_order: 161
 watched_at_precision: date-from-history-label
 watched_percent: 52
 estimated_watched_seconds: 792
