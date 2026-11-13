@@ -5,13 +5,13 @@ title: "Best Power Attenuators for Guitar Amps in 2026 | Mega-Giga-Monster Shoot
 channel: "Thomann's Guitars & Basses"
 url: "https://www.youtube.com/watch?v=nTtGbr9Q_Wk"
 watched_date: "2026-11-09"
-watched_at: "2026-11-09T23:59:12Z"
+watched_at: "2026-11-09T23:59:01Z"
 watch_count: 1
 duration_seconds: 3641
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 48
+history_order: 59
 watched_at_precision: date-from-history-label
 watched_percent: 15
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: The Fryette Power Station Is Perfect
 channel: Texas Blues Alley
 url: "https://www.youtube.com/watch?v=gWrDDiVrBhM"
 watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:58:17Z"
+watched_at: "2026-11-05T23:58:08Z"
 watch_count: 1
 duration_seconds: 1013
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 5
-history_order: 103
+history_order: 112
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

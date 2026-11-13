@@ -5,13 +5,13 @@ title: Don’t Build Your Pedalboard Until You Do This
 channel: Vertex Effects
 url: "https://www.youtube.com/watch?v=6u1K9vhyixI"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:24Z"
+watched_at: "2026-11-10T23:59:13Z"
 watch_count: 1
 duration_seconds: 875
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 36
+history_order: 47
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

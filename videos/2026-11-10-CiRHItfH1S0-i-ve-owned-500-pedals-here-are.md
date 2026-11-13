@@ -5,13 +5,13 @@ title: "I've owned 500+ pedals. Here are the only 6 you actually need."
 channel: Vertex Effects
 url: "https://www.youtube.com/watch?v=CiRHItfH1S0"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:35Z"
+watched_at: "2026-11-10T23:59:23Z"
 watch_count: 1
 duration_seconds: 1231
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 25
+history_order: 37
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: This Is WAY Better Than The Tubescreamer (The Boss DS-1 Sound)
 channel: Rhett Shull
 url: "https://www.youtube.com/watch?v=cr0tASqUF64"
 watched_date: "2026-11-01"
-watched_at: "2026-11-01T23:57:07Z"
+watched_at: "2026-11-01T23:56:58Z"
 watch_count: 1
 duration_seconds: 1019
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 1
-history_order: 173
+history_order: 182
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

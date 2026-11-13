@@ -5,13 +5,13 @@ title: "Anthropic's Fable 5.2 is the World’s Best AI Model"
 channel: Matt Wolfe
 url: "https://www.youtube.com/watch?v=2TM8W66NI_8"
 watched_date: "2026-11-09"
-watched_at: "2026-11-09T23:59:14Z"
+watched_at: "2026-11-09T23:59:03Z"
 watch_count: 1
 duration_seconds: 1247
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 46
+history_order: 57
 watched_at_precision: date-from-history-label
 watched_percent: 76
 estimated_watched_seconds: null

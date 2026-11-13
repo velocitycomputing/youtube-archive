@@ -5,13 +5,13 @@ title: I played blues guitar for 25 years and learned this
 channel: Soulful Guitar Lessons
 url: "https://www.youtube.com/watch?v=vJtzk51xjG8"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:44Z"
+watched_at: "2026-11-10T23:59:32Z"
 watch_count: 1
 duration_seconds: 3066
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 16
+history_order: 28
 watched_at_precision: date-from-history-label
 watched_percent: 25
 estimated_watched_seconds: null
