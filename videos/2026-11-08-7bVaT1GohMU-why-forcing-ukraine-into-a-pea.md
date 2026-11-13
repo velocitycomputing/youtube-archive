@@ -33,8 +33,8 @@ kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
 topic_domain: politics
-status: new
-routed_to: null
+status: routed-to-ournation
+routed_to: ournation.us.news#366
 ---
 
 ## Summary
