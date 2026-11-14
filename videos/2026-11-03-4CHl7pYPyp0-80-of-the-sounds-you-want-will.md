@@ -5,13 +5,13 @@ title: 80% of The Sounds You Want Will Come From These 3 Pedals
 channel: Adam Reynolds
 url: "https://www.youtube.com/watch?v=4CHl7pYPyp0"
 watched_date: "2026-11-03"
-watched_at: "2026-11-03T23:57:28Z"
+watched_at: "2026-11-03T23:57:17Z"
 watch_count: 1
 duration_seconds: 904
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 3
-history_order: 152
+history_order: 163
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
