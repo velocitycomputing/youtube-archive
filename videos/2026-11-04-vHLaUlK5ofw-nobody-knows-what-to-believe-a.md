@@ -5,13 +5,13 @@ title: Nobody Knows What to Believe Anymore
 channel: The Functional Melancholic
 url: "https://www.youtube.com/watch?v=vHLaUlK5ofw"
 watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:57:59Z"
+watched_at: "2026-11-04T23:57:48Z"
 watch_count: 1
 duration_seconds: 2403
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 4
-history_order: 121
+history_order: 132
 watched_at_precision: date-from-history-label
 watched_percent: 18
 estimated_watched_seconds: null
