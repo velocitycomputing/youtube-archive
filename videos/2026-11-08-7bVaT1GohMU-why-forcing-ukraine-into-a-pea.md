@@ -5,13 +5,13 @@ title: Why forcing Ukraine into a peace deal won’t work
 channel: Anders Puck Nielsen
 url: "https://www.youtube.com/watch?v=7bVaT1GohMU"
 watched_date: "2026-11-08"
-watched_at: "2026-11-08T23:58:41Z"
+watched_at: "2026-11-08T23:58:24Z"
 watch_count: 1
 duration_seconds: 776
 source: youtube-history-browser
 added_date: ""
-history_label: Sunday
-history_order: 79
+history_label: Nov 8
+history_order: 96
 watched_at_precision: date-from-history-label
 watched_percent: 62
 estimated_watched_seconds: 481

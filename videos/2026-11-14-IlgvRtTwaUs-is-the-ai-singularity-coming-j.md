@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:Ocr0bdB1d9M"
-video_id: Ocr0bdB1d9M
-title: "Once You Understand This, You'll Stop Working Hard"
-channel: A Life Engineered
-url: "https://www.youtube.com/watch?v=Ocr0bdB1d9M"
-watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:14Z"
+record_id: "youtube:IlgvRtTwaUs"
+video_id: IlgvRtTwaUs
+title: "Is the AI Singularity Coming? | Jane Street AI Panel"
+channel: Jane Street
+url: "https://www.youtube.com/watch?v=IlgvRtTwaUs"
+watched_date: "2026-11-14"
+watched_at: "2026-11-14T23:59:42Z"
 watch_count: 1
-duration_seconds: 1081
+duration_seconds: 6130
 source: youtube-history-browser
 added_date: ""
-history_label: Tuesday
-history_order: 46
+history_label: Yesterday
+history_order: 18
 watched_at_precision: date-from-history-label
-watched_percent: 100
+watched_percent: 10
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

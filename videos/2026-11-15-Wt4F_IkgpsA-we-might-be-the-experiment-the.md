@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:B1j0S2WKNgg"
-video_id: B1j0S2WKNgg
-title: The New Era of Application Building Has Just Begun
-channel: "ambITious | AI"
-url: "https://www.youtube.com/watch?v=B1j0S2WKNgg"
-watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:17Z"
+record_id: "youtube:Wt4F_IkgpsA"
+video_id: Wt4F_IkgpsA
+title: We Might Be The EXPERIMENT. The Sumerian Texts Said This 4000 YEARS AGO.
+channel: "The Archivist's Journal"
+url: "https://www.youtube.com/watch?v=Wt4F_IkgpsA"
+watched_date: "2026-11-15"
+watched_at: "2026-11-15T23:59:57Z"
 watch_count: 1
-duration_seconds: 696
+duration_seconds: 753
 source: youtube-history-browser
 added_date: ""
-history_label: Tuesday
-history_order: 43
+history_label: Today
+history_order: 3
 watched_at_precision: date-from-history-label
-watched_percent: 26
+watched_percent: 32
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

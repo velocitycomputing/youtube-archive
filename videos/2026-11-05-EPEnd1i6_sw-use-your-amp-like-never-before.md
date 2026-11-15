@@ -5,13 +5,13 @@ title: Use your amp like never before! Fryette Power Station PS-2A
 channel: EytschPi42
 url: "https://www.youtube.com/watch?v=EPEnd1i6_sw"
 watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:58:03Z"
+watched_at: "2026-11-05T23:57:46Z"
 watch_count: 1
 duration_seconds: 1530
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 5
-history_order: 117
+history_order: 134
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

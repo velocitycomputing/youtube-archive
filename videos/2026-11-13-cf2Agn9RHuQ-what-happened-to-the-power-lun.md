@@ -5,13 +5,13 @@ title: What happened to the power lunch?
 channel: Good Work
 url: "https://www.youtube.com/watch?v=cf2Agn9RHuQ"
 watched_date: "2026-11-13"
-watched_at: "2026-11-13T23:59:48Z"
+watched_at: "2026-11-13T23:59:29Z"
 watch_count: 1
 duration_seconds: 887
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 12
+history_label: Friday
+history_order: 31
 watched_at_precision: date-from-history-label
 watched_percent: 26
 estimated_watched_seconds: null

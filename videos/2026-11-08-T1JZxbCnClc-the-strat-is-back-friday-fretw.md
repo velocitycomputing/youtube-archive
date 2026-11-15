@@ -5,13 +5,13 @@ title: "The Strat is Back! | Friday Fretworks"
 channel: Chris Buck
 url: "https://www.youtube.com/watch?v=T1JZxbCnClc"
 watched_date: "2026-11-08"
-watched_at: "2026-11-08T23:58:38Z"
+watched_at: "2026-11-08T23:58:21Z"
 watch_count: 1
 duration_seconds: 1146
 source: youtube-history-browser
 added_date: ""
-history_label: Sunday
-history_order: 82
+history_label: Nov 8
+history_order: 99
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
