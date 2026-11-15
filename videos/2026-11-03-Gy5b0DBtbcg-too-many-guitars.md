@@ -5,13 +5,13 @@ title: TOO MANY GUITARS?
 channel: "Gary's Guitars"
 url: "https://www.youtube.com/watch?v=Gy5b0DBtbcg"
 watched_date: "2026-11-03"
-watched_at: "2026-11-03T23:57:13Z"
+watched_at: "2026-11-03T23:56:56Z"
 watch_count: 1
 duration_seconds: 628
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 3
-history_order: 167
+history_order: 184
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

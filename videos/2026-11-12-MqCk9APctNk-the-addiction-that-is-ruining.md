@@ -5,13 +5,13 @@ title: The Addiction That Is Ruining China
 channel: fern
 url: "https://www.youtube.com/watch?v=MqCk9APctNk"
 watched_date: "2026-11-12"
-watched_at: "2026-11-12T23:59:42Z"
+watched_at: "2026-11-12T23:59:24Z"
 watch_count: 1
 duration_seconds: 1803
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 18
+history_order: 36
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 1803

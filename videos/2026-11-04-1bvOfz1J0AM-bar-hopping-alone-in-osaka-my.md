@@ -5,13 +5,13 @@ title: "Bar Hopping Alone in Osaka | My Honest Thoughts at 33"
 channel: Aki _ life in Japan
 url: "https://www.youtube.com/watch?v=1bvOfz1J0AM"
 watched_date: "2026-11-04"
-watched_at: "2026-11-04T23:57:37Z"
+watched_at: "2026-11-04T23:57:20Z"
 watch_count: 1
 duration_seconds: 1040
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 4
-history_order: 143
+history_order: 160
 watched_at_precision: date-from-history-label
 watched_percent: 13
 estimated_watched_seconds: null

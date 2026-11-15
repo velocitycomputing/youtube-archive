@@ -5,15 +5,15 @@ title: "You’re Aging Faster Than You Think — The Scientist Who Plans to Live
 channel: Ageless Athlete
 url: "https://www.youtube.com/watch?v=Z8QRsAgwBXM"
 watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:59:33Z"
+watched_at: "2026-11-11T23:59:15Z"
 watch_count: 1
 duration_seconds: 4053
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 27
+history_order: 45
 watched_at_precision: date-from-history-label
-watched_percent: 44
+watched_percent: 49
 estimated_watched_seconds: 1783
 transcript_status: fetched
 transcript_content_hash: 2a93391dea9e86d3838f06e1db6de5d4725ad42cbbe4c9ab7e50f59c433f38b5

@@ -5,13 +5,13 @@ title: "I Can't Go On. I'll Go On"
 channel: The Functional Melancholic
 url: "https://www.youtube.com/watch?v=bTtELKNawl0"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:59:05Z"
+watched_at: "2026-11-10T23:58:48Z"
 watch_count: 1
 duration_seconds: 2521
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 55
+history_order: 72
 watched_at_precision: date-from-history-label
 watched_percent: 54
 estimated_watched_seconds: null
