@@ -5,13 +5,13 @@ title: "Ex-Google Executive: AI is Ending Capitalism"
 channel: The Infographics Show
 url: "https://www.youtube.com/watch?v=4ye6BMbA3UU"
 watched_date: "2026-11-14"
-watched_at: "2026-11-14T23:59:45Z"
+watched_at: "2026-11-14T23:59:17Z"
 watch_count: 1
 duration_seconds: 886
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 15
+history_label: Saturday
+history_order: 43
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

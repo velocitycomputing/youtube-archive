@@ -5,13 +5,13 @@ title: "Infighting, Resignations, and Heads Are Rolling on the MAGA Front | Expl
 channel: Heather Cox Richardson
 url: "https://www.youtube.com/watch?v=whAa16Jq7f8"
 watched_date: "2026-11-12"
-watched_at: "2026-11-12T23:59:22Z"
+watched_at: "2026-11-12T23:58:54Z"
 watch_count: 1
 duration_seconds: 1297
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 38
+history_order: 66
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 1297
