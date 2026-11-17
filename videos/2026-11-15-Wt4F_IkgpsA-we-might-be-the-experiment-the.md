@@ -5,13 +5,13 @@ title: We Might Be The EXPERIMENT. The Sumerian Texts Said This 4000 YEARS AGO.
 channel: "The Archivist's Journal"
 url: "https://www.youtube.com/watch?v=Wt4F_IkgpsA"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:59:29Z"
+watched_at: "2026-11-15T23:59:00Z"
 watch_count: 1
 duration_seconds: 753
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 31
+history_label: Sunday
+history_order: 60
 watched_at_precision: date-from-history-label
 watched_percent: 32
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: IRAN ATTACKS USA BASE IN BAHRAIN WITH DRONES, WAR RETURNS! - w/ Prof Robe
 channel: "Pyotr Kurzin | Geopolitics"
 url: "https://www.youtube.com/watch?v=4nD18TSIDcs"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:59:48Z"
+watched_at: "2026-11-15T23:59:18Z"
 watch_count: 1
 duration_seconds: 5277
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 12
+history_label: Sunday
+history_order: 42
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 528

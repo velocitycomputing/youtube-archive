@@ -5,13 +5,13 @@ title: "I Thought Klon Style Pedals Weren't My Thing, Until..."
 channel: Dylan Adams
 url: "https://www.youtube.com/watch?v=JKXmLoKU2mo"
 watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:57:22Z"
+watched_at: "2026-11-05T23:57:08Z"
 watch_count: 1
 duration_seconds: 1099
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 5
-history_order: 158
+history_order: 172
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

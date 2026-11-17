@@ -5,13 +5,13 @@ title: A Better Way To Be A Man
 channel: The Atlantic
 url: "https://www.youtube.com/watch?v=ipmz9LzPA7E"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:59:37Z"
+watched_at: "2026-11-15T23:59:07Z"
 watch_count: 1
 duration_seconds: 3197
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 23
+history_label: Sunday
+history_order: 53
 watched_at_precision: date-from-history-label
 watched_percent: 13
 estimated_watched_seconds: null

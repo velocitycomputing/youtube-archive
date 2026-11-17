@@ -5,13 +5,13 @@ title: "90% of volume pedals suck. Here are the ones that don't."
 channel: Vertex Effects
 url: "https://www.youtube.com/watch?v=dDHKn69dVuA"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:58:33Z"
+watched_at: "2026-11-10T23:58:10Z"
 watch_count: 1
 duration_seconds: 1967
 source: youtube-history-browser
 added_date: ""
-history_label: Tuesday
-history_order: 87
+history_label: Nov 10
+history_order: 110
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: "Islam: The Doctrines and History They Don’t Want You to Know"
 channel: Raymond Ibrahim
 url: "https://www.youtube.com/watch?v=aAm5OcVTwyU"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:59:40Z"
+watched_at: "2026-11-15T23:59:10Z"
 watch_count: 1
 duration_seconds: 1269
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 20
+history_label: Sunday
+history_order: 50
 watched_at_precision: date-from-history-label
 watched_percent: 79
 estimated_watched_seconds: null

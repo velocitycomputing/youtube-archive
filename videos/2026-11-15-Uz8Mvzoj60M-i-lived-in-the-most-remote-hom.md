@@ -5,13 +5,13 @@ title: I Lived in the Most Remote Home on Earth
 channel: Billy Martin
 url: "https://www.youtube.com/watch?v=Uz8Mvzoj60M"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:59:52Z"
+watched_at: "2026-11-15T23:59:21Z"
 watch_count: 1
 duration_seconds: 1272
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 8
+history_label: Sunday
+history_order: 39
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

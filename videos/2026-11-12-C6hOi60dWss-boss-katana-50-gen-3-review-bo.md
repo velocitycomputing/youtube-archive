@@ -5,13 +5,13 @@ title: "Boss Katana 50 Gen 3 Review: Boss just keeps winning"
 channel: Gui Batista
 url: "https://www.youtube.com/watch?v=C6hOi60dWss"
 watched_date: "2026-11-12"
-watched_at: "2026-11-12T23:58:53Z"
+watched_at: "2026-11-12T23:58:30Z"
 watch_count: 1
 duration_seconds: 935
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 67
+history_order: 90
 watched_at_precision: date-from-history-label
 watched_percent: 29
 estimated_watched_seconds: null
