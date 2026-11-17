@@ -5,13 +5,13 @@ title: Fable 5.2 Is the Most Powerful Model Yet
 channel: "The AI Daily Brief: Artificial Intelligence News"
 url: "https://www.youtube.com/watch?v=mJMKygU_G5g"
 watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:58:46Z"
+watched_at: "2026-11-11T23:58:23Z"
 watch_count: 1
 duration_seconds: 1796
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 74
+history_order: 97
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

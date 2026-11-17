@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:jmGrUSB8z5U"
-video_id: jmGrUSB8z5U
-title: Overdrive Pedal Shootout with Chris Buck - Winner Stays On Edition!
-channel: Andertons Music Co
-url: "https://www.youtube.com/watch?v=jmGrUSB8z5U"
-watched_date: "2026-11-01"
-watched_at: "2026-11-01T23:56:51Z"
+record_id: "youtube:SyHM5hNPAEo"
+video_id: SyHM5hNPAEo
+title: AIs might overthrow the government within a year – Paul Christiano
+channel: Dwarkesh Patel
+url: "https://www.youtube.com/watch?v=SyHM5hNPAEo"
+watched_date: "2026-11-16"
+watched_at: "2026-11-16T23:59:30Z"
 watch_count: 1
-duration_seconds: 2684
+duration_seconds: 5926
 source: youtube-history-browser
 added_date: ""
-history_label: Nov 1
-history_order: 189
+history_label: Yesterday
+history_order: 30
 watched_at_precision: date-from-history-label
-watched_percent: 60
+watched_percent: 68
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

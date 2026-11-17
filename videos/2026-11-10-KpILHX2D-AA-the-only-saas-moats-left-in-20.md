@@ -5,13 +5,13 @@ title: The Only SaaS Moats Left in 2026
 channel: Rob Walling
 url: "https://www.youtube.com/watch?v=KpILHX2D-AA"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:58:35Z"
+watched_at: "2026-11-10T23:58:12Z"
 watch_count: 1
 duration_seconds: 2390
 source: youtube-history-browser
 added_date: ""
-history_label: Tuesday
-history_order: 85
+history_label: Nov 10
+history_order: 108
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

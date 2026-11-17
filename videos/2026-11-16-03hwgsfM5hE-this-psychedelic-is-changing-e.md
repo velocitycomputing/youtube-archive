@@ -5,13 +5,13 @@ title: This Psychedelic Is Changing Everything Doctors Know About the Brain
 channel: TNE with Louisa Nicola
 url: "https://www.youtube.com/watch?v=03hwgsfM5hE"
 watched_date: "2026-11-16"
-watched_at: "2026-11-16T23:59:58Z"
+watched_at: "2026-11-16T23:59:24Z"
 watch_count: 1
 duration_seconds: 1984
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 2
+history_label: Yesterday
+history_order: 36
 watched_at_precision: date-from-history-label
 watched_percent: 21
 estimated_watched_seconds: 417

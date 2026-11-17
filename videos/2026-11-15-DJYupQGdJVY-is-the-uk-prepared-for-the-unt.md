@@ -5,13 +5,13 @@ title: Is The UK Prepared For The Unthinkable?
 channel: The Rest Is Politics
 url: "https://www.youtube.com/watch?v=DJYupQGdJVY"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:59:38Z"
+watched_at: "2026-11-15T23:59:08Z"
 watch_count: 1
 duration_seconds: 2924
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 22
+history_label: Sunday
+history_order: 52
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 292

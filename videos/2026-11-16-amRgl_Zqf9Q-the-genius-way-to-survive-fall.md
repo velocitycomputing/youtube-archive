@@ -1,17 +1,17 @@
 ---
-record_id: "youtube:QkzFe5RmDfA"
-video_id: QkzFe5RmDfA
-title: The 3rd-Up Rule (the golden pentatonic)
-channel: Rotem Sivan
-url: "https://www.youtube.com/watch?v=QkzFe5RmDfA"
-watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:59:51Z"
+record_id: "youtube:amRgl_Zqf9Q"
+video_id: amRgl_Zqf9Q
+title: The Genius Way to Survive Falling Out of a Plane Without a Parachute
+channel: Fact Quickie
+url: "https://www.youtube.com/watch?v=amRgl_Zqf9Q"
+watched_date: "2026-11-16"
+watched_at: "2026-11-16T23:59:43Z"
 watch_count: 1
-duration_seconds: 621
+duration_seconds: 1018
 source: youtube-history-browser
 added_date: ""
 history_label: Yesterday
-history_order: 9
+history_order: 17
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

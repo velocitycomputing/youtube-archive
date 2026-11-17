@@ -5,13 +5,13 @@ title: Rethinking Claude Code Best Practices — Lydia Hallie, Anthropic
 channel: AI Engineer
 url: "https://www.youtube.com/watch?v=vlfCjWuv4es"
 watched_date: "2026-11-12"
-watched_at: "2026-11-12T23:58:51Z"
+watched_at: "2026-11-12T23:58:28Z"
 watch_count: 1
 duration_seconds: 1052
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 69
+history_order: 92
 watched_at_precision: date-from-history-label
 watched_percent: 39
 estimated_watched_seconds: null
