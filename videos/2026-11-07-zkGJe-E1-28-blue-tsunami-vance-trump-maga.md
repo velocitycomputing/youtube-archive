@@ -5,13 +5,13 @@ title: "BLUE TSUNAMI: Vance, Trump, MAGA, El-Sayed"
 channel: Vlad Vexler Chat
 url: "https://www.youtube.com/watch?v=zkGJe-E1-28"
 watched_date: "2026-11-07"
-watched_at: "2026-11-07T23:57:28Z"
+watched_at: "2026-11-07T23:56:54Z"
 watch_count: 1
 duration_seconds: 1884
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 7
-history_order: 152
+history_order: 186
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1884

@@ -5,13 +5,13 @@ title: "Hasan Piker Has Joined the Party | The Ezra Klein Show"
 channel: The Ezra Klein Show
 url: "https://www.youtube.com/watch?v=1BjhYUxM_94"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:59:11Z"
+watched_at: "2026-11-15T23:58:50Z"
 watch_count: 1
 duration_seconds: 5147
 source: youtube-history-browser
 added_date: ""
 history_label: Sunday
-history_order: 49
+history_order: 70
 watched_at_precision: date-from-history-label
 watched_percent: 32
 estimated_watched_seconds: 1647
