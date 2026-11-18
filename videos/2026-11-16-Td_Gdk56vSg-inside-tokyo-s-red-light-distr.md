@@ -5,13 +5,13 @@ title: Inside Tokyo’s Red Light District
 channel: TAKASHii
 url: "https://www.youtube.com/watch?v=Td_Gdk56vSg"
 watched_date: "2026-11-16"
-watched_at: "2026-11-16T23:59:47Z"
+watched_at: "2026-11-16T23:59:29Z"
 watch_count: 1
 duration_seconds: 760
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 13
+history_label: Monday
+history_order: 31
 watched_at_precision: date-from-history-label
 watched_percent: 80
 estimated_watched_seconds: null

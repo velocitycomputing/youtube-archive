@@ -5,13 +5,13 @@ title: "How To Set Your Amp For Pedals [Gain, EQ, Volume & FX Loops]"
 channel: That Pedal Show
 url: "https://www.youtube.com/watch?v=wdUGAmYqiDc"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:58:23Z"
+watched_at: "2026-11-10T23:57:35Z"
 watch_count: 1
 duration_seconds: 4735
 source: youtube-history-browser
 added_date: ""
-history_label: Tuesday
-history_order: 97
+history_label: Nov 10
+history_order: 145
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

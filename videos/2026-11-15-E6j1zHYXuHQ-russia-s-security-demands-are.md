@@ -5,13 +5,13 @@ title: "Russia's security demands are insane and the West has no serious answer"
 channel: Vlad Vexler Chat
 url: "https://www.youtube.com/watch?v=E6j1zHYXuHQ"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:59:05Z"
+watched_at: "2026-11-15T23:58:44Z"
 watch_count: 1
 duration_seconds: 1110
 source: youtube-history-browser
 added_date: ""
 history_label: Sunday
-history_order: 55
+history_order: 76
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 111

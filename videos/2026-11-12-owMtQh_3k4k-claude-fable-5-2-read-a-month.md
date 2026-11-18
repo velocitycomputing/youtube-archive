@@ -5,13 +5,13 @@ title: Claude Fable 5.2 read a month of my failed attempts and got it right the 
 channel: "AI News & Strategy Daily | Nate B Jones"
 url: "https://www.youtube.com/watch?v=owMtQh_3k4k"
 watched_date: "2026-11-12"
-watched_at: "2026-11-12T23:58:27Z"
+watched_at: "2026-11-12T23:58:02Z"
 watch_count: 1
 duration_seconds: 847
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 93
+history_order: 118
 watched_at_precision: date-from-history-label
 watched_percent: 16
 estimated_watched_seconds: null

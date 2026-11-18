@@ -5,13 +5,13 @@ title: Guanfacine and ADHD
 channel: Dr. John Kruse
 url: "https://www.youtube.com/watch?v=_CtOpGcxPgM"
 watched_date: "2026-11-16"
-watched_at: "2026-11-16T23:59:38Z"
+watched_at: "2026-11-16T23:59:20Z"
 watch_count: 1
 duration_seconds: 849
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 22
+history_label: Monday
+history_order: 40
 watched_at_precision: date-from-history-label
 watched_percent: 51
 estimated_watched_seconds: 433
