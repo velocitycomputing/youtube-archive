@@ -5,13 +5,13 @@ title: "Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare |
 channel: Lex Fridman
 url: "https://www.youtube.com/watch?v=2hJkprFnzhY"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:57:56Z"
+watched_at: "2026-11-10T23:57:40Z"
 watch_count: 1
 duration_seconds: 10429
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 10
-history_order: 124
+history_order: 140
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 1043

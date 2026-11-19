@@ -5,13 +5,13 @@ title: "The Ultimate Bully Move to Stop Congress From Its Job | Explainer"
 channel: Heather Cox Richardson
 url: "https://www.youtube.com/watch?v=I9owyGNmgB4"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:58:53Z"
+watched_at: "2026-11-15T23:58:37Z"
 watch_count: 1
 duration_seconds: 746
 source: youtube-history-browser
 added_date: ""
 history_label: Sunday
-history_order: 67
+history_order: 83
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 746

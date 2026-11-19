@@ -5,13 +5,13 @@ title: Islamist Starts CRYING After Christian Student CRUSHES Islam
 channel: Clear Horizon
 url: "https://www.youtube.com/watch?v=gekUQxkJ1ps"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:59:36Z"
+watched_at: "2026-11-17T23:59:20Z"
 watch_count: 1
 duration_seconds: 1381
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 24
+history_label: Tuesday
+history_order: 40
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

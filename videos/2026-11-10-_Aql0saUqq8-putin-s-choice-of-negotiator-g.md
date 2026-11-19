@@ -5,13 +5,13 @@ title: "Putin's Choice of Negotiator Gives Away His Entire Game"
 channel: "Pyotr Kurzin | Geopolitics"
 url: "https://www.youtube.com/watch?v=_Aql0saUqq8"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:57:57Z"
+watched_at: "2026-11-10T23:57:41Z"
 watch_count: 1
 duration_seconds: 941
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 10
-history_order: 123
+history_order: 139
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 941

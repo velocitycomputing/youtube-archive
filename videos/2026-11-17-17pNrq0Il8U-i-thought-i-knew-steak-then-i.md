@@ -5,13 +5,13 @@ title: I Thought I Knew Steak. Then I Met This French Chef
 channel: Nigel Lewis
 url: "https://www.youtube.com/watch?v=17pNrq0Il8U"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:59:35Z"
+watched_at: "2026-11-17T23:59:19Z"
 watch_count: 1
 duration_seconds: 2542
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 25
+history_label: Tuesday
+history_order: 41
 watched_at_precision: date-from-history-label
 watched_percent: 14
 estimated_watched_seconds: null
