@@ -5,13 +5,13 @@ title: Anthropic Just Got a BIG Problem… Gemini 4 Carbon Is Here
 channel: TheAIGRID
 url: "https://www.youtube.com/watch?v=VMraE40YKrU"
 watched_date: "2026-11-16"
-watched_at: "2026-11-16T23:59:31Z"
+watched_at: "2026-11-16T23:59:15Z"
 watch_count: 1
 duration_seconds: 1201
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 29
+history_order: 45
 watched_at_precision: date-from-history-label
 watched_percent: 14
 estimated_watched_seconds: null

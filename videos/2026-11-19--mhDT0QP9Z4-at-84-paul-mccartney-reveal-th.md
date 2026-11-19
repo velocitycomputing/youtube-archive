@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:EFGvVCpW9zc"
-video_id: EFGvVCpW9zc
-title: "Fable 5.2 Is Insane... Only If You Use It Anthropic's Way"
-channel: AI LABS
-url: "https://www.youtube.com/watch?v=EFGvVCpW9zc"
-watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:59:49Z"
+record_id: "youtube:-mhDT0QP9Z4"
+video_id: -mhDT0QP9Z4
+title: At 84, Paul McCartney Reveal The 4 Greatest Guitarists He Ever Knew
+channel: Rock Legacy Spotlight
+url: "https://www.youtube.com/watch?v=-mhDT0QP9Z4"
+watched_date: "2026-11-19"
+watched_at: "2026-11-19T23:59:54Z"
 watch_count: 1
-duration_seconds: 962
+duration_seconds: 864
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 11
+history_label: Today
+history_order: 6
 watched_at_precision: date-from-history-label
-watched_percent: 28
+watched_percent: 10
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8
