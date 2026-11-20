@@ -5,13 +5,13 @@ title: THE MOST UNIQUE GUITAR PRODUCT - Fryette Valvulator GPDI/IR
 channel: EytschPi42
 url: "https://www.youtube.com/watch?v=huJFg1GqNV0"
 watched_date: "2026-11-08"
-watched_at: "2026-11-08T23:56:51Z"
+watched_at: "2026-11-08T23:56:43Z"
 watch_count: 1
 duration_seconds: 3058
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 8
-history_order: 189
+history_order: 197
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:gWrDDiVrBhM"
-video_id: gWrDDiVrBhM
-title: The Fryette Power Station Is Perfect
-channel: Texas Blues Alley
-url: "https://www.youtube.com/watch?v=gWrDDiVrBhM"
-watched_date: "2026-11-05"
-watched_at: "2026-11-05T23:57:12Z"
+record_id: "youtube:6liIbuaVNgc"
+video_id: 6liIbuaVNgc
+title: "when you ask hiromi to play \"anything\""
+channel: Bleu Orb
+url: "https://www.youtube.com/watch?v=6liIbuaVNgc"
+watched_date: "2026-11-19"
+watched_at: "2026-11-19T23:59:49Z"
 watch_count: 1
-duration_seconds: 1013
+duration_seconds: 717
 source: youtube-history-browser
 added_date: ""
-history_label: Nov 5
-history_order: 168
+history_label: Yesterday
+history_order: 11
 watched_at_precision: date-from-history-label
-watched_percent: 10
+watched_percent: 11
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

@@ -5,13 +5,13 @@ title: "It's Weird, But It Re-Builds Your Tendons In 30 Days"
 channel: Jeremy Ethier
 url: "https://www.youtube.com/watch?v=GSwL3Lgw6zI"
 watched_date: "2026-11-18"
-watched_at: "2026-11-18T23:59:49Z"
+watched_at: "2026-11-18T23:59:35Z"
 watch_count: 1
 duration_seconds: 649
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 11
+history_label: Wednesday
+history_order: 25
 watched_at_precision: date-from-history-label
 watched_percent: 47
 estimated_watched_seconds: 305

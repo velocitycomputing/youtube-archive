@@ -1,17 +1,17 @@
 ---
-record_id: "youtube:mJMKygU_G5g"
-video_id: mJMKygU_G5g
-title: Fable 5.2 Is the Most Powerful Model Yet
-channel: "The AI Daily Brief: Artificial Intelligence News"
-url: "https://www.youtube.com/watch?v=mJMKygU_G5g"
-watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:57:42Z"
+record_id: "youtube:btG2ZBA7QEg"
+video_id: btG2ZBA7QEg
+title: I Spent 30 Years Cooking Prime Rib Wrong Until I Tried This Method
+channel: Chef Billy Parisi
+url: "https://www.youtube.com/watch?v=btG2ZBA7QEg"
+watched_date: "2026-11-19"
+watched_at: "2026-11-19T23:59:50Z"
 watch_count: 1
-duration_seconds: 1796
+duration_seconds: 806
 source: youtube-history-browser
 added_date: ""
-history_label: Nov 11
-history_order: 138
+history_label: Yesterday
+history_order: 10
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

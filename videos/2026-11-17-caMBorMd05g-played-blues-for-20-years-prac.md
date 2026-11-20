@@ -5,13 +5,13 @@ title: Played Blues for 20 Years? Practice This 20 Minutes a Day to Sound Like J
 channel: Armin Mir
 url: "https://www.youtube.com/watch?v=caMBorMd05g"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:59:17Z"
+watched_at: "2026-11-17T23:59:03Z"
 watch_count: 1
 duration_seconds: 749
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 43
+history_order: 57
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

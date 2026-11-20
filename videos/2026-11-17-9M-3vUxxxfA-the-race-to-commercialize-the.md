@@ -5,15 +5,15 @@ title: "The Race to Commercialize the World’s Most Powerful Psychedelic | WSJ"
 channel: The Wall Street Journal
 url: "https://www.youtube.com/watch?v=9M-3vUxxxfA"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:59:42Z"
+watched_at: "2026-11-17T23:59:28Z"
 watch_count: 1
 duration_seconds: 910
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 18
+history_order: 32
 watched_at_precision: date-from-history-label
-watched_percent: 34
+watched_percent: 65
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

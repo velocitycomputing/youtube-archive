@@ -5,13 +5,13 @@ title: "CPTSD and High Intelligence: 10 Signs of Traumatic Intelligence"
 channel: Katarina Esko
 url: "https://www.youtube.com/watch?v=jN3bydPcKgQ"
 watched_date: "2026-11-19"
-watched_at: "2026-11-19T23:59:56Z"
+watched_at: "2026-11-19T23:59:42Z"
 watch_count: 1
 duration_seconds: 693
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 4
+history_label: Yesterday
+history_order: 18
 watched_at_precision: date-from-history-label
 watched_percent: 12
 estimated_watched_seconds: 83

@@ -5,13 +5,13 @@ title: The 3rd-Up Rule (the golden pentatonic)
 channel: Rotem Sivan
 url: "https://www.youtube.com/watch?v=QkzFe5RmDfA"
 watched_date: "2026-11-16"
-watched_at: "2026-11-16T23:58:54Z"
+watched_at: "2026-11-16T23:58:40Z"
 watch_count: 1
 duration_seconds: 621
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 66
+history_order: 80
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
