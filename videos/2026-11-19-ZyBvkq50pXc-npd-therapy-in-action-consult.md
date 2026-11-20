@@ -5,13 +5,13 @@ title: "NPD Therapy in Action | Consult w/ Dr. Ruth Lewis & Jacob (NPD dx)"
 channel: BorderlinerNotes
 url: "https://www.youtube.com/watch?v=ZyBvkq50pXc"
 watched_date: "2026-11-19"
-watched_at: "2026-11-19T23:59:55Z"
+watched_at: "2026-11-19T23:59:41Z"
 watch_count: 1
 duration_seconds: 2178
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 5
+history_label: Yesterday
+history_order: 19
 watched_at_precision: date-from-history-label
 watched_percent: 19
 estimated_watched_seconds: 414

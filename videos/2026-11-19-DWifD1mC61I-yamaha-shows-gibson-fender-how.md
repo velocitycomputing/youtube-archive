@@ -5,13 +5,13 @@ title: Yamaha Shows Gibson & Fender How It Is Done
 channel: Phillip McKnight
 url: "https://www.youtube.com/watch?v=DWifD1mC61I"
 watched_date: "2026-11-19"
-watched_at: "2026-11-19T23:59:59Z"
+watched_at: "2026-11-19T23:59:45Z"
 watch_count: 1
 duration_seconds: 1539
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 1
+history_label: Yesterday
+history_order: 15
 watched_at_precision: date-from-history-label
 watched_percent: 55
 estimated_watched_seconds: null

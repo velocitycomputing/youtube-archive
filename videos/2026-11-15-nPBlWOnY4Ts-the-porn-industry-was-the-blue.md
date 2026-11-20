@@ -5,13 +5,13 @@ title: "The porn industry was the blueprint for the modern world | Patricia Nils
 channel: The Exchange
 url: "https://www.youtube.com/watch?v=nPBlWOnY4Ts"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:58:29Z"
+watched_at: "2026-11-15T23:58:15Z"
 watch_count: 1
 duration_seconds: 3520
 source: youtube-history-browser
 added_date: ""
 history_label: Sunday
-history_order: 91
+history_order: 105
 watched_at_precision: date-from-history-label
 watched_percent: 19
 estimated_watched_seconds: null
