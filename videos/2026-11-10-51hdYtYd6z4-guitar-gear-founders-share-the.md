@@ -5,13 +5,13 @@ title: Guitar Gear Founders Share Their Best Business Advice
 channel: Products of Music
 url: "https://www.youtube.com/watch?v=51hdYtYd6z4"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:57:19Z"
+watched_at: "2026-11-10T23:56:51Z"
 watch_count: 1
 duration_seconds: 2141
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 10
-history_order: 161
+history_order: 189
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

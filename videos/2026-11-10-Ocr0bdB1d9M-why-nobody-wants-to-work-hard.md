@@ -5,13 +5,13 @@ title: Why Nobody Wants to Work Hard Anymore
 channel: A Life Engineered
 url: "https://www.youtube.com/watch?v=Ocr0bdB1d9M"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:57:11Z"
+watched_at: "2026-11-10T23:56:43Z"
 watch_count: 1
 duration_seconds: 1081
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 10
-history_order: 169
+history_order: 197
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

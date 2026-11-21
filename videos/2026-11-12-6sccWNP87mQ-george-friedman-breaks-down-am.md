@@ -5,13 +5,13 @@ title: George Friedman Breaks Down America’s Midterm Fallout
 channel: Geopolitical Futures
 url: "https://www.youtube.com/watch?v=6sccWNP87mQ"
 watched_date: "2026-11-12"
-watched_at: "2026-11-12T23:57:31Z"
+watched_at: "2026-11-12T23:57:03Z"
 watch_count: 1
 duration_seconds: 2234
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 12
-history_order: 149
+history_order: 177
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 223

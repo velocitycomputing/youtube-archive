@@ -5,13 +5,13 @@ title: The New Era of Application Dev Has Just Begun
 channel: "ambITious | AI"
 url: "https://www.youtube.com/watch?v=B1j0S2WKNgg"
 watched_date: "2026-11-10"
-watched_at: "2026-11-10T23:57:14Z"
+watched_at: "2026-11-10T23:56:46Z"
 watch_count: 1
 duration_seconds: 696
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 10
-history_order: 166
+history_order: 194
 watched_at_precision: date-from-history-label
 watched_percent: 26
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: AIs might overthrow the government within a year – Paul Christiano
 channel: Dwarkesh Patel
 url: "https://www.youtube.com/watch?v=SyHM5hNPAEo"
 watched_date: "2026-11-16"
-watched_at: "2026-11-16T23:58:42Z"
+watched_at: "2026-11-16T23:58:14Z"
 watch_count: 1
 duration_seconds: 5926
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 78
+history_order: 106
 watched_at_precision: date-from-history-label
 watched_percent: 68
 estimated_watched_seconds: null

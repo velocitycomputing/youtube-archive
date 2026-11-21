@@ -5,13 +5,13 @@ title: "I Snorkeled the Edge of the Puget Sound - Here's What I Saw"
 channel: Joseph Ricketts
 url: "https://www.youtube.com/watch?v=vUt_MoKCc4E"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:59:26Z"
+watched_at: "2026-11-17T23:58:58Z"
 watch_count: 1
 duration_seconds: 662
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 34
+history_order: 62
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
