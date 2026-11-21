@@ -5,13 +5,13 @@ title: "Why AI Should Pay Us for Being Human | Technologist Jaron Lanier"
 channel: Futurology
 url: "https://www.youtube.com/watch?v=Ly7313PkP4s"
 watched_date: "2026-11-14"
-watched_at: "2026-11-14T23:58:00Z"
+watched_at: "2026-11-14T23:57:32Z"
 watch_count: 1
 duration_seconds: 5968
 source: youtube-history-browser
 added_date: ""
-history_label: Saturday
-history_order: 120
+history_label: Nov 14
+history_order: 148
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

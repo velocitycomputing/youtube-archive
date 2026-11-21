@@ -5,13 +5,13 @@ title: "This should tell you Trump is ‘shaking in his boots’ — and has ‘
 channel: The Trump Report
 url: "https://www.youtube.com/watch?v=ObgfCHeuHj8"
 watched_date: "2026-11-12"
-watched_at: "2026-11-12T23:57:34Z"
+watched_at: "2026-11-12T23:57:06Z"
 watch_count: 1
 duration_seconds: 3188
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 12
-history_order: 146
+history_order: 174
 watched_at_precision: date-from-history-label
 watched_percent: 26
 estimated_watched_seconds: 829

@@ -5,13 +5,13 @@ title: Life in China 🇨🇳 A Typical Weekend in a Chinese Family
 channel: Abo in China
 url: "https://www.youtube.com/watch?v=6aOsymJxffE"
 watched_date: "2026-11-19"
-watched_at: "2026-11-19T23:59:52Z"
+watched_at: "2026-11-19T23:59:24Z"
 watch_count: 1
 duration_seconds: 1297
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 8
+history_label: Thursday
+history_order: 36
 watched_at_precision: date-from-history-label
 watched_percent: 26
 estimated_watched_seconds: null

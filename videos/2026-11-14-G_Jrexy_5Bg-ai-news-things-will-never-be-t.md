@@ -5,13 +5,13 @@ title: "AI News: Things Will Never Be The Same"
 channel: Matt Wolfe
 url: "https://www.youtube.com/watch?v=G_Jrexy_5Bg"
 watched_date: "2026-11-14"
-watched_at: "2026-11-14T23:57:53Z"
+watched_at: "2026-11-14T23:57:25Z"
 watch_count: 1
 duration_seconds: 1631
 source: youtube-history-browser
 added_date: ""
-history_label: Saturday
-history_order: 127
+history_label: Nov 14
+history_order: 155
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: Fable 5.2 vs Opus 5.5 and When to Use Each
 channel: "The AI Daily Brief: Artificial Intelligence News"
 url: "https://www.youtube.com/watch?v=mJMKygU_G5g"
 watched_date: "2026-11-11"
-watched_at: "2026-11-11T23:57:28Z"
+watched_at: "2026-11-11T23:57:00Z"
 watch_count: 1
 duration_seconds: 1796
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 11
-history_order: 152
+history_order: 180
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

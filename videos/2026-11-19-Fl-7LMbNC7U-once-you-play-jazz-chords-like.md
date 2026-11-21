@@ -5,13 +5,13 @@ title: Once You Play Jazz Chords Like THIS, Everything Sounds Better
 channel: Jens Larsen
 url: "https://www.youtube.com/watch?v=Fl-7LMbNC7U"
 watched_date: "2026-11-19"
-watched_at: "2026-11-19T23:59:54Z"
+watched_at: "2026-11-19T23:59:26Z"
 watch_count: 1
 duration_seconds: 637
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 6
+history_label: Thursday
+history_order: 34
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: Why the Secular Left Teamed Up With Islam - Raymond Ibrahim
 channel: Dad Saves America
 url: "https://www.youtube.com/watch?v=_BB7rd-lROI"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:58:26Z"
+watched_at: "2026-11-15T23:57:58Z"
 watch_count: 1
 duration_seconds: 938
 source: youtube-history-browser
 added_date: ""
 history_label: Sunday
-history_order: 94
+history_order: 122
 watched_at_precision: date-from-history-label
 watched_percent: 66
 estimated_watched_seconds: 619
