@@ -5,13 +5,13 @@ title: "Ukraine's Starlink Workaround Has Russia Spooked"
 channel: The Bulwark
 url: "https://www.youtube.com/watch?v=j3Q0ZYG_x4Y"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:57:56Z"
+watched_at: "2026-11-15T23:57:29Z"
 watch_count: 1
 duration_seconds: 2098
 source: youtube-history-browser
 added_date: ""
-history_label: Sunday
-history_order: 124
+history_label: Nov 15
+history_order: 151
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 210

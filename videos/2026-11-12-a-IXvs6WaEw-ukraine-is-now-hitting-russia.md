@@ -5,13 +5,13 @@ title: UKRAINE IS NOW HITTING RUSSIA’S BIGGEST REFINERIES AND PUTIN CAN’T ST
 channel: "Pyotr Kurzin | Geopolitics"
 url: "https://www.youtube.com/watch?v=a-IXvs6WaEw"
 watched_date: "2026-11-12"
-watched_at: "2026-11-12T23:57:13Z"
+watched_at: "2026-11-12T23:56:47Z"
 watch_count: 1
 duration_seconds: 3162
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 12
-history_order: 167
+history_order: 193
 watched_at_precision: date-from-history-label
 watched_percent: 89
 estimated_watched_seconds: 2814

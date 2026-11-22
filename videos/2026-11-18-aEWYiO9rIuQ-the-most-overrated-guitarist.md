@@ -5,13 +5,13 @@ title: The Most OVERRATED Guitarist
 channel: samuraiguitarist
 url: "https://www.youtube.com/watch?v=aEWYiO9rIuQ"
 watched_date: "2026-11-18"
-watched_at: "2026-11-18T23:59:10Z"
+watched_at: "2026-11-18T23:58:43Z"
 watch_count: 1
 duration_seconds: 1217
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 50
+history_order: 77
 watched_at_precision: date-from-history-label
 watched_percent: 88
 estimated_watched_seconds: null

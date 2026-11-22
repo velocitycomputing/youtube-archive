@@ -5,13 +5,13 @@ title: Boss DS-1 Distortion (Are You Using It Wrong?)
 channel: Elmo Karjalainen
 url: "https://www.youtube.com/watch?v=TB-tHquU21A"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:58:56Z"
+watched_at: "2026-11-17T23:58:29Z"
 watch_count: 1
 duration_seconds: 813
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 64
+history_order: 91
 watched_at_precision: date-from-history-label
 watched_percent: 36
 estimated_watched_seconds: null

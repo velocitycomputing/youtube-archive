@@ -5,13 +5,13 @@ title: Muslim Student Defends Islam, Then Starts Stuttering When Douglas Murray 
 channel: The Celebrity Files
 url: "https://www.youtube.com/watch?v=z24kgMUdYRM"
 watched_date: "2026-11-21"
-watched_at: "2026-11-21T23:59:52Z"
+watched_at: "2026-11-21T23:59:25Z"
 watch_count: 1
 duration_seconds: 1388
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 8
+history_label: Yesterday
+history_order: 35
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1388

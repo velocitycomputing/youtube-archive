@@ -5,13 +5,13 @@ title: I Tested GPT-6 Astra in Blender. This is Getting Serious
 channel: Brandon Lerry
 url: "https://www.youtube.com/watch?v=ZhdPQUFc2Ts"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:58:47Z"
+watched_at: "2026-11-17T23:58:20Z"
 watch_count: 1
 duration_seconds: 665
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 73
+history_order: 100
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

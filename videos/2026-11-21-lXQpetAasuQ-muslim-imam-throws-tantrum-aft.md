@@ -5,13 +5,13 @@ title: Muslim Imam Throws TANTRUM After Being HUMILIATED by Douglas Murray While
 channel: Healing By Faith
 url: "https://www.youtube.com/watch?v=lXQpetAasuQ"
 watched_date: "2026-11-21"
-watched_at: "2026-11-21T23:59:44Z"
+watched_at: "2026-11-21T23:59:17Z"
 watch_count: 1
 duration_seconds: 1232
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 16
+history_label: Yesterday
+history_order: 43
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1232
