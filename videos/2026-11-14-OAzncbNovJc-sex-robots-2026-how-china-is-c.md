@@ -5,13 +5,13 @@ title: "Sex Robots 2026: How China is Changing the Sex Industry?"
 channel: PRO ROBOTS
 url: "https://www.youtube.com/watch?v=OAzncbNovJc"
 watched_date: "2026-11-14"
-watched_at: "2026-11-14T23:57:29Z"
+watched_at: "2026-11-14T23:57:03Z"
 watch_count: 1
 duration_seconds: 1247
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 14
-history_order: 151
+history_order: 177
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: "Inference Will Be $10TRN Market: What No One Sees | Software Investors a
 channel: 20VC with Harry Stebbings
 url: "https://www.youtube.com/watch?v=4UmFfI8CWuA"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:57:42Z"
+watched_at: "2026-11-15T23:57:16Z"
 watch_count: 1
 duration_seconds: 4406
 source: youtube-history-browser
 added_date: ""
-history_label: Sunday
-history_order: 138
+history_label: Nov 15
+history_order: 164
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 441

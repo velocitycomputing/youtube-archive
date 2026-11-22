@@ -5,13 +5,13 @@ title: "Ukraine burns all of Russia's largest oil refineries in less than 2 week
 channel: "Ukraine: The Latest"
 url: "https://www.youtube.com/watch?v=eSuSWGjg558"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:57:54Z"
+watched_at: "2026-11-15T23:57:27Z"
 watch_count: 1
 duration_seconds: 1803
 source: youtube-history-browser
 added_date: ""
-history_label: Sunday
-history_order: 126
+history_label: Nov 15
+history_order: 153
 watched_at_precision: date-from-history-label
 watched_percent: 87
 estimated_watched_seconds: 1569
