@@ -5,13 +5,13 @@ title: "Palmer Luckey: How Steve Jobs Ruined Everything, the $2B Oculus Sale & G
 channel: The Builders with Walter Isaacson
 url: "https://www.youtube.com/watch?v=Wj00YlDuWXc"
 watched_date: "2026-11-18"
-watched_at: "2026-11-18T23:58:36Z"
+watched_at: "2026-11-18T23:58:31Z"
 watch_count: 1
 duration_seconds: 2669
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 84
+history_order: 89
 watched_at_precision: date-from-history-label
 watched_percent: 95
 estimated_watched_seconds: null

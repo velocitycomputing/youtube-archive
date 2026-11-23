@@ -5,13 +5,13 @@ title: "This Is Why I Find Pema Chödrön So Essential | The Ezra Klein Show"
 channel: The Ezra Klein Show
 url: "https://www.youtube.com/watch?v=MkaYDsMsZZU"
 watched_date: "2026-11-21"
-watched_at: "2026-11-21T23:59:31Z"
+watched_at: "2026-11-21T23:59:26Z"
 watch_count: 1
 duration_seconds: 4552
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 29
+history_label: Saturday
+history_order: 34
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

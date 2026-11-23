@@ -5,13 +5,13 @@ title: Stanford Hooked A Coding Agent To A Robot. It Went 24 For 25 with No Extr
 channel: "AI News & Strategy Daily | Nate B Jones"
 url: "https://www.youtube.com/watch?v=VkvoUCgHP6Q"
 watched_date: "2026-11-18"
-watched_at: "2026-11-18T23:58:35Z"
+watched_at: "2026-11-18T23:58:30Z"
 watch_count: 1
 duration_seconds: 740
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 85
+history_order: 90
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

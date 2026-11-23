@@ -5,13 +5,13 @@ title: How Russia Keeps Absorbing Losses Far Beyond Afghanistan
 channel: The Military Show
 url: "https://www.youtube.com/watch?v=Em8PiW984s0"
 watched_date: "2026-11-14"
-watched_at: "2026-11-14T23:57:09Z"
+watched_at: "2026-11-14T23:57:04Z"
 watch_count: 1
 duration_seconds: 1349
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 14
-history_order: 171
+history_order: 176
 watched_at_precision: date-from-history-label
 watched_percent: 27
 estimated_watched_seconds: 364

@@ -5,13 +5,13 @@ title: "Is the AI Singularity Coming? | Jane Street AI Panel"
 channel: Jane Street
 url: "https://www.youtube.com/watch?v=IlgvRtTwaUs"
 watched_date: "2026-11-14"
-watched_at: "2026-11-14T23:57:02Z"
+watched_at: "2026-11-14T23:56:57Z"
 watch_count: 1
 duration_seconds: 6130
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 14
-history_order: 178
+history_order: 183
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

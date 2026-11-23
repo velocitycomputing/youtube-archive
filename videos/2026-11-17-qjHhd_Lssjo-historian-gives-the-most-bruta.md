@@ -5,13 +5,13 @@ title: Historian Gives the Most BRUTAL Breakdown of Islam You’ll Ever Hear
 channel: "Pastor Daniel | Truth Unleashed"
 url: "https://www.youtube.com/watch?v=qjHhd_Lssjo"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:58:13Z"
+watched_at: "2026-11-17T23:58:08Z"
 watch_count: 1
 duration_seconds: 3190
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 107
+history_order: 112
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

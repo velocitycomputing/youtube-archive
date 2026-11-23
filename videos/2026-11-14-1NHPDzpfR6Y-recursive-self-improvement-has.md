@@ -5,13 +5,13 @@ title: Recursive self-improvement has started
 channel: Dwarkesh Patel
 url: "https://www.youtube.com/watch?v=1NHPDzpfR6Y"
 watched_date: "2026-11-14"
-watched_at: "2026-11-14T23:57:01Z"
+watched_at: "2026-11-14T23:56:56Z"
 watch_count: 1
 duration_seconds: 2667
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 14
-history_order: 179
+history_order: 184
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

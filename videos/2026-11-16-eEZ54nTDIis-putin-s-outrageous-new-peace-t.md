@@ -5,13 +5,13 @@ title: "Putin's 'outrageous' new peace terms as Russia loses 55% of its refining
 channel: "Ukraine: The Latest"
 url: "https://www.youtube.com/watch?v=eEZ54nTDIis"
 watched_date: "2026-11-16"
-watched_at: "2026-11-16T23:57:48Z"
+watched_at: "2026-11-16T23:57:43Z"
 watch_count: 1
 duration_seconds: 1802
 source: youtube-history-browser
 added_date: ""
-history_label: Monday
-history_order: 132
+history_label: Nov 16
+history_order: 137
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 180

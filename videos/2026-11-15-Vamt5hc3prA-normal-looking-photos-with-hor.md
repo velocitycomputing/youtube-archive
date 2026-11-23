@@ -5,13 +5,13 @@ title: Normal-Looking Photos With Horrifying Backstories
 channel: Joe Scott
 url: "https://www.youtube.com/watch?v=Vamt5hc3prA"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:57:11Z"
+watched_at: "2026-11-15T23:57:06Z"
 watch_count: 1
 duration_seconds: 1891
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 15
-history_order: 169
+history_order: 174
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
