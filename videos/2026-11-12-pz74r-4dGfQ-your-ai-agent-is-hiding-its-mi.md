@@ -5,13 +5,13 @@ title: Your AI Agent Is Hiding Its Mistakes From You - Ben Holmes, Warp
 channel: AI Engineer
 url: "https://www.youtube.com/watch?v=pz74r-4dGfQ"
 watched_date: "2026-11-12"
-watched_at: "2026-11-12T23:56:45Z"
+watched_at: "2026-11-12T23:56:40Z"
 watch_count: 1
 duration_seconds: 1160
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 12
-history_order: 195
+history_order: 200
 watched_at_precision: date-from-history-label
 watched_percent: 60
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: Every Level Of IQ In 13 Minutes
 channel: Humanss Explained
 url: "https://www.youtube.com/watch?v=bimwRy_2PQs"
 watched_date: "2026-11-16"
-watched_at: "2026-11-16T23:58:01Z"
+watched_at: "2026-11-16T23:57:56Z"
 watch_count: 1
 duration_seconds: 770
 source: youtube-history-browser
 added_date: ""
-history_label: Monday
-history_order: 119
+history_label: Nov 16
+history_order: 124
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

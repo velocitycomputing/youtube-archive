@@ -5,13 +5,13 @@ title: "He's Openly Admitting It Now..."
 channel: Combat Veteran News
 url: "https://www.youtube.com/watch?v=VXi-CtfAVLk"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:58:09Z"
+watched_at: "2026-11-17T23:58:04Z"
 watch_count: 1
 duration_seconds: 1745
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 111
+history_order: 116
 watched_at_precision: date-from-history-label
 watched_percent: 19
 estimated_watched_seconds: null
