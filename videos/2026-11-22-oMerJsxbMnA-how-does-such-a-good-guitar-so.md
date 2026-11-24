@@ -5,13 +5,13 @@ title: How Does Such A Good Guitar Sound SO BAD.
 channel: Robert Baker
 url: "https://www.youtube.com/watch?v=oMerJsxbMnA"
 watched_date: "2026-11-22"
-watched_at: "2026-11-22T23:59:55Z"
+watched_at: "2026-11-22T23:59:18Z"
 watch_count: 1
 duration_seconds: 2310
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 5
+history_label: Sunday
+history_order: 42
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

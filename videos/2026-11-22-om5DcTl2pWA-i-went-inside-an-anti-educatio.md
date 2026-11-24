@@ -5,13 +5,13 @@ title: I Went Inside an Anti-Education Jungle Commune
 channel: Zandland™
 url: "https://www.youtube.com/watch?v=om5DcTl2pWA"
 watched_date: "2026-11-22"
-watched_at: "2026-11-22T23:59:43Z"
+watched_at: "2026-11-22T23:59:06Z"
 watch_count: 1
 duration_seconds: 1703
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 17
+history_label: Sunday
+history_order: 54
 watched_at_precision: date-from-history-label
 watched_percent: 16
 estimated_watched_seconds: null

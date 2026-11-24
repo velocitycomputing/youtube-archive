@@ -5,13 +5,13 @@ title: The Ultimate Piece Of Gear?!! Fryette Power Station PS-2
 channel: "Shred Ain't Dead"
 url: "https://www.youtube.com/watch?v=N2aTVieao70"
 watched_date: "2026-11-18"
-watched_at: "2026-11-18T23:58:34Z"
+watched_at: "2026-11-18T23:57:57Z"
 watch_count: 1
 duration_seconds: 699
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 86
+history_order: 123
 watched_at_precision: date-from-history-label
 watched_percent: 36
 estimated_watched_seconds: null

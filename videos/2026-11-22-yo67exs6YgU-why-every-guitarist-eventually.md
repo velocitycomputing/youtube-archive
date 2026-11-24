@@ -5,13 +5,13 @@ title: Why Every Guitarist Eventually Buys a Telecaster
 channel: Great Guitarists
 url: "https://www.youtube.com/watch?v=yo67exs6YgU"
 watched_date: "2026-11-22"
-watched_at: "2026-11-22T23:59:49Z"
+watched_at: "2026-11-22T23:59:12Z"
 watch_count: 1
 duration_seconds: 944
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 11
+history_label: Sunday
+history_order: 48
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

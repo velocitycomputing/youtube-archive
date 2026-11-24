@@ -5,13 +5,13 @@ title: "Update from Ukraine | Kerch Bridge on Fire! Second Major Strike is Happe
 channel: Denys Davydov
 url: "https://www.youtube.com/watch?v=HGp5rWBzqgQ"
 watched_date: "2026-11-16"
-watched_at: "2026-11-16T23:57:52Z"
+watched_at: "2026-11-16T23:57:15Z"
 watch_count: 1
 duration_seconds: 1301
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 16
-history_order: 128
+history_order: 165
 watched_at_precision: date-from-history-label
 watched_percent: 13
 estimated_watched_seconds: 169

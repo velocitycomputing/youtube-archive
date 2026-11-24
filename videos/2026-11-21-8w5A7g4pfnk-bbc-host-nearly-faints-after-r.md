@@ -5,13 +5,13 @@ title: BBC Host Nearly FAINTS After Rupert Lowe Brutally HUMILIATES Her For Prea
 channel: Healing By Faith
 url: "https://www.youtube.com/watch?v=8w5A7g4pfnk"
 watched_date: "2026-11-21"
-watched_at: "2026-11-21T23:59:13Z"
+watched_at: "2026-11-21T23:58:36Z"
 watch_count: 1
 duration_seconds: 1158
 source: youtube-history-browser
 added_date: ""
 history_label: Saturday
-history_order: 47
+history_order: 84
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 116

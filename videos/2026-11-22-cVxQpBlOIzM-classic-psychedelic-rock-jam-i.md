@@ -5,13 +5,13 @@ title: "Classic Psychedelic Rock Jam in E Minor | Guitar Backing Track"
 channel: Now YOU Shred Backing Tracks
 url: "https://www.youtube.com/watch?v=cVxQpBlOIzM"
 watched_date: "2026-11-22"
-watched_at: "2026-11-22T23:59:34Z"
+watched_at: "2026-11-22T23:58:57Z"
 watch_count: 1
 duration_seconds: 730
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 26
+history_label: Sunday
+history_order: 63
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: "Ukraine's \"SMALL\" Strategy STUNS Even West Point Experts"
 channel: The Military Show
 url: "https://www.youtube.com/watch?v=mS28SZ4r5SU"
 watched_date: "2026-11-20"
-watched_at: "2026-11-20T23:58:57Z"
+watched_at: "2026-11-20T23:58:20Z"
 watch_count: 1
 duration_seconds: 1032
 source: youtube-history-browser
 added_date: ""
 history_label: Friday
-history_order: 63
+history_order: 100
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 103

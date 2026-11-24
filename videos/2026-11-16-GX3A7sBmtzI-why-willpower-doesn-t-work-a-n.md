@@ -5,13 +5,13 @@ title: "Why Willpower Doesn't Work: A Neuroscientist Explains How to Rewire Your
 channel: RECOVERable
 url: "https://www.youtube.com/watch?v=GX3A7sBmtzI"
 watched_date: "2026-11-16"
-watched_at: "2026-11-16T23:57:34Z"
+watched_at: "2026-11-16T23:56:57Z"
 watch_count: 1
 duration_seconds: 3015
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 16
-history_order: 146
+history_order: 183
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 302

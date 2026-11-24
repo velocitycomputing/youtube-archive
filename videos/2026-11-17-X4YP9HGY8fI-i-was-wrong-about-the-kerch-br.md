@@ -5,13 +5,13 @@ title: I Was Wrong About the Kerch Bridge
 channel: Ryan McBeth
 url: "https://www.youtube.com/watch?v=X4YP9HGY8fI"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:58:20Z"
+watched_at: "2026-11-17T23:57:43Z"
 watch_count: 1
 duration_seconds: 879
 source: youtube-history-browser
 added_date: ""
-history_label: Tuesday
-history_order: 100
+history_label: Nov 17
+history_order: 137
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 879

@@ -5,13 +5,13 @@ title: "This Is Your Brain on Psilocybin: The New Clinical Evidence"
 channel: Dr. Tracey Marks
 url: "https://www.youtube.com/watch?v=5bTq3j6zPsw"
 watched_date: "2026-11-19"
-watched_at: "2026-11-19T23:58:44Z"
+watched_at: "2026-11-19T23:58:07Z"
 watch_count: 1
 duration_seconds: 721
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 76
+history_order: 113
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 72
