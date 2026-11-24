@@ -27,8 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
+topic_domain: other
 status: new
 routed_to: null
+topic_concepts: []
+ournation_sections: []
+kev_confidence: null
+kev_calibrated: false
+assignment_status: "abstained"
 ---
 
 ## Summary
