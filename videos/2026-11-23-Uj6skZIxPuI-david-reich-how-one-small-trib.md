@@ -5,13 +5,13 @@ title: David Reich — How one small tribe conquered the world 70,000 years ago
 channel: Dwarkesh Patel
 url: "https://www.youtube.com/watch?v=Uj6skZIxPuI"
 watched_date: "2026-11-23"
-watched_at: "2026-11-23T23:59:57Z"
+watched_at: "2026-11-23T23:59:20Z"
 watch_count: 1
 duration_seconds: 7024
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 3
+history_label: Yesterday
+history_order: 40
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

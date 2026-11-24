@@ -5,13 +5,13 @@ title: CHINA Fading Fast as New Shock Threatens Economy
 channel: Joe Blogs
 url: "https://www.youtube.com/watch?v=DA_uE7Wv54U"
 watched_date: "2026-11-15"
-watched_at: "2026-11-15T23:57:21Z"
+watched_at: "2026-11-15T23:56:44Z"
 watch_count: 1
 duration_seconds: 888
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 15
-history_order: 159
+history_order: 196
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

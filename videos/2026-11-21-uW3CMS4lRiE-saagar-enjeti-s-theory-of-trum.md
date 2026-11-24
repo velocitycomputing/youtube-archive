@@ -5,13 +5,13 @@ title: "Saagar Enjeti’s Theory of Trump’s Demise | Interesting Times"
 channel: Interesting Times
 url: "https://www.youtube.com/watch?v=uW3CMS4lRiE"
 watched_date: "2026-11-21"
-watched_at: "2026-11-21T23:59:30Z"
+watched_at: "2026-11-21T23:58:53Z"
 watch_count: 1
 duration_seconds: 2774
 source: youtube-history-browser
 added_date: ""
 history_label: Saturday
-history_order: 30
+history_order: 67
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 277

@@ -5,13 +5,13 @@ title: "Russia’s Secret Mindset: Why Russians Don’t Think Like You"
 channel: Elvira Bary
 url: "https://www.youtube.com/watch?v=rmnZRe8KKus"
 watched_date: "2026-11-22"
-watched_at: "2026-11-22T23:59:53Z"
+watched_at: "2026-11-22T23:59:16Z"
 watch_count: 1
 duration_seconds: 1838
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 7
+history_label: Sunday
+history_order: 44
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null
