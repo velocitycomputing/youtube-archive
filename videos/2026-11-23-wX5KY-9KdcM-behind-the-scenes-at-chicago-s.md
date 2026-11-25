@@ -5,13 +5,13 @@ title: "Behind the Scenes at Chicago's Newest Hit Bakery — The Experts"
 channel: Eater
 url: "https://www.youtube.com/watch?v=wX5KY-9KdcM"
 watched_date: "2026-11-23"
-watched_at: "2026-11-23T23:59:31Z"
+watched_at: "2026-11-23T23:59:12Z"
 watch_count: 1
 duration_seconds: 991
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 29
+history_label: Monday
+history_order: 48
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

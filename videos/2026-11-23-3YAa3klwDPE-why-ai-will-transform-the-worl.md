@@ -5,13 +5,13 @@ title: Why AI Will Transform the World by 2030
 channel: Versors
 url: "https://www.youtube.com/watch?v=3YAa3klwDPE"
 watched_date: "2026-11-23"
-watched_at: "2026-11-23T23:59:36Z"
+watched_at: "2026-11-23T23:59:17Z"
 watch_count: 1
 duration_seconds: 972
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 24
+history_label: Monday
+history_order: 43
 watched_at_precision: date-from-history-label
 watched_percent: 61
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

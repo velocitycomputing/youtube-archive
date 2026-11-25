@@ -5,13 +5,13 @@ title: 7 Things AI-Native Companies Do Differently
 channel: "The AI Daily Brief: Artificial Intelligence News"
 url: "https://www.youtube.com/watch?v=zXrty-ZAIUo"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:57:32Z"
+watched_at: "2026-11-17T23:57:16Z"
 watch_count: 1
 duration_seconds: 1329
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 17
-history_order: 148
+history_order: 164
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

@@ -5,13 +5,13 @@ title: "Talk to Yourself Like This and Your Life Will Change | Carl Jung"
 channel: Carl Jung Philosophy
 url: "https://www.youtube.com/watch?v=OgKXo0Bc8k8"
 watched_date: "2026-11-16"
-watched_at: "2026-11-16T23:56:58Z"
+watched_at: "2026-11-16T23:56:43Z"
 watch_count: 1
 duration_seconds: 2721
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 16
-history_order: 182
+history_order: 197
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: borderline
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: borderline
+status: new
+routed_to: null
 ---
 
 ## Summary

@@ -5,13 +5,13 @@ title: "Joscha Bach PUSHES Roman Yampolskiy: Only ASI Can Save Us!"
 channel: Dr Brian Keating
 url: "https://www.youtube.com/watch?v=ayW7SDyAjZo"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:57:33Z"
+watched_at: "2026-11-17T23:57:17Z"
 watch_count: 1
 duration_seconds: 4119
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 17
-history_order: 147
+history_order: 163
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

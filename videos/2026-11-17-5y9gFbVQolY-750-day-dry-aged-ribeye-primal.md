@@ -5,13 +5,13 @@ title: 750-day Dry Aged Ribeye Primal
 channel: Flannery Beef
 url: "https://www.youtube.com/watch?v=5y9gFbVQolY"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:57:50Z"
+watched_at: "2026-11-17T23:57:34Z"
 watch_count: 1
 duration_seconds: 870
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 17
-history_order: 130
+history_order: 146
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

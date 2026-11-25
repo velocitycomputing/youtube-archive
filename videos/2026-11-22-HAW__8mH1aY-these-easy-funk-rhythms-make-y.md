@@ -5,13 +5,13 @@ title: These Easy Funk Rhythms Make Your Playing Sound Instantly Better
 channel: Great Guitarists
 url: "https://www.youtube.com/watch?v=HAW__8mH1aY"
 watched_date: "2026-11-22"
-watched_at: "2026-11-22T23:59:13Z"
+watched_at: "2026-11-22T23:58:55Z"
 watch_count: 1
 duration_seconds: 708
 source: youtube-history-browser
 added_date: ""
 history_label: Sunday
-history_order: 47
+history_order: 65
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

@@ -5,13 +5,13 @@ title: I Tested The New Personal Aircraft Everyone Is Talking About
 channel: Jimmys World
 url: "https://www.youtube.com/watch?v=U3lEkAhCTWY"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:38Z"
+watched_at: "2026-11-24T23:59:19Z"
 watch_count: 1
 duration_seconds: 1761
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 22
+history_label: Yesterday
+history_order: 41
 watched_at_precision: date-from-history-label
 watched_percent: 85
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

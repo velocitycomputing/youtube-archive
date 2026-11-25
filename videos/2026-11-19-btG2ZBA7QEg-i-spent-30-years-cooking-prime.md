@@ -5,13 +5,13 @@ title: I Spent 30 Years Cooking Prime Rib Wrong Until I Tried This Method
 channel: Chef Billy Parisi
 url: "https://www.youtube.com/watch?v=btG2ZBA7QEg"
 watched_date: "2026-11-19"
-watched_at: "2026-11-19T23:58:13Z"
+watched_at: "2026-11-19T23:57:57Z"
 watch_count: 1
 duration_seconds: 806
 source: youtube-history-browser
 added_date: ""
 history_label: Thursday
-history_order: 107
+history_order: 123
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

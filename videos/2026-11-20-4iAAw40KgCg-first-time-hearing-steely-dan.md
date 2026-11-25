@@ -5,13 +5,13 @@ title: "First Time Hearing Steely Dan - Aja | Reaction!!"
 channel: Polo Music
 url: "https://www.youtube.com/watch?v=4iAAw40KgCg"
 watched_date: "2026-11-20"
-watched_at: "2026-11-20T23:58:19Z"
+watched_at: "2026-11-20T23:58:03Z"
 watch_count: 1
 duration_seconds: 686
 source: youtube-history-browser
 added_date: ""
 history_label: Friday
-history_order: 101
+history_order: 117
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

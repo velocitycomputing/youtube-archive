@@ -4,14 +4,14 @@ video_id: KoKpE5bSJLU
 title: The Biggest Wealth Shift in 82 Years Has Just Begun
 channel: SelfAdvisers
 url: "https://www.youtube.com/watch?v=KoKpE5bSJLU"
-watched_date: "2026-11-22"
-watched_at: "2026-11-22T23:59:04Z"
+watched_date: "2026-11-24"
+watched_at: "2026-11-24T23:59:44Z"
 watch_count: 1
 duration_seconds: 724
 source: youtube-history-browser
 added_date: ""
-history_label: Sunday
-history_order: 56
+history_label: Yesterday
+history_order: 16
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 72

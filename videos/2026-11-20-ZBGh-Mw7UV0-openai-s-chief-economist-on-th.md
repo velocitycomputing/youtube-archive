@@ -5,13 +5,13 @@ title: OpenAI’s chief economist on the jobs AI will actually create
 channel: Reid Hoffman
 url: "https://www.youtube.com/watch?v=ZBGh-Mw7UV0"
 watched_date: "2026-11-20"
-watched_at: "2026-11-20T23:58:27Z"
+watched_at: "2026-11-20T23:58:11Z"
 watch_count: 1
 duration_seconds: 4395
 source: youtube-history-browser
 added_date: ""
 history_label: Friday
-history_order: 93
+history_order: 109
 watched_at_precision: date-from-history-label
 watched_percent: 26
 estimated_watched_seconds: 1143
