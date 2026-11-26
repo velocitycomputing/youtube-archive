@@ -5,13 +5,13 @@ title: "The NYC Taco Truck Making $10.5 Million A Year | Small Business"
 channel: Insider Food
 url: "https://www.youtube.com/watch?v=7v9TuvkOX9U"
 watched_date: "2026-11-23"
-watched_at: "2026-11-23T23:59:30Z"
+watched_at: "2026-11-23T23:59:03Z"
 watch_count: 1
 duration_seconds: 777
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 30
+history_label: Monday
+history_order: 57
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

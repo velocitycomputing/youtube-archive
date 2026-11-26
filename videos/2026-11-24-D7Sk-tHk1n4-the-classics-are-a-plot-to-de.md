@@ -5,13 +5,13 @@ title: "\"The Classics\" Are a Plot to Destroy Western Culture"
 channel: The Second Story
 url: "https://www.youtube.com/watch?v=D7Sk-tHk1n4"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:50Z"
+watched_at: "2026-11-24T23:59:23Z"
 watch_count: 1
 duration_seconds: 4539
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 10
+history_label: Tuesday
+history_order: 37
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 454
