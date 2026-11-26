@@ -5,13 +5,13 @@ title: Palmer Luckey on War 2.0
 channel: New York Times Events
 url: "https://www.youtube.com/watch?v=QARxiqCkJF4"
 watched_date: "2026-11-19"
-watched_at: "2026-11-19T23:58:11Z"
+watched_at: "2026-11-19T23:57:47Z"
 watch_count: 1
 duration_seconds: 3079
 source: youtube-history-browser
 added_date: ""
-history_label: Thursday
-history_order: 109
+history_label: Nov 19
+history_order: 133
 watched_at_precision: date-from-history-label
 watched_percent: 69
 estimated_watched_seconds: 2125

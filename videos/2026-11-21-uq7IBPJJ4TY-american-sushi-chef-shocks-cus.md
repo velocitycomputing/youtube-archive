@@ -5,13 +5,13 @@ title: American Sushi Chef Shocks Customers With Fluent Japanese in Tokyo
 channel: Xiaomanyc 小马在纽约
 url: "https://www.youtube.com/watch?v=uq7IBPJJ4TY"
 watched_date: "2026-11-21"
-watched_at: "2026-11-21T23:58:50Z"
+watched_at: "2026-11-21T23:58:25Z"
 watch_count: 1
 duration_seconds: 709
 source: youtube-history-browser
 added_date: ""
 history_label: Saturday
-history_order: 70
+history_order: 95
 watched_at_precision: date-from-history-label
 watched_percent: 33
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

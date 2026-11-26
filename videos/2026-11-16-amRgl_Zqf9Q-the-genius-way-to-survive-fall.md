@@ -5,13 +5,13 @@ title: The Genius Way to Survive Falling Out of a Plane Without a Parachute
 channel: Fact Quickie
 url: "https://www.youtube.com/watch?v=amRgl_Zqf9Q"
 watched_date: "2026-11-16"
-watched_at: "2026-11-16T23:57:18Z"
+watched_at: "2026-11-16T23:56:54Z"
 watch_count: 1
 duration_seconds: 1018
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 16
-history_order: 162
+history_order: 186
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

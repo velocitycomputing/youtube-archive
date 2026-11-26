@@ -5,13 +5,13 @@ title: "Germany's NEW Photonic Chip JUST Made NVIDIA & AMD GPUs Look Like a JOKE
 channel: AI Andrew
 url: "https://www.youtube.com/watch?v=CJd37oe0quY"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:51Z"
+watched_at: "2026-11-24T23:59:24Z"
 watch_count: 1
 duration_seconds: 2533
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 9
+history_label: Tuesday
+history_order: 36
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

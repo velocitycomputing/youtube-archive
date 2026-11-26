@@ -5,13 +5,13 @@ title: At 84, Paul McCartney Reveal The 4 Greatest Guitarists He Ever Knew
 channel: Rock Legacy Spotlight
 url: "https://www.youtube.com/watch?v=-mhDT0QP9Z4"
 watched_date: "2026-11-19"
-watched_at: "2026-11-19T23:58:03Z"
+watched_at: "2026-11-19T23:57:39Z"
 watch_count: 1
 duration_seconds: 864
 source: youtube-history-browser
 added_date: ""
-history_label: Thursday
-history_order: 117
+history_label: Nov 19
+history_order: 141
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

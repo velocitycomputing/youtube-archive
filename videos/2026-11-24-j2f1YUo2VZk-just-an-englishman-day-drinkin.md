@@ -1,17 +1,17 @@
 ---
-record_id: "youtube:wX5KY-9KdcM"
-video_id: wX5KY-9KdcM
-title: "Behind the Scenes at Chicago's Newest Hit Bakery — The Experts"
-channel: Eater
-url: "https://www.youtube.com/watch?v=wX5KY-9KdcM"
-watched_date: "2026-11-23"
-watched_at: "2026-11-23T23:59:31Z"
+record_id: "youtube:j2f1YUo2VZk"
+video_id: j2f1YUo2VZk
+title: Just An Englishman Day Drinking In America’s Drunkest City 🇺🇸
+channel: Wendall
+url: "https://www.youtube.com/watch?v=j2f1YUo2VZk"
+watched_date: "2026-11-24"
+watched_at: "2026-11-24T23:59:43Z"
 watch_count: 1
-duration_seconds: 991
+duration_seconds: 2275
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 29
+history_label: Tuesday
+history_order: 17
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
@@ -27,14 +27,8 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
 status: new
 routed_to: null
-topic_concepts: []
-ournation_sections: []
-kev_confidence: null
-kev_calibrated: false
-assignment_status: "abstained"
 ---
 
 ## Summary
