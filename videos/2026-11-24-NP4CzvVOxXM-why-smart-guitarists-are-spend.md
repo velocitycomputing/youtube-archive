@@ -5,13 +5,13 @@ title: Why Smart Guitarists Are Spending LESS on Guitars and MORE on Amps (The B
 channel: One Tone
 url: "https://www.youtube.com/watch?v=NP4CzvVOxXM"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:22Z"
+watched_at: "2026-11-24T23:59:17Z"
 watch_count: 1
 duration_seconds: 1205
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 38
+history_order: 43
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

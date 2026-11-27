@@ -5,13 +5,13 @@ title: "The most horrifying novel I've read in years"
 channel: Travel Through Stories
 url: "https://www.youtube.com/watch?v=6FvnWi6afe4"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:25Z"
+watched_at: "2026-11-24T23:59:20Z"
 watch_count: 1
 duration_seconds: 1457
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 35
+history_order: 40
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

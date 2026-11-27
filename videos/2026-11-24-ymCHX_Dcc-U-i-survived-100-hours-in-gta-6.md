@@ -5,13 +5,13 @@ title: I Survived 100 Hours In GTA 6
 channel: MrBeast Gaming
 url: "https://www.youtube.com/watch?v=ymCHX_Dcc-U"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:19Z"
+watched_at: "2026-11-24T23:59:14Z"
 watch_count: 1
 duration_seconds: 1821
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 41
+history_order: 46
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

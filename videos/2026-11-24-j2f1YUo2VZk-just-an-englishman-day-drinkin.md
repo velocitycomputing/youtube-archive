@@ -5,13 +5,13 @@ title: Just An Englishman Day Drinking In America’s Drunkest City 🇺🇸
 channel: Wendall
 url: "https://www.youtube.com/watch?v=j2f1YUo2VZk"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:43Z"
+watched_at: "2026-11-24T23:59:38Z"
 watch_count: 1
 duration_seconds: 2275
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 17
+history_order: 22
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

@@ -5,13 +5,13 @@ title: President Trump News Conference
 channel: C-SPAN
 url: "https://www.youtube.com/watch?v=IidTrEpdcCQ"
 watched_date: "2026-11-20"
-watched_at: "2026-11-20T23:57:59Z"
+watched_at: "2026-11-20T23:57:54Z"
 watch_count: 1
 duration_seconds: 5350
 source: youtube-history-browser
 added_date: ""
-history_label: Friday
-history_order: 121
+history_label: Nov 20
+history_order: 126
 watched_at_precision: date-from-history-label
 watched_percent: 28
 estimated_watched_seconds: 1498

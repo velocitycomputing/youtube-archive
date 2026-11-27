@@ -5,13 +5,13 @@ title: How to ACTUALLY play like Jimi Hendrix
 channel: Music by Claytones
 url: "https://www.youtube.com/watch?v=P0_OV4AXZHc"
 watched_date: "2026-11-22"
-watched_at: "2026-11-22T23:58:39Z"
+watched_at: "2026-11-22T23:58:34Z"
 watch_count: 1
 duration_seconds: 617
 source: youtube-history-browser
 added_date: ""
 history_label: Sunday
-history_order: 81
+history_order: 86
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

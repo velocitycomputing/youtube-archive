@@ -5,13 +5,13 @@ title: "'Putin couldn't have imagined' how bad Ukrainian strikes would get for t
 channel: Frontline
 url: "https://www.youtube.com/watch?v=lQBN1DJ4dxQ"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:57:11Z"
+watched_at: "2026-11-17T23:57:06Z"
 watch_count: 1
 duration_seconds: 1187
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 17
-history_order: 169
+history_order: 174
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 119

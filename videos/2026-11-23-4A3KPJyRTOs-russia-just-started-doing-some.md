@@ -5,13 +5,13 @@ title: Russia Just Started Doing Something Nobody Ever Expected It Would
 channel: "Pyotr Kurzin | Geopolitics"
 url: "https://www.youtube.com/watch?v=4A3KPJyRTOs"
 watched_date: "2026-11-23"
-watched_at: "2026-11-23T23:58:57Z"
+watched_at: "2026-11-23T23:58:52Z"
 watch_count: 1
 duration_seconds: 1055
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 63
+history_order: 68
 watched_at_precision: date-from-history-label
 watched_percent: 78
 estimated_watched_seconds: 823

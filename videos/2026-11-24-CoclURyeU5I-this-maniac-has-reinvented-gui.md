@@ -5,13 +5,13 @@ title: This maniac has reinvented guitar playing
 channel: samuraiguitarist
 url: "https://www.youtube.com/watch?v=CoclURyeU5I"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:16Z"
+watched_at: "2026-11-24T23:59:11Z"
 watch_count: 1
 duration_seconds: 1199
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 44
+history_order: 49
 watched_at_precision: date-from-history-label
 watched_percent: 37
 estimated_watched_seconds: null

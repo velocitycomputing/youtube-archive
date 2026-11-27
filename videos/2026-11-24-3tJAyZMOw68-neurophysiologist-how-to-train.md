@@ -5,13 +5,13 @@ title: "Neurophysiologist: How to Train Your Brain to Be Disgustingly Sharp"
 channel: First Things THRST With Mike Thurston
 url: "https://www.youtube.com/watch?v=3tJAyZMOw68"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:26Z"
+watched_at: "2026-11-24T23:59:21Z"
 watch_count: 1
 duration_seconds: 5806
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 34
+history_order: 39
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 581

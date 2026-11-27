@@ -5,13 +5,13 @@ title: "Give Me 11 Minutes and You'll Never Feel Lost On The Fretboard Again"
 channel: Daniel Seriff
 url: "https://www.youtube.com/watch?v=pPeXYm89PLA"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:13Z"
+watched_at: "2026-11-24T23:59:08Z"
 watch_count: 1
 duration_seconds: 706
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 47
+history_order: 52
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

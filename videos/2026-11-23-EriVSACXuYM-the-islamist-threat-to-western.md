@@ -5,13 +5,13 @@ title: "The Islamist Threat to Western Democracy [Full Episode]"
 channel: Sam Harris
 url: "https://www.youtube.com/watch?v=EriVSACXuYM"
 watched_date: "2026-11-23"
-watched_at: "2026-11-23T23:58:59Z"
+watched_at: "2026-11-23T23:58:54Z"
 watch_count: 1
 duration_seconds: 6126
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 61
+history_order: 66
 watched_at_precision: date-from-history-label
 watched_percent: 16
 estimated_watched_seconds: 980
