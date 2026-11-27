@@ -5,13 +5,13 @@ title: "Brahman Does Not Exist. Soul Is a Superstition. | Acharya Prashant (Part
 channel: Closer To Truth
 url: "https://www.youtube.com/watch?v=MeYEBKX2u1g"
 watched_date: "2026-11-25"
-watched_at: "2026-11-25T23:59:56Z"
+watched_at: "2026-11-25T23:59:51Z"
 watch_count: 1
 duration_seconds: 7655
 source: youtube-history-browser
 added_date: ""
-history_label: Yesterday
-history_order: 4
+history_label: Wednesday
+history_order: 9
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

@@ -5,13 +5,13 @@ title: Did Artist Just Break the Tube Amp Market? (Artist TwoTone Review)
 channel: intheblues
 url: "https://www.youtube.com/watch?v=QxDm2N_BR-0"
 watched_date: "2026-11-18"
-watched_at: "2026-11-18T23:57:31Z"
+watched_at: "2026-11-18T23:57:26Z"
 watch_count: 1
 duration_seconds: 1106
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 18
-history_order: 149
+history_order: 154
 watched_at_precision: date-from-history-label
 watched_percent: 32
 estimated_watched_seconds: null

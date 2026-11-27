@@ -5,13 +5,13 @@ title: "Putin's got 3/4 million Russian soldiers killed (new analysis claims)"
 channel: Vlad Vexler Chat
 url: "https://www.youtube.com/watch?v=q0hIevYjJRM"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:38Z"
+watched_at: "2026-11-24T23:59:33Z"
 watch_count: 1
 duration_seconds: 1779
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 22
+history_order: 27
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 178

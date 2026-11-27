@@ -5,13 +5,13 @@ title: Las Vegas on Verge of Imploding
 channel: Front Page
 url: "https://www.youtube.com/watch?v=G1IoaYE7saI"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:57:06Z"
+watched_at: "2026-11-17T23:57:01Z"
 watch_count: 1
 duration_seconds: 1817
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 17
-history_order: 174
+history_order: 179
 watched_at_precision: date-from-history-label
 watched_percent: 32
 estimated_watched_seconds: null

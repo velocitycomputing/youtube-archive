@@ -5,13 +5,13 @@ title: My Night Routine in the Truck
 channel: Girl Truck Routine
 url: "https://www.youtube.com/watch?v=U6eSWClU-gQ"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:17Z"
+watched_at: "2026-11-24T23:59:12Z"
 watch_count: 1
 duration_seconds: 760
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 43
+history_order: 48
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: 7 Affordable Personal eVTOL Aircraft You Can Actually Buy in 2026
 channel: World Of Luxury
 url: "https://www.youtube.com/watch?v=FavAptU-724"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:12Z"
+watched_at: "2026-11-24T23:59:07Z"
 watch_count: 1
 duration_seconds: 629
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 48
+history_order: 53
 watched_at_precision: date-from-history-label
 watched_percent: 25
 estimated_watched_seconds: null

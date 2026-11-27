@@ -5,13 +5,13 @@ title: 10 Worst And 10 Best Guitar Amps You Can Buy
 channel: One Tone
 url: "https://www.youtube.com/watch?v=Z-VCOG5xV3w"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:45Z"
+watched_at: "2026-11-24T23:59:40Z"
 watch_count: 1
 duration_seconds: 1257
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 15
+history_order: 20
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

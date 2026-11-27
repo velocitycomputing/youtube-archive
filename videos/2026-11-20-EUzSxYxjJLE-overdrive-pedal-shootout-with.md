@@ -5,13 +5,13 @@ title: Overdrive Pedal Shootout with Dagan - Winner Stays On Edition!
 channel: Andertons Music Co
 url: "https://www.youtube.com/watch?v=EUzSxYxjJLE"
 watched_date: "2026-11-20"
-watched_at: "2026-11-20T23:58:08Z"
+watched_at: "2026-11-20T23:58:03Z"
 watch_count: 1
 duration_seconds: 2278
 source: youtube-history-browser
 added_date: ""
-history_label: Friday
-history_order: 112
+history_label: Nov 20
+history_order: 117
 watched_at_precision: date-from-history-label
 watched_percent: 32
 estimated_watched_seconds: null
