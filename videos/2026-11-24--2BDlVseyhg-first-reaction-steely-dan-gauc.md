@@ -5,13 +5,13 @@ title: "FIRST REACTION: Steely Dan - Gaucho"
 channel: Estefanie Morena
 url: "https://www.youtube.com/watch?v=-2BDlVseyhg"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:23Z"
+watched_at: "2026-11-24T23:58:59Z"
 watch_count: 1
 duration_seconds: 2744
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 37
+history_order: 61
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -5,13 +5,13 @@ title: "Sir Demis Hassabis on the AI Revolution, the Future of AI and Human Crea
 channel: Royal Society of Arts
 url: "https://www.youtube.com/watch?v=rDteJAuKiBI"
 watched_date: "2026-11-18"
-watched_at: "2026-11-18T23:57:23Z"
+watched_at: "2026-11-18T23:57:02Z"
 watch_count: 1
 duration_seconds: 3774
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 18
-history_order: 157
+history_order: 178
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

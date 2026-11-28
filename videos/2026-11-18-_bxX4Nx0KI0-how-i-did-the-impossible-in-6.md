@@ -5,13 +5,13 @@ title: "How I did the ''Impossible'' (in 6 Months) 💚 @ChloeTing"
 channel: My 6 Month Transformation Challenge
 url: "https://www.youtube.com/watch?v=_bxX4Nx0KI0"
 watched_date: "2026-11-18"
-watched_at: "2026-11-18T23:57:27Z"
+watched_at: "2026-11-18T23:57:06Z"
 watch_count: 1
 duration_seconds: 1815
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 18
-history_order: 153
+history_order: 174
 watched_at_precision: date-from-history-label
 watched_percent: 29
 estimated_watched_seconds: null

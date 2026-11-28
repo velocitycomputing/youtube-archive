@@ -1,17 +1,17 @@
 ---
-record_id: "youtube:pPeXYm89PLA"
-video_id: pPeXYm89PLA
-title: "Give Me 11 Minutes and You'll Never Feel Lost On The Fretboard Again"
-channel: Daniel Seriff
-url: "https://www.youtube.com/watch?v=pPeXYm89PLA"
-watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:08Z"
+record_id: "youtube:80MuZy8xEyA"
+video_id: 80MuZy8xEyA
+title: "Kushner hails Putin a \"grand master of politics\" (VLAD REACTS)"
+channel: Vlad Vexler Chat
+url: "https://www.youtube.com/watch?v=80MuZy8xEyA"
+watched_date: "2026-11-28"
+watched_at: "2026-11-28T23:59:55Z"
 watch_count: 1
-duration_seconds: 706
+duration_seconds: 1481
 source: youtube-history-browser
 added_date: ""
-history_label: Tuesday
-history_order: 52
+history_label: Today
+history_order: 5
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null
@@ -27,12 +27,6 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_concepts: []
-ournation_sections: []
-kev_confidence: null
-kev_calibrated: false
-assignment_status: "abstained"
-topic_domain: other
 status: new
 routed_to: null
 ---

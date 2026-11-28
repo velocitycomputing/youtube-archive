@@ -5,13 +5,13 @@ title: "Ukraine is Doing Something Putin Was Never Prepared For | Robert Pape"
 channel: "Pyotr Kurzin | Geopolitics"
 url: "https://www.youtube.com/watch?v=oFJPi_EkTT4"
 watched_date: "2026-11-27"
-watched_at: "2026-11-27T23:59:58Z"
+watched_at: "2026-11-27T23:59:34Z"
 watch_count: 1
 duration_seconds: 1705
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 2
+history_label: Yesterday
+history_order: 26
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 170

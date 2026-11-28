@@ -5,13 +5,13 @@ title: "What history says about the moment we're in | Eckhart Tolle"
 channel: Eckhart Tolle
 url: "https://www.youtube.com/watch?v=xOVCjHcKQ7U"
 watched_date: "2026-11-23"
-watched_at: "2026-11-23T23:59:02Z"
+watched_at: "2026-11-23T23:58:39Z"
 watch_count: 1
 duration_seconds: 1548
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 58
+history_order: 81
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

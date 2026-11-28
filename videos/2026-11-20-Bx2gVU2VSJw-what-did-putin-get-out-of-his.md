@@ -5,13 +5,13 @@ title: What did Putin get out of his summit with Trump and Xi?
 channel: Vlad Vexler Chat
 url: "https://www.youtube.com/watch?v=Bx2gVU2VSJw"
 watched_date: "2026-11-20"
-watched_at: "2026-11-20T23:57:56Z"
+watched_at: "2026-11-20T23:57:35Z"
 watch_count: 1
 duration_seconds: 661
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 20
-history_order: 124
+history_order: 145
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 66

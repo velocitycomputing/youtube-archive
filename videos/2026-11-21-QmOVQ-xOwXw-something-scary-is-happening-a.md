@@ -5,13 +5,13 @@ title: Something scary is happening at Google...
 channel: Alex Finn
 url: "https://www.youtube.com/watch?v=QmOVQ-xOwXw"
 watched_date: "2026-11-21"
-watched_at: "2026-11-21T23:58:21Z"
+watched_at: "2026-11-21T23:58:00Z"
 watch_count: 1
 duration_seconds: 1216
 source: youtube-history-browser
 added_date: ""
-history_label: Saturday
-history_order: 99
+history_label: Nov 21
+history_order: 120
 watched_at_precision: date-from-history-label
 watched_percent: 69
 estimated_watched_seconds: null

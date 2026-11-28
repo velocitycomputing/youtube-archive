@@ -5,13 +5,13 @@ title: Sam Harris NEVER Destroyed Islam Like He Did On The Young Turks!
 channel: Tal Oran - TheTravelingClatt
 url: "https://www.youtube.com/watch?v=V2SYi5plS4o"
 watched_date: "2026-11-20"
-watched_at: "2026-11-20T23:58:05Z"
+watched_at: "2026-11-20T23:57:44Z"
 watch_count: 1
 duration_seconds: 1388
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 20
-history_order: 115
+history_order: 136
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1388

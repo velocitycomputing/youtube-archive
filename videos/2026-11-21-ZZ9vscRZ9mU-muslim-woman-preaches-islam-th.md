@@ -5,13 +5,13 @@ title: "Muslim Woman \"Preaches Islam\", Then Starts PANICKING When Elon Musk As
 channel: Defending The Faith
 url: "https://www.youtube.com/watch?v=ZZ9vscRZ9mU"
 watched_date: "2026-11-21"
-watched_at: "2026-11-21T23:58:10Z"
+watched_at: "2026-11-21T23:57:49Z"
 watch_count: 1
 duration_seconds: 1639
 source: youtube-history-browser
 added_date: ""
-history_label: Saturday
-history_order: 110
+history_label: Nov 21
+history_order: 131
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

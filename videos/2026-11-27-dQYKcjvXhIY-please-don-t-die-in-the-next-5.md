@@ -5,13 +5,13 @@ title: "Please Don't Die In The Next 5 Years"
 channel: "There's An AI For That"
 url: "https://www.youtube.com/watch?v=dQYKcjvXhIY"
 watched_date: "2026-11-27"
-watched_at: "2026-11-27T23:59:59Z"
+watched_at: "2026-11-27T23:59:35Z"
 watch_count: 1
 duration_seconds: 1206
 source: youtube-history-browser
 added_date: ""
-history_label: Today
-history_order: 1
+history_label: Yesterday
+history_order: 25
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null
@@ -27,14 +27,14 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_domain: other
-status: new
-routed_to: null
 topic_concepts: []
 ournation_sections: []
 kev_confidence: null
 kev_calibrated: false
 assignment_status: "abstained"
+topic_domain: other
+status: new
+routed_to: null
 ---
 
 ## Summary

@@ -5,13 +5,13 @@ title: How Long It REALLY Takes to Learn a Song on Guitar
 channel: Guillaume (Will) Metz
 url: "https://www.youtube.com/watch?v=kPu3K92gElI"
 watched_date: "2026-11-25"
-watched_at: "2026-11-25T23:59:46Z"
+watched_at: "2026-11-25T23:59:22Z"
 watch_count: 1
 duration_seconds: 1370
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 14
+history_order: 38
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

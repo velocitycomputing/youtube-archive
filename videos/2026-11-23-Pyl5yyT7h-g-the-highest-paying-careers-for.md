@@ -5,13 +5,13 @@ title: The Highest-Paying Careers for The Next 2+ Years
 channel: Nick Saraev
 url: "https://www.youtube.com/watch?v=Pyl5yyT7h-g"
 watched_date: "2026-11-23"
-watched_at: "2026-11-23T23:59:05Z"
+watched_at: "2026-11-23T23:58:42Z"
 watch_count: 1
 duration_seconds: 2304
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 55
+history_order: 78
 watched_at_precision: date-from-history-label
 watched_percent: 38
 estimated_watched_seconds: 876

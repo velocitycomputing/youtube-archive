@@ -5,13 +5,13 @@ title: "A Midterm Wave: Ending the Two-Party System? || Peter Zeihan"
 channel: Zeihan on Geopolitics
 url: "https://www.youtube.com/watch?v=w4dWzibVLN8"
 watched_date: "2026-11-21"
-watched_at: "2026-11-21T23:58:24Z"
+watched_at: "2026-11-21T23:58:03Z"
 watch_count: 1
 duration_seconds: 617
 source: youtube-history-browser
 added_date: ""
-history_label: Saturday
-history_order: 96
+history_label: Nov 21
+history_order: 117
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 62

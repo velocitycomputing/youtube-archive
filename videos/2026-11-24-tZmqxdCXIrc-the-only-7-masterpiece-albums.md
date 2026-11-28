@@ -5,15 +5,15 @@ title: The Only 7 Masterpiece Albums Ever Made
 channel: Mic The Snare
 url: "https://www.youtube.com/watch?v=tZmqxdCXIrc"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:41Z"
+watched_at: "2026-11-24T23:59:17Z"
 watch_count: 1
 duration_seconds: 1305
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 19
+history_order: 43
 watched_at_precision: date-from-history-label
-watched_percent: 100
+watched_percent: 10
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8

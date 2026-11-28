@@ -5,13 +5,13 @@ title: "The real AI jobs crisis isn't what you think"
 channel: Econoclasts
 url: "https://www.youtube.com/watch?v=q_5BoKHHW5o"
 watched_date: "2026-11-23"
-watched_at: "2026-11-23T23:59:01Z"
+watched_at: "2026-11-23T23:58:38Z"
 watch_count: 1
 duration_seconds: 1312
 source: youtube-history-browser
 added_date: ""
 history_label: Monday
-history_order: 59
+history_order: 82
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: 1312
