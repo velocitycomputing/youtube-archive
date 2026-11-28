@@ -5,13 +5,13 @@ title: China Thought It FINALLY Caught Up With the U.S… Then the U.S. Military
 channel: The Military Show
 url: "https://www.youtube.com/watch?v=5O9dgMF7VG8"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:34Z"
+watched_at: "2026-11-24T23:59:10Z"
 watch_count: 1
 duration_seconds: 1099
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 26
+history_order: 50
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 110

@@ -5,13 +5,13 @@ title: Team Anthropic Released A New Way Of Using Claude Code
 channel: AI LABS
 url: "https://www.youtube.com/watch?v=EFGvVCpW9zc"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:57:13Z"
+watched_at: "2026-11-17T23:56:52Z"
 watch_count: 1
 duration_seconds: 962
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 17
-history_order: 167
+history_order: 188
 watched_at_precision: date-from-history-label
 watched_percent: 28
 estimated_watched_seconds: null

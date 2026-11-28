@@ -5,13 +5,13 @@ title: "If Society Collapses, Cities Become Unliveable In 48 Hours | Prof Lewis 
 channel: The Peter McCormack Show
 url: "https://www.youtube.com/watch?v=MYMSdN3fXrs"
 watched_date: "2026-11-22"
-watched_at: "2026-11-22T23:58:43Z"
+watched_at: "2026-11-22T23:58:22Z"
 watch_count: 1
 duration_seconds: 4865
 source: youtube-history-browser
 added_date: ""
 history_label: Sunday
-history_order: 77
+history_order: 98
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 486

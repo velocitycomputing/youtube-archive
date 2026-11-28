@@ -5,13 +5,13 @@ title: "Is Ukraine Winning? Anders Puck Nielsen on the Brutal Reality Facing Rus
 channel: Silicon Curtain
 url: "https://www.youtube.com/watch?v=8ZWY6NLyWrc"
 watched_date: "2026-11-25"
-watched_at: "2026-11-25T23:59:50Z"
+watched_at: "2026-11-25T23:59:26Z"
 watch_count: 1
 duration_seconds: 3391
 source: youtube-history-browser
 added_date: ""
 history_label: Wednesday
-history_order: 10
+history_order: 34
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: 339

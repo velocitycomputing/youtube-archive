@@ -5,13 +5,13 @@ title: The future with AI will be very different from what we’re being sold - 
 channel: Jon Hernández
 url: "https://www.youtube.com/watch?v=6wc3OuLUiOk"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:25Z"
+watched_at: "2026-11-24T23:59:01Z"
 watch_count: 1
 duration_seconds: 6140
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 35
+history_order: 59
 watched_at_precision: date-from-history-label
 watched_percent: 100
 estimated_watched_seconds: null

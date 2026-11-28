@@ -5,13 +5,13 @@ title: Why the Overeducated Elite Want to Burn It All Down - Victor Davis Hanson
 channel: Dad Saves America
 url: "https://www.youtube.com/watch?v=KiuNv5tssPg"
 watched_date: "2026-11-17"
-watched_at: "2026-11-17T23:57:11Z"
+watched_at: "2026-11-17T23:56:50Z"
 watch_count: 1
 duration_seconds: 1294
 source: youtube-history-browser
 added_date: ""
 history_label: Nov 17
-history_order: 169
+history_order: 190
 watched_at_precision: date-from-history-label
 watched_percent: 17
 estimated_watched_seconds: 220

@@ -5,13 +5,13 @@ title: Russia’s Baltic Sea Nightmare is Worse Than We Thought
 channel: Paul Warburg
 url: "https://www.youtube.com/watch?v=0k65sxvxEks"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:16Z"
+watched_at: "2026-11-24T23:58:52Z"
 watch_count: 1
 duration_seconds: 1282
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 44
+history_order: 68
 watched_at_precision: date-from-history-label
 watched_percent: 18
 estimated_watched_seconds: 231

@@ -5,13 +5,13 @@ title: "Why Stir Fry is Better in Restaurants (And How to Do It At Home) | Epicu
 channel: Epicurious
 url: "https://www.youtube.com/watch?v=1IETVrtbYbg"
 watched_date: "2026-11-24"
-watched_at: "2026-11-24T23:59:35Z"
+watched_at: "2026-11-24T23:59:11Z"
 watch_count: 1
 duration_seconds: 855
 source: youtube-history-browser
 added_date: ""
 history_label: Tuesday
-history_order: 25
+history_order: 49
 watched_at_precision: date-from-history-label
 watched_percent: 10
 estimated_watched_seconds: null

@@ -1,19 +1,19 @@
 ---
-record_id: "youtube:7v9TuvkOX9U"
-video_id: 7v9TuvkOX9U
-title: "The NYC Taco Truck Making $10.5 Million A Year | Small Business"
-channel: Insider Food
-url: "https://www.youtube.com/watch?v=7v9TuvkOX9U"
-watched_date: "2026-11-23"
-watched_at: "2026-11-23T23:58:58Z"
+record_id: "youtube:YpWgJrxkSTQ"
+video_id: YpWgJrxkSTQ
+title: Tech Job Postings Plunge 44% in Seattle as Economy Crashes - Tech Jobs are DEAD
+channel: Eli the Computer Guy
+url: "https://www.youtube.com/watch?v=YpWgJrxkSTQ"
+watched_date: "2026-11-28"
+watched_at: "2026-11-28T23:59:58Z"
 watch_count: 1
-duration_seconds: 777
+duration_seconds: 1567
 source: youtube-history-browser
 added_date: ""
-history_label: Monday
-history_order: 62
+history_label: Today
+history_order: 2
 watched_at_precision: date-from-history-label
-watched_percent: 10
+watched_percent: 11
 estimated_watched_seconds: null
 transcript_status: pending
 transcript_content_hash: 3b32d3453a672c23b274f3762e1dbd6e73d636f62136443fb5476a9fb727a0b8
@@ -27,12 +27,6 @@ summary_model: ""
 tagging_model: ""
 proposed_tags: []
 proposed_entities: []
-topic_concepts: []
-ournation_sections: []
-kev_confidence: null
-kev_calibrated: false
-assignment_status: "abstained"
-topic_domain: other
 status: new
 routed_to: null
 ---
